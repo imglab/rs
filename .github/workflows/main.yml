@@ -34,11 +34,11 @@ jobs:
       - name: Build
         run: |
           npm run build
-          touch ./dist/.nojekyll
+          touch ./build/.nojekyll
       
       # Push to your pages repo
       - name: Push to pages repo
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages
-          folder: dist
+          folder: build
