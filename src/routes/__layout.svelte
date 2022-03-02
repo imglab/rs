@@ -1,7 +1,7 @@
 <header class="navbar">
 	<section class="navbar-section">
 		<a href="/" class="navbar-brand mr-2">Réseaux sensibles</a>
-		<a href="/reseaux/reseau1" class="btn btn-link">Réseau 1</a>
+		<a href="/reseaux" class="btn btn-link">Réseaux</a>
 		<a href="/a-propos" class="btn btn-link">À Propos</a>
 	</section>
 </header>
