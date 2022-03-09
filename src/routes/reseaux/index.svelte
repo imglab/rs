@@ -11,20 +11,20 @@
 </script>
 
 <svelte:head>
-	<title>Réseau 2</title>
+	<title>Redes</title>
 </svelte:head>
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Accueil</a>
+		<a href="/">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux">Réseaux</a>
+		<a href="/reseaux">Redes</a>
 	</li>
 </ul>
 
-<h2>liste des réseaux</h2>
+<h2>Lista das Redes</h2>
 <ul>
-  <li><a href="/reseaux/reseau1">Réseau 1</a></li>
-  <li><a href="/reseaux/reseau2">Réseau 2</a></li>
+  <li><a href="/reseaux/reseau1">Artistas-tema - eRevista Performatus</a></li>
+  <li><a href="/reseaux/reseau2">Artistas-tema - Revista Desvio</a></li>
 </ul>

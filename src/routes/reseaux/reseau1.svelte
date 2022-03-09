@@ -11,23 +11,24 @@
 
 </script>
 <svelte:head>
-	<title>Réseau 2</title>
+	<title>Artistas-temas - eRevista Performatus</title>
 </svelte:head>
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Accueil</a>
+		<a href="/">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux">Réseaux</a>
+		<a href="/reseaux">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1">Réseau 1</a>
+		<a href="/reseaux/reseau1">Artistas-temas - Revista Desvio</a>
 	</li>
 </ul>
 
-<h1>Titre 2</h1>
-<p>lkeamlazlem</p>
+<h2>Artistas-temas - eRevista Performatus</h2>
+<p>Rede unimodal dos artistas-temas de 65 críticas publicadas pela eRevista Performatus até abril de 2019.</p>
+
 <div id="cy"/>
 
 <style>
