@@ -1,13 +1,13 @@
 <script>
 	import { onMount } from 'svelte';
-	import cytoscape from 'cytoscape';
-
-  onMount(() => {
-    var cy = cytoscape({
-  	container: document.createElement('cy') // container to render in
-	});
-});
-
+// 	import cytoscape from 'cytoscape';
+	
+//   onMount(
+// 		() => {
+// 		var cy = cytoscape({
+//   	container: document.getElementById('cy'), // container to render in
+// 		});
+// });
 
 </script>
 <svelte:head>
@@ -45,8 +45,8 @@ body{
 	padding:.2em 0}
 #cy{
   margin:auto;
-  width:100rem;
-  height:100rem;
-  background-color:white
+  width: 70%;
+  height: 70rem;
+  background-color:white;
 }
 </style>
