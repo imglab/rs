@@ -5,7 +5,7 @@
 <div class="hero bg-gray hero-lg">
 	<div class="hero-body">
 		<h1>Corpus Réseaux Sensibles</h1>
-		<p>Críticas de arte publicadas por Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019</p>
+		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019</p>
 	</div>
 </div>
 
