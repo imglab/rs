@@ -11,4 +11,9 @@
 	</li>
 </ul>
 
-<p>Este site reúne os dados do corpus de críticas de arte das revistas digitais Icônica, eRevista Performatus, Arte Contexto, Revista Desvio e o fermento publicadas até abril 2019. Esse corpus, criado em XML-TEI, faz parte da minha pesquisa de doutorado em História da Arte pela Université de Montréal "Les réseaux sensibles: une étude des revues d'art numériques au Brésil" (FRQSC), orientada pelo Professor Emmanuel Château-Dutier e coorientado pela Professora Christine Bernier.</p>
+<h2>Corpus Réseaux Sensibles</h2>
+<p>Este site reúne os dados do corpus de críticas de arte das revistas digitais <a href="https://www.iconica.com.br/">Icônica</a>, <a href="https://performatus.com.br/">eRevista Performatus</a>, <a href="https://artcontexto.com.br/">Arte Contexto</a>, <a href="https://revistadesvio.com/">Revista Desvio</a> e <a href="http://ofermentorevista.com.br/">o fermento</a> publicadas até abril 2019. Esse corpus, criado em XML-TEI, faz parte da pesquisa de doutorado "Les réseaux sensibles: une étude des revues d'art numériques au Brésil" (FRQSC) de <a href="https://histart.umontreal.ca/repertoire-departement/doctorants/doctorant/in/in30281/sg/Talitha%20Bueno%20Motter/">Talitha Motter</a> em <a href="https://histart.umontreal.ca/accueil/">História da Arte pela Université de Montréal</a>, orientada pelo Professor <a href="https://histart.umontreal.ca/repertoire-departement/professeurs/professeur/in/in22423/sg/Emmanuel%20Ch%C3%A2teau-Dutier/">Emmanuel Château-Dutier</a> e coorientada pela Professora <a href="https://histart.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15188/sg/Christine%20Bernier/">Christine Bernier</a>.</p>
+
+<h3>Créditos</h3>
+<p>Este site foi desenvolvido com Svelte, com o apoio técnico de Emmanuel Château-Dutier e <a href="https://github.com/WilliamDiakite">William Diakité</a>. As visualizações de rede utilizam Cytoscape.js.</p>
+
