@@ -2,7 +2,7 @@
   <title>Réseaux sensibles - Corpus</title>
 </svelte:head>
 
-<div class="hero bg-gray hero-lg">
+<div class="hero bg-gray hero-small">
 	<div class="hero-body">
 		<h1>Corpus Réseaux Sensibles</h1>
 		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019</p>
@@ -10,8 +10,9 @@
 </div>
 
 <p></p>
+
 <div>
-   <h2>Críticas de Arte</h2>
+   <h3>Críticas de Arte</h3>
    <ul>
 	  <li>Icônica: 73</li>
 	  <li>eRevista Performatus: 65</li>
@@ -23,7 +24,7 @@
    </ul>
 </div>
 <div>
-   <h2>Pessoas Citadas</h2>
+   <h3>Pessoas Citadas</h3>
    <ul>
 	  <li>Artistas: 1069</li>
 	  <li>Coletivos de Artistas: 78</li>
@@ -39,25 +40,19 @@
    </ul>
 </div>
 <div>
-   <h2>Obras e Séries de Obras Citadas
-	  
-   </h2>
+   <h3>Obras e Séries de Obras Citadas</h3>
    <ul>
 	  <li>Total de Obras e Séries de Obras: 944</li>
    </ul>
 </div>
 <div>
-   <h2>Exposições de Arte Citadas
-	  
-   </h2>
+   <h3>Exposições de Arte Citadas</h3>
    <ul>
 	  <li>Total de Exposições: 326</li>
    </ul>
 </div>
 <div>
-   <h2>Lugares de Exposição Citados
-	  
-   </h2>
+   <h3>Lugares de Exposição Citados</h3>
    <ul>
 	  <li>Total de Lugares: 218</li>
    </ul>
