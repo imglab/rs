@@ -2,8 +2,8 @@
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
-	import { networks }  from '$lib/networks'
-	import { styles }  from '$lib/styles'
+	import { networks }  from '$lib/performatus/networks'
+	import { styles }  from '$lib/performatus/styles'
 
 	console.log('networks', networks)
 	console.log('style', styles)
@@ -68,12 +68,12 @@ onMount(() => {
 <style>
 
 body{
-	background:rgb(199, 12, 12);
+	background:#fff;
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 	color:#555;font-weight:100
 }
 .browsehappy{margin:.2em 0;
-	background:#555;
+	background:#ccc;
 	color:#000;
 	padding:.2em 0}
 
@@ -81,6 +81,8 @@ body{
   margin:auto;
   width: 70%;
   height: 70rem;
+  background-color:#ccc
 }
+
 
 </style>
