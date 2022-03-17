@@ -9,12 +9,6 @@
 	</div>
 </div>
 
-<!--<ul class="breadcrumb">
-	<li class="Index">
-		<a href="/">Accueil</a>
-	</li>
-</ul>-->
-
 <p></p>
 <div>
    <h2>Críticas de Arte</h2>
@@ -70,4 +64,4 @@
 </div>
 <div><sub>2022-03-08T22:23:05.666-05:00</sub></div>
 
-   
+
