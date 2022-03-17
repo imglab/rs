@@ -4,13 +4,13 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Home</a>
+		<a href="/rs">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques">Críticas</a>
+		<a href="/rs/critiques">Críticas</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques/critiques_iconica">Críticas publicadas pela Icônica</a>
+		<a href="/rs/critiques/critiques_iconica">Críticas publicadas pela Icônica</a>
 	</li>
 </ul>
 

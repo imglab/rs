@@ -4,13 +4,13 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Home</a>
+		<a href="/rs">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques">Críticas</a>
+		<a href="/rs/critiques">Críticas</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques/critiques_performatus">Críticas publicadas pela eRevista Performatus</a>
+		<a href="/rs/critiques/critiques_performatus">Críticas publicadas pela eRevista Performatus</a>
 	</li>
 </ul>
 

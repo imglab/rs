@@ -4,15 +4,15 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Home</a>
+		<a href="/rs">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux">Redes</a>
+		<a href="/rs/reseaux">Redes</a>
 	</li>
 </ul>
 
 <h2>Lista das Redes</h2>
 <ul>
-  <li><a href="/reseaux/reseau1">Artistas-tema - eRevista Performatus</a></li>
-  <li><a href="/reseaux/reseau2">Artistas-tema - Revista Desvio</a></li>
+  <li><a href="/rs/reseaux/reseau1">Artistas-tema - eRevista Performatus</a></li>
+  <li><a href="/rs/reseaux/reseau2">Artistas-tema - Revista Desvio</a></li>
 </ul>

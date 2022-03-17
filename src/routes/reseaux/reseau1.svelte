@@ -50,13 +50,13 @@ onMount(() => {
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Home</a>
+		<a href="/rs">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux">Redes</a>
+		<a href="/rs/reseaux">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1">Artistas-temas - Revista Performatus</a>
+		<a href="/rs/reseaux/reseau1">Artistas-temas - Revista Performatus</a>
 	</li>
 </ul>
 
