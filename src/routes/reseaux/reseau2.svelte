@@ -10,7 +10,7 @@
 		<a href="/reseaux">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1">Artistas-temas - eRevista Performatus</a>
+		<a href="/reseaux/reseau2">Artistas-temas - Revista Desvio</a>
 	</li>
 </ul>
 

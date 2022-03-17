@@ -1,14 +1,3 @@
-<script>
-	import { onMount } from 'svelte';
-	import cytoscape from 'cytoscape';
-
-	onMount(() => {
-		var cy = cytoscape({
-			container: document.createElement('cy') // container to render in
-		});
-	});
-</script>
-
 <svelte:head>
 	<title>Redes</title>
 </svelte:head>

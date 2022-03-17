@@ -1,16 +1,50 @@
+
 <script>
 	import { onMount } from 'svelte';
-// 	import cytoscape from 'cytoscape';
-	
-//   onMount(
-// 		() => {
-// 		var cy = cytoscape({
-//   	container: document.getElementById('cy'), // container to render in
-// 		});
-// });
+	import cytoscape from 'cytoscape';
+	import { networks }  from '$lib/networks'
+	import { styles }  from '$lib/styles'
+
+	console.log('networks', networks)
+	console.log('style', styles)
+
+	// const network = [
+    // { data: { id: 'a' } },
+    // { data: { id: 'b' } },
+    // {
+    //   data: {
+    //     id: 'ab',
+    //     source: 'a',
+    //     target: 'b'
+    //   }
+    // }]
+onMount(() => {
+
+	// fetch('./test.json')
+	// 	.then(res => res.json())
+	// 	.then(data => console.log(data))
+		
+	var cy = cytoscape({
+			container: document.getElementById('cy'),
+			elements: networks["rsArtistTermAuthorByPublicationrePerformatus.xml_1"].elements,
+			style: styles[0].style,
+			layout: { name: 'preset', padding: 10 },
+			boxSelectionEnabled: !0,
+        ready: function() {
+            window.cy = this, 
+                    cy.load(network.elements), console.log(network);
+                    console.log(style);
+                    var o = e("default", style);
+                    null === o && (o = style), cy.style().fromJson(o.style).update()
+                
+        }
+			 // container to render in
+		});
+});
 
 </script>
 <svelte:head>
+	<!-- <script src="networks.json"/> -->
 	<title>Artistas-temas - eRevista Performatus</title>
 </svelte:head>
 
@@ -22,7 +56,7 @@
 		<a href="/reseaux">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1">Artistas-temas - Revista Desvio</a>
+		<a href="/reseaux/reseau1">Artistas-temas - Revista Performatus</a>
 	</li>
 </ul>
 
@@ -32,21 +66,21 @@
 <div id="cy"/>
 
 <style>
+
 body{
-	background:#000;
+	background:rgb(199, 12, 12);
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-	color:#555;
-	font-weight:100
+	color:#555;font-weight:100
 }
-.browsehappy{
-	margin:.2em 0;
-	background:#ccc;
+.browsehappy{margin:.2em 0;
+	background:#555;
 	color:#000;
 	padding:.2em 0}
+
 #cy{
   margin:auto;
   width: 70%;
   height: 70rem;
-  background-color:white;
 }
+
 </style>
