@@ -13,7 +13,7 @@ export let styles = [ {
       "text-opacity" : 1.0,
       "font-size" : 8,
       "border-width" : 1.0,
-      "font-family" : "SansSerif",
+      "font-family" : "Helvetica",
       "font-weight" : "normal",
       "border-opacity" : 1.0,
       "background-opacity" : 1.0,

@@ -79,9 +79,9 @@ body{
 
 #cy{
   margin:auto;
-  width: 70%;
-  height: 70rem;
-  background-color:#ccc
+  width: 100%;
+  height: 25rem;
+  background-color:#B0BEC5
 }
 
 
