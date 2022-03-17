@@ -26,7 +26,7 @@ onMount(() => {
 		
 	var cy = cytoscape({
 			container: document.getElementById('cy'),
-			elements: networks["rsArtistTermAuthorByPublicationrePerformatus.xml_1"].elements,
+			elements: networks["rsArtistTermAuthorByPublicationrePerformatus.xml"].elements,
 			style: styles[0].style,
 			layout: { name: 'preset', padding: 10 },
 			boxSelectionEnabled: !0,

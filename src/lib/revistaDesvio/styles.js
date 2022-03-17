@@ -2,7 +2,7 @@ export let styles = [ {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.9.1",
   "target_cytoscapejs_version" : "~2.1",
-  "title" : "PerformatusBirthCountry",
+  "title" : "DesvioBirthCountry",
   "style" : [ {
     "selector" : "node",
     "css" : {
@@ -237,7 +237,7 @@ export let styles = [ {
       "source-arrow-color" : "rgb(0,0,0)",
       "line-style" : "solid",
       "content" : "",
-      "line-color" : "rgb(255,255,255)",
+      "line-color" : "rgb(236,240,239)",
       "width" : 0.75,
       "target-arrow-color" : "rgb(0,0,0)"
     }
