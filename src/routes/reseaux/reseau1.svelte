@@ -1,12 +1,14 @@
-
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
-	import { networks }  from '$lib/performatus/networks'
-	import { styles }  from '$lib/performatus/styles'
+	// import { networks }  from '$lib/performatus/networks'
+	// import { styles }  from '$lib/performatus/styles'
 
-	console.log('networks', networks)
-	console.log('style', styles)
+	export let item;
+
+	// console.log('networks', networks)
+	// console.log('style', styles)
+	console.log('item', item)
 
 	// const network = [
     // { data: { id: 'a' } },
@@ -26,8 +28,8 @@ onMount(() => {
 		
 	var cy = cytoscape({
 			container: document.getElementById('cy'),
-			elements: networks["rsArtistTermAuthorByPublicationrePerformatus.xml"].elements,
-			style: styles[0].style,
+			elements: item.networks["rsArtistTermAuthorByPublicationrePerformatus.xml"].elements,
+			style: item.styles[0].style,
 			layout: { name: 'preset', padding: 10 },
 			boxSelectionEnabled: !0,
         ready: function() {
