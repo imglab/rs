@@ -4,13 +4,13 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/rs">Home</a>
+		<a href="/">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/rs/critiques">Críticas</a>
+		<a href="/critiques">Críticas</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/rs/critiques/critiques_ofermento">Críticas publicadas pela revista o fermento</a>
+		<a href="/critiques/critiques_ofermento">Críticas publicadas pela revista o fermento</a>
 	</li>
 </ul>
 

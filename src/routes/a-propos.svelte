@@ -4,10 +4,10 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/rs">Home</a>
+		<a href="/">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/rs/a-propos">Sobre</a>
+		<a href="/a-propos">Sobre</a>
 	</li>
 </ul>
 

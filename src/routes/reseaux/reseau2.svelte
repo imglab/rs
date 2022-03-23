@@ -34,13 +34,13 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/rs">Home</a>
+		<a href="/">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/rs/reseaux">Redes</a>
+		<a href="/reseaux">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/rs/reseaux/reseau2">Artistas-temas - Revista Desvio</a>
+		<a href="/reseaux/reseau2">Artistas-temas - Revista Desvio</a>
 	</li>
 </ul>
 
