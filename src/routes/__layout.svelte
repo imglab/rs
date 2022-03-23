@@ -1,6 +1,6 @@
 <header class="navbar">
 	<section class="navbar-section">
-		<a href="../" class="navbar-brand mr-2">Réseaux sensibles</a>
+		<a href="/" class="navbar-brand mr-2">Réseaux sensibles</a>
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 		<a href="/critiques" class="btn btn-link">Críticas de Arte</a>
 		<a href="/a-propos" class="btn btn-link">Sobre</a>
