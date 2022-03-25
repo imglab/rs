@@ -4,13 +4,13 @@
 
 <ul class="breadcrumb">
 	<li class="breadcrumb-item">
-		<a href="/">Home</a>
+		<a href="/" class="btn btn-link">Home</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques">Críticas</a>
+		<a href="/critiques" class="btn btn-link">Críticas</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/critiques/critiques_desvio">Críticas publicadas pela Revista Desvio</a>
+		<a href="/critiques/critiques_desvio" class="btn btn-link">Críticas publicadas pela Revista Desvio</a>
 	</li>
 </ul>
 
