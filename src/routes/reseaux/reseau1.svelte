@@ -82,7 +82,7 @@ body{
 #cy{
   margin:auto;
   width: 100%;
-  height: 25rem;
+  height: 30rem;
   background-color:#B0BEC5
 }
 
