@@ -13,7 +13,7 @@
 
 <div class="container">
 	<div class="columns">
-		<div class="column col-4">
+		<div class="column col-xl-4">
 				<h3>Críticas de Arte</h3>
 				<ul>
 					<li>Icônica: 73</li>
@@ -25,7 +25,7 @@
 	  				<li>Total de Autores: 111</li>
    				</ul>
 		</div>
-		<div class="column col-4">
+		<div class="column col-xl-4">
 				<h3>Pessoas</h3>
 				<ul>
 				   <li>Artistas: 1069</li>
@@ -35,7 +35,7 @@
 				   <li>Outros Coletivos: 2</li>
 				</ul>
 		</div>
-		<div class="column col-4">
+		<div class="column col-xl-4">
 				
    				<h3>Produções artísticas</h3>
    				<ul>
