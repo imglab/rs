@@ -24,6 +24,10 @@
 
 <footer class="footer">
 	<div class="content has-text-centered">
+
+    <a href="https://resensibles.hypotheses.org" class="btn btn-link"><i class="icon icon-2x icon-link"></i></a>
+    <a href="mailto:talitha.motter@gmail.com" class="btn btn-link"><i class="icon icon-2x icon-mail"></i></a>
+    <p></p>
 		<p>Réseaux Sensibles * Talitha Motter</p>
 	</div>
 </footer>

@@ -2,7 +2,7 @@
   <title>Réseaux sensibles - Corpus</title>
 </svelte:head>
 
-<div class="hero bg-secondary hero-sm">
+<div class="hero bg-primary hero-sm">
 	<div class="hero-body">
 		<h1>Corpus Réseaux Sensibles</h1>
 		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019</p>
