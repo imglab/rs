@@ -14,7 +14,7 @@
 <div class="container">
 	<div class="columns">
 		<div class="column col-xl-4">
-				<h3>Críticas de Arte</h3>
+				<h4>Críticas de Arte</h4>
 				<ul>
 					<li>Icônica: 73</li>
 	  				<li>eRevista Performatus: 65</li>
@@ -26,7 +26,7 @@
    				</ul>
 		</div>
 		<div class="column col-xl-4">
-				<h3>Pessoas</h3>
+				<h4>Pessoas</h4>
 				<ul>
 				   <li>Artistas: 1069</li>
 				   <li>Coletivos de Artistas: 78</li>
@@ -36,13 +36,14 @@
 				</ul>
 		</div>
 		<div class="column col-xl-4">
-				
-   				<h3>Produções artísticas</h3>
+		
+   				<h4>Produções artísticas</h4>
    				<ul>
 					<li>Total de Obras e Séries de Obras: 944</li>
 					<li>Total de Eventos Artísticos: 326</li>
    				</ul>
-   				<h3>Lugares de Exposição</h3>
+				<p></p>
+   				<h4>Lugares de Exposição</h4>
   				<ul>
 					<li>Total de Lugares: 218</li>
    				</ul>
