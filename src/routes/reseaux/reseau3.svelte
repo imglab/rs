@@ -2,8 +2,8 @@
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
-	import { networks }  from '$lib/revistaDesvio/networks'
-	import { styles }  from '$lib/revistaDesvio/styles'
+	import { networks }  from '$lib/arteContexto/networks'
+	import { styles }  from '$lib/arteContexto/styles'
 
 	console.log('networks', networks)
 	console.log('style', styles)
@@ -12,7 +12,7 @@
 		
 	var cy = cytoscape({
 			container: document.getElementById('cy'),
-			elements: networks["rsArtistTermAuthorByPublicationreRevistaDesvio.xml"].elements,
+			elements: networks["rsArtistTermAuthorByPublicationreArteContexto.xml"].elements,
 			style: styles[0].style,
 			layout: { name: 'preset', padding: 10 },
 			boxSelectionEnabled: !0,
@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-temas - Revista Desvio</title>
+	<title>Artistas-temas - Arte ConTexto</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,12 +41,12 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-temas - Revista Desvio</a>
+		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-temas - Arte ConTexto</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - Revista Desvio</h2>
-<p>Rede unimodal dos 237 artistas-temas das 97 críticas publicadas pela Revista Desvio até abril de 2019.</p>
+<h2>Artistas-temas - Arte ConTexto</h2>
+<p>Rede unimodal dos 69 artistas-temas das 42 críticas publicadas pela Arte ConTexto até abril de 2019.</p>
 <div id="cy"/>
 
 <style>

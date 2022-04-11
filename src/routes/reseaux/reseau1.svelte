@@ -1,3 +1,4 @@
+<!-- première façon d'ajouter le réseau -->
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
@@ -45,6 +46,7 @@ onMount(() => {
 });
 
 </script>
+
 <svelte:head>
 	<!-- <script src="networks.json"/> -->
 	<title>Artistas-temas - eRevista Performatus</title>
@@ -63,7 +65,7 @@ onMount(() => {
 </ul>
 
 <h2>Artistas-temas - eRevista Performatus</h2>
-<p>Rede unimodal dos artistas-temas de 65 críticas publicadas pela eRevista Performatus até abril de 2019.</p>
+<p>Rede unimodal dos 147 artistas-temas das 65 críticas publicadas pela eRevista Performatus até abril de 2019.</p>
 
 <div id="cy"/>
 

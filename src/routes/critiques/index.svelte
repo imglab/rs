@@ -21,7 +21,7 @@
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">
-			<h4>Acesse as listas de textos</h4>
+			<h4>Acesse as listas dos textos</h4>
 			<ul>
 				<li><a href="/critiques/critiques_iconica" class="btn btn-link">Críticas de Arte - Icônica</a></li>  
 				<li><a href="/critiques/critiques_performatus" class="btn btn-link">Críticas de Arte - eRevista Performatus</a></li>
