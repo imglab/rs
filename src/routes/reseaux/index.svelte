@@ -15,7 +15,8 @@
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">
-			<p>As redes unimodais aqui presentes foram criadas a partir dos artitas-temas das críticas de arte de cada uma das cinco revistas do corpus. Dois artistas são conectados entre si quando abordados por pelo menos um mesmo autor. Assim, uma crítica de arte que trata de uma exposição coletiva mencionando os artistas que exporam na mostra gera a conexão de seus nomes na rede, pois foram trabalhados por um mesmo autor. No caso de um autor que escreveu várias críticas, todos os seus artistas-temas são conectados entre si na rede.</p>
+			<p>As redes unimodais aqui presentes foram criadas a partir dos artitas-temas das críticas de arte de cada uma das cinco revistas do corpus. Dois artistas são conectados entre si quando abordados por pelo menos um mesmo autor. Assim, uma crítica de arte que trata de uma exposição coletiva gera a conexão dos nomes de artistas mencionados e que tiveram presentes na mostra, pois foram trabalhados por um mesmo autor. No caso de um autor que escreveu várias críticas, todos os seus artistas-temas são conectados entre si na rede.</p>
+			<p>As cores dos nós correspondem ao país de nascimento dos artistas-temas, em azul os artistas nascidos no Brasil e em cinza escuro aqueles sobre os quais não pude identificar essa informação.</p>
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">
