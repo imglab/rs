@@ -23,11 +23,11 @@
 		<div class="column col-5">
 			<h4>Acesse as listas dos textos</h4>
 			<ul>
-				<li><a href="/critiques/critiques_iconica" class="btn btn-link">Críticas de Arte - Icônica</a></li>  
-				<li><a href="/critiques/critiques_performatus" class="btn btn-link">Críticas de Arte - eRevista Performatus</a></li>
-				<li><a href="/critiques/critiques_arte_contexto" class="btn btn-link">Críticas de Arte - Arte ConTexto</a></li>
-				<li><a href="/critiques/critiques_desvio" class="btn btn-link">Críticas de Arte - Revista Desvio</a></li>
-				<li><a href="/critiques/critiques_ofermento" class="btn btn-link">Críticas de Arte - o fermento</a></li>
+				<li><a href="/critiques/critiques_iconica" class="btn btn-link">Icônica</a></li>  
+				<li><a href="/critiques/critiques_performatus" class="btn btn-link">eRevista Performatus</a></li>
+				<li><a href="/critiques/critiques_arte_contexto" class="btn btn-link">Arte ConTexto</a></li>
+				<li><a href="/critiques/critiques_desvio" class="btn btn-link">Revista Desvio</a></li>
+				<li><a href="/critiques/critiques_ofermento" class="btn btn-link">o fermento</a></li>
 			</ul>
 		</div>
 	</div>

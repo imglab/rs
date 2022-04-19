@@ -41,12 +41,15 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+	</li>
+	<li class="breadcrumb-item">
 		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-temas - Revista Desvio</a>
 	</li>
 </ul>
 
 <h2>Artistas-temas - Revista Desvio</h2>
-<p>Rede unimodal dos 237 artistas-temas das 97 críticas publicadas pela Revista Desvio até abril de 2019.</p>
+<p>Rede unimodal dos 237 artistas-temas das críticas publicadas pela Revista Desvio até abril de 2019.</p>
 <div id="cy"/>
 
 <style>
