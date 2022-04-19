@@ -1,6 +1,25 @@
+<script lang="ts" context="module">
+	
+	export const load = async ({ fetch }) => {
+		const res = await fetch('http://localhost:8984/corpus');
+		const data = await res.json();
+
+		return { props: { item: data } };
+	};
+</script>
+
+<script>
+	export let item
+	console.log(item)
+</script>
+
 <svelte:head>
   <title>Réseaux sensibles - Corpus</title>
 </svelte:head>
+
+<div>
+	<p>{item.index}</p>
+</div>
 
 <div class="hero bg-primary hero-sm">
 	<div class="hero-body">
