@@ -1,4 +1,4 @@
-<script lang="ts" context="module">
+<!-- <script lang="ts" context="module">
 	
 	export const load = async ({ fetch }) => {
 		const res = await fetch('http://localhost:8984/corpus');
@@ -19,7 +19,7 @@
 
 <div>
 	<p>{item.index}</p>
-</div>
+</div> -->
 
 <div class="hero bg-primary hero-sm">
 	<div class="hero-body">
