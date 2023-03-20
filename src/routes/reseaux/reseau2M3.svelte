@@ -49,7 +49,8 @@
 </ul>
 
 <h2>Autores e Artistas-temas - Arte ConTexto</h2>
-<p>Rede bimodal dos 69 artistas-temas das críticas publicadas pela Arte ConTexto até abril de 2019 com seus 31 autores.</p>
+<p>Rede bimodal dos 69 artistas-temas das críticas publicadas pela Arte ConTexto até abril de 2019 com seus 31 autores. Última atualização: 20/03/2023</p>
+
 <div id="cy"/>
 
 <style>
