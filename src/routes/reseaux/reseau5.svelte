@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-temas - o fermento</h2>
-<p>Rede unimodal dos 47 artistas-temas das críticas publicadas pela o fermento até abril de 2019.</p>
+<p>Rede unimodal dos 47 artistas-temas das críticas publicadas pela o fermento até abril de 2019. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>
