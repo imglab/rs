@@ -5,22 +5,22 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
   "data" : {
     "shared_name" : "rs2ModeArtistTermAuthorByPublicationreIconica.xml_1",
     "name" : "rs2ModeArtistTermAuthorByPublicationreIconica.xml_1",
-    "SUID" : 1829259,
+    "SUID" : 1823887,
     "__Annotations" : [ ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "1829752",
+        "id" : "1824383",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Brito, Orlando (1950-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829752,
+        "SUID" : 1824383,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -38,25 +38,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Brito, Orlando (1950-)",
         "personId" : "arOrlandoBrito",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -514.214000844974,
-        "y" : 328.47148554969635
+        "x" : -115.43580208998378,
+        "y" : 481.17267302920027
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829749",
+        "id" : "1824380",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Roteirista; Produtor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Anderson, Paul Thomas (1970-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
-        "birthCountry" : "Brasil",
-        "SUID" : 1829749,
+        "birthCountry" : "Estados Unidos",
+        "SUID" : 1824380,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -74,25 +75,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Anderson, Paul Thomas (1970-)",
         "personId" : "arPaulAnderson",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -928.1438912960305,
-        "y" : -182.05307281612977
+        "x" : -133.02886887887553,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829746",
+        "id" : "1824377",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 1,
         "shared_name" : "Ruetz, Michael (1940-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829746,
+        "SUID" : 1824377,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -110,25 +112,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ruetz, Michael (1940-)",
         "personId" : "arMichaelRuetz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -906.0376347761453,
-        "y" : 1698.1377771721
+        "x" : -964.6318675410198,
+        "y" : 1651.8589604537021
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829743",
+        "id" : "1824374",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Weerasethakul, Apichatpong (1970-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Tailândia",
-        "SUID" : 1829743,
+        "SUID" : 1824374,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -146,25 +149,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Weerasethakul, Apichatpong (1970-)",
         "personId" : "arApichatpongWeerasethakul",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -391.4492740587399,
-        "y" : -620.7516193387787
+        "x" : -194.41123227199273,
+        "y" : 385.5100409168333
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829740",
+        "id" : "1824371",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Diretor(a) de Filme; Ator/Atriz; Roteirista; Produtor(a); Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Candeias, Ozualdo (1918-2007)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829740,
+        "SUID" : 1824371,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -182,25 +186,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Candeias, Ozualdo (1918-2007)",
         "personId" : "arOzualdoCandeias",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1866.580041713712,
-        "y" : -764.3985318351388
+        "x" : 1543.571522363804,
+        "y" : -491.80733116870124
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829737",
+        "id" : "1824368",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Edinger, Claudio (1952-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829737,
+        "SUID" : 1824368,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -218,25 +223,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Edinger, Claudio (1952-)",
         "personId" : "arClaudioEdinger",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1653.9452975426425,
-        "y" : -641.6338050489046
+        "x" : 1453.7015049789688,
+        "y" : -827.2068021260052
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829734",
+        "id" : "1824365",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Tillmans, Wolfgang (1968-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829734,
+        "SUID" : 1824365,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -254,25 +260,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Tillmans, Wolfgang (1968-)",
         "personId" : "arWolfgangTillmans",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -268.6845472725055,
-        "y" : 115.83674137862681
+        "x" : -194.41123227199387,
+        "y" : -252.394191596376
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829731",
+        "id" : "1824362",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Roteirista; Ator/Atriz; Produtor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Wenders, Wim (1945-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829731,
+        "SUID" : 1824362,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -290,25 +297,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Wenders, Wim (1945-)",
         "personId" : "arWimWenders",
+        "countTexts" : 3,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 38.868926567407925,
-        "y" : 352.4061740960733
+        "x" : 125.24567562835955,
+        "y" : 417.2158563990881
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829728",
+        "id" : "1824359",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Aranda, Samuel (1979-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Espanha",
-        "SUID" : 1829728,
+        "SUID" : 1824359,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -326,25 +334,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Aranda, Samuel (1979-)",
         "personId" : "arSamuelAranda",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 246.4549584544684,
-        "y" : -252.45743898007686
+        "x" : -591.1930666224137,
+        "y" : -56.206802126005414
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829725",
+        "id" : "1824356",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Lopes, Carol",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829725,
+        "SUID" : 1824356,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -361,25 +370,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Lopes, Carol",
         "personId" : "arCarolLopes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1717.898910807267,
-        "y" : -1249.8622228279
+        "x" : 1727.7186125431554,
+        "y" : -810.7594474253058
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829722",
+        "id" : "1824353",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Kehl, João (1982-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829722,
+        "SUID" : 1824353,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -397,25 +407,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Kehl, João (1982-)",
         "personId" : "arJoaoKehl",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1936.075007839485,
-        "y" : -1123.8981944756074
+        "x" : 1789.1009759362728,
+        "y" : -704.442075339771
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829719",
+        "id" : "1824350",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Jacinto, Rafael",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829719,
+        "SUID" : 1824350,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -432,25 +443,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Jacinto, Rafael",
         "personId" : "arRafaelJacinto",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 2022.2394779013453,
-        "y" : -887.1632586213732
+        "x" : 1730.2898624146628,
+        "y" : -341.74311113324393
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829716",
+        "id" : "1824347",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Bergamo, Marlene (1965-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829716,
+        "SUID" : 1824347,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -468,25 +480,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Bergamo, Marlene (1965-)",
         "personId" : "arMarleneBergamo",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1936.0750078394854,
-        "y" : -650.4283227671394
+        "x" : 1482.189158970687,
+        "y" : -385.48995908316647
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829713",
+        "id" : "1824344",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Mascaro, Cristiano (1944-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829713,
+        "SUID" : 1824344,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -504,25 +517,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Mascaro, Cristiano (1944-)",
         "personId" : "arCristianoMascaro",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1531.1805707564085,
-        "y" : -674.5285144503034
+        "x" : 1320.2529255885706,
+        "y" : -578.4780469874777
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829710",
+        "id" : "1824341",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Castilho, João (1978-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829710,
+        "SUID" : 1824341,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -540,25 +554,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Castilho, João (1978-)",
         "personId" : "arJoaoCastilho",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1866.580041713712,
-        "y" : -1009.9279854076076
+        "x" : 1453.7015049789684,
+        "y" : -581.6773485535366
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829707",
+        "id" : "1824338",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Menis, María Victoria",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1829707,
+        "SUID" : 1824338,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -575,25 +590,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Menis, María Victoria",
         "personId" : "arMariaMenis",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -268.6845472725055,
-        "y" : 328.47148554969635
+        "x" : -96.42861215450216,
+        "y" : -170.1770111940059
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829704",
+        "id" : "1824335",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Sander, August (1876-1964)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829704,
+        "SUID" : 1824335,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -611,25 +627,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Sander, August (1876-1964)",
         "personId" : "arAugustSander",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -878.6360350486527,
-        "y" : 177.38274208165467
+        "x" : -754.2834410097614,
+        "y" : -418.8389118114685
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829701",
+        "id" : "1824332",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Bieber, Jodi (1967-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "África do Sul",
-        "SUID" : 1829701,
+        "SUID" : 1824332,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -647,25 +664,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Bieber, Jodi (1967-)",
         "personId" : "arJodiBieber",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -759.7434544174423,
-        "y" : 753.7409738918357
+        "x" : -442.51193571596866,
+        "y" : 429.25688886675584
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829698",
+        "id" : "1824329",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Rockwell, Norman (1894-1978)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829698,
+        "SUID" : 1824329,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -683,25 +701,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Rockwell, Norman (1894-1978)",
         "personId" : "arNormanRockwell",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1717.898910807267,
-        "y" : -524.4642944148461
+        "x" : 1604.953885756921,
+        "y" : -598.124703254236
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829695",
+        "id" : "1824326",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Cantor(a); Instrumentista",
         "Eccentricity" : 4,
         "shared_name" : "Milanés, Pablo (1943-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Cuba",
-        "SUID" : 1829695,
+        "SUID" : 1824326,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -719,25 +738,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Milanés, Pablo (1943-)",
         "personId" : "arPabloMilanes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -178.26510167415154,
-        "y" : -459.77768010259933
+        "x" : -378.5583224513442,
+        "y" : -670.0304360571765
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829692",
+        "id" : "1824323",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Compositor(a); Instrumentista",
         "Eccentricity" : 4,
         "shared_name" : "Eno, Brian (1948-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Reino Unido",
-        "SUID" : 1829692,
+        "SUID" : 1824323,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -755,25 +775,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Eno, Brian (1948-)",
         "personId" : "arBrianEno",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 172.628749299427,
-        "y" : 357.9016854263184
+        "x" : -915.2529396886341,
+        "y" : 364.4477388549867
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829689",
+        "id" : "1824320",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Padilha, José (1967-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829689,
+        "SUID" : 1824320,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -791,25 +812,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Padilha, José (1967-)",
         "personId" : "arJosePadilha",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -422.53893093091153,
-        "y" : 728.8725370774091
+        "x" : -648.8826609224876,
+        "y" : -484.53572037898493
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829686",
+        "id" : "1824317",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Roteirista",
         "Eccentricity" : 4,
         "shared_name" : "Assayas, Olivier (1955-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829686,
+        "SUID" : 1824317,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -827,25 +849,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Assayas, Olivier (1955-)",
         "personId" : "arOlivierAssayas",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -878.6360350486527,
-        "y" : 54.29074067559782
+        "x" : 125.24567562835637,
+        "y" : -284.1000070786349
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829683",
+        "id" : "1824314",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Junqueira, Flávia (1985-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829683,
+        "SUID" : 1824314,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -863,25 +886,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Junqueira, Flávia (1985-)",
         "personId" : "arFlaviaJunqueira",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1531.1805707564085,
-        "y" : -1099.7980027924427
+        "x" : 2034.6304295087407,
+        "y" : -704.442075339771
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829680",
+        "id" : "1824311",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Reisewitz, Caio (1967-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829680,
+        "SUID" : 1824311,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -899,25 +923,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Reisewitz, Caio (1967-)",
         "personId" : "arCaioReisewitz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1776.7100243288764,
-        "y" : -1099.7980027924427
+        "x" : 1948.4659594468808,
+        "y" : -467.70713948553725
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829677",
+        "id" : "1824308",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Restiffe, Mauro (1970-)",
         "TopologicalCoefficient" : 0.5147058823529411,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829677,
+        "SUID" : 1824308,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.035211267605634,
@@ -931,29 +956,30 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "birthDate" : 1970,
         "Stress" : 6160,
         "birthRegion" : "SP",
-        "BetweennessCentrality" : 0.06153231445410044,
+        "BetweennessCentrality" : 0.061532314454100435,
         "NumberOfUndirectedEdges" : 2,
         "name" : "Restiffe, Mauro (1970-)",
         "personId" : "arMauroRestiffe",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 71.0
       },
       "position" : {
-        "x" : 956.5965007230316,
-        "y" : -410.991167165294
+        "x" : 1031.3580378036836,
+        "y" : -429.2232104354064
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829674",
+        "id" : "1824305",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Farkas, Thomaz (1924-2011)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Hungria",
-        "SUID" : 1829674,
+        "SUID" : 1824305,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -971,25 +997,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Farkas, Thomaz (1924-2011)",
         "personId" : "arThomazFarkas",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1776.710024328877,
-        "y" : -674.5285144503036
+        "x" : 1543.571522363804,
+        "y" : -917.0768195108406
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829671",
+        "id" : "1824302",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Scheier, Peter (1908-1979)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Polônia",
-        "SUID" : 1829671,
+        "SUID" : 1824302,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1007,25 +1034,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Scheier, Peter (1908-1979)",
         "personId" : "arPeterScheier",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1715.3276609357595,
-        "y" : -780.8458865358384
+        "x" : 1878.9709933211075,
+        "y" : -827.2068021260054
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829668",
+        "id" : "1824299",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Gautherot, Marcel (1910-1996)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "França",
-        "SUID" : 1829668,
+        "SUID" : 1824299,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1043,25 +1071,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Gautherot, Marcel (1910-1996)",
         "personId" : "arMarcelGautherot",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1592.5629341495255,
-        "y" : -993.480630706908
+        "x" : 1878.9709933211075,
+        "y" : -581.6773485535366
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829665",
+        "id" : "1824296",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Gasparian, Gaspar (1899-1966)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829665,
+        "SUID" : 1824296,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1079,25 +1108,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Gasparian, Gaspar (1899-1966)",
         "personId" : "arGasparGasparian",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1776.710024328877,
-        "y" : -887.1632586213732
+        "x" : 1789.1009759362728,
+        "y" : -491.80733116870147
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829662",
+        "id" : "1824293",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Goldin, Nan (1953-)",
         "TopologicalCoefficient" : 0.5147058823529411,
         "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829662,
+        "SUID" : 1824293,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.035211267605634,
@@ -1111,29 +1141,30 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "birthDate" : 1953,
         "Stress" : 6160,
         "birthRegion" : "Distrito de Columbia",
-        "BetweennessCentrality" : 0.06153231445410044,
+        "BetweennessCentrality" : 0.061532314454100435,
         "NumberOfUndirectedEdges" : 2,
         "name" : "Goldin, Nan (1953-)",
         "personId" : "arNanGoldin",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 71.0
       },
       "position" : {
-        "x" : 848.9653856507352,
-        "y" : -631.6725112791296
+        "x" : 916.4098421374406,
+        "y" : -386.11763706056513
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829659",
+        "id" : "1824290",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Miceli, Alice (1980-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829659,
+        "SUID" : 1824290,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1151,25 +1182,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Miceli, Alice (1980-)",
         "personId" : "arAliceMiceli",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -66.75866302104168,
-        "y" : -405.08116067162405
+        "x" : -10.264142092641805,
+        "y" : -571.3463078529803
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829656",
+        "id" : "1824287",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Andrade, Jonathas de (1982-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829656,
+        "SUID" : 1824287,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1187,25 +1219,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Andrade, Jonathas de (1982-)",
         "personId" : "arJonathasAndrade",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -857.1929422048227,
-        "y" : -283.99108300869625
+        "x" : -317.175959058227,
+        "y" : -39.75944742530578
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829653",
+        "id" : "1824284",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Rio Branco, Miguel (1946-)",
         "TopologicalCoefficient" : 0.5147058823529411,
         "idnoEIC" : "EIC",
         "birthCountry" : "Espanha",
-        "SUID" : 1829653,
+        "SUID" : 1824284,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.035211267605634,
@@ -1219,29 +1252,30 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "birthDate" : 1946,
         "Stress" : 6160,
         "birthRegion" : "Ilhas Canárias",
-        "BetweennessCentrality" : 0.06153231445410044,
+        "BetweennessCentrality" : 0.061532314454100435,
         "NumberOfUndirectedEdges" : 2,
         "name" : "Rio Branco, Miguel (1946-)",
         "personId" : "arMiguelRioBranco",
+        "countTexts" : 3,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 71.0
       },
       "position" : {
-        "x" : 1013.121615243801,
-        "y" : -575.14739675836
+        "x" : 873.3042687625989,
+        "y" : -501.06583272680814
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829650",
+        "id" : "1824281",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
-        "shared_name" : "Costi, Rochelle (1961-)",
+        "shared_name" : "Costi, Rochelle (1961-2022)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829650,
+        "SUID" : 1824281,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1257,27 +1291,28 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "birthRegion" : "RS",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
-        "name" : "Costi, Rochelle (1961-)",
+        "name" : "Costi, Rochelle (1961-2022)",
         "personId" : "arRochelleCosti",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -848.024299108084,
-        "y" : -64.93409915593065
+        "x" : 185.51970090682016,
+        "y" : -175.5070193874683
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829647",
+        "id" : "1824278",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Veloso, Guy (1969-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829647,
+        "SUID" : 1824278,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1286,7 +1321,7 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "Degree" : 1,
         "PartnerOfMultiEdgedNodePairs" : 0,
         "ClusteringCoefficient" : 0.0,
-        "birthCity" : "Bélem",
+        "birthCity" : "Belém",
         "Radiality" : 0.9870038412291933,
         "birthDate" : 1969,
         "Stress" : 0,
@@ -1295,25 +1330,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Veloso, Guy (1969-)",
         "personId" : "arGuyVeloso",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -33.4827365342353,
-        "y" : -220.31621234794306
+        "x" : -53.867711413642155,
+        "y" : 587.4758267104773
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829644",
+        "id" : "1824275",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Braga, Luiz (1956-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829644,
+        "SUID" : 1824275,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1322,7 +1358,7 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "Degree" : 1,
         "PartnerOfMultiEdgedNodePairs" : 0,
         "ClusteringCoefficient" : 0.0,
-        "birthCity" : "Bélem",
+        "birthCity" : "Belém",
         "Radiality" : 0.9765044814340589,
         "birthDate" : 1956,
         "Stress" : 0,
@@ -1331,25 +1367,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Braga, Luiz (1956-)",
         "personId" : "arLuizBraga",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1899.4747511151113,
-        "y" : -887.1632586213732
+        "x" : 1420.80679557757,
+        "y" : -704.442075339771
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829641",
+        "id" : "1824272",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Wolfenson, Bob (1954-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829641,
+        "SUID" : 1824272,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1367,25 +1404,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Wolfenson, Bob (1954-)",
         "personId" : "arBobWolfenson",
+        "countTexts" : 3,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1441.310553371573,
-        "y" : -764.3985318351388
+        "x" : 1320.2529255885706,
+        "y" : -830.4061036920641
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829638",
+        "id" : "1824269",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Gomes, Marcelo (1963-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829638,
+        "SUID" : 1824269,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1403,25 +1441,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Gomes, Marcelo (1963-)",
         "personId" : "arMarceloGomes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -604.0840182298093,
-        "y" : 238.601468164861
+        "x" : -587.641036052234,
+        "y" : 510.88130819936714
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829635",
+        "id" : "1824266",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Aïnouz, Karim (1966-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829635,
+        "SUID" : 1824266,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1439,25 +1478,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Aïnouz, Karim (1966-)",
         "personId" : "arKarimAinouz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -391.4492740587398,
-        "y" : -129.69271219384154
+        "x" : -746.8525028100469,
+        "y" : 66.55792466022945
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829632",
+        "id" : "1824263",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Parreno, Philippe (1964-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argélia",
-        "SUID" : 1829632,
+        "SUID" : 1824263,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1475,25 +1515,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Parreno, Philippe (1964-)",
         "personId" : "arPhilippeParreno",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -391.44927405873966,
-        "y" : 361.36619495109517
+        "x" : -32.47499888987727,
+        "y" : -59.4061036920657
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829629",
+        "id" : "1824260",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Gordon, Douglas (1966-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Reino Unido",
-        "SUID" : 1829629,
+        "SUID" : 1824260,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1511,25 +1552,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Gordon, Douglas (1966-)",
         "personId" : "arDouglasGordon",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -1029.3535065719486,
-        "y" : 484.1309217373296
+        "x" : -562.7054126306955,
+        "y" : 385.5100409168333
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829626",
+        "id" : "1824257",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Stupakoff, Otto (1935-2009)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829626,
+        "SUID" : 1824257,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1547,25 +1589,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Stupakoff, Otto (1935-2009)",
         "personId" : "arOttoStupakoff",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1469.7982073632916,
-        "y" : -568.2111423647686
+        "x" : 1543.571522363804,
+        "y" : -704.4420753397708
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829623",
+        "id" : "1824254",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Saudková, Sára (1967-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "República Checa",
-        "SUID" : 1829623,
+        "SUID" : 1824254,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1583,25 +1626,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Saudková, Sára (1967-)",
         "personId" : "arSaraSaudkova",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -391.44927405873955,
-        "y" : 852.4251020960323
+        "x" : -255.79359566510982,
+        "y" : 279.19266883129853
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829620",
+        "id" : "1824251",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Saudek, Jan (1935-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "República Checa",
-        "SUID" : 1829620,
+        "SUID" : 1824251,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1619,25 +1663,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Saudek, Jan (1935-)",
         "personId" : "arJanSaudek",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -767.1743926171571,
-        "y" : -369.5600950930707
+        "x" : -255.79359566510982,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829617",
+        "id" : "1824248",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz",
         "Eccentricity" : 4,
         "shared_name" : "Smet, Laura (1983-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829617,
+        "SUID" : 1824248,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1655,25 +1700,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Smet, Laura (1983-)",
         "personId" : "arLauraSmet",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 31.454903866657787,
-        "y" : -329.0582011254571
+        "x" : 259.34591006186406,
+        "y" : -301.7362556984747
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829614",
+        "id" : "1824245",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz",
         "Eccentricity" : 4,
         "shared_name" : "Garrel, Louis (1983-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829614,
+        "SUID" : 1824245,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1691,25 +1737,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Garrel, Louis (1983-)",
         "personId" : "arLouisGarrel",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 112.35472402096389,
-        "y" : 466.49467311748595
+        "x" : -964.2315480912075,
+        "y" : 250.31408466872017
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829611",
+        "id" : "1824242",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Garrel, Philippe (1948-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829611,
+        "SUID" : 1824242,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1727,25 +1774,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Garrel, Philippe (1948-)",
         "personId" : "arPhilippeGarrel",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -545.3057222638374,
-        "y" : 710.0653564066988
+        "x" : -532.4147706564441,
+        "y" : -527.6706903678423
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829608",
+        "id" : "1824239",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Choque, Adriano",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829608,
+        "SUID" : 1824239,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1762,25 +1810,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Choque, Adriano",
         "personId" : "arAdrianoChoque",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -788.7242751781826,
-        "y" : -172.8004422480269
+        "x" : 222.70030563264731,
+        "y" : -57.003864445565796
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829605",
+        "id" : "1824236",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Guedes Augustaitiz, Rafael",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829605,
+        "SUID" : 1824236,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1797,25 +1846,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Guedes Augustaitiz, Rafael",
         "personId" : "arRafaelAugustaitiz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 38.868926567408835,
-        "y" : -120.73269133881786
+        "x" : -165.374150066752,
+        "y" : 642.1723461414538
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829602",
+        "id" : "1824233",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Ivson, Djan (1984-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829602,
+        "SUID" : 1824233,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1833,25 +1883,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ivson, Djan (1984-)",
         "personId" : "arDjanIvson",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -128.32675369737944,
-        "y" : 530.4514897475981
+        "x" : -775.8333235707876,
+        "y" : 355.1951082868818
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829599",
+        "id" : "1824230",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Ionesco, Irina (1930-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829599,
+        "SUID" : 1824230,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1869,25 +1920,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ionesco, Irina (1930-)",
         "personId" : "arIrinaIonesco",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -759.7434544174425,
-        "y" : 115.83674137862727
+        "x" : -470.5735860111904,
+        "y" : -415.8029791850058
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829596",
+        "id" : "1824227",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Bisilliat, Maureen (1931-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Reino Unido",
-        "SUID" : 1829596,
+        "SUID" : 1824227,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -1905,25 +1957,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Bisilliat, Maureen (1931-)",
         "personId" : "arMaureenBisilliat",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1469.798207363291,
-        "y" : -1206.1153748779773
+        "x" : 1727.7186125431554,
+        "y" : -598.1247032542362
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829593",
+        "id" : "1824224",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Salgado, Sebastião (1944-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829593,
+        "SUID" : 1824224,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1941,25 +1994,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Salgado, Sebastião (1944-)",
         "personId" : "arSebastiaoSalgado",
+        "countTexts" : 3,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -600.5319876596296,
-        "y" : 560.160124917765
+        "x" : -648.8826609224857,
+        "y" : 617.6515696994438
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829590",
+        "id" : "1824221",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Roteirista",
         "Eccentricity" : 4,
         "shared_name" : "Campanella, Juan Jose (1959-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1829590,
+        "SUID" : 1824221,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -1977,25 +2031,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Campanella, Juan Jose (1959-)",
         "personId" : "arJuanCampanella",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -268.6845472725057,
-        "y" : -96.79800279244273
+        "x" : -724.6416460128116,
+        "y" : -59.40610369206365
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829587",
+        "id" : "1824218",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Rennó, Rosângela (1962-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829587,
+        "SUID" : 1824218,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2013,25 +2068,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Rennó, Rosângela (1962-)",
         "personId" : "arRosangelaRenno",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -33.482736534236665,
-        "y" : 451.98969510519805
+        "x" : -844.3019905974261,
+        "y" : 466.38574904755296
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829584",
+        "id" : "1824215",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Calle, Sophie",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "França",
-        "SUID" : 1829584,
+        "SUID" : 1824215,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2048,25 +2104,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Calle, Sophie",
         "personId" : "arSophieCalle",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -207.30218387938953,
-        "y" : -203.11537487797818
+        "x" : 97.07306613147034,
+        "y" : -55.563459548940045
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829581",
+        "id" : "1824212",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Roteirista; Produtor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Ribeiro Salgado, Juliano (1974-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829581,
+        "SUID" : 1824212,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2084,25 +2141,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ribeiro Salgado, Juliano (1974-)",
         "personId" : "arJulianoSalgado",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -848.0242991080845,
-        "y" : 296.60758191318337
+        "x" : -844.301990597427,
+        "y" : -333.26989972709407
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829578",
+        "id" : "1824209",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Matta-Clark, Gordon (1943-1978)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829578,
+        "SUID" : 1824209,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2120,25 +2178,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Matta-Clark, Gordon (1943-1978)",
         "personId" : "arGordonMattaClark",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -330.0669106656227,
-        "y" : 222.15411346416158
+        "x" : -10.26414209264135,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829575",
+        "id" : "1824206",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Cameron, James (1954-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Canadá",
-        "SUID" : 1829575,
+        "SUID" : 1824206,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2156,25 +2215,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Cameron, James (1954-)",
         "personId" : "arJamesCameron",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -1128.0376347761453,
-        "y" : 115.83674137862658
+        "x" : -501.3230492375783,
+        "y" : 279.19266883129853
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829572",
+        "id" : "1824203",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Professor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Aquino, Lívia (1971-)",
         "TopologicalCoefficient" : 0.5,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829572,
+        "SUID" : 1824203,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3732394366197185,
@@ -2192,25 +2252,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 2,
         "name" : "Aquino, Lívia (1971-)",
         "personId" : "arLiviaAquino",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 57.0
       },
       "position" : {
-        "x" : -815.4492740587398,
-        "y" : 1215.3367413786268
+        "x" : -966.0583224513441,
+        "y" : 1166.057924660229
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829569",
+        "id" : "1824200",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
-        "shared_name" : "Figueiroa, Pio",
+        "shared_name" : "Figueiroa, Pio (1974-)",
         "TopologicalCoefficient" : 0.5147058823529411,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829569,
+        "SUID" : 1824200,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.035211267605634,
@@ -2221,31 +2282,33 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "ClusteringCoefficient" : 0.0,
         "birthCity" : "Recife",
         "Radiality" : 0.9905889884763124,
+        "birthDate" : 1974,
         "Stress" : 6160,
         "birthRegion" : "PE",
-        "BetweennessCentrality" : 0.06153231445410044,
+        "BetweennessCentrality" : 0.061532314454100435,
         "NumberOfUndirectedEdges" : 2,
-        "name" : "Figueiroa, Pio",
+        "name" : "Figueiroa, Pio (1974-)",
         "personId" : "arPioFigueiroa",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 71.0
       },
       "position" : {
-        "x" : 902.7809431868832,
-        "y" : -521.3318392222118
+        "x" : 801.4616464711971,
+        "y" : -343.0120636857239
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829566",
+        "id" : "1824197",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Professor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Tacca, Fernando (1954-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829566,
+        "SUID" : 1824197,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2263,25 +2326,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Tacca, Fernando (1954-)",
         "personId" : "arFernandoTacca",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -977.1224996986032,
-        "y" : 299.592901387118
+        "x" : -501.3230492375783,
+        "y" : -146.07681951084078
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829563",
+        "id" : "1824194",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Evans, Walker (1903-1975)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829563,
+        "SUID" : 1824194,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -2299,25 +2363,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Evans, Walker (1903-1975)",
         "personId" : "arWalkerEvans",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1307.8619739811752,
-        "y" : -761.1992302690799
+        "x" : 1604.953885756921,
+        "y" : -810.7594474253058
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829560",
+        "id" : "1824191",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Capa, Robert (1913-1954)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Hungria",
-        "SUID" : 1829560,
+        "SUID" : 1824191,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2335,25 +2400,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Capa, Robert (1913-1954)",
         "personId" : "arRobertCapa",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 222.37435987243134,
-        "y" : 115.83674137862681
+        "x" : -1016.4625549645527,
+        "y" : -301.7362556984742
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829557",
+        "id" : "1824188",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Kertész, André (1894-1985)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Hungria",
-        "SUID" : 1829557,
+        "SUID" : 1824188,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -2371,25 +2437,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Kertész, André (1894-1985)",
         "personId" : "arAndreKertesz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1531.1805707564085,
-        "y" : -887.163258621373
+        "x" : 1789.1009759362719,
+        "y" : -917.0768195108406
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829554",
+        "id" : "1824185",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Doisneau, Robert (1912-1994)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "França",
-        "SUID" : 1829554,
+        "SUID" : 1824185,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2407,25 +2474,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Doisneau, Robert (1912-1994)",
         "personId" : "arRobertDoisneau",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -928.1438912960298,
-        "y" : 413.72655557338453
+        "x" : -378.558322451344,
+        "y" : 312.08737823269735
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829551",
+        "id" : "1824182",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Ovídio, Lara (1985-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829551,
+        "SUID" : 1824182,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2443,25 +2511,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ovídio, Lara (1985-)",
         "personId" : "arLaraOvidio",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -661.7736125298813,
-        "y" : 666.9303864178416
+        "x" : -989.2326258224027,
+        "y" : 128.65743170127394
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829548",
+        "id" : "1824179",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Andrade, Mariana",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829548,
+        "SUID" : 1824179,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2478,25 +2547,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Andrade, Mariana",
         "personId" : "arMarianaAndrade",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -704.462001852696,
-        "y" : -262.5306495595544
+        "x" : -409.64797932351894,
+        "y" : -546.4778710385531
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829545",
+        "id" : "1824176",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Professor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Rampazzo, Karina",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829545,
+        "SUID" : 1824176,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2513,25 +2583,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Rampazzo, Karina",
         "personId" : "arKarinaRampazzo",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 84.18211452407468,
-        "y" : -6.284642830542225
+        "x" : 235.265311479827,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829542",
+        "id" : "1824173",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Santos, Júlio (1944-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829542,
+        "SUID" : 1824173,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2549,25 +2620,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Santos, Júlio (1944-)",
         "personId" : "arMestreSantos",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -239.7037265117649,
-        "y" : 582.8615149035959
+        "x" : -285.6083737853637,
+        "y" : 673.3031435251658
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829539",
+        "id" : "1824170",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Almeida, Cyro (1984-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829539,
+        "SUID" : 1824170,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2585,25 +2657,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Almeida, Cyro (1984-)",
         "personId" : "arCyroAlmeida",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -737.5325976202073,
-        "y" : -10.127286973665832
+        "x" : -835.1333475006888,
+        "y" : 247.32876519478555
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829536",
+        "id" : "1824167",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
-        "shared_name" : "Tavares, Claudia",
+        "shared_name" : "Tavares, Claudia (1967-)",
         "TopologicalCoefficient" : 0.0,
-        "idnoEIC" : "NA",
+        "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829536,
+        "SUID" : 1824167,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2614,31 +2687,33 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "ClusteringCoefficient" : 0.0,
         "birthCity" : "Rio de Janeiro",
         "Radiality" : 0.9870038412291933,
+        "birthDate" : 1967,
         "Stress" : 0,
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
-        "name" : "Tavares, Claudia",
+        "name" : "Tavares, Claudia (1967-)",
         "personId" : "arClaudiaTavares",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 112.3547240209607,
-        "y" : -234.8211903602371
+        "x" : -746.8525028100466,
+        "y" : 704.4621571734378
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829533",
+        "id" : "1824164",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Arriaga, Fabrício",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829533,
+        "SUID" : 1824164,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2655,25 +2730,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Arriaga, Fabrício",
         "personId" : "arFabricioArriaga",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -109.31956376189783,
-        "y" : -120.89819447560785
+        "x" : -347.72447855221515,
+        "y" : -423.5319899031947
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829530",
+        "id" : "1824161",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Professor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Medeiros, Wendel (1977-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829530,
+        "SUID" : 1824161,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2691,25 +2767,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Medeiros, Wendel (1977-)",
         "personId" : "arWendelMedeiros",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -207.3021838793884,
-        "y" : 434.7888576352311
+        "x" : 112.50058469359283,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829527",
+        "id" : "1824158",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Sfoggia, Samy (1984-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829527,
+        "SUID" : 1824158,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2727,25 +2804,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Sfoggia, Samy (1984-)",
         "personId" : "arSamySfoggia",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 31.454903866661425,
-        "y" : 560.7316838827073
+        "x" : 358.0300382660614,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829524",
+        "id" : "1824155",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Guimarães, Cao (1965-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829524,
+        "SUID" : 1824155,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2763,25 +2841,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Guimarães, Cao (1965-)",
         "personId" : "arCaoGuimaraes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -23.15509370003747,
-        "y" : -522.0674911345825
+        "x" : -314.6047091867197,
+        "y" : 429.25688886675584
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829521",
+        "id" : "1824152",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Compositor(a); Cantor(a); Escritor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Buarque, Chico (1944-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829521,
+        "SUID" : 1824152,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2799,25 +2878,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Buarque, Chico (1944-)",
         "personId" : "arChicoBuarque",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -128.32675369737808,
-        "y" : -298.77800699034356
+        "x" : 44.34585547405709,
+        "y" : 511.4528671643095
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829518",
+        "id" : "1824149",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Escritor(a); Ator/Atriz",
         "Eccentricity" : 4,
         "shared_name" : "Allen, Woody",
         "TopologicalCoefficient" : 0.0,
-        "idnoEIC" : "NA",
+        "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829518,
+        "SUID" : 1824149,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2834,25 +2914,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Allen, Woody",
         "personId" : "arWoodyAllen",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -452.83163745185686,
-        "y" : 222.15411346416158
+        "x" : -660.6880327481874,
+        "y" : -170.17701119400408
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829515",
+        "id" : "1824146",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Jaar, Alfredo (1956-)",
         "TopologicalCoefficient" : 0.0,
-        "idnoEIC" : "NA",
+        "idnoEIC" : "EIC",
         "birthCountry" : "Chile",
-        "SUID" : 1829515,
+        "SUID" : 1824146,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2870,25 +2951,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Jaar, Alfredo (1956-)",
         "personId" : "arAlfredoJaar",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -737.5325976202071,
-        "y" : 241.80076973092036
+        "x" : -587.6410360522332,
+        "y" : -377.7654588789096
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829512",
+        "id" : "1824143",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Godard, Jean-Luc (1930-)",
         "TopologicalCoefficient" : 0.0,
-        "idnoEIC" : "NA",
+        "idnoEIC" : "EIC",
         "birthCountry" : "França",
-        "SUID" : 1829512,
+        "SUID" : 1824143,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -2906,25 +2988,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Godard, Jean-Luc (1930-)",
         "personId" : "arJeanGodard",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -23.155093700037014,
-        "y" : 753.7409738918357
+        "x" : -165.92357828027457,
+        "y" : 189.32265144646317
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829509",
+        "id" : "1824140",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Andujar, Claudia (1931-)",
         "TopologicalCoefficient" : 0.5147058823529411,
         "idnoEIC" : "EIC",
         "birthCountry" : "Suíça",
-        "SUID" : 1829509,
+        "SUID" : 1824140,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.035211267605634,
@@ -2938,29 +3021,30 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "birthDate" : 1931,
         "Stress" : 6160,
         "birthRegion" : "NA",
-        "BetweennessCentrality" : 0.06153231445410044,
+        "BetweennessCentrality" : 0.061532314454100435,
         "NumberOfUndirectedEdges" : 2,
         "name" : "Andujar, Claudia (1931-)",
         "personId" : "arClaudiaAndujar",
+        "countTexts" : 2,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 71.0
       },
       "position" : {
-        "x" : 792.4402711299658,
-        "y" : -467.5162816860635
+        "x" : 959.5154155122814,
+        "y" : -271.1694413943219
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829506",
+        "id" : "1824137",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Santana, Tiago (1966-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829506,
+        "SUID" : 1824137,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -2978,25 +3062,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Santana, Tiago (1966-)",
         "personId" : "arTiagoSantana",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1441.310553371573,
-        "y" : -1009.9279854076074
+        "x" : 1948.4659594468808,
+        "y" : -941.1770111940052
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829503",
+        "id" : "1824134",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Warhol, Andy (1928-1987)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829503,
+        "SUID" : 1824134,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -3014,25 +3099,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Warhol, Andy (1928-1987)",
         "personId" : "arAndyWarhol",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1715.3276609357595,
-        "y" : -993.480630706908
+        "x" : 1911.8657027225067,
+        "y" : -704.442075339771
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829500",
+        "id" : "1824131",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Braga, Rodrigo (1976-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829500,
+        "SUID" : 1824131,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3050,25 +3136,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Braga, Rodrigo (1976-)",
         "personId" : "arRodrigoBraga",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -673.5789843555826,
-        "y" : 352.57167723286057
+        "x" : -691.5710502453004,
+        "y" : -311.8094662779522
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829497",
+        "id" : "1824128",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Musa, João Luiz (1951-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829497,
+        "SUID" : 1824128,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -3086,25 +3173,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Musa, João Luiz (1951-)",
         "personId" : "arJoaoMusa",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1653.9452975426425,
-        "y" : -1132.6927121938415
+        "x" : 1730.2898624146624,
+        "y" : -1067.1410395462979
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829494",
+        "id" : "1824125",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Jaguaribe, Claudia (1955-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829494,
+        "SUID" : 1824125,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -3122,25 +3210,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Jaguaribe, Claudia (1955-)",
         "personId" : "arClaudiaJaguaribe",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1408.4158439701741,
-        "y" : -887.1632586213732
+        "x" : 1482.189158970687,
+        "y" : -1023.3941915963751
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829491",
+        "id" : "1824122",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Eijkelboom, Hans (1949-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Países Baixos",
-        "SUID" : 1829491,
+        "SUID" : 1824122,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3158,25 +3247,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Eijkelboom, Hans (1949-)",
         "personId" : "arHansEijkelboom",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -239.70372651176342,
-        "y" : -351.1880321463416
+        "x" : 44.34585547405345,
+        "y" : -378.33701784385494
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829488",
+        "id" : "1824119",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz; Cantor(a); Produtor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Phoenix, Joaquin (1974-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829488,
+        "SUID" : 1824119,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3194,25 +3284,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Phoenix, Joaquin (1974-)",
         "personId" : "arJoaquinPhoenix",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -298.4993253927629,
-        "y" : -490.90847748631063
+        "x" : -439.9406858444613,
+        "y" : -39.75944742530578
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829485",
+        "id" : "1824116",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz; Diretor(a) de Filme",
         "Eccentricity" : 4,
         "shared_name" : "Seymour Hoffman, Philip (1967-2014)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829485,
+        "SUID" : 1824116,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3230,25 +3321,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Seymour Hoffman, Philip (1967-2014)",
         "personId" : "arPhilipHoffman",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 209.80935402525301,
-        "y" : 239.398530484415
+        "x" : -746.8525028100466,
+        "y" : -571.3463078529799
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829482",
+        "id" : "1824113",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual; Arquiteto(a)",
         "Eccentricity" : 4,
         "shared_name" : "Carvalhosa, Carlito (1961-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829482,
+        "SUID" : 1824113,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3266,25 +3358,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Carvalhosa, Carlito (1961-)",
         "personId" : "arCarlitoCarvalhosa",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -330.0669106656227,
-        "y" : 9.51936929309204
+        "x" : -314.6047091867207,
+        "y" : -296.1410395462981
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829479",
+        "id" : "1824110",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Prado, Armando (1952-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829479,
+        "SUID" : 1824110,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -3302,25 +3395,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Prado, Armando (1952-)",
         "personId" : "arArmandoPrado",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1592.5629341495255,
-        "y" : -780.8458865358382
+        "x" : 1666.336249150038,
+        "y" : -949.9715289122394
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829476",
+        "id" : "1824107",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Kox, Norbert (1945-2018)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829476,
+        "SUID" : 1824107,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3338,25 +3432,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Kox, Norbert (1945-2018)",
         "personId" : "arNorbertKox",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -704.4620018526969,
-        "y" : 494.2041323168073
+        "x" : -754.2834410097602,
+        "y" : 551.9547611319274
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829473",
+        "id" : "1824104",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Thompson, Thomas",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829473,
+        "SUID" : 1824104,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3373,25 +3468,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Thompson, Thomas",
         "personId" : "arThomasThompson",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -327.49566079411636,
-        "y" : -246.86222282790027
+        "x" : -775.8333235707868,
+        "y" : -222.07925896642473
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829470",
+        "id" : "1824101",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Feldmann, Hans-Peter (1941-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829470,
+        "SUID" : 1824101,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3409,25 +3505,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Feldmann, Hans-Peter (1941-)",
         "personId" : "arHansPeterFeldmann",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -109.31956376189692,
-        "y" : 352.57167723286057
+        "x" : 51.7598781748045,
+        "y" : -170.01150805721545
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829467",
+        "id" : "1824098",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Severo, Alexandre (1978-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829467,
+        "SUID" : 1824098,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 4.316901408450704,
@@ -3445,25 +3542,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Severo, Alexandre (1978-)",
         "personId" : "arAlexandreSevero",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -1024.5228191484157,
-        "y" : 1528.1541134641616
+        "x" : -1010.4847773616683,
+        "y" : 1368.057924660229
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829464",
+        "id" : "1824095",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Lira, Ana (1977-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829464,
+        "SUID" : 1824095,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 4.316901408450704,
@@ -3481,25 +3579,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Lira, Ana (1977-)",
         "personId" : "arAnaLira",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -840.3757289690642,
-        "y" : 1421.8367413786268
+        "x" : -1194.6318675410198,
+        "y" : 1261.7405525746942
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829461",
+        "id" : "1824092",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Barreto, Gilvan (1973-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829461,
+        "SUID" : 1824092,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3517,25 +3616,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Barreto, Gilvan (1973-)",
         "personId" : "arGilvanBarreto",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -977.1224996986036,
-        "y" : -67.91941862986323
+        "x" : -165.9235782802748,
+        "y" : -56.20680212600564
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829458",
+        "id" : "1824089",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 6,
         "shared_name" : "Lorca, German (1922-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829458,
+        "SUID" : 1824089,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.584507042253521,
@@ -3553,25 +3653,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Lorca, German (1922-)",
         "personId" : "arGermanLorca",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 32.0
       },
       "position" : {
-        "x" : 1307.8619739811752,
-        "y" : -1013.1272869736663
+        "x" : 1666.3362491500384,
+        "y" : -458.9126217673024
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829455",
+        "id" : "1824086",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Escritor(a); Artista Visual; Tradutor(a)",
         "Eccentricity" : 6,
         "shared_name" : "Ivánova, Adelaide (1982-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829455,
+        "SUID" : 1824086,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 4.316901408450704,
@@ -3589,25 +3690,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Ivánova, Adelaide (1982-)",
         "personId" : "arAdelaideIvanova",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -1024.5228191484157,
-        "y" : 1315.519369293092
+        "x" : -1194.6318675410198,
+        "y" : 1474.3752967457638
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829452",
+        "id" : "1824083",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Cantor(a); Instrumentista; Ator/Atriz",
         "Eccentricity" : 4,
         "shared_name" : "Anderson, Laurie (1947-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829452,
+        "SUID" : 1824083,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3625,25 +3727,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Anderson, Laurie (1947-)",
         "personId" : "arLaurieAnderson",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -178.81452988767023,
-        "y" : 238.601468164861
+        "x" : -724.6416460128114,
+        "y" : 192.52195301252254
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829449",
+        "id" : "1824080",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Zignnatto, Andrey (1981-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829449,
+        "SUID" : 1824080,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3661,25 +3764,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Zignnatto, Andrey (1981-)",
         "personId" : "arAndreyZignnatto",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -575.5963642380912,
-        "y" : 434.7888576352311
+        "x" : -20.591784926841,
+        "y" : 402.71087838680023
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829446",
+        "id" : "1824077",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Mauger, Vincent (1976-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1829446,
+        "SUID" : 1824077,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3697,25 +3801,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Mauger, Vincent (1976-)",
         "personId" : "arVincentMauger",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -514.214000844974,
-        "y" : -96.79800279244273
+        "x" : -470.5735860111914,
+        "y" : 548.9188285054636
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829443",
+        "id" : "1824074",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz; Modelo",
         "Eccentricity" : 4,
         "shared_name" : "Jovovich, Milla (1975-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Ucrânia",
-        "SUID" : 1829443,
+        "SUID" : 1824074,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3733,25 +3838,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Jovovich, Milla (1975-)",
         "personId" : "arMillaJovovich",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -455.40288732336523,
-        "y" : -246.8622228278998
+        "x" : -835.1333475006884,
+        "y" : -114.21291587432847
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829440",
+        "id" : "1824071",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Battaglia, Letizia (1935-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Itália",
-        "SUID" : 1829440,
+        "SUID" : 1824071,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3769,25 +3875,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Battaglia, Letizia (1935-)",
         "personId" : "arLetiziaBattaglia",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -45.36595049727248,
-        "y" : 241.8007697309199
+        "x" : -20.591784926839637,
+        "y" : -269.5950290663409
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829437",
+        "id" : "1824068",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual; Professor(a); Curador(a); Editor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Beiguelman, Giselle (1962-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829437,
+        "SUID" : 1824068,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3805,25 +3912,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Beiguelman, Giselle (1962-)",
         "personId" : "arGiselleBeiguelman",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -298.4993253927594,
-        "y" : 722.5819602435636
+        "x" : -378.5583224513439,
+        "y" : 803.1462853776345
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829434",
+        "id" : "1824065",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Seymour, David (1911-1956)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Polônia",
-        "SUID" : 1829434,
+        "SUID" : 1824065,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3841,25 +3949,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Seymour, David (1911-1956)",
         "personId" : "arDavidSeymour",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -788.7242751781832,
-        "y" : 404.4739250052796
+        "x" : -915.2529396886347,
+        "y" : -231.3318895345276
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829431",
+        "id" : "1824062",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Taro, Gerda (1910-1937)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Alemanha",
-        "SUID" : 1829431,
+        "SUID" : 1824062,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3877,25 +3986,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Taro, Gerda (1910-1937)",
         "personId" : "arGerdaTaro",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -360.6154301596108,
-        "y" : -374.2531731847969
+        "x" : -53.86771141364602,
+        "y" : -454.35997739002187
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829428",
+        "id" : "1824059",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Produtor(a); Roteirista",
         "Eccentricity" : 4,
         "shared_name" : "Joy, Lisa (1972-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829428,
+        "SUID" : 1824059,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3913,25 +4023,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Joy, Lisa (1972-)",
         "personId" : "arLisaJoy",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -452.831637451857,
-        "y" : 9.51936929309204
+        "x" : -442.51193571596957,
+        "y" : -296.14103954629763
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829425",
+        "id" : "1824056",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Diretor(a) de Filme; Produtor(a); Roteirista",
         "Eccentricity" : 4,
         "shared_name" : "Nolan, Jonathan (1976-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Reino Unido",
-        "SUID" : 1829425,
+        "SUID" : 1824056,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3949,25 +4060,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Nolan, Jonathan (1976-)",
         "personId" : "arJonathanNolan",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -759.7434544174423,
-        "y" : -522.067491134582
+        "x" : -96.42861215450125,
+        "y" : 303.29286051446275
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829422",
+        "id" : "1824053",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz",
         "Eccentricity" : 4,
         "shared_name" : "Santoro, Rodrigo (1975-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829422,
+        "SUID" : 1824053,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -3985,25 +4097,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Santoro, Rodrigo (1975-)",
         "personId" : "arRodrigoSantoro",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 246.45495845446908,
-        "y" : 484.1309217373296
+        "x" : -624.0877760238126,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829419",
+        "id" : "1824050",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz; Diretor(a) de Filme; Produtor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Harris, Ed (1950-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Estados Unidos",
-        "SUID" : 1829419,
+        "SUID" : 1824050,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4021,25 +4134,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Harris, Ed (1950-)",
         "personId" : "arEdHarris",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -1002.1235774297986,
-        "y" : 53.737234337583004
+        "x" : -255.79359566511005,
+        "y" : -146.07681951084078
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829416",
+        "id" : "1824047",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Ator/Atriz; Compositor(a)",
         "Eccentricity" : 4,
         "shared_name" : "Hopkins, Anthony (1937-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Reino Unido",
-        "SUID" : 1829416,
+        "SUID" : 1824047,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4057,25 +4171,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Hopkins, Anthony (1937-)",
         "personId" : "arAnthonyHopkins",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -422.5389309309146,
-        "y" : -497.19905432015526
+        "x" : -501.3230492375783,
+        "y" : 66.55792466022899
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829413",
+        "id" : "1824044",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Tavares, Ana Maria (1958-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829413,
+        "SUID" : 1824044,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4093,25 +4208,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Tavares, Ana Maria (1958-)",
         "personId" : "arAnaTavares",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -145.9198204862713,
-        "y" : 115.83674137862681
+        "x" : -660.688032748187,
+        "y" : 303.29286051446275
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829410",
+        "id" : "1824041",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 2,
         "shared_name" : "Assis, Rogério (1965-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829410,
+        "SUID" : 1824041,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.5,
@@ -4129,25 +4245,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Assis, Rogério (1965-)",
         "personId" : "arRogerioAssis",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -1128.0376347761453,
-        "y" : 1774.1377771721
+        "x" : -1085.6318675410198,
+        "y" : 1555.8589604537021
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829407",
+        "id" : "1824038",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Designer",
         "Eccentricity" : 2,
         "shared_name" : "Girard, Ciro",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829407,
+        "SUID" : 1824038,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.5,
@@ -4164,25 +4281,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Girard, Ciro",
         "personId" : "arCiroGirard",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -1031.0376347761453,
-        "y" : 1609.1377771721
+        "x" : -1194.6318675410198,
+        "y" : 1714.8589604537021
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829404",
+        "id" : "1824035",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Lampert, Letícia (1978-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829404,
+        "SUID" : 1824035,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4200,25 +4318,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Lampert, Letícia (1978-)",
         "personId" : "arLeticiaLampert",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -661.7736125298832,
-        "y" : -435.2569036605871
+        "x" : -317.175959058227,
+        "y" : 172.87529674576376
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829401",
+        "id" : "1824032",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Paciornik, Marcelo",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "NA",
-        "SUID" : 1829401,
+        "SUID" : 1824032,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4235,25 +4354,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Paciornik, Marcelo",
         "personId" : "arMarceloPaciornik",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 172.6287492994245,
-        "y" : -126.22820266907047
+        "x" : -1016.462554964553,
+        "y" : 434.85210501893175
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829398",
+        "id" : "1824029",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Gasparini, Isis",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829398,
+        "SUID" : 1824029,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4270,25 +4390,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Gasparini, Isis",
         "personId" : "arIsisGasparini",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -66.75866302103782,
-        "y" : 636.7546434288752
+        "x" : 259.34591006186474,
+        "y" : 434.85210501893175
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829395",
+        "id" : "1824026",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Tosetto, Guilherme",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829395,
+        "SUID" : 1824026,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4305,25 +4426,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Tosetto, Guilherme",
         "personId" : "arGuilhermeTosetto",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -767.174392617156,
-        "y" : 601.2335778503252
+        "x" : -989.232625822403,
+        "y" : 4.458417619185184
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829392",
+        "id" : "1824023",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Costa, Marcelo",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829392,
+        "SUID" : 1824023,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4340,25 +4462,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Costa, Marcelo",
         "personId" : "arMarceloCosta",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -600.5319876596288,
-        "y" : -328.4866421605118
+        "x" : -285.60837378536723,
+        "y" : -540.1872942047085
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829389",
+        "id" : "1824020",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Caobelli, Leo (1980-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829389,
+        "SUID" : 1824020,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4376,25 +4499,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Caobelli, Leo (1980-)",
         "personId" : "arLeoCaobelli",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 99.60963308619716,
-        "y" : 115.83674137862681
+        "x" : 222.70030563264868,
+        "y" : 190.11971376601718
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829386",
+        "id" : "1824017",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Steinmetz, Rose",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Geórgia",
-        "SUID" : 1829386,
+        "SUID" : 1824017,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4411,25 +4535,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Steinmetz, Rose",
         "personId" : "arRoseSteinmetz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -360.6154301596122,
-        "y" : 605.9266559420507
+        "x" : -409.64797932351587,
+        "y" : 679.5937203590113
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829383",
+        "id" : "1824014",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Maranhão, Guilherme",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829383,
+        "SUID" : 1824014,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4446,25 +4571,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Maranhão, Guilherme",
         "personId" : "arGuilhermeMaranhao",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -673.5789843555831,
-        "y" : -120.89819447560649
+        "x" : -865.7450834412572,
+        "y" : 128.10392536325685
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829380",
+        "id" : "1824011",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Romero, Alexandre",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829380,
+        "SUID" : 1824011,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4481,25 +4607,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Romero, Alexandre",
         "personId" : "arAlexandreRomero",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -45.365950497272934,
-        "y" : -10.127286973667879
+        "x" : -226.81277490436776,
+        "y" : -400.4668488647394
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829377",
+        "id" : "1824008",
         "idnoWKD" : "WKD",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Goldgrub, Carlos (1952-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Argentina",
-        "SUID" : 1829377,
+        "SUID" : 1824008,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4517,25 +4644,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Goldgrub, Carlos (1952-)",
         "personId" : "arCarlosGoldgrub",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -327.49566079411534,
-        "y" : 478.53570558515366
+        "x" : 97.07306613146989,
+        "y" : 188.6793088694003
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829374",
+        "id" : "1824005",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Guanabara, Luísa",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829374,
+        "SUID" : 1824005,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4552,25 +4680,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Guanabara, Luísa",
         "personId" : "arLuisaGuanabara",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -636.9787276312082,
-        "y" : 115.83674137862681
+        "x" : -226.81277490436923,
+        "y" : 533.5826981851981
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829371",
+        "id" : "1824002",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Moraes, Caroline",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829371,
+        "SUID" : 1824002,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4587,25 +4716,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Moraes, Caroline",
         "personId" : "arCarolineMoraes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -178.81452988767035,
-        "y" : -6.9279854076075935
+        "x" : -691.5710502453012,
+        "y" : 444.9253155984095
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829368",
+        "id" : "1823999",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Nascimento, Élida",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829368,
+        "SUID" : 1823999,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4622,25 +4752,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Nascimento, Élida",
         "personId" : "arElidaNascimento",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -514.214000844974,
-        "y" : 115.83674137862681
+        "x" : -562.7054126306962,
+        "y" : -252.3941915963751
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829365",
+        "id" : "1823996",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Mortatti, André",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829365,
+        "SUID" : 1823996,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4657,25 +4788,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Mortatti, André",
         "personId" : "arAndreMortatti",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -1029.3535065719484,
-        "y" : -252.4574389800764
+        "x" : -32.474998889876815,
+        "y" : 192.5219530125221
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829362",
+        "id" : "1823993",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Oshima, Cristiane",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829362,
+        "SUID" : 1823993,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4692,25 +4824,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Oshima, Cristiane",
         "personId" : "arCristianeOshima",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 345.13908665866575,
-        "y" : 115.83674137862681
+        "x" : -591.1930666224137,
+        "y" : 189.32265144646317
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829359",
+        "id" : "1823990",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Camargo, Denise",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829359,
+        "SUID" : 1823990,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4727,25 +4860,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Camargo, Denise",
         "personId" : "arDeniseCamargo",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -1002.1235774297984,
-        "y" : 177.93624841967176
+        "x" : -378.5583224513441,
+        "y" : -178.9715289122396
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829356",
+        "id" : "1823987",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Schmitt, Fernando",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829356,
+        "SUID" : 1823987,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4762,25 +4896,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Schmitt, Fernando",
         "personId" : "arFernandoSchmitt",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -545.3057222638398,
-        "y" : -478.3918736494445
+        "x" : -439.9406858444612,
+        "y" : 172.87529674576376
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829353",
+        "id" : "1823984",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Machado, Ailton",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829353,
+        "SUID" : 1823984,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4797,25 +4932,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Machado, Ailton",
         "personId" : "arAiltonMachado",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 209.80935402525165,
-        "y" : -7.725047727167976
+        "x" : -1115.1466831687496,
+        "y" : 66.55792466022876
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829350",
+        "id" : "1823981",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Mendes, Suzana",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829350,
+        "SUID" : 1823981,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4832,25 +4968,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Mendes, Suzana",
         "personId" : "arSuzanaMendes",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -178.26510167414767,
-        "y" : 691.4511628598516
+        "x" : -10.26414209264135,
+        "y" : 704.4621571734378
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829347",
+        "id" : "1823978",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Georg, Hans (1964-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829347,
+        "SUID" : 1823978,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4868,25 +5005,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Georg, Hans (1964-)",
         "personId" : "arHansGeorg",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -857.1929422048217,
-        "y" : 515.6645657659508
+        "x" : -964.231548091208,
+        "y" : -117.19823534826105
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829344",
+        "id" : "1823975",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Martins, Manuel",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829344,
+        "SUID" : 1823975,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4903,25 +5041,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Martins, Manuel",
         "personId" : "arManuelMartins",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -483.46453761858606,
-        "y" : -366.524162466608
+        "x" : -165.37415006675587,
+        "y" : -509.05649682099715
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829341",
+        "id" : "1823972",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Elias, Claudia (1976-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829341,
+        "SUID" : 1823972,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4939,25 +5078,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Elias, Claudia (1976-)",
         "personId" : "arClaudiaElias",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : 84.18211452407422,
-        "y" : 237.95812558779812
+        "x" : 185.51970090682266,
+        "y" : 308.6228687079206
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829338",
+        "id" : "1823969",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Zarattini, Marília",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "NA",
-        "SUID" : 1829338,
+        "SUID" : 1823969,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -4974,25 +5114,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Zarattini, Marília",
         "personId" : "arMariliaZarattini",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -483.4645376185871,
-        "y" : 598.1976452238614
+        "x" : -532.4147706564418,
+        "y" : 660.786539688301
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829335",
+        "id" : "1823966",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Figue, Roberta",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1829335,
+        "SUID" : 1823966,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -5009,25 +5150,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Figue, Roberta",
         "personId" : "arRobertaFigue",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -575.5963642380918,
-        "y" : -203.11537487797727
+        "x" : -865.7450834412571,
+        "y" : 5.011923957199997
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829332",
+        "id" : "1823963",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Queiroga, Tony",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829332,
+        "SUID" : 1823963,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -5044,25 +5186,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Queiroga, Tony",
         "personId" : "arTonyQueiroga",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -23.155093700037014,
-        "y" : 115.83674137862681
+        "x" : -115.43580208998219,
+        "y" : -348.0568237087414
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829329",
+        "id" : "1823960",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Albuquerque, Guilherme",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829329,
+        "SUID" : 1823960,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -5079,25 +5222,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Albuquerque, Guilherme",
         "personId" : "arGuilhermeAlbuquerque",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -455.4028873233643,
-        "y" : 478.53570558515366
+        "x" : 51.75987817480359,
+        "y" : 303.1273573776755
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829326",
+        "id" : "1823957",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 4,
         "shared_name" : "Sengberg, Chiara",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829326,
+        "SUID" : 1823957,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.4295774647887325,
@@ -5114,25 +5258,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Sengberg, Chiara",
         "personId" : "arChiaraSengberg",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 110.0
       },
       "position" : {
-        "x" : -604.0840182298093,
-        "y" : -6.9279854076075935
+        "x" : -347.7244785522165,
+        "y" : 556.6478392236529
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829323",
+        "id" : "1823954",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Professor(a); Curador(a); Crítico(a) de Arte",
         "Eccentricity" : 5,
         "shared_name" : "Fernandes Junior, Rubens (1949-)",
         "TopologicalCoefficient" : 0.15625,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829323,
+        "SUID" : 1823954,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.591549295774648,
@@ -5150,29 +5295,30 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 32,
         "name" : "Fernandes Junior, Rubens (1949-)",
         "personId" : "auRubensFernandes",
+        "countTexts" : 16,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.15625
       },
       "position" : {
-        "x" : 1653.9452975426425,
-        "y" : -887.1632586213732
+        "x" : 1666.336249150038,
+        "y" : -704.442075339771
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829317",
+        "id" : "1823951",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Professor(a); Crítico(a) de Arte",
         "Eccentricity" : 3,
         "shared_name" : "Entler, Ronaldo (1968-)",
         "TopologicalCoefficient" : 0.02727272727272727,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829317,
+        "SUID" : 1823951,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.4366197183098592,
-        "selected" : false,
+        "selected" : true,
         "ClosenessCentrality" : 0.696078431372549,
         "Degree" : 110,
         "PartnerOfMultiEdgedNodePairs" : 0,
@@ -5186,25 +5332,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 110,
         "name" : "Entler, Ronaldo (1968-)",
         "personId" : "auRonaldoEntler",
+        "countTexts" : 49,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0545454545454545
       },
       "position" : {
-        "x" : -391.4492740587398,
-        "y" : 115.83674137862681
+        "x" : -378.5583224513441,
+        "y" : 66.55792466022899
       },
-      "selected" : false
+      "selected" : true
     }, {
       "data" : {
-        "id" : "1829314",
+        "id" : "1823948",
         "idnoWKD" : "WKD",
-        "occupation" : "OUTRO",
+        "occupation" : "Professor(a)",
         "Eccentricity" : 1,
         "shared_name" : "Linhares Sanz, Cláudia",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829314,
+        "SUID" : 1823948,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -5221,25 +5368,26 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 1,
         "name" : "Linhares Sanz, Cláudia",
         "personId" : "auClaudiaSanz",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -910.0376347761453,
-        "y" : 1609.1377771721
+        "x" : -954.6318675410198,
+        "y" : 1555.8589604537021
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829311",
+        "id" : "1823942",
         "idnoWKD" : "NA",
-        "occupation" : "ARTISTA VISUAL",
+        "occupation" : "Artista Visual",
         "Eccentricity" : 5,
-        "shared_name" : "Figueiroa, Pio",
+        "shared_name" : "Figueiroa, Pio (1974-)",
         "TopologicalCoefficient" : 0.25,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1829311,
+        "SUID" : 1823942,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 3.323943661971831,
@@ -5250,31 +5398,33 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "ClusteringCoefficient" : 0.0,
         "birthCity" : "Recife",
         "Radiality" : 0.9788732394366197,
+        "birthDate" : 1974,
         "Stress" : 1512,
         "birthRegion" : "PE",
         "BetweennessCentrality" : 0.041953850764159424,
         "NumberOfUndirectedEdges" : 4,
-        "name" : "Figueiroa, Pio",
+        "name" : "Figueiroa, Pio (1974-)",
         "personId" : "auPioFigueiroa",
+        "countTexts" : 4,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.25
       },
       "position" : {
-        "x" : -963.1404557552983,
-        "y" : 1421.8367413786268
+        "x" : -1133.2495041479026,
+        "y" : 1368.057924660229
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829287",
+        "id" : "1823915",
         "idnoWKD" : "NA",
-        "occupation" : "OUTRO",
+        "occupation" : "Professor(a)",
         "Eccentricity" : 1,
         "shared_name" : "Prata, Didiana",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1829287,
+        "SUID" : 1823915,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -5291,2248 +5441,2100 @@ export let networks = {"rs2ModeArtistTermAuthorByPublicationreIconica.xml_1": {
         "NumberOfUndirectedEdges" : 2,
         "name" : "Prata, Didiana",
         "personId" : "auDidianaPrata",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -1079.0376347761453,
-        "y" : 1691.1377771721
+        "x" : -1139.6318675410198,
+        "y" : 1635.8589604537021
       },
       "selected" : false
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "1829949",
-        "source" : "1829323",
-        "target" : "1829458",
+        "id" : "1824580",
+        "source" : "1823954",
+        "target" : "1824089",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arGermanLorca",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arGermanLorca",
         "interaction" : "-",
-        "SUID" : 1829949,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824580,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829925",
-        "source" : "1829323",
-        "target" : "1829479",
+        "id" : "1824556",
+        "source" : "1823954",
+        "target" : "1824110",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arArmandoPrado",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arArmandoPrado",
         "interaction" : "-",
-        "SUID" : 1829925,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824556,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829917",
-        "source" : "1829323",
-        "target" : "1829596",
+        "id" : "1824548",
+        "source" : "1823954",
+        "target" : "1824227",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arMaureenBisilliat",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arMaureenBisilliat",
         "interaction" : "-",
-        "SUID" : 1829917,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 2
+        "SUID" : 1824548,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829903",
-        "source" : "1829323",
-        "target" : "1829494",
+        "id" : "1824534",
+        "source" : "1823954",
+        "target" : "1824125",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arClaudiaJaguaribe",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arClaudiaJaguaribe",
         "interaction" : "-",
-        "SUID" : 1829903,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824534,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829901",
-        "source" : "1829323",
-        "target" : "1829497",
+        "id" : "1824532",
+        "source" : "1823954",
+        "target" : "1824128",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arJoaoMusa",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arJoaoMusa",
         "interaction" : "-",
-        "SUID" : 1829901,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824532,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829897",
-        "source" : "1829323",
-        "target" : "1829740",
+        "id" : "1824528",
+        "source" : "1823954",
+        "target" : "1824371",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arOzualdoCandeias",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arOzualdoCandeias",
         "interaction" : "-",
-        "SUID" : 1829897,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824528,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829895",
-        "source" : "1829323",
-        "target" : "1829737",
+        "id" : "1824526",
+        "source" : "1823954",
+        "target" : "1824368",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arClaudioEdinger",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arClaudioEdinger",
         "interaction" : "-",
-        "SUID" : 1829895,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824526,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829893",
-        "source" : "1829323",
-        "target" : "1829557",
+        "id" : "1824524",
+        "source" : "1823954",
+        "target" : "1824188",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arAndreKertesz",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arAndreKertesz",
         "interaction" : "-",
-        "SUID" : 1829893,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824524,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829891",
-        "source" : "1829323",
-        "target" : "1829503",
+        "id" : "1824522",
+        "source" : "1823954",
+        "target" : "1824134",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arAndyWarhol",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arAndyWarhol",
         "interaction" : "-",
-        "SUID" : 1829891,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824522,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829883",
-        "source" : "1829323",
-        "target" : "1829725",
+        "id" : "1824514",
+        "source" : "1823954",
+        "target" : "1824356",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arCarolLopes",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arCarolLopes",
         "interaction" : "-",
-        "SUID" : 1829883,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824514,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829881",
-        "source" : "1829323",
-        "target" : "1829722",
+        "id" : "1824512",
+        "source" : "1823954",
+        "target" : "1824353",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arJoaoKehl",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arJoaoKehl",
         "interaction" : "-",
-        "SUID" : 1829881,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824512,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829879",
-        "source" : "1829323",
-        "target" : "1829719",
+        "id" : "1824510",
+        "source" : "1823954",
+        "target" : "1824350",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arRafaelJacinto",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arRafaelJacinto",
         "interaction" : "-",
-        "SUID" : 1829879,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824510,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829877",
-        "source" : "1829323",
-        "target" : "1829716",
+        "id" : "1824508",
+        "source" : "1823954",
+        "target" : "1824347",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arMarleneBergamo",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arMarleneBergamo",
         "interaction" : "-",
-        "SUID" : 1829877,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824508,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829875",
-        "source" : "1829323",
-        "target" : "1829713",
+        "id" : "1824506",
+        "source" : "1823954",
+        "target" : "1824344",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arCristianoMascaro",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arCristianoMascaro",
         "interaction" : "-",
-        "SUID" : 1829875,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824506,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829873",
-        "source" : "1829323",
-        "target" : "1829641",
+        "id" : "1824504",
+        "source" : "1823954",
+        "target" : "1824272",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arBobWolfenson",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arBobWolfenson",
         "interaction" : "-",
-        "SUID" : 1829873,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 3
+        "SUID" : 1824504,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829871",
-        "source" : "1829323",
-        "target" : "1829569",
-        "EdgeBetweenness" : 1291.9999999999989,
+        "id" : "1824502",
+        "source" : "1823954",
+        "target" : "1824200",
+        "EdgeBetweenness" : 1291.9999999999986,
         "shared_name" : "auRubensFernandes (-) arPioFigueiroa",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arPioFigueiroa",
         "interaction" : "-",
-        "SUID" : 1829871,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824502,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829869",
-        "source" : "1829323",
-        "target" : "1829506",
+        "id" : "1824500",
+        "source" : "1823954",
+        "target" : "1824137",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arTiagoSantana",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arTiagoSantana",
         "interaction" : "-",
-        "SUID" : 1829869,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824500,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829865",
-        "source" : "1829323",
-        "target" : "1829710",
+        "id" : "1824496",
+        "source" : "1823954",
+        "target" : "1824341",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arJoaoCastilho",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arJoaoCastilho",
         "interaction" : "-",
-        "SUID" : 1829865,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824496,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829863",
-        "source" : "1829323",
-        "target" : "1829509",
-        "EdgeBetweenness" : 1291.9999999999984,
+        "id" : "1824494",
+        "source" : "1823954",
+        "target" : "1824140",
+        "EdgeBetweenness" : 1291.9999999999982,
         "shared_name" : "auRubensFernandes (-) arClaudiaAndujar",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arClaudiaAndujar",
         "interaction" : "-",
-        "SUID" : 1829863,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824494,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829853",
-        "source" : "1829323",
-        "target" : "1829698",
+        "id" : "1824484",
+        "source" : "1823954",
+        "target" : "1824329",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arNormanRockwell",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arNormanRockwell",
         "interaction" : "-",
-        "SUID" : 1829853,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824484,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829837",
-        "source" : "1829323",
-        "target" : "1829683",
+        "id" : "1824468",
+        "source" : "1823954",
+        "target" : "1824314",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arFlaviaJunqueira",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arFlaviaJunqueira",
         "interaction" : "-",
-        "SUID" : 1829837,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824468,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829835",
-        "source" : "1829323",
-        "target" : "1829680",
+        "id" : "1824466",
+        "source" : "1823954",
+        "target" : "1824311",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arCaioReisewitz",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arCaioReisewitz",
         "interaction" : "-",
-        "SUID" : 1829835,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824466,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829833",
-        "source" : "1829323",
-        "target" : "1829677",
-        "EdgeBetweenness" : 1291.9999999999984,
+        "id" : "1824464",
+        "source" : "1823954",
+        "target" : "1824308",
+        "EdgeBetweenness" : 1291.9999999999982,
         "shared_name" : "auRubensFernandes (-) arMauroRestiffe",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arMauroRestiffe",
         "interaction" : "-",
-        "SUID" : 1829833,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824464,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829831",
-        "source" : "1829323",
-        "target" : "1829674",
+        "id" : "1824462",
+        "source" : "1823954",
+        "target" : "1824305",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arThomazFarkas",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arThomazFarkas",
         "interaction" : "-",
-        "SUID" : 1829831,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824462,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829829",
-        "source" : "1829323",
-        "target" : "1829671",
+        "id" : "1824460",
+        "source" : "1823954",
+        "target" : "1824302",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arPeterScheier",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arPeterScheier",
         "interaction" : "-",
-        "SUID" : 1829829,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824460,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829827",
-        "source" : "1829323",
-        "target" : "1829668",
+        "id" : "1824458",
+        "source" : "1823954",
+        "target" : "1824299",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arMarcelGautherot",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arMarcelGautherot",
         "interaction" : "-",
-        "SUID" : 1829827,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824458,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829825",
-        "source" : "1829323",
-        "target" : "1829665",
+        "id" : "1824456",
+        "source" : "1823954",
+        "target" : "1824296",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arGasparGasparian",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arGasparGasparian",
         "interaction" : "-",
-        "SUID" : 1829825,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824456,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829823",
-        "source" : "1829323",
-        "target" : "1829662",
-        "EdgeBetweenness" : 1291.9999999999984,
+        "id" : "1824454",
+        "source" : "1823954",
+        "target" : "1824293",
+        "EdgeBetweenness" : 1291.9999999999982,
         "shared_name" : "auRubensFernandes (-) arNanGoldin",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arNanGoldin",
         "interaction" : "-",
-        "SUID" : 1829823,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824454,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829821",
-        "source" : "1829323",
-        "target" : "1829653",
-        "EdgeBetweenness" : 1291.9999999999984,
+        "id" : "1824452",
+        "source" : "1823954",
+        "target" : "1824284",
+        "EdgeBetweenness" : 1291.9999999999982,
         "shared_name" : "auRubensFernandes (-) arMiguelRioBranco",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arMiguelRioBranco",
         "interaction" : "-",
-        "SUID" : 1829821,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824452,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829801",
-        "source" : "1829323",
-        "target" : "1829644",
+        "id" : "1824432",
+        "source" : "1823954",
+        "target" : "1824275",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arLuizBraga",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arLuizBraga",
         "interaction" : "-",
-        "SUID" : 1829801,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824432,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829789",
-        "source" : "1829323",
-        "target" : "1829626",
+        "id" : "1824420",
+        "source" : "1823954",
+        "target" : "1824257",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arOttoStupakoff",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arOttoStupakoff",
         "interaction" : "-",
-        "SUID" : 1829789,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824420,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829757",
-        "source" : "1829323",
-        "target" : "1829563",
+        "id" : "1824388",
+        "source" : "1823954",
+        "target" : "1824194",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRubensFernandes (-) arWalkerEvans",
         "shared_interaction" : "-",
         "name" : "auRubensFernandes (-) arWalkerEvans",
         "interaction" : "-",
-        "SUID" : 1829757,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824388,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830071",
-        "source" : "1829317",
-        "target" : "1829536",
+        "id" : "1824702",
+        "source" : "1823951",
+        "target" : "1824167",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arClaudiaTavares",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arClaudiaTavares",
         "interaction" : "-",
-        "SUID" : 1830071,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824702,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830069",
-        "source" : "1829317",
-        "target" : "1829527",
+        "id" : "1824700",
+        "source" : "1823951",
+        "target" : "1824158",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSamySfoggia",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSamySfoggia",
         "interaction" : "-",
-        "SUID" : 1830069,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824700,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830067",
-        "source" : "1829317",
-        "target" : "1829551",
+        "id" : "1824698",
+        "source" : "1823951",
+        "target" : "1824182",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLaraOvidio",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLaraOvidio",
         "interaction" : "-",
-        "SUID" : 1830067,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824698,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830065",
-        "source" : "1829317",
-        "target" : "1829548",
+        "id" : "1824696",
+        "source" : "1823951",
+        "target" : "1824179",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMarianaAndrade",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMarianaAndrade",
         "interaction" : "-",
-        "SUID" : 1830065,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824696,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830063",
-        "source" : "1829317",
-        "target" : "1829545",
+        "id" : "1824694",
+        "source" : "1823951",
+        "target" : "1824176",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arKarinaRampazzo",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arKarinaRampazzo",
         "interaction" : "-",
-        "SUID" : 1830063,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824694,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830061",
-        "source" : "1829317",
-        "target" : "1829542",
+        "id" : "1824692",
+        "source" : "1823951",
+        "target" : "1824173",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMestreSantos",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMestreSantos",
         "interaction" : "-",
-        "SUID" : 1830061,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824692,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830059",
-        "source" : "1829317",
-        "target" : "1829539",
+        "id" : "1824690",
+        "source" : "1823951",
+        "target" : "1824170",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCyroAlmeida",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCyroAlmeida",
         "interaction" : "-",
-        "SUID" : 1830059,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824690,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830057",
-        "source" : "1829317",
-        "target" : "1829533",
+        "id" : "1824688",
+        "source" : "1823951",
+        "target" : "1824164",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arFabricioArriaga",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arFabricioArriaga",
         "interaction" : "-",
-        "SUID" : 1830057,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824688,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830055",
-        "source" : "1829317",
-        "target" : "1829530",
+        "id" : "1824686",
+        "source" : "1823951",
+        "target" : "1824161",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arWendelMedeiros",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arWendelMedeiros",
         "interaction" : "-",
-        "SUID" : 1830055,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824686,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830049",
-        "source" : "1829317",
-        "target" : "1829518",
+        "id" : "1824680",
+        "source" : "1823951",
+        "target" : "1824149",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arWoodyAllen",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arWoodyAllen",
         "interaction" : "-",
-        "SUID" : 1830049,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824680,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830047",
-        "source" : "1829317",
-        "target" : "1829572",
+        "id" : "1824678",
+        "source" : "1823951",
+        "target" : "1824203",
         "EdgeBetweenness" : 1380.0,
         "shared_name" : "auRonaldoEntler (-) arLiviaAquino",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLiviaAquino",
         "interaction" : "-",
-        "SUID" : 1830047,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824678,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830045",
-        "source" : "1829317",
-        "target" : "1829569",
-        "EdgeBetweenness" : 1455.999999999998,
+        "id" : "1824676",
+        "source" : "1823951",
+        "target" : "1824200",
+        "EdgeBetweenness" : 1455.9999999999977,
         "shared_name" : "auRonaldoEntler (-) arPioFigueiroa",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPioFigueiroa",
         "interaction" : "-",
-        "SUID" : 1830045,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824676,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830043",
-        "source" : "1829317",
-        "target" : "1829566",
+        "id" : "1824674",
+        "source" : "1823951",
+        "target" : "1824197",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arFernandoTacca",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arFernandoTacca",
         "interaction" : "-",
-        "SUID" : 1830043,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824674,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830041",
-        "source" : "1829317",
-        "target" : "1829404",
+        "id" : "1824672",
+        "source" : "1823951",
+        "target" : "1824035",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLeticiaLampert",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLeticiaLampert",
         "interaction" : "-",
-        "SUID" : 1830041,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824672,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830039",
-        "source" : "1829317",
-        "target" : "1829401",
+        "id" : "1824670",
+        "source" : "1823951",
+        "target" : "1824032",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMarceloPaciornik",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMarceloPaciornik",
         "interaction" : "-",
-        "SUID" : 1830039,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824670,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830037",
-        "source" : "1829317",
-        "target" : "1829398",
+        "id" : "1824668",
+        "source" : "1823951",
+        "target" : "1824029",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arIsisGasparini",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arIsisGasparini",
         "interaction" : "-",
-        "SUID" : 1830037,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824668,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830035",
-        "source" : "1829317",
-        "target" : "1829395",
+        "id" : "1824666",
+        "source" : "1823951",
+        "target" : "1824026",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGuilhermeTosetto",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGuilhermeTosetto",
         "interaction" : "-",
-        "SUID" : 1830035,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824666,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830033",
-        "source" : "1829317",
-        "target" : "1829392",
+        "id" : "1824664",
+        "source" : "1823951",
+        "target" : "1824023",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMarceloCosta",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMarceloCosta",
         "interaction" : "-",
-        "SUID" : 1830033,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824664,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830031",
-        "source" : "1829317",
-        "target" : "1829389",
+        "id" : "1824662",
+        "source" : "1823951",
+        "target" : "1824020",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLeoCaobelli",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLeoCaobelli",
         "interaction" : "-",
-        "SUID" : 1830031,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824662,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830029",
-        "source" : "1829317",
-        "target" : "1829386",
+        "id" : "1824660",
+        "source" : "1823951",
+        "target" : "1824017",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRoseSteinmetz",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRoseSteinmetz",
         "interaction" : "-",
-        "SUID" : 1830029,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824660,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830027",
-        "source" : "1829317",
-        "target" : "1829383",
+        "id" : "1824658",
+        "source" : "1823951",
+        "target" : "1824014",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGuilhermeMaranhao",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGuilhermeMaranhao",
         "interaction" : "-",
-        "SUID" : 1830027,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824658,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830025",
-        "source" : "1829317",
-        "target" : "1829380",
+        "id" : "1824656",
+        "source" : "1823951",
+        "target" : "1824011",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAlexandreRomero",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAlexandreRomero",
         "interaction" : "-",
-        "SUID" : 1830025,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824656,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830023",
-        "source" : "1829317",
-        "target" : "1829377",
+        "id" : "1824654",
+        "source" : "1823951",
+        "target" : "1824008",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCarlosGoldgrub",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCarlosGoldgrub",
         "interaction" : "-",
-        "SUID" : 1830023,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824654,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830021",
-        "source" : "1829317",
-        "target" : "1829374",
+        "id" : "1824652",
+        "source" : "1823951",
+        "target" : "1824005",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLuisaGuanabara",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLuisaGuanabara",
         "interaction" : "-",
-        "SUID" : 1830021,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824652,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830019",
-        "source" : "1829317",
-        "target" : "1829371",
+        "id" : "1824650",
+        "source" : "1823951",
+        "target" : "1824002",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCarolineMoraes",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCarolineMoraes",
         "interaction" : "-",
-        "SUID" : 1830019,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824650,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830017",
-        "source" : "1829317",
-        "target" : "1829368",
+        "id" : "1824648",
+        "source" : "1823951",
+        "target" : "1823999",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arElidaNascimento",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arElidaNascimento",
         "interaction" : "-",
-        "SUID" : 1830017,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824648,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830015",
-        "source" : "1829317",
-        "target" : "1829365",
+        "id" : "1824646",
+        "source" : "1823951",
+        "target" : "1823996",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAndreMortatti",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAndreMortatti",
         "interaction" : "-",
-        "SUID" : 1830015,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824646,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830013",
-        "source" : "1829317",
-        "target" : "1829362",
+        "id" : "1824644",
+        "source" : "1823951",
+        "target" : "1823993",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCristianeOshima",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCristianeOshima",
         "interaction" : "-",
-        "SUID" : 1830013,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824644,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830011",
-        "source" : "1829317",
-        "target" : "1829359",
+        "id" : "1824642",
+        "source" : "1823951",
+        "target" : "1823990",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arDeniseCamargo",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arDeniseCamargo",
         "interaction" : "-",
-        "SUID" : 1830011,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824642,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830009",
-        "source" : "1829317",
-        "target" : "1829356",
+        "id" : "1824640",
+        "source" : "1823951",
+        "target" : "1823987",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arFernandoSchmitt",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arFernandoSchmitt",
         "interaction" : "-",
-        "SUID" : 1830009,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824640,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830007",
-        "source" : "1829317",
-        "target" : "1829353",
+        "id" : "1824638",
+        "source" : "1823951",
+        "target" : "1823984",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAiltonMachado",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAiltonMachado",
         "interaction" : "-",
-        "SUID" : 1830007,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824638,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830005",
-        "source" : "1829317",
-        "target" : "1829350",
+        "id" : "1824636",
+        "source" : "1823951",
+        "target" : "1823981",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSuzanaMendes",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSuzanaMendes",
         "interaction" : "-",
-        "SUID" : 1830005,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824636,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830003",
-        "source" : "1829317",
-        "target" : "1829347",
+        "id" : "1824634",
+        "source" : "1823951",
+        "target" : "1823978",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arHansGeorg",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arHansGeorg",
         "interaction" : "-",
-        "SUID" : 1830003,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824634,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830001",
-        "source" : "1829317",
-        "target" : "1829344",
+        "id" : "1824632",
+        "source" : "1823951",
+        "target" : "1823975",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arManuelMartins",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arManuelMartins",
         "interaction" : "-",
-        "SUID" : 1830001,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824632,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829999",
-        "source" : "1829317",
-        "target" : "1829341",
+        "id" : "1824630",
+        "source" : "1823951",
+        "target" : "1823972",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arClaudiaElias",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arClaudiaElias",
         "interaction" : "-",
-        "SUID" : 1829999,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824630,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829997",
-        "source" : "1829317",
-        "target" : "1829338",
+        "id" : "1824628",
+        "source" : "1823951",
+        "target" : "1823969",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMariliaZarattini",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMariliaZarattini",
         "interaction" : "-",
-        "SUID" : 1829997,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824628,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829995",
-        "source" : "1829317",
-        "target" : "1829335",
+        "id" : "1824626",
+        "source" : "1823951",
+        "target" : "1823966",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRobertaFigue",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRobertaFigue",
         "interaction" : "-",
-        "SUID" : 1829995,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824626,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829993",
-        "source" : "1829317",
-        "target" : "1829332",
+        "id" : "1824624",
+        "source" : "1823951",
+        "target" : "1823963",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arTonyQueiroga",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arTonyQueiroga",
         "interaction" : "-",
-        "SUID" : 1829993,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824624,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829991",
-        "source" : "1829317",
-        "target" : "1829329",
+        "id" : "1824622",
+        "source" : "1823951",
+        "target" : "1823960",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGuilhermeAlbuquerque",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGuilhermeAlbuquerque",
         "interaction" : "-",
-        "SUID" : 1829991,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824622,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829989",
-        "source" : "1829317",
-        "target" : "1829326",
+        "id" : "1824620",
+        "source" : "1823951",
+        "target" : "1823957",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arChiaraSengberg",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arChiaraSengberg",
         "interaction" : "-",
-        "SUID" : 1829989,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824620,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829987",
-        "source" : "1829317",
-        "target" : "1829413",
+        "id" : "1824618",
+        "source" : "1823951",
+        "target" : "1824044",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAnaTavares",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAnaTavares",
         "interaction" : "-",
-        "SUID" : 1829987,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824618,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829985",
-        "source" : "1829317",
-        "target" : "1829428",
+        "id" : "1824616",
+        "source" : "1823951",
+        "target" : "1824059",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLisaJoy",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLisaJoy",
         "interaction" : "-",
-        "SUID" : 1829985,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824616,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829983",
-        "source" : "1829317",
-        "target" : "1829425",
+        "id" : "1824614",
+        "source" : "1823951",
+        "target" : "1824056",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJonathanNolan",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJonathanNolan",
         "interaction" : "-",
-        "SUID" : 1829983,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824614,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829981",
-        "source" : "1829317",
-        "target" : "1829422",
+        "id" : "1824612",
+        "source" : "1823951",
+        "target" : "1824053",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRodrigoSantoro",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRodrigoSantoro",
         "interaction" : "-",
-        "SUID" : 1829981,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824612,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829979",
-        "source" : "1829317",
-        "target" : "1829419",
+        "id" : "1824610",
+        "source" : "1823951",
+        "target" : "1824050",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arEdHarris",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arEdHarris",
         "interaction" : "-",
-        "SUID" : 1829979,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824610,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829977",
-        "source" : "1829317",
-        "target" : "1829416",
+        "id" : "1824608",
+        "source" : "1823951",
+        "target" : "1824047",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAnthonyHopkins",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAnthonyHopkins",
         "interaction" : "-",
-        "SUID" : 1829977,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824608,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829975",
-        "source" : "1829317",
-        "target" : "1829560",
+        "id" : "1824606",
+        "source" : "1823951",
+        "target" : "1824191",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRobertCapa",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRobertCapa",
         "interaction" : "-",
-        "SUID" : 1829975,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824606,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829973",
-        "source" : "1829317",
-        "target" : "1829437",
+        "id" : "1824604",
+        "source" : "1823951",
+        "target" : "1824068",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGiselleBeiguelman",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGiselleBeiguelman",
         "interaction" : "-",
-        "SUID" : 1829973,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824604,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829971",
-        "source" : "1829317",
-        "target" : "1829434",
+        "id" : "1824602",
+        "source" : "1823951",
+        "target" : "1824065",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arDavidSeymour",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arDavidSeymour",
         "interaction" : "-",
-        "SUID" : 1829971,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824602,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829969",
-        "source" : "1829317",
-        "target" : "1829431",
+        "id" : "1824600",
+        "source" : "1823951",
+        "target" : "1824062",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGerdaTaro",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGerdaTaro",
         "interaction" : "-",
-        "SUID" : 1829969,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824600,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829967",
-        "source" : "1829317",
-        "target" : "1829731",
+        "id" : "1824598",
+        "source" : "1823951",
+        "target" : "1824362",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arWimWenders",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arWimWenders",
         "interaction" : "-",
-        "SUID" : 1829967,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 3
+        "SUID" : 1824598,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829965",
-        "source" : "1829317",
-        "target" : "1829593",
+        "id" : "1824596",
+        "source" : "1823951",
+        "target" : "1824224",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSebastiaoSalgado",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSebastiaoSalgado",
         "interaction" : "-",
-        "SUID" : 1829965,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 3
+        "SUID" : 1824596,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829963",
-        "source" : "1829317",
-        "target" : "1829443",
+        "id" : "1824594",
+        "source" : "1823951",
+        "target" : "1824074",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMillaJovovich",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMillaJovovich",
         "interaction" : "-",
-        "SUID" : 1829963,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824594,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829961",
-        "source" : "1829317",
-        "target" : "1829440",
+        "id" : "1824592",
+        "source" : "1823951",
+        "target" : "1824071",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLetiziaBattaglia",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLetiziaBattaglia",
         "interaction" : "-",
-        "SUID" : 1829961,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824592,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829959",
-        "source" : "1829317",
-        "target" : "1829449",
+        "id" : "1824590",
+        "source" : "1823951",
+        "target" : "1824080",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAndreyZignnatto",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAndreyZignnatto",
         "interaction" : "-",
-        "SUID" : 1829959,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824590,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829957",
-        "source" : "1829317",
-        "target" : "1829446",
+        "id" : "1824588",
+        "source" : "1823951",
+        "target" : "1824077",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arVincentMauger",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arVincentMauger",
         "interaction" : "-",
-        "SUID" : 1829957,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824588,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829955",
-        "source" : "1829317",
-        "target" : "1829452",
+        "id" : "1824586",
+        "source" : "1823951",
+        "target" : "1824083",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLaurieAnderson",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLaurieAnderson",
         "interaction" : "-",
-        "SUID" : 1829955,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824586,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829951",
-        "source" : "1829317",
-        "target" : "1829743",
+        "id" : "1824582",
+        "source" : "1823951",
+        "target" : "1824374",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arApichatpongWeerasethakul",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arApichatpongWeerasethakul",
         "interaction" : "-",
-        "SUID" : 1829951,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 2
+        "SUID" : 1824582,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829947",
-        "source" : "1829317",
-        "target" : "1829461",
+        "id" : "1824578",
+        "source" : "1823951",
+        "target" : "1824092",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGilvanBarreto",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGilvanBarreto",
         "interaction" : "-",
-        "SUID" : 1829947,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824578,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829939",
-        "source" : "1829317",
-        "target" : "1829581",
+        "id" : "1824570",
+        "source" : "1823951",
+        "target" : "1824212",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJulianoSalgado",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJulianoSalgado",
         "interaction" : "-",
-        "SUID" : 1829939,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824570,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829933",
-        "source" : "1829317",
-        "target" : "1829476",
+        "id" : "1824564",
+        "source" : "1823951",
+        "target" : "1824107",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arNorbertKox",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arNorbertKox",
         "interaction" : "-",
-        "SUID" : 1829933,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824564,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829931",
-        "source" : "1829317",
-        "target" : "1829473",
+        "id" : "1824562",
+        "source" : "1823951",
+        "target" : "1824104",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arThomasThompson",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arThomasThompson",
         "interaction" : "-",
-        "SUID" : 1829931,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824562,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829929",
-        "source" : "1829317",
-        "target" : "1829470",
+        "id" : "1824560",
+        "source" : "1823951",
+        "target" : "1824101",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arHansPeterFeldmann",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arHansPeterFeldmann",
         "interaction" : "-",
-        "SUID" : 1829929,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824560,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829927",
-        "source" : "1829317",
-        "target" : "1829752",
+        "id" : "1824558",
+        "source" : "1823951",
+        "target" : "1824383",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arOrlandoBrito",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arOrlandoBrito",
         "interaction" : "-",
-        "SUID" : 1829927,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824558,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829923",
-        "source" : "1829317",
-        "target" : "1829677",
-        "EdgeBetweenness" : 1455.9999999999966,
+        "id" : "1824554",
+        "source" : "1823951",
+        "target" : "1824308",
+        "EdgeBetweenness" : 1455.9999999999968,
         "shared_name" : "auRonaldoEntler (-) arMauroRestiffe",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMauroRestiffe",
         "interaction" : "-",
-        "SUID" : 1829923,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824554,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829921",
-        "source" : "1829317",
-        "target" : "1829482",
+        "id" : "1824552",
+        "source" : "1823951",
+        "target" : "1824113",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCarlitoCarvalhosa",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCarlitoCarvalhosa",
         "interaction" : "-",
-        "SUID" : 1829921,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824552,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829919",
-        "source" : "1829317",
-        "target" : "1829524",
+        "id" : "1824550",
+        "source" : "1823951",
+        "target" : "1824155",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arCaoGuimaraes",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arCaoGuimaraes",
         "interaction" : "-",
-        "SUID" : 1829919,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824550,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829915",
-        "source" : "1829317",
-        "target" : "1829749",
+        "id" : "1824546",
+        "source" : "1823951",
+        "target" : "1824380",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arPaulAnderson",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPaulAnderson",
         "interaction" : "-",
-        "SUID" : 1829915,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824546,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829913",
-        "source" : "1829317",
-        "target" : "1829488",
+        "id" : "1824544",
+        "source" : "1823951",
+        "target" : "1824119",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJoaquinPhoenix",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJoaquinPhoenix",
         "interaction" : "-",
-        "SUID" : 1829913,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824544,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829911",
-        "source" : "1829317",
-        "target" : "1829485",
+        "id" : "1824542",
+        "source" : "1823951",
+        "target" : "1824116",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arPhilipHoffman",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPhilipHoffman",
         "interaction" : "-",
-        "SUID" : 1829911,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824542,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829907",
-        "source" : "1829317",
-        "target" : "1829704",
+        "id" : "1824538",
+        "source" : "1823951",
+        "target" : "1824335",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAugustSander",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAugustSander",
         "interaction" : "-",
-        "SUID" : 1829907,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824538,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829905",
-        "source" : "1829317",
-        "target" : "1829491",
+        "id" : "1824536",
+        "source" : "1823951",
+        "target" : "1824122",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arHansEijkelboom",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arHansEijkelboom",
         "interaction" : "-",
-        "SUID" : 1829905,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824536,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829889",
-        "source" : "1829317",
-        "target" : "1829734",
+        "id" : "1824520",
+        "source" : "1823951",
+        "target" : "1824365",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arWolfgangTillmans",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arWolfgangTillmans",
         "interaction" : "-",
-        "SUID" : 1829889,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824520,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829885",
-        "source" : "1829317",
-        "target" : "1829728",
+        "id" : "1824516",
+        "source" : "1823951",
+        "target" : "1824359",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSamuelAranda",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSamuelAranda",
         "interaction" : "-",
-        "SUID" : 1829885,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824516,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829867",
-        "source" : "1829317",
-        "target" : "1829500",
+        "id" : "1824498",
+        "source" : "1823951",
+        "target" : "1824131",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRodrigoBraga",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRodrigoBraga",
         "interaction" : "-",
-        "SUID" : 1829867,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824498,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829861",
-        "source" : "1829317",
-        "target" : "1829509",
-        "EdgeBetweenness" : 1455.9999999999966,
+        "id" : "1824492",
+        "source" : "1823951",
+        "target" : "1824140",
+        "EdgeBetweenness" : 1455.9999999999968,
         "shared_name" : "auRonaldoEntler (-) arClaudiaAndujar",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arClaudiaAndujar",
         "interaction" : "-",
-        "SUID" : 1829861,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824492,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829859",
-        "source" : "1829317",
-        "target" : "1829653",
-        "EdgeBetweenness" : 1455.9999999999966,
+        "id" : "1824490",
+        "source" : "1823951",
+        "target" : "1824284",
+        "EdgeBetweenness" : 1455.9999999999968,
         "shared_name" : "auRonaldoEntler (-) arMiguelRioBranco",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMiguelRioBranco",
         "interaction" : "-",
-        "SUID" : 1829859,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 2
+        "SUID" : 1824490,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829857",
-        "source" : "1829317",
-        "target" : "1829707",
+        "id" : "1824488",
+        "source" : "1823951",
+        "target" : "1824338",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMariaMenis",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMariaMenis",
         "interaction" : "-",
-        "SUID" : 1829857,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824488,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829855",
-        "source" : "1829317",
-        "target" : "1829701",
+        "id" : "1824486",
+        "source" : "1823951",
+        "target" : "1824332",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJodiBieber",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJodiBieber",
         "interaction" : "-",
-        "SUID" : 1829855,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824486,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829851",
-        "source" : "1829317",
-        "target" : "1829512",
+        "id" : "1824482",
+        "source" : "1823951",
+        "target" : "1824143",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJeanGodard",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJeanGodard",
         "interaction" : "-",
-        "SUID" : 1829851,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824482,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829849",
-        "source" : "1829317",
-        "target" : "1829656",
+        "id" : "1824480",
+        "source" : "1823951",
+        "target" : "1824287",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJonathasAndrade",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJonathasAndrade",
         "interaction" : "-",
-        "SUID" : 1829849,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 2
+        "SUID" : 1824480,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829847",
-        "source" : "1829317",
-        "target" : "1829695",
+        "id" : "1824478",
+        "source" : "1823951",
+        "target" : "1824326",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arPabloMilanes",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPabloMilanes",
         "interaction" : "-",
-        "SUID" : 1829847,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824478,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829845",
-        "source" : "1829317",
-        "target" : "1829692",
+        "id" : "1824476",
+        "source" : "1823951",
+        "target" : "1824323",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arBrianEno",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arBrianEno",
         "interaction" : "-",
-        "SUID" : 1829845,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824476,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829843",
-        "source" : "1829317",
-        "target" : "1829689",
+        "id" : "1824474",
+        "source" : "1823951",
+        "target" : "1824320",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJosePadilha",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJosePadilha",
         "interaction" : "-",
-        "SUID" : 1829843,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824474,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829841",
-        "source" : "1829317",
-        "target" : "1829686",
+        "id" : "1824472",
+        "source" : "1823951",
+        "target" : "1824317",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arOlivierAssayas",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arOlivierAssayas",
         "interaction" : "-",
-        "SUID" : 1829841,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824472,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829839",
-        "source" : "1829317",
-        "target" : "1829521",
+        "id" : "1824470",
+        "source" : "1823951",
+        "target" : "1824152",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arChicoBuarque",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arChicoBuarque",
         "interaction" : "-",
-        "SUID" : 1829839,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824470,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829817",
-        "source" : "1829317",
-        "target" : "1829662",
-        "EdgeBetweenness" : 1455.9999999999966,
+        "id" : "1824448",
+        "source" : "1823951",
+        "target" : "1824293",
+        "EdgeBetweenness" : 1455.9999999999968,
         "shared_name" : "auRonaldoEntler (-) arNanGoldin",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arNanGoldin",
         "interaction" : "-",
-        "SUID" : 1829817,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824448,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829815",
-        "source" : "1829317",
-        "target" : "1829659",
+        "id" : "1824446",
+        "source" : "1823951",
+        "target" : "1824290",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAliceMiceli",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAliceMiceli",
         "interaction" : "-",
-        "SUID" : 1829815,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824446,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829809",
-        "source" : "1829317",
-        "target" : "1829650",
+        "id" : "1824440",
+        "source" : "1823951",
+        "target" : "1824281",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRochelleCosti",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRochelleCosti",
         "interaction" : "-",
-        "SUID" : 1829809,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824440,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829807",
-        "source" : "1829317",
-        "target" : "1829647",
+        "id" : "1824438",
+        "source" : "1823951",
+        "target" : "1824278",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGuyVeloso",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGuyVeloso",
         "interaction" : "-",
-        "SUID" : 1829807,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824438,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829805",
-        "source" : "1829317",
-        "target" : "1829587",
+        "id" : "1824436",
+        "source" : "1823951",
+        "target" : "1824218",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRosangelaRenno",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRosangelaRenno",
         "interaction" : "-",
-        "SUID" : 1829805,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824436,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829803",
-        "source" : "1829317",
-        "target" : "1829515",
+        "id" : "1824434",
+        "source" : "1823951",
+        "target" : "1824146",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAlfredoJaar",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAlfredoJaar",
         "interaction" : "-",
-        "SUID" : 1829803,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824434,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829797",
-        "source" : "1829317",
-        "target" : "1829638",
+        "id" : "1824428",
+        "source" : "1823951",
+        "target" : "1824269",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arMarceloGomes",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arMarceloGomes",
         "interaction" : "-",
-        "SUID" : 1829797,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824428,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829795",
-        "source" : "1829317",
-        "target" : "1829635",
+        "id" : "1824426",
+        "source" : "1823951",
+        "target" : "1824266",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arKarimAinouz",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arKarimAinouz",
         "interaction" : "-",
-        "SUID" : 1829795,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824426,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829793",
-        "source" : "1829317",
-        "target" : "1829632",
+        "id" : "1824424",
+        "source" : "1823951",
+        "target" : "1824263",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arPhilippeParreno",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPhilippeParreno",
         "interaction" : "-",
-        "SUID" : 1829793,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824424,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829791",
-        "source" : "1829317",
-        "target" : "1829629",
+        "id" : "1824422",
+        "source" : "1823951",
+        "target" : "1824260",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arDouglasGordon",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arDouglasGordon",
         "interaction" : "-",
-        "SUID" : 1829791,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824422,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829787",
-        "source" : "1829317",
-        "target" : "1829623",
+        "id" : "1824418",
+        "source" : "1823951",
+        "target" : "1824254",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSaraSaudkova",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSaraSaudkova",
         "interaction" : "-",
-        "SUID" : 1829787,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824418,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829785",
-        "source" : "1829317",
-        "target" : "1829620",
+        "id" : "1824416",
+        "source" : "1823951",
+        "target" : "1824251",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJanSaudek",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJanSaudek",
         "interaction" : "-",
-        "SUID" : 1829785,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824416,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829783",
-        "source" : "1829317",
-        "target" : "1829617",
+        "id" : "1824414",
+        "source" : "1823951",
+        "target" : "1824248",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLauraSmet",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLauraSmet",
         "interaction" : "-",
-        "SUID" : 1829783,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824414,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829781",
-        "source" : "1829317",
-        "target" : "1829614",
+        "id" : "1824412",
+        "source" : "1823951",
+        "target" : "1824245",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arLouisGarrel",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arLouisGarrel",
         "interaction" : "-",
-        "SUID" : 1829781,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824412,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829779",
-        "source" : "1829317",
-        "target" : "1829611",
+        "id" : "1824410",
+        "source" : "1823951",
+        "target" : "1824242",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arPhilippeGarrel",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arPhilippeGarrel",
         "interaction" : "-",
-        "SUID" : 1829779,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824410,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829777",
-        "source" : "1829317",
-        "target" : "1829608",
+        "id" : "1824408",
+        "source" : "1823951",
+        "target" : "1824239",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arAdrianoChoque",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arAdrianoChoque",
         "interaction" : "-",
-        "SUID" : 1829777,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824408,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829775",
-        "source" : "1829317",
-        "target" : "1829605",
+        "id" : "1824406",
+        "source" : "1823951",
+        "target" : "1824236",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRafaelAugustaitiz",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRafaelAugustaitiz",
         "interaction" : "-",
-        "SUID" : 1829775,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824406,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829773",
-        "source" : "1829317",
-        "target" : "1829602",
+        "id" : "1824404",
+        "source" : "1823951",
+        "target" : "1824233",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arDjanIvson",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arDjanIvson",
         "interaction" : "-",
-        "SUID" : 1829773,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824404,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829771",
-        "source" : "1829317",
-        "target" : "1829599",
+        "id" : "1824402",
+        "source" : "1823951",
+        "target" : "1824230",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arIrinaIonesco",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arIrinaIonesco",
         "interaction" : "-",
-        "SUID" : 1829771,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824402,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829769",
-        "source" : "1829317",
-        "target" : "1829584",
+        "id" : "1824400",
+        "source" : "1823951",
+        "target" : "1824215",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arSophieCalle",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arSophieCalle",
         "interaction" : "-",
-        "SUID" : 1829769,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824400,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829763",
-        "source" : "1829317",
-        "target" : "1829590",
+        "id" : "1824394",
+        "source" : "1823951",
+        "target" : "1824221",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJuanCampanella",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJuanCampanella",
         "interaction" : "-",
-        "SUID" : 1829763,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824394,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829761",
-        "source" : "1829317",
-        "target" : "1829578",
+        "id" : "1824392",
+        "source" : "1823951",
+        "target" : "1824209",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arGordonMattaClark",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arGordonMattaClark",
         "interaction" : "-",
-        "SUID" : 1829761,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824392,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829759",
-        "source" : "1829317",
-        "target" : "1829575",
+        "id" : "1824390",
+        "source" : "1823951",
+        "target" : "1824206",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arJamesCameron",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arJamesCameron",
         "interaction" : "-",
-        "SUID" : 1829759,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824390,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829755",
-        "source" : "1829317",
-        "target" : "1829554",
+        "id" : "1824386",
+        "source" : "1823951",
+        "target" : "1824185",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auRonaldoEntler (-) arRobertDoisneau",
         "shared_interaction" : "-",
         "name" : "auRonaldoEntler (-) arRobertDoisneau",
         "interaction" : "-",
-        "SUID" : 1829755,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824386,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829909",
-        "source" : "1829314",
-        "target" : "1829746",
+        "id" : "1824540",
+        "source" : "1823948",
+        "target" : "1824377",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "auClaudiaSanz (-) arMichaelRuetz",
         "shared_interaction" : "-",
         "name" : "auClaudiaSanz (-) arMichaelRuetz",
         "interaction" : "-",
-        "SUID" : 1829909,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824540,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829953",
-        "source" : "1829311",
-        "target" : "1829455",
+        "id" : "1824584",
+        "source" : "1823942",
+        "target" : "1824086",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auPioFigueiroa (-) arAdelaideIvanova",
         "shared_interaction" : "-",
         "name" : "auPioFigueiroa (-) arAdelaideIvanova",
         "interaction" : "-",
-        "SUID" : 1829953,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824584,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829945",
-        "source" : "1829311",
-        "target" : "1829464",
+        "id" : "1824576",
+        "source" : "1823942",
+        "target" : "1824095",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auPioFigueiroa (-) arAnaLira",
         "shared_interaction" : "-",
         "name" : "auPioFigueiroa (-) arAnaLira",
         "interaction" : "-",
-        "SUID" : 1829945,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824576,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829937",
-        "source" : "1829311",
-        "target" : "1829572",
+        "id" : "1824568",
+        "source" : "1823942",
+        "target" : "1824203",
         "EdgeBetweenness" : 1112.0,
         "shared_name" : "auPioFigueiroa (-) arLiviaAquino",
         "shared_interaction" : "-",
         "name" : "auPioFigueiroa (-) arLiviaAquino",
         "interaction" : "-",
-        "SUID" : 1829937,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824568,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1829935",
-        "source" : "1829311",
-        "target" : "1829467",
+        "id" : "1824566",
+        "source" : "1823942",
+        "target" : "1824098",
         "EdgeBetweenness" : 284.0,
         "shared_name" : "auPioFigueiroa (-) arAlexandreSevero",
         "shared_interaction" : "-",
         "name" : "auPioFigueiroa (-) arAlexandreSevero",
         "interaction" : "-",
-        "SUID" : 1829935,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824566,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830053",
-        "source" : "1829287",
-        "target" : "1829410",
+        "id" : "1824684",
+        "source" : "1823915",
+        "target" : "1824041",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "auDidianaPrata (-) arRogerioAssis",
         "shared_interaction" : "-",
         "name" : "auDidianaPrata (-) arRogerioAssis",
         "interaction" : "-",
-        "SUID" : 1830053,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824684,
+        "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1830051",
-        "source" : "1829287",
-        "target" : "1829407",
+        "id" : "1824682",
+        "source" : "1823915",
+        "target" : "1824038",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "auDidianaPrata (-) arCiroGirard",
         "shared_interaction" : "-",
         "name" : "auDidianaPrata (-) arCiroGirard",
         "interaction" : "-",
-        "SUID" : 1830051,
-        "selected" : false,
-        "NumberOfUnderlyingEdges" : 1
+        "SUID" : 1824682,
+        "selected" : false
       },
       "selected" : false
     } ]

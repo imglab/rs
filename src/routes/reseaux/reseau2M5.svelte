@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Autores e Artistas-temas - o fermento</h2>
-<p>Rede bimodal dos 47 artistas-temas das críticas publicadas pela o fermento até abril de 2019 com suas 3 autoras.</p>
+<p>Rede bimodal dos 47 artistas-temas das críticas publicadas pela o fermento até abril de 2019 com suas 3 autoras. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

@@ -6,22 +6,107 @@ export let styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 16,
       "width" : 75.0,
       "background-color" : "rgb(137,208,245)",
-      "height" : 35.0,
-      "shape" : "roundrectangle",
-      "text-opacity" : 1.0,
       "border-width" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "shape" : "roundrectangle",
+      "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
       "font-family" : "SansSerif",
       "font-weight" : "normal",
-      "border-opacity" : 1.0,
-      "color" : "rgb(0,0,0)",
+      "font-size" : 16,
       "text-valign" : "center",
       "text-halign" : "center",
-      "background-opacity" : 1.0,
+      "height" : 35.0,
       "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Argentina']",
+    "css" : {
+      "background-color" : "rgb(102,194,165)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'República Gabonesa']",
+    "css" : {
+      "background-color" : "rgb(199,216,70)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Turquia']",
+    "css" : {
+      "background-color" : "rgb(106,119,98)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Grécia']",
+    "css" : {
+      "background-color" : "rgb(158,156,202)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Rússia']",
+    "css" : {
+      "background-color" : "rgb(249,212,72)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Suiça']",
+    "css" : {
+      "background-color" : "rgb(237,203,116)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Portugal']",
+    "css" : {
+      "background-color" : "rgb(199,177,140)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Reino Unido']",
+    "css" : {
+      "background-color" : "rgb(170,211,91)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Brasil']",
+    "css" : {
+      "background-color" : "rgb(78,179,211)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Canadá']",
+    "css" : {
+      "background-color" : "rgb(233,148,106)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Áustria']",
+    "css" : {
+      "background-color" : "rgb(11,59,59)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Itália']",
+    "css" : {
+      "background-color" : "rgb(197,146,198)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'NA']",
+    "css" : {
+      "background-color" : "rgb(240,240,240)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'França']",
+    "css" : {
+      "background-color" : "rgb(169,155,177)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'China']",
+    "css" : {
+      "background-color" : "rgb(217,147,131)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Romênia']",
+    "css" : {
+      "background-color" : "rgb(238,217,54)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Sérvia']",
+    "css" : {
+      "background-color" : "rgb(202,179,137)"
     }
   }, {
     "selector" : "node[personId = 'arWaleriaBezerra']",
@@ -989,91 +1074,6 @@ export let styles = [ {
       "shape" : "ellipse"
     }
   }, {
-    "selector" : "node[birthCountry = 'Argentina']",
-    "css" : {
-      "background-color" : "rgb(102,194,165)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'República Gabonesa']",
-    "css" : {
-      "background-color" : "rgb(199,216,70)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Turquia']",
-    "css" : {
-      "background-color" : "rgb(106,119,98)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Grécia']",
-    "css" : {
-      "background-color" : "rgb(158,156,202)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Rússia']",
-    "css" : {
-      "background-color" : "rgb(249,212,72)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Suiça']",
-    "css" : {
-      "background-color" : "rgb(237,203,116)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Portugal']",
-    "css" : {
-      "background-color" : "rgb(199,177,140)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Reino Unido']",
-    "css" : {
-      "background-color" : "rgb(170,211,91)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Brasil']",
-    "css" : {
-      "background-color" : "rgb(78,179,211)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Canadá']",
-    "css" : {
-      "background-color" : "rgb(233,148,106)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Áustria']",
-    "css" : {
-      "background-color" : "rgb(11,59,59)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Itália']",
-    "css" : {
-      "background-color" : "rgb(197,146,198)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'NA']",
-    "css" : {
-      "background-color" : "rgb(240,240,240)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'França']",
-    "css" : {
-      "background-color" : "rgb(169,155,177)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'China']",
-    "css" : {
-      "background-color" : "rgb(217,147,131)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Romênia']",
-    "css" : {
-      "background-color" : "rgb(238,217,54)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Sérvia']",
-    "css" : {
-      "background-color" : "rgb(202,179,137)"
-    }
-  }, {
     "selector" : "node:selected",
     "css" : {
       "background-color" : "rgb(255,255,0)"
@@ -1082,19 +1082,19 @@ export let styles = [ {
     "selector" : "edge",
     "css" : {
       "text-opacity" : 1.0,
-      "font-size" : 10,
-      "line-color" : "rgb(132,132,132)",
-      "target-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
+      "source-arrow-color" : "rgb(0,0,0)",
       "width" : 0.75,
+      "color" : "rgb(0,0,0)",
+      "content" : "",
+      "target-arrow-color" : "rgb(0,0,0)",
+      "opacity" : 1.0,
+      "line-color" : "rgb(132,132,132)",
+      "source-arrow-shape" : "none",
       "font-family" : "Dialog",
       "font-weight" : "normal",
-      "opacity" : 1.0,
-      "content" : "",
-      "source-arrow-color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "triangle",
-      "line-style" : "solid",
-      "color" : "rgb(0,0,0)",
-      "source-arrow-shape" : "none"
+      "font-size" : 10,
+      "line-style" : "solid"
     }
   }, {
     "selector" : "edge:selected",

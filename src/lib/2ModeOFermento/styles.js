@@ -6,22 +6,72 @@ export let styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "border-color" : "rgb(0,0,0)",
-      "font-size" : 16,
       "width" : 75.0,
       "background-color" : "rgb(137,208,245)",
-      "height" : 35.0,
-      "shape" : "roundrectangle",
-      "text-opacity" : 1.0,
       "border-width" : 1.0,
+      "border-color" : "rgb(0,0,0)",
+      "text-opacity" : 1.0,
+      "background-opacity" : 1.0,
+      "shape" : "roundrectangle",
+      "color" : "rgb(0,0,0)",
+      "border-opacity" : 1.0,
       "font-family" : "SansSerif",
       "font-weight" : "normal",
-      "border-opacity" : 1.0,
-      "color" : "rgb(0,0,0)",
+      "font-size" : 16,
       "text-valign" : "center",
       "text-halign" : "center",
-      "background-opacity" : 1.0,
+      "height" : 35.0,
       "content" : "data(name)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Brasil']",
+    "css" : {
+      "background-color" : "rgb(78,179,211)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Cuba']",
+    "css" : {
+      "background-color" : "rgb(171,153,200)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Venezuela']",
+    "css" : {
+      "background-color" : "rgb(11,59,59)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Argentina']",
+    "css" : {
+      "background-color" : "rgb(102,194,165)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Itália']",
+    "css" : {
+      "background-color" : "rgb(225,217,59)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Bélgica']",
+    "css" : {
+      "background-color" : "rgb(190,152,156)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'NA']",
+    "css" : {
+      "background-color" : "rgb(240,240,240)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'França']",
+    "css" : {
+      "background-color" : "rgb(173,207,96)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Estados Unidos']",
+    "css" : {
+      "background-color" : "rgb(224,147,183)"
+    }
+  }, {
+    "selector" : "node[birthCountry = 'Suíça']",
+    "css" : {
+      "background-color" : "rgb(181,166,128)"
     }
   }, {
     "selector" : "node[personId = 'arMariaMartins']",
@@ -274,56 +324,6 @@ export let styles = [ {
       "shape" : "ellipse"
     }
   }, {
-    "selector" : "node[birthCountry = 'Brasil']",
-    "css" : {
-      "background-color" : "rgb(78,179,211)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Cuba']",
-    "css" : {
-      "background-color" : "rgb(171,153,200)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Venezuela']",
-    "css" : {
-      "background-color" : "rgb(11,59,59)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Argentina']",
-    "css" : {
-      "background-color" : "rgb(102,194,165)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Itália']",
-    "css" : {
-      "background-color" : "rgb(225,217,59)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Bélgica']",
-    "css" : {
-      "background-color" : "rgb(190,152,156)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'NA']",
-    "css" : {
-      "background-color" : "rgb(240,240,240)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'França']",
-    "css" : {
-      "background-color" : "rgb(173,207,96)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Estados Unidos']",
-    "css" : {
-      "background-color" : "rgb(224,147,183)"
-    }
-  }, {
-    "selector" : "node[birthCountry = 'Suíça']",
-    "css" : {
-      "background-color" : "rgb(181,166,128)"
-    }
-  }, {
     "selector" : "node:selected",
     "css" : {
       "background-color" : "rgb(255,255,0)"
@@ -332,19 +332,19 @@ export let styles = [ {
     "selector" : "edge",
     "css" : {
       "text-opacity" : 1.0,
-      "font-size" : 10,
-      "line-color" : "rgb(132,132,132)",
-      "target-arrow-color" : "rgb(0,0,0)",
+      "target-arrow-shape" : "none",
+      "source-arrow-color" : "rgb(0,0,0)",
       "width" : 0.75,
+      "color" : "rgb(0,0,0)",
+      "content" : "",
+      "target-arrow-color" : "rgb(0,0,0)",
+      "opacity" : 1.0,
+      "line-color" : "rgb(132,132,132)",
+      "source-arrow-shape" : "none",
       "font-family" : "Dialog",
       "font-weight" : "normal",
-      "opacity" : 1.0,
-      "content" : "",
-      "source-arrow-color" : "rgb(0,0,0)",
-      "target-arrow-shape" : "triangle",
-      "line-style" : "solid",
-      "color" : "rgb(0,0,0)",
-      "source-arrow-shape" : "none"
+      "font-size" : 10,
+      "line-style" : "solid"
     }
   }, {
     "selector" : "edge:selected",
