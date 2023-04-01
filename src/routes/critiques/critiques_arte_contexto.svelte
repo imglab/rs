@@ -27,7 +27,7 @@
     </thead>
     <tbody>
             <tr>
-               <td>PELOS ESPAÇOS DO VISÍVEL E DO INTANGÍVEL</td>
+               <td><a href="https://web.archive.org/web/20190103213651/http://artcontexto.com.br/artigo-edicao01_aposta_marcos.html">PELOS ESPAÇOS DO VISÍVEL E DO INTANGÍVEL</a></td>
                <td>
                   <ul>
                      <li>Talitha Bueno Motter</li>
@@ -49,7 +49,7 @@
                </td>
             </tr>
             <tr>
-               <td>WILLIAM KENTRIDGE: UMA FRUIÇÃO MAIS ACESSÍVEL</td>
+               <td><a href="https://web.archive.org/web/20170530085602/http://artcontexto.com.br/artigo-edicao01_william_kentridge.html">WILLIAM KENTRIDGE: UMA FRUIÇÃO MAIS ACESSÍVEL</a></td>
                <td>
                   <ul>
                      <li>Paola Mayer Fabres</li>
@@ -70,7 +70,7 @@
                </td>
             </tr>
             <tr>
-               <td>POR ENTRE MUNDOS</td>
+               <td><a href="https://web.archive.org/web/20170214185431/http://artcontexto.com.br/artigo-edicao02_talitha_motter.html">POR ENTRE MUNDOS</a></td>
                <td>
                   <ul>
                      <li>Talitha Bueno Motter</li>
@@ -93,7 +93,7 @@
                </td>
             </tr>
             <tr>
-               <td>ESPAÇOS IRREAIS DE ADRIANA CONTI MELO</td>
+               <td><a href="https://web.archive.org/web/20170214195053/http://artcontexto.com.br/artigo-edicao02_espacos_irreais.html">ESPAÇOS IRREAIS DE ADRIANA CONTI MELO</a></td>
                <td>
                   <ul>
                      <li>Carolina Bouvie Grippa</li>
@@ -114,7 +114,7 @@
                </td>
             </tr>
             <tr>
-               <td>UM RETRATO EM FORMAÇÃO</td>
+               <td><a href="https://web.archive.org/web/20170214073704/http://artcontexto.com.br/artigo-edicao02_retrato_formacao.html">UM RETRATO EM FORMAÇÃO</a></td>
                <td>
                   <ul>
                      <li>Paola Fabres</li>
@@ -135,7 +135,7 @@
                </td>
             </tr>
             <tr>
-               <td>ARTE ILHADA: PROJETO DE IMERSÃO SOCIAL REFLETE TAMBÉM NOSSA REALIDADE CULTURAL</td>
+               <td><a href="https://web.archive.org/web/20170210084934/http://artcontexto.com.br/artigo-edicao03_eu-ilha.html">ARTE ILHADA: PROJETO DE IMERSÃO SOCIAL REFLETE TAMBÉM NOSSA REALIDADE CULTURAL</a></td>
                <td>
                   <ul>
                      <li>Paola Fabres</li>
@@ -159,7 +159,7 @@
                </td>
             </tr>
             <tr>
-               <td>DESACOMODAÇÕES EM UMA MICROCIDADE</td>
+               <td><a href="https://web.archive.org/web/20170213191806/http://artcontexto.com.br/artigo-edicao04-talitha_motter.html">DESACOMODAÇÕES EM UMA MICROCIDADE</a></td>
                <td>
                   <ul>
                      <li>Talitha Bueno Motter</li>
@@ -181,7 +181,7 @@
                </td>
             </tr>
             <tr>
-               <td>O GRUPO OPOVOEMPÉ: UMA EXPERIÊNCIA TRANSFORMADORA</td>
+               <td><a href="https://web.archive.org/web/20170213191818/http://artcontexto.com.br/artigo-edicao04-matheus_cosmo.html">O GRUPO OPOVOEMPÉ: UMA EXPERIÊNCIA TRANSFORMADORA</a></td>
                <td>
                   <ul>
                      <li>Matheus Cosmo</li>
@@ -204,7 +204,7 @@
                </td>
             </tr>
             <tr>
-               <td>RONALD DUARTE: UM CORPO COLETIVO REAGINDO ESTETICAMENTE À CIDADE</td>
+               <td><a href="https://web.archive.org/web/20170509041954/http://artcontexto.com.br/artigo-edicao04-andre_leal.html">RONALD DUARTE: UM CORPO COLETIVO REAGINDO ESTETICAMENTE À CIDADE</a></td>
                <td>
                   <ul>
                      <li>André Leal</li>
@@ -228,7 +228,7 @@
                </td>
             </tr>
             <tr>
-               <td>O GRAFITE DE CHÃO DE FABIANO DO NASCIMENTO COSTA NAS CALÇADAS DO GRAJAÚ / RIO DE JANEIRO</td>
+               <td><a href="https://web.archive.org/web/20170530094132/http://artcontexto.com.br/artigo-edicao04-renata_vellozo.html">O GRAFITE DE CHÃO DE FABIANO DO NASCIMENTO COSTA NAS CALÇADAS DO GRAJAÚ / RIO DE JANEIRO</a></td>
                <td>
                   <ul>
                      <li>Renata Vellozo Gomes</li>
@@ -247,7 +247,7 @@
                </td>
             </tr>
             <tr>
-               <td>|CAMADAS DE MEMÓRIAS // SEDIMENTAÇÕES DE TEMPOS|</td>
+               <td><a href="https://web.archive.org/web/20170213214951/http://artcontexto.com.br/artigo-talitha_motter.html">|CAMADAS DE MEMÓRIAS // SEDIMENTAÇÕES DE TEMPOS|</a></td>
                <td>
                   <ul>
                      <li>Talitha Bueno Motter</li>
@@ -269,9 +269,8 @@
                </td>
             </tr>
             <tr>
-               <td>UM PAVILHÃO QUE É UM JORNAL: NOTAS SOBRE A PARTICIPAÇÃO DE PORTUGAL NA 14ª EXPOSIÇÃO
-                  INTERNACIONAL DE ARQUITETURA DA BIENAL DE VENEZA.
-               </td>
+               <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/artigo-laurem_crossetti.html">UM PAVILHÃO QUE É UM JORNAL: NOTAS SOBRE A PARTICIPAÇÃO DE PORTUGAL NA 14ª EXPOSIÇÃO
+                     INTERNACIONAL DE ARQUITETURA DA BIENAL DE VENEZA.</a></td>
                <td>
                   <ul>
                      <li>Laurem Crossetti</li>
@@ -303,7 +302,7 @@
                </td>
             </tr>
             <tr>
-               <td>A PLURALIDADE DOS SENTIDOS EM HISTÓRIAS DO NÃO VER</td>
+               <td><a href="https://web.archive.org/web/20170213193903/http://artcontexto.com.br/artigo-fernanda_oliveira.html">A PLURALIDADE DOS SENTIDOS EM HISTÓRIAS DO NÃO VER</a></td>
                <td>
                   <ul>
                      <li>Fernanda Oliveira Borges e Melo</li>
@@ -324,7 +323,7 @@
                </td>
             </tr>
             <tr>
-               <td>BIODRAMA: JOGO DE TENSÃO ENTRE FICÇÃO E REALIDADE</td>
+               <td><a href="https://web.archive.org/web/20170601020214/http://artcontexto.com.br/artigo-fernando_freitas.html">BIODRAMA: JOGO DE TENSÃO ENTRE FICÇÃO E REALIDADE</a></td>
                <td>
                   <ul>
                      <li>Fernando Freitas dos Santos</li>
@@ -374,7 +373,7 @@
                </td>
             </tr>
             <tr>
-               <td>A SOMA DAS COISAS, OU SOBRE O SILÊNCIO EM MAYRA REDIN</td>
+               <td><a href="https://web.archive.org/web/20190129202332/http://artcontexto.com.br/aposta-edicao06_natalia.html">A SOMA DAS COISAS, OU SOBRE O SILÊNCIO EM MAYRA REDIN</a></td>
                <td>
                   <ul>
                      <li>Natália Quinderé</li>
@@ -403,7 +402,7 @@
                </td>
             </tr>
             <tr>
-               <td>TENTATIVA DE DURAR: DE SUBMERGIR E RETORNAR</td>
+               <td><a href="https://web.archive.org/web/20170530101446/http://artcontexto.com.br/artigo-edicao07_aposta.html">TENTATIVA DE DURAR: DE SUBMERGIR E RETORNAR</a></td>
                <td>
                   <ul>
                      <li>Talitha Bueno Motter</li>
@@ -431,7 +430,7 @@
                </td>
             </tr>
             <tr>
-               <td>CORPS DU MONDE (CORPOS DO MUNDO)– POÉTICA DE ANA KESSELRING</td>
+               <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/resenha-edicao07_fabiana_moraes.html">CORPS DU MONDE (CORPOS DO MUNDO)– POÉTICA DE ANA KESSELRING</a></td>
                <td>
                   <ul>
                      <li>Fabiana de Moraes</li>
@@ -452,7 +451,7 @@
                </td>
             </tr>
             <tr>
-               <td>UMA COLEÇÃO: UMA GROSA DE PEQUENOS DESENHOS NA OBRA DE ROGERIO LIVI</td>
+               <td><a href="https://web.archive.org/web/20170530105418/http://artcontexto.com.br/textocurto_07_silvia_livi.html">UMA COLEÇÃO: UMA GROSA DE PEQUENOS DESENHOS NA OBRA DE ROGERIO LIVI</a></td>
                <td>
                   <ul>
                      <li>Silvia Livi</li>
@@ -473,7 +472,7 @@
                </td>
             </tr>
             <tr>
-               <td>PEQUENA CARTA À ELIDA TESSLER</td>
+               <td><a href="https://web.archive.org/web/20170210063348/http://artcontexto.com.br/texto-obra_07_andre_renata.html">PEQUENA CARTA À ELIDA TESSLER</a></td>
                <td>
                   <ul>
                      <li>André Winter Noble</li>
@@ -495,7 +494,7 @@
                </td>
             </tr>
             <tr>
-               <td>KADER ATTIA E A FANTASIA DA BIBLIOTECA NA GALERIA DE ARTE</td>
+               <td><a href="https://web.archive.org/web/20170601011024/http://www.artcontexto.com.br/artigo-edicao07_nathalia-lavigne.html">KADER ATTIA E A FANTASIA DA BIBLIOTECA NA GALERIA DE ARTE</a></td>
                <td>
                   <ul>
                      <li>Nathalia Lavigne</li>
@@ -516,7 +515,7 @@
                </td>
             </tr>
             <tr>
-               <td>PEQUENA CARTA A WALMOR CORRÊA</td>
+               <td><a href="https://web.archive.org/web/20170213193819/http://artcontexto.com.br/texto-obra_08_andre_renata.html">PEQUENA CARTA A WALMOR CORRÊA</a></td>
                <td>
                   <ul>
                      <li>André Winter Noble</li>
@@ -538,7 +537,7 @@
                </td>
             </tr>
             <tr>
-               <td>LA REALIDAD COMO UN PANTANO</td>
+               <td><a href="https://web.archive.org/web/20170214034611/http://artcontexto.com.br/resenha-edicao08_juliana-gontijo.html">LA REALIDAD COMO UN PANTANO</a></td>
                <td>
                   <ul>
                      <li>Juliana Gontijo</li>
@@ -561,7 +560,7 @@
                </td>
             </tr>
             <tr>
-               <td>FLERTE NA FEIRA DE CIÊNCIAS</td>
+               <td><a href="https://web.archive.org/web/20170213191831/http://artcontexto.com.br/artigo-edicao08_paula-luersen.html">FLERTE NA FEIRA DE CIÊNCIAS</a></td>
                <td>
                   <ul>
                      <li>Paula Luersen</li>
@@ -587,7 +586,7 @@
                </td>
             </tr>
             <tr>
-               <td>QUANDO A MÁQUINA ATINGE O SENSÍVEL: CONSIDERAÇÕES SOBRE A OBRA DE MAURA GRIMALDI</td>
+               <td><a href="https://web.archive.org/web/20170213132351/http://artcontexto.com.br/artigo-edicao08_aposta.html">QUANDO A MÁQUINA ATINGE O SENSÍVEL: CONSIDERAÇÕES SOBRE A OBRA DE MAURA GRIMALDI</a></td>
                <td>
                   <ul>
                      <li>Paola Fabres</li>
@@ -610,7 +609,7 @@
                </td>
             </tr>
             <tr>
-               <td>O UNIVERSO ONÍRICO DE SAMY SFOGGIA: EXPERIMENTALISMO NA FOTOGRAFIA CONTEMPORÂNEA</td>
+               <td><a href="https://web.archive.org/web/20190129202417/http://artcontexto.com.br/artigo-edicao09_aposta.html">O UNIVERSO ONÍRICO DE SAMY SFOGGIA: EXPERIMENTALISMO NA FOTOGRAFIA CONTEMPORÂNEA</a></td>
                <td>
                   <ul>
                      <li>Luísa Kiefer</li>
@@ -633,7 +632,7 @@
                </td>
             </tr>
             <tr>
-               <td>O SKATE COMO ARTE, E O SKATISTA COMO PSICOGEÓGRAFO</td>
+               <td><a href="https://web.archive.org/web/20170214073311/http://artcontexto.com.br/textocurto_09_pedro-cupertino.html">O SKATE COMO ARTE, E O SKATISTA COMO PSICOGEÓGRAFO</a></td>
                <td>
                   <ul>
                      <li>Pedro Cupertino</li>
@@ -654,7 +653,7 @@
                </td>
             </tr>
             <tr>
-               <td>JARDINS TAMBÉM PASSEIAM</td>
+               <td><a href="https://web.archive.org/web/20161020070022/http://artcontexto.com.br/aposta-edicao10_paola-fabres.html">JARDINS TAMBÉM PASSEIAM</a></td>
                <td>
                   <ul>
                      <li>Paola Fabres</li>
@@ -677,7 +676,7 @@
                </td>
             </tr>
             <tr>
-               <td>PEQUENA CARTA A FRANS KRAJCBERG</td>
+               <td><a href="https://web.archive.org/web/20161020113322/http://artcontexto.com.br/texto-obra_10_andre-renata.html">PEQUENA CARTA A FRANS KRAJCBERG</a></td>
                <td>
                   <ul>
                      <li>André Winter Noble</li>
@@ -697,7 +696,7 @@
                </td>
             </tr>
             <tr>
-               <td>HUBERT DUPRAT EM LATTARA: UMA INTERVENÇÃO CONTEMPORÂNEA NA HISTÓRIA ANTIGA</td>
+               <td><a href="https://web.archive.org/web/20161020112846/http://artcontexto.com.br/artigo-edicao10_luciane-sandra.html">HUBERT DUPRAT EM LATTARA: UMA INTERVENÇÃO CONTEMPORÂNEA NA HISTÓRIA ANTIGA</a></td>
                <td>
                   <ul>
                      <li>Luciane Ruschel Nascimento Garcez</li>
@@ -721,7 +720,7 @@
                </td>
             </tr>
             <tr>
-               <td>PINTURA, PARTITURA.</td>
+               <td><a href="https://web.archive.org/web/20200630151337/http://artcontexto.com.br/aposta-edicao11_gabriela-motta.html">PINTURA, PARTITURA.</a></td>
                <td>
                   <ul>
                      <li>Gabriela Motta</li>
@@ -742,7 +741,7 @@
                </td>
             </tr>
             <tr>
-               <td>PEQUENA CARTA A FAN HO, FOTÓGRAFO CHINÊS</td>
+               <td><a href="https://web.archive.org/web/20200630151645/http://artcontexto.com.br/texto-obra_11_andre-winter_renata-requiao.html">PEQUENA CARTA A FAN HO, FOTÓGRAFO CHINÊS</a></td>
                <td>
                   <ul>
                      <li>André Winter Noble</li>
@@ -765,7 +764,7 @@
                </td>
             </tr>
             <tr>
-               <td>PEQUENA CARTA À MARINA ABRAMOVIC A QUEM CHAMO MARIA, CORPO DE TODAS AS MULHERES</td>
+               <td><a href="https://web.archive.org/web/20171222132155/http://artcontexto.com.br/texto-obra_12_andre-winter_renata-requiao.html">PEQUENA CARTA À MARINA ABRAMOVIC A QUEM CHAMO MARIA, CORPO DE TODAS AS MULHERES</a></td>
                <td>
                   <ul>
                      <li>André Winter Noble</li>
@@ -789,7 +788,7 @@
                </td>
             </tr>
             <tr>
-               <td>RESSONÂNCIAS NAS ARTES VISUAIS: UMA ANÁLISE DO ESPETÁCULO CHOKING</td>
+               <td><a href="https://web.archive.org/web/20171222132119/http://artcontexto.com.br/artigo-edicao12_mirele-pacheco.html">RESSONÂNCIAS NAS ARTES VISUAIS: UMA ANÁLISE DO ESPETÁCULO CHOKING</a></td>
                <td>
                   <ul>
                      <li>Mirele de Oliveira Pacheco</li>
@@ -811,7 +810,7 @@
                </td>
             </tr>
             <tr>
-               <td>RESSOAR AS PALAVRAS: PEQUENA CARTA A ANDRÉAN RENAND</td>
+               <td><a href="https://web.archive.org/web/20190103222758/http://artcontexto.com.br/portfolio/aposta-as-cartas-de-andrean-renand/">RESSOAR AS PALAVRAS: PEQUENA CARTA A ANDRÉAN RENAND</a></td>
                <td>
                   <ul>
                      <li>Emanuel Monteiro</li>
@@ -838,7 +837,7 @@
                </td>
             </tr>
             <tr>
-               <td>DESCREVER E TRADUZIR: APONTAMENTOS SOBRE A ESCRITA DA PAISAGEM</td>
+               <td><a href="https://web.archive.org/web/20190103222916/http://artcontexto.com.br/portfolio/daiana-schropel/">DESCREVER E TRADUZIR: APONTAMENTOS SOBRE A ESCRITA DA PAISAGEM</a></td>
                <td>
                   <ul>
                      <li>Daiana Schröpel</li>
@@ -861,7 +860,7 @@
                </td>
             </tr>
             <tr>
-               <td>PRIMEIRA IMPRESSÃO</td>
+               <td><a href="https://web.archive.org/web/20200706173525/http://artcontexto.com.br/portfolio/mariana-par/">PRIMEIRA IMPRESSÃO</a></td>
                <td>
                   <ul>
                      <li>Mariana Par</li>
@@ -885,7 +884,7 @@
                </td>
             </tr>
             <tr>
-               <td>WE'RE AL STRANGERS NOW AND WE ALL NEED HEALING</td>
+               <td><a href="https://web.archive.org/web/20190103223447/http://artcontexto.com.br/portfolio/jack-segbars/">WE'RE AL STRANGERS NOW AND WE ALL NEED HEALING</a></td>
                <td>
                   <ul>
                      <li>Jack Segbars</li>
@@ -906,7 +905,7 @@
                </td>
             </tr>
             <tr>
-               <td>SOBRE ALGUMAS OBRAS DE SEBASTIEN CHOU</td>
+               <td><a href="https://web.archive.org/web/20190103223032/http://artcontexto.com.br/portfolio/ana-carla-brito/">SOBRE ALGUMAS OBRAS DE SEBASTIEN CHOU</a></td>
                <td>
                   <ul>
                      <li>Ana Carla de Brito</li>
@@ -934,7 +933,7 @@
                </td>
             </tr>
             <tr>
-               <td>ALGO NO CAMINHO: PARA IR MAIS LONGE</td>
+               <td><a href="https://web.archive.org/web/20181221120420/http://artcontexto.com.br/portfolio/algo-no-caminho-danilo-xavier/">ALGO NO CAMINHO: PARA IR MAIS LONGE</a></td>
                <td>
                   <ul>
                      <li>Danilo Moreira Xavier</li>
@@ -970,7 +969,7 @@
                </td>
             </tr>
             <tr>
-               <td>ARAPUCA</td>
+               <td><a href="https://web.archive.org/web/20200715143524/http://artcontexto.com.br/portfolio/arapuca-marina-dubia/">ARAPUCA</a></td>
                <td>
                   <ul>
                      <li>Marina Dubia</li>
@@ -991,7 +990,7 @@
                </td>
             </tr>
             <tr>
-               <td>GAMBIARRA</td>
+               <td><a href="https://web.archive.org/web/20200715142018/http://artcontexto.com.br/portfolio/gambiarra-maria-fernanda-de-mello-lopes/">GAMBIARRA</a></td>
                <td>
                   <ul>
                      <li>Maria Fernanda de Mello Lopes</li>
@@ -1013,7 +1012,7 @@
                </td>
             </tr>
             <tr>
-               <td>ARQUEOLOGIA COMO REVELAÇÃO DA MEMÓRIA</td>
+               <td><a href="https://web.archive.org/web/20200715143906/http://artcontexto.com.br/portfolio/arqueologia-como-revelacao-da-memoria-alexandre-copes/">ARQUEOLOGIA COMO REVELAÇÃO DA MEMÓRIA</a></td>
                <td>
                   <ul>
                      <li>Alexandre Copês</li>
