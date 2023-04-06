@@ -44,12 +44,12 @@
 		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-temas - Icônica</a>
+		<a href="/reseaux/reseau4" class="btn btn-link">Artistas-temas - Icônica</a>
 	</li>
 </ul>
 
 <h2>Artistas-temas - Icônica</h2>
-<p>Rede unimodal dos 143 artistas-temas das críticas publicadas pela Icônica até abril de 2019. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 143 artistas-temas das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

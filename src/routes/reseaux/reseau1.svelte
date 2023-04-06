@@ -68,7 +68,7 @@ onMount(() => {
 </ul>
 
 <h2>Artistas-temas - eRevista Performatus</h2>
-<p>Rede unimodal dos 147 artistas-temas das críticas publicadas pela eRevista Performatus até abril de 2019. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 147 artistas-temas das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 20/03/2023</p>
 
 <div id="cy"/>
 

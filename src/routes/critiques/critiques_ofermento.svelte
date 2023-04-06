@@ -14,7 +14,7 @@
 	</li>
 </ul>
 
-<h1>Temas das Críticas de Arte Publicadas pela o fermento até abril 2019</h1>
+<h1>Temas das Críticas de Arte Publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril 2019</h1>
 <table class="table">
     <thead>
             <tr>

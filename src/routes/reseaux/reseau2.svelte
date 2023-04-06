@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-temas - Revista Desvio</h2>
-<p>Rede unimodal dos 238 artistas-temas das críticas publicadas pela Revista Desvio até abril de 2019. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 238 artistas-temas das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

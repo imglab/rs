@@ -14,7 +14,7 @@
 	</li>
 </ul>
 
-<h1>Temas das Críticas de Arte Publicadas pela Arte ConTexto até abril 2019</h1>
+<h1>Temas das Críticas de Arte Publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril 2019</h1>
 <table class="table">
     <thead>
             <tr>

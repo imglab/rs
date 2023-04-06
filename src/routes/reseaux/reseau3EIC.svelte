@@ -2,8 +2,8 @@
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
-	import { networks }  from '$lib/oFermento/networks'
-	import { styles }  from '$lib/oFermento/styles'
+	import { networks }  from '$lib/arteContextoEIC/networks'
+	import { styles }  from '$lib/arteContextoEIC/styles'
 
 	console.log('networks', networks)
 	console.log('style', styles)
@@ -12,7 +12,7 @@
 		
 	var cy = cytoscape({
 			container: document.getElementById('cy'),
-			elements: networks["rsArtistTermAuthorByPublicationreOFermento.xml"].elements,
+			elements: networks["rsArtistTermAuthorByPublicationreArteContexto.xml"].elements,
 			style: styles[0].style,
 			layout: { name: 'preset', padding: 10 },
 			boxSelectionEnabled: !0,
@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-temas - o fermento</title>
+	<title>Artistas-temas - Arte ConTexto - EIC</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -40,16 +40,20 @@
 	<li class="breadcrumb-item">
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
-	<li class="breadcrumb-item">
+    <li class="breadcrumb-item">
 		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
 	</li>
+    <li class="breadcrumb-item">
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais EIC</a>
+	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau5" class="btn btn-link">Artistas-temas - o fermento</a>
+		<a href="/reseaux/reseau2EIC" class="btn btn-link">Artistas-temas - Arte ConTexto - EIC</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - o fermento</h2>
-<p>Rede unimodal dos 47 artistas-temas das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 20/03/2023</p>
+<h2>Artistas-temas - Arte ConTexto - EIC</h2>
+<p>Rede unimodal dos 69 artistas-temas das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+
 <div id="cy"/>
 
 <style>
