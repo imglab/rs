@@ -28,426 +28,427 @@
       <th>Obras de Arte dos Artistas e coletivos &#40;tema&#41;</th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <th>0</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa25023/daiana-schroepel">Schröpel, Daiana ()</a></td>
-        <td><a href="https://web.archive.org/web/20190103222916/http://artcontexto.com.br/portfolio/daiana-schropel/">DESCREVER E TRADUZIR: APONTAMENTOS SOBRE A ESCRITA DA PAISAGEM</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19676/maria-ivone-dos-santos">Santos, Maria Ivone dos (Vacaria/RS, 1958 - )</a></td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE ENDERECAMENTOS; ENDERECAMENTO, PORTO ALEGRE, 20 DE ABRIL DE 2017; ENDERECAMENTO, PORTO ALEGRE, 12 DE ABRIL DE 2017</td>
-      </tr>
-      <tr>
-        <th>1</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa483036/nathalia-lavigne">Lavigne, Nathalia (Rio de Janeiro/, 1982 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170601011024/http://www.artcontexto.com.br/artigo-edicao07_nathalia-lavigne.html">KADER ATTIAE A FANTASIA DA BIBLIOTECA NA GALERIA DE ARTE</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641409/kader-attia">Attia, Kader (França, 1970 - )</a></td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>CONTINUUM OF REPAIR: THE LIGHT OFJACOB’S LADDER</td>
-      </tr>
-      <tr>
-        <th>2</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa485752/gabriela-motta">Kremer Motta, Gabriela (Pelotas/RS, 1975 - )</a></td>
-        <td><a href="https://web.archive.org/web/20200630151337/http://artcontexto.com.br/aposta-edicao11_gabriela-motta.html">PINTURA, PARTITURA.</a></td>
-        <td>Arais Lopes, Letícia (Campo Bom/RS, 1988 - )</td>
-        <td>2016</td>
-        <td>HABITA FURIAS</td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>3</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa594763/emanuel-monteiro">Monteiro, Emanuel (Londrina/PR, 1988 - )</a></td>
-        <td><a href="https://web.archive.org/web/20190103222758/http://artcontexto.com.br/portfolio/aposta-as-cartas-de-andrean-renand/">RESSOAR AS PALAVRAS: PEQUENA CARTA AANDREAN RENAND</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>ANDREAN RENAND</td>
-        <td>PEQUENA CARTA AELIDA TESSLER; PEQUENA CARTA AWALMOR CORREA; PEQUENA CARTA AFRANS KRAJCBERG; PEQUENA CARTA AFAN HO, FOTOGRAFO CHINES; PEQUENA CARTA AMARINA ABRAMOVICH, A QUEM CHAMOMARIA</td>
-      </tr>
-      <tr>
-        <th>4</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
-        <td><a href="https://web.archive.org/web/20190103213651/http://artcontexto.com.br/artigo-edicao01_aposta_marcos.html">PELOS ESPACOS DO VISIVEL E DO INTANGIVEL</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634723/marcos-fioravante">Fioravante, Marcos (São José do Rio Preto/SP, 1989 - )</a></td>
-        <td>2013</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>43A; PLATAFORMA DE DESENHO</td>
-      </tr>
-      <tr>
-        <th>5</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170214185431/http://artcontexto.com.br/artigo-edicao02_talitha_motter.html">POR ENTRE MUNDOS</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa585860/ismael-monticelli">Monticelli, Ismael (Porto Alegre/RS, 1987 - )</a></td>
-        <td>2013</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE A PAIXAO FAZ DAS PEDRAS INERTES, UM DRAMA; LIEBESTOD I; SEM TITULO (OUTDOOR)</td>
-      </tr>
-      <tr>
-        <th>6</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170213191806/http://artcontexto.com.br/artigo-edicao04-talitha_motter.html">DESACOMODACOES EM UMA MICROCIDADE</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa631591/leticia-bertagna">Bertagna, Letícia (Porto Alegre/RS, 1983 - )</a></td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE SITUACOES DOMESTICAS PARA CORPOS CLANDESTINOS; AGENDA DE POSSIVEIS</td>
-      </tr>
-      <tr>
-        <th>7</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170213214951/http://artcontexto.com.br/artigo-talitha_motter.html">|CAMADAS DE MEMORIAS // SEDIMENTACOES DE TEMPOS|</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa594763/emanuel-monteiro">Monteiro, Emanuel (Londrina/PR, 1988 - )</a></td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>LIVRO DE AMARANTA; LIVRO DE ANCORADO</td>
-      </tr>
-      <tr>
-        <th>8</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170530101446/http://artcontexto.com.br/artigo-edicao07_aposta.html">TENTATIVA DE DURAR: DE SUBMERGIR E RETORNAR</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa622177/vitor-butkus">Butkus, Vitor (Porto Alegre/RS, 1983 - )</a></td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS; MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (I); MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (II); ULTIMO MINUTO; SEM TITULO (26 ANOS); CAIXA DE FERRAMENTAS; ANOTACOES NA VERTIGEM</td>
-      </tr>
-      <tr>
-        <th>9</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170530085602/http://artcontexto.com.br/artigo-edicao01_william_kentridge.html">WILLIAM KENTRIDGE: UMA FRUICAO MAIS ACESSIVEL</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa411557/william-kentridge">Kentridge, William (África do Sul, 1955 - )</a></td>
-        <td>2013</td>
-        <td>WILLIAM KENTRIDGE: FORTUNA</td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>10</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170214073704/http://artcontexto.com.br/artigo-edicao02_retrato_formacao.html">UM RETRATO EM FORMACAO</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636213/eduardo-montelli">Montelli, Eduardo (Porto Alegre/RS, 1989 - )</a></td>
-        <td>2013</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>LEMONADE</td>
-      </tr>
-      <tr>
-        <th>11</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170210084934/http://artcontexto.com.br/artigo-edicao03_eu-ilha.html">ARTE ILHADA: PROJETO DE IMERSAO SOCIAL REFLETE TAMBEM NOSSA REALIDADE CULTU</a></td>
-        <td>Torterola, Raisa (Porto Alegre/RS); Rossato, Joice (/RS, 1983 - ); Andrade, Marcius de (Rio de Janeiro/RJ, 1979 - )</td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>KINESE - COLETIVO DE CRIACAO CULTURAL</td>
-        <td>EU-ILHA</td>
-      </tr>
-      <tr>
-        <th>12</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
-        <td><a href="https://web.archive.org/web/20170213132351/http://artcontexto.com.br/artigo-edicao08_aposta.html">QUANDO A MAQUINA ATINGE O SENSIVEL: CONSIDERACOES SOBRE A OBRA DEMAURA GRIM</a></td>
-        <td>Grimaldi, Maura (São Paulo/SP, 1988 - )</td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>EXPERIMENTOS COM A IMAGEM PROJETADA; DO OUTRO LADO: COMO ENXERGAR A LUA DO HEMISFERIO SUL NO HEMISFERIO NORTE?; DO OUTRO LADO: COMO ENGRANDECER UMA PEDRA?</td>
-      </tr>
-      <tr>
-        <th>13</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
-        <td><a href="https://web.archive.org/web/20161020070022/http://artcontexto.com.br/aposta-edicao10_paola-fabres.html">JARDINS TAMBEM PASSEIAM</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa288565/teresa-siewerdt">Siewerdt, Teresa (Florianópolis/SC, 1982 - )</a></td>
-        <td>2016</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>JARDIM PARASITA; JARDIM SEM GOVERNO; JARDIM DE PASSAGEM</td>
-      </tr>
-      <tr>
-        <th>14</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td><a href="https://web.archive.org/web/20170210063348/http://artcontexto.com.br/texto-obra_07_andre_renata.html">PEQUENA CARTA AELIDA TESSLER</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10085/elida-tessler">Tessler, Elida (Porto Alegre/RS, 1961 - )</a></td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>VOCE ME DA A SUA PALAVRA?</td>
-      </tr>
-      <tr>
-        <th>15</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td><a href="https://web.archive.org/web/20170213193819/http://artcontexto.com.br/texto-obra_08_andre_renata.html">PEQUENA CARTA AWALMOR CORREA</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa261428/walmor-correa">Corrêa, Walmor (Florianópolis/SC, 1960 - )</a></td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>MEMENTO MORI</td>
-      </tr>
-      <tr>
-        <th>16</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td><a href="https://web.archive.org/web/20161020113322/http://artcontexto.com.br/texto-obra_10_andre-renata.html">PEQUENA CARTA AFRANS KRAJCBERG</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10730/frans-krajcberg">Krajcberg, Frans (Polônia, 1921 - Polônia, 2017)</a></td>
-        <td>2016</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>17</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td><a href="https://web.archive.org/web/20200630151645/http://artcontexto.com.br/texto-obra_11_andre-winter_renata-requiao.html">PEQUENA CARTA AFAN HO, FOTOGRAFO CHINES</a></td>
-        <td>Ho, Fan (China, 1931 - China, 2016)</td>
-        <td>2016</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>MIRROR LAKE; APPROACHING SHADOW</td>
-      </tr>
-      <tr>
-        <th>18</th>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
-        <td><a href="https://web.archive.org/web/20171222132155/http://artcontexto.com.br/texto-obra_12_andre-winter_renata-requiao.html">PEQUENA CARTA AMARINA ABRAMOVICA QUEM CHAMOMARIA, CORPO DE TODAS AS MULHERE</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa444700/marina-abramovic">Abramović, Marina (Sérvia, 1946 - )</a></td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>IMPONDERABILIA; THE ARTIST IS PRESENT; BALKAN BAROQUE</td>
-      </tr>
-      <tr>
-        <th>19</th>
-        <td>Bouvie Grippa, Carolina (, 1991 - )</td>
-        <td><a href="https://web.archive.org/web/20170214195053/http://artcontexto.com.br/artigo-edicao02_espacos_irreais.html">ESPACOS IRREAIS DEADRIANA CONTI MELO</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa253413/adriana-conti-b-melo">Conti Melo, Adriana (São Paulo/SP, 1965 - )</a></td>
-        <td>2013</td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/evento648072/espaco-iluminado-de-uma-intensa-irrealidade">ESPACO ILUMINADO DE UMA INTENSA REALIDADE</a></td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>20</th>
-        <td>Brito, Ana Carla de (Araputanga/MT)</td>
-        <td><a href="https://web.archive.org/web/20190103223032/http://artcontexto.com.br/portfolio/ana-carla-brito/">SOBRE ALGUMAS OBRAS DESEBASTIEN CHOU</a></td>
-        <td>Chou, Sebastien (França, 1972 - )</td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SEM TITULO [NUVEM E MURO, CORREDOR E PLANTAS]; SEM TITULO [CEU, TRONCO E GRAMA]; SEM TITULO [GALHOS E LINHAS NO CHAO]; SEM TITULO [GRAMA E NUVENS]; SEM TITULO [GALHOS E NUVEM, AGUA E GRAMA]; SEM TITULO [DEDOS E NUVEM]; SEM TITULO [LUZ E ARVORES]</td>
-      </tr>
-      <tr>
-        <th>21</th>
-        <td>Copês, Alexandre (São Gabriel/RS, 1988 - )</td>
-        <td><a href="https://web.archive.org/web/20200715143906/http://artcontexto.com.br/portfolio/arqueologia-como-revelacao-da-memoria-alexandre-copes/">ARQUEOLOGIA COMO REVELACAO DA MEMORIA</a></td>
-        <td>Sedira, Zineb (França, 1963 - )</td>
-        <td>2019</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>THE MOTHER TONGUE</td>
-      </tr>
-      <tr>
-        <th>22</th>
-        <td>Cosmo, Matheus (São Paulo/SP)</td>
-        <td><a href="https://web.archive.org/web/20170213191818/http://artcontexto.com.br/artigo-edicao04-matheus_cosmo.html">O GRUPOOPOVOEMPE: UMA EXPERIENCIA TRANSFORMADORA</a></td>
-        <td>n/a</td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>OPOVOEMPE</td>
-        <td>PAUSA PARA RESPIRAR; A FESTA; O ESPELHO</td>
-      </tr>
-      <tr>
-        <th>23</th>
-        <td>Crossetti, Laurem (Itaqui/RS)</td>
-        <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/artigo-laurem_crossetti.html">UM PAVILHAO QUE E UM JORNAL: NOTAS SOBRE A PARTICIPACAO DE PORTUGAL NA14ª E</a></td>
-        <td>Tavares, André; Pestana, Mariana; Eufrásia, Miguel; Marcelino, Miguel (Portugal, 1981 - ); Moreira, Paulo; Clarke, Pedro; Ventura, Susana (Portugal, 1978 - )</td>
-        <td>2014</td>
-        <td>HOMELAND: NEWS FROM PORTUGAL</td>
-        <td>ADOC ARCHITECTS; ARTERIA; ATELIERMOB; LIKE ARCHITECTS; SAMI ARQUITECTOS</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>24</th>
-        <td>Cupertino, Pedro ()</td>
-        <td><a href="https://web.archive.org/web/20170214073311/http://artcontexto.com.br/textocurto_09_pedro-cupertino.html">O SKATE COMO ARTE, E O SKATISTA COMO PSICOGEOGRAFO</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa388095/fabiano-rodrigues">Rodrigues, Fabiano (Santos/SP, 1974 - )</a></td>
-        <td>2016</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE THE SELF PORTRAIT PROJECT</td>
-      </tr>
-      <tr>
-        <th>25</th>
-        <td>Dubia, Marina (São Paulo/SP, 1992 - )</td>
-        <td><a href="https://web.archive.org/web/20200715143524/http://artcontexto.com.br/portfolio/arapuca-marina-dubia/">ARAPUCA</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa27253/laura-belem">Belém, Laura (Belo Horizonte/MG, 1974 - )</a></td>
-        <td>2019</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>JARDIM SECRETO OU PASSAGEM DO TROPICO</td>
-      </tr>
-      <tr>
-        <th>26</th>
-        <td>Freitas Santos, Fernando dos</td>
-        <td><a href="https://web.archive.org/web/20170601020214/http://artcontexto.com.br/artigo-fernando_freitas.html">BIODRAMA: JOGO DE TENSAO ENTRE FICCAO E REALIDADE</a></td>
-        <td>Kaegi, Stefan (Suíça); Catani, Beatriz (, 1955 - ); Pensotti, Mariano; Suardi, Luciano; Zorzoli, Ciro; Daulte, Javier (Argentina, 1963 - ); Couceyro, Analia (Argentina, 1974 - ); Obersztern, Mariana; Veronese, Daniel (Argentina, 1955 - ); Cozarinski, Edgardo (Argentina, 1939 - ); Chaud, Mariana; Tarrio, Gustavo; Muscari, José Maria (Argentina, 1976 - ); Gobernori, Santiago; Arias, Lola (Argentina, 1976 - )</td>
-        <td>2014</td>
-        <td>CICLO BIODRAMA. SOBRE LA VIDA DE LAS PERSONAS.</td>
-        <td>n/a</td>
-        <td>¡SENTATE!; LOS 8 DE JULIO: EXPERIENCIA SOBRE EL REGISTRO DEL PASO DEL TIEMPO; TEMPERLEY; EL NINO EN CUESTION; BARROCOS RETRATOS DE UMA PAPA; EL AIRE ALREDEDOR; LA FORMA QUE SE DESPLIEGA; SQUASH. ESCENAS DE LA VIDA DE UN ACTOR; BUDIN INGLES; SALIR LASTIMADO; FETICHE; DEUS EX MACHINA; MI VIDA DESPUES</td>
-      </tr>
-      <tr>
-        <th>27</th>
-        <td>Gontijo, Juliana (Rio de Janeiro/RJ, 1980 - )</td>
-        <td><a href="https://web.archive.org/web/20170214034611/http://artcontexto.com.br/resenha-edicao08_juliana-gontijo.html">LA REALIDAD COMO UN PANTANO</a></td>
-        <td>Amaral, Mateo (Argentina, 1979 - )</td>
-        <td>2015</td>
-        <td>SIMPLIFICAR EL PANTANO</td>
-        <td>n/a</td>
-        <td>UNA PIEDRA NEGRA</td>
-      </tr>
-      <tr>
-        <th>28</th>
-        <td>Kiefer, Luísa (Porto alegre/RS, 1986 - )</td>
-        <td><a href="https://web.archive.org/web/20190129202417/http://artcontexto.com.br/artigo-edicao09_aposta.html">O UNIVERSO ONIRICO DESAMY SFOGGIA: EXPERIMENTALISMO NA FOTOGRAFIA CONTEMPOR</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa530396/samy-sfoggia">Sfoggia, Samy (Porto Alegre/RS, 1984 - )</a></td>
-        <td>2016</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIESAMY’S DREAMING ABOUT THE FOREST; DRØMMER ON SKOV; SERIE RAPID EYE MOVEMENT</td>
-      </tr>
-      <tr>
-        <th>29</th>
-        <td>Leal, André (São Paulo/SP, 1985 - )</td>
-        <td><a href="https://web.archive.org/web/20170509041954/http://artcontexto.com.br/artigo-edicao04-andre_leal.html">RONALD DUARTE: UM CORPO COLETIVO REAGINDO ESTETICAMENTE A CIDADE</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa251407/ronald-duarte">Duarte, Ronald (Rio de Janeiro/RJ, 1963 - )</a></td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>O QUE ROLA VOCE VE (BANHO DE SANGUE); A SANGUE FRIO; FOGO CRUZADO; NIMBO OXALA</td>
-      </tr>
-      <tr>
-        <th>30</th>
-        <td>Livi, Silvia (Pelotas/RS)</td>
-        <td><a href="https://web.archive.org/web/20170530105418/http://artcontexto.com.br/textocurto_07_silvia_livi.html">UMA COLECAO: UMA GROSA DE PEQUENOS DESENHOS NA OBRA DEROGERIO LIVI</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa600918/rogerio-livi">Livi, Rogerio (Cachoeira do Sul/RS, 1945 - )</a></td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>MICROVARIACOES SOBRE UM TEMA</td>
-      </tr>
-      <tr>
-        <th>31</th>
-        <td>Luersen, Paula (Três de Maio/RS, 1988 - )</td>
-        <td><a href="https://web.archive.org/web/20170213191831/http://artcontexto.com.br/artigo-edicao08_paula-luersen.html">FLERTE NAFEIRA DE CIENCIAS</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa590256/romy-pocztaruk">Pocztaruk, Romy (Porto Alegre/RS, 1983 - )</a></td>
-        <td>2015</td>
-        <td>FEIRA DE CIENCIAS</td>
-        <td>n/a</td>
-        <td>PIANOLA; DIORAMA II; SERIE A ULTIMA AVENTURA; SERIE LOST UTOPIA</td>
-      </tr>
-      <tr>
-        <th>32</th>
-        <td>Mello Lopes, Maria Fernanda de (Ourinhos/SP, 1988 - )</td>
-        <td><a href="https://web.archive.org/web/20200715142018/http://artcontexto.com.br/portfolio/gambiarra-maria-fernanda-de-mello-lopes/">GAMBIARRA</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
-        <td>2019</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE GAMBIARRAS; #54</td>
-      </tr>
-      <tr>
-        <th>33</th>
-        <td>Moraes, Fabiana de (Niterói/RJ, 1973 - )</td>
-        <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/resenha-edicao07_fabiana_moraes.html">CORPS DU MONDE(CORPOS DO MUNDO)– POETICA DEANA KESSELRING</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa251251/ana-kesselring">Kesselring, Ana (São Paulo/SP, 1961 - )</a></td>
-        <td>2015</td>
-        <td>CORPS DU MONDE</td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-      <tr>
-        <th>34</th>
-        <td>Moreira Xavier, Danilo (São Paulo/SP)</td>
-        <td><a href="https://web.archive.org/web/20181221120420/http://artcontexto.com.br/portfolio/algo-no-caminho-danilo-xavier/">ALGO NO CAMINHO: PARA IR MAIS LONGE</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa628881/denise-alves-rodrigues">Alves-Rodrigues, Denise (Itaporã/MG, 1981 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa367727/fabiana-amelio-faleiros">Faleiros, Fabiana (Pelotas/RS, 1980 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa248615/marta-penner">Penner, Marta (Porto Alegre/RS, 1965 - )</a>; Zilbersztejn, Marina (/); <a href="">Quintana, Noara (Florianópolis/SC, 1986 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa630630/potira-maia">Maia, Potira (Vitória da Conquista/BA)</a></td>
-        <td>2018</td>
-        <td>IMINENCIA DE TRAGEDIA</td>
-        <td>n/a</td>
-        <td>VOCACAO PARA A RUINA; DEUS SALVE O MATERIALISMO HISTORICO; SOBRE SOLO EMULADO; # PENDENTES; # ASSENTO; "EU TE AMO"; AUTORRETRATO COM BANDEIRA; INSTABILIDADES TROPICAIS; SERIE ENSAIOS PARA…</td>
-      </tr>
-      <tr>
-        <th>35</th>
-        <td>Oliveira Borges Melo, Fernanda e</td>
-        <td><a href="https://web.archive.org/web/20170213193903/http://artcontexto.com.br/artigo-fernanda_oliveira.html">A PLURALIDADE DOS SENTIDOS EMHISTORIAS DO NAO VER</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>HISTORIAS DO NAO VER</td>
-      </tr>
-      <tr>
-        <th>36</th>
-        <td>Oliveira Pacheco, Mirele de (Porto Alegre/RS, 1973 - )</td>
-        <td><a href="https://web.archive.org/web/20171222132119/http://artcontexto.com.br/artigo-edicao12_mirele-pacheco.html">RESSONANCIAS NAS ARTES VISUAIS: UMA ANALISE DO ESPETACULOCHOKING</a></td>
-        <td>Miranda, Jussara (Três de Maio/RS, 1958 - )</td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>MUOVERE CIA DE DANCA CONTEMPORANEA</td>
-        <td>CHOKING</td>
-      </tr>
-      <tr>
-        <th>37</th>
-        <td>Par, Mariana (Rio de Janeiro/RJ, 1992 - )</td>
-        <td><a href="https://web.archive.org/web/20200706173525/http://artcontexto.com.br/portfolio/mariana-par/">PRIMEIRA IMPRESSAO</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa248645/fabio-morais">Morais, Fabio (São Paulo/SP, 1975 - )</a></td>
-        <td>2017</td>
-        <td>ESCRITEXPOGRAFICA</td>
-        <td>n/a</td>
-        <td>BRASILIA; MANIFESTACAO</td>
-      </tr>
-      <tr>
-        <th>38</th>
-        <td>Quinderé, Natália (Fortaleza/CE, 1982 - )</td>
-        <td><a href="https://web.archive.org/web/20190129202332/http://artcontexto.com.br/aposta-edicao06_natalia.html">A SOMA DAS COISAS, OU SOBRE O SILENCIO EMMAYRA REDIN</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a>; Lima, Manoel Ricardo de</td>
-        <td>2015</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>SERIE PENULTIMAS; HISTORIAS DE OBSERVATORIOS; OBSERVATORIO DE NEVE; NADA (PORQUE O COMECO DA PALAVRA E ESPERANCA); VOCE VE QUE O VERMELHO NAO TEM MAIS; A ESCUTA DA ESCUTA; A SURDEZ DE QUEM OUVE (CANTOS); SERIE A ESCUTA DA ESCUTA</td>
-      </tr>
-      <tr>
-        <th>39</th>
-        <td>Ruschel Nascimento Garcez, Luciane (Caxias do Sul/RS); <a href="https://enciclopedia.itaucultural.org.br/pessoa256690/sandra-makowiecky-sales">Makowiecky, Sandra (Florianópolis/SC, 1957 - )</a></td>
-        <td><a href="https://web.archive.org/web/20161020112846/http://artcontexto.com.br/artigo-edicao10_luciane-sandra.html">HUBERT DUPRATEM LATTARA: UMA INTERVENCAO CONTEMPORANEA NA HISTORIA ANTIGA</a></td>
-        <td>Duprat, Hubert (França, 1957 - )</td>
-        <td>2016</td>
-        <td>LATTARA</td>
-        <td>n/a</td>
-        <td>LATTARA</td>
-      </tr>
-      <tr>
-        <th>40</th>
-        <td>Segbars, Jack (Países Baixos, 1963 - )</td>
-        <td><a href="https://web.archive.org/web/20190103223447/http://artcontexto.com.br/portfolio/jack-segbars/">WE'RE AL STRANGERS NOW AND WE ALL NEED HEALING</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa370724/marta-masiero">Masiero, Marta (São Paulo/SP, 1983 - )</a></td>
-        <td>2017</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>LENDOLOLITAPOR MIM</td>
-      </tr>
-      <tr>
-        <th>41</th>
-        <td>Vellozo Gomes, Renata (Nova Iguaçu/RJ, 1979 - )</td>
-        <td><a href="https://web.archive.org/web/20170530094132/http://artcontexto.com.br/artigo-edicao04-renata_vellozo.html">O GRAFITE DE CHAO DEFABIANO DO NASCIMENTO COSTANAS CALCADAS DO GRAJAU / RIO</a></td>
-        <td>Nascimento Costa, Fabiano do (Rio de Janeiro/RJ)</td>
-        <td>2014</td>
-        <td>n/a</td>
-        <td>n/a</td>
-        <td>n/a</td>
-      </tr>
-    </tbody>
+    
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa25023/daiana-schroepel">Schröpel, Daiana (Brasil)</a></td>
+      <td><a href="https://web.archive.org/web/20190103222916/http://artcontexto.com.br/portfolio/daiana-schropel/">DESCREVER E TRADUZIR: APONTAMENTOS SOBRE A ESCRITA DA PAISAGEM</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19676/maria-ivone-dos-santos">Santos, Maria Ivone dos (Vacaria/RS, 1958 - )</a></td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE ENDERECAMENTOS; ENDERECAMENTO, PORTO ALEGRE, 20 DE ABRIL DE 2017; ENDERECAMENTO, PORTO ALEGRE, 12 DE ABRIL DE 2017</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa483036/nathalia-lavigne">Lavigne, Nathalia (Rio de Janeiro/, 1982 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170601011024/http://www.artcontexto.com.br/artigo-edicao07_nathalia-lavigne.html">KADER ATTIAE A FANTASIA DA BIBLIOTECA NA GALERIA DE ARTE</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641409/kader-attia">Attia, Kader (França, 1970 - )</a></td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>CONTINUUM OF REPAIR: THE LIGHT OFJACOB’S LADDER</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa485752/gabriela-motta">Kremer Motta, Gabriela (Pelotas/RS, 1975 - )</a></td>
+      <td><a href="https://web.archive.org/web/20200630151337/http://artcontexto.com.br/aposta-edicao11_gabriela-motta.html">PINTURA, PARTITURA.</a></td>
+      <td>Arais Lopes, Letícia (Campo Bom/RS, 1988 - )</td>
+      <td>2016</td>
+      <td>HABITA FURIAS</td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa594763/emanuel-monteiro">Monteiro, Emanuel (Londrina/PR, 1988 - )</a></td>
+      <td><a href="https://web.archive.org/web/20190103222758/http://artcontexto.com.br/portfolio/aposta-as-cartas-de-andrean-renand/">RESSOAR AS PALAVRAS: PEQUENA CARTA AANDREAN RENAND</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>ANDREAN RENAND</td>
+      <td>PEQUENA CARTA AELIDA TESSLER; PEQUENA CARTA AWALMOR CORREA; PEQUENA CARTA AFRANS KRAJCBERG; PEQUENA CARTA AFAN HO, FOTOGRAFO CHINES; PEQUENA CARTA AMARINA ABRAMOVICH, A QUEM CHAMOMARIA</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
+      <td><a href="https://web.archive.org/web/20190103213651/http://artcontexto.com.br/artigo-edicao01_aposta_marcos.html">PELOS ESPACOS DO VISIVEL E DO INTANGIVEL</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634723/marcos-fioravante">Fioravante, Marcos (São José do Rio Preto/SP, 1989 - )</a></td>
+      <td>2013</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>43A; PLATAFORMA DE DESENHO</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170214185431/http://artcontexto.com.br/artigo-edicao02_talitha_motter.html">POR ENTRE MUNDOS</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa585860/ismael-monticelli">Monticelli, Ismael (Porto Alegre/RS, 1987 - )</a></td>
+      <td>2013</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE A PAIXAO FAZ DAS PEDRAS INERTES, UM DRAMA; LIEBESTOD I; SEM TITULO (OUTDOOR)</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170213191806/http://artcontexto.com.br/artigo-edicao04-talitha_motter.html">DESACOMODACOES EM UMA MICROCIDADE</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa631591/leticia-bertagna">Bertagna, Letícia (Porto Alegre/RS, 1983 - )</a></td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE SITUACOES DOMESTICAS PARA CORPOS CLANDESTINOS; AGENDA DE POSSIVEIS</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170213214951/http://artcontexto.com.br/artigo-talitha_motter.html">|CAMADAS DE MEMORIAS // SEDIMENTACOES DE TEMPOS|</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa594763/emanuel-monteiro">Monteiro, Emanuel (Londrina/PR, 1988 - )</a></td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>LIVRO DE AMARANTA; LIVRO DE ANCORADO</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170530101446/http://artcontexto.com.br/artigo-edicao07_aposta.html">TENTATIVA DE DURAR: DE SUBMERGIR E RETORNAR</a></td>
+      <td><a href="http://enciclopedia.itaucultural.org.br/pessoa622177/vitor-butkus">Butkus, Vitor (Porto Alegre/RS, 1983 - )</a></td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS; MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (I); MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (II); ULTIMO MINUTO; SEM TITULO (26 ANOS); CAIXA DE FERRAMENTAS; ANOTACOES NA VERTIGEM</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170530085602/http://artcontexto.com.br/artigo-edicao01_william_kentridge.html">WILLIAM KENTRIDGE: UMA FRUICAO MAIS ACESSIVEL</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa411557/william-kentridge">Kentridge, William (África do Sul, 1955 - )</a></td>
+      <td>2013</td>
+      <td>WILLIAM KENTRIDGE: FORTUNA</td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170214073704/http://artcontexto.com.br/artigo-edicao02_retrato_formacao.html">UM RETRATO EM FORMACAO</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636213/eduardo-montelli">Montelli, Eduardo (Porto Alegre/RS, 1989 - )</a></td>
+      <td>2013</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>LEMONADE</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170210084934/http://artcontexto.com.br/artigo-edicao03_eu-ilha.html">ARTE ILHADA: PROJETO DE IMERSAO SOCIAL REFLETE TAMBEM NOSSA REALIDADE CULTU</a></td>
+      <td>Torterola, Raisa (Porto Alegre/RS); Rossato, Joice (/RS, 1983 - ); Andrade, Marcius de (Rio de Janeiro/RJ, 1979 - )</td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>KINESE - COLETIVO DE CRIACAO CULTURAL</td>
+      <td>EU-ILHA</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
+      <td><a href="https://web.archive.org/web/20170213132351/http://artcontexto.com.br/artigo-edicao08_aposta.html">QUANDO A MAQUINA ATINGE O SENSIVEL: CONSIDERACOES SOBRE A OBRA DEMAURA GRIM</a></td>
+      <td>Grimaldi, Maura (São Paulo/SP, 1988 - )</td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>EXPERIMENTOS COM A IMAGEM PROJETADA; DO OUTRO LADO: COMO ENXERGAR A LUA DO HEMISFERIO SUL NO HEMISFERIO NORTE?; DO OUTRO LADO: COMO ENGRANDECER UMA PEDRA?</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></td>
+      <td><a href="https://web.archive.org/web/20161020070022/http://artcontexto.com.br/aposta-edicao10_paola-fabres.html">JARDINS TAMBEM PASSEIAM</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa288565/teresa-siewerdt">Siewerdt, Teresa (Florianópolis/SC, 1982 - )</a></td>
+      <td>2016</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>JARDIM PARASITA; JARDIM SEM GOVERNO; JARDIM DE PASSAGEM</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td><a href="https://web.archive.org/web/20170210063348/http://artcontexto.com.br/texto-obra_07_andre_renata.html">PEQUENA CARTA AELIDA TESSLER</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10085/elida-tessler">Tessler, Elida (Porto Alegre/RS, 1961 - )</a></td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>VOCE ME DA A SUA PALAVRA?</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td><a href="https://web.archive.org/web/20170213193819/http://artcontexto.com.br/texto-obra_08_andre_renata.html">PEQUENA CARTA AWALMOR CORREA</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa261428/walmor-correa">Corrêa, Walmor (Florianópolis/SC, 1960 - )</a></td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>MEMENTO MORI</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td><a href="https://web.archive.org/web/20161020113322/http://artcontexto.com.br/texto-obra_10_andre-renata.html">PEQUENA CARTA AFRANS KRAJCBERG</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10730/frans-krajcberg">Krajcberg, Frans (Polônia, 1921 - Rio de Janeiro/RJ, 2017)</a></td>
+      <td>2016</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td><a href="https://web.archive.org/web/20200630151645/http://artcontexto.com.br/texto-obra_11_andre-winter_renata-requiao.html">PEQUENA CARTA AFAN HO, FOTOGRAFO CHINES</a></td>
+      <td>Ho, Fan (China, 1931 - Estados Unidos, 2016)</td>
+      <td>2016</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>MIRROR LAKE; APPROACHING SHADOW</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a>; Azevedo Requião, Renata (Pelotas/RS, 1960 - )</td>
+      <td><a href="https://web.archive.org/web/20171222132155/http://artcontexto.com.br/texto-obra_12_andre-winter_renata-requiao.html">PEQUENA CARTA AMARINA ABRAMOVICA QUEM CHAMOMARIA, CORPO DE TODAS AS MULHERE</a></td>
+      <td><a href="http://enciclopedia.itaucultural.org.br/pessoa444700/marina-abramovic">Abramović, Marina (Sérvia, 1946 - )</a></td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>IMPONDERABILIA; THE ARTIST IS PRESENT; BALKAN BAROQUE</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Bouvie Grippa, Carolina (, 1991 - )</td>
+      <td><a href="https://web.archive.org/web/20170214195053/http://artcontexto.com.br/artigo-edicao02_espacos_irreais.html">ESPACOS IRREAIS DEADRIANA CONTI MELO</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa253413/adriana-conti-b-melo">Conti Melo, Adriana (São Paulo/SP, 1965 - )</a></td>
+      <td>2013</td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/evento648072/espaco-iluminado-de-uma-intensa-irrealidade">ESPACO ILUMINADO DE UMA INTENSA REALIDADE</a></td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Brito, Ana Carla de (Araputanga/MT)</td>
+      <td><a href="https://web.archive.org/web/20190103223032/http://artcontexto.com.br/portfolio/ana-carla-brito/">SOBRE ALGUMAS OBRAS DESEBASTIEN CHOU</a></td>
+      <td>Chou, Sebastien (França, 1972 - )</td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SEM TITULO [NUVEM E MURO, CORREDOR E PLANTAS]; SEM TITULO [CEU, TRONCO E GRAMA]; SEM TITULO [GALHOS E LINHAS NO CHAO]; SEM TITULO [GRAMA E NUVENS]; SEM TITULO [GALHOS E NUVEM, AGUA E GRAMA]; SEM TITULO [DEDOS E NUVEM]; SEM TITULO [LUZ E ARVORES]</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Copês, Alexandre (São Gabriel/RS, 1988 - )</td>
+      <td><a href="https://web.archive.org/web/20200715143906/http://artcontexto.com.br/portfolio/arqueologia-como-revelacao-da-memoria-alexandre-copes/">ARQUEOLOGIA COMO REVELACAO DA MEMORIA</a></td>
+      <td>Sedira, Zineb (França, 1963 - )</td>
+      <td>2019</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>THE MOTHER TONGUE</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Cosmo, Matheus (São Paulo/SP)</td>
+      <td><a href="https://web.archive.org/web/20170213191818/http://artcontexto.com.br/artigo-edicao04-matheus_cosmo.html">O GRUPOOPOVOEMPE: UMA EXPERIENCIA TRANSFORMADORA</a></td>
+      <td>n/a</td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>OPOVOEMPE</td>
+      <td>PAUSA PARA RESPIRAR; A FESTA; O ESPELHO</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Crossetti, Laurem (Itaqui/RS)</td>
+      <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/artigo-laurem_crossetti.html">UM PAVILHAO QUE E UM JORNAL: NOTAS SOBRE A PARTICIPACAO DE PORTUGAL NA14ª E</a></td>
+      <td>Tavares, André; Pestana, Mariana; Eufrásia, Miguel; Marcelino, Miguel (Portugal, 1981 - ); Moreira, Paulo; Clarke, Pedro; Ventura, Susana (Portugal, 1978 - )</td>
+      <td>2014</td>
+      <td>HOMELAND: NEWS FROM PORTUGAL</td>
+      <td>ADOC ARCHITECTS; ARTERIA; ATELIERMOB; LIKE ARCHITECTS; SAMI ARQUITECTOS</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Cupertino, Pedro (Brasil)</td>
+      <td><a href="https://web.archive.org/web/20170214073311/http://artcontexto.com.br/textocurto_09_pedro-cupertino.html">O SKATE COMO ARTE, E O SKATISTA COMO PSICOGEOGRAFO</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa388095/fabiano-rodrigues">Rodrigues, Fabiano (Santos/SP, 1974 - )</a></td>
+      <td>2016</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE THE SELF PORTRAIT PROJECT</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Dubia, Marina (São Paulo/SP, 1992 - )</td>
+      <td><a href="https://web.archive.org/web/20200715143524/http://artcontexto.com.br/portfolio/arapuca-marina-dubia/">ARAPUCA</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa27253/laura-belem">Belém, Laura (Belo Horizonte/MG, 1974 - )</a></td>
+      <td>2019</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>JARDIM SECRETO OU PASSAGEM DO TROPICO</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Freitas Santos, Fernando dos</td>
+      <td><a href="https://web.archive.org/web/20170601020214/http://artcontexto.com.br/artigo-fernando_freitas.html">BIODRAMA: JOGO DE TENSAO ENTRE FICCAO E REALIDADE</a></td>
+      <td>Kaegi, Stefan (Suíça); Catani, Beatriz (, 1955 - ); Pensotti, Mariano; Suardi, Luciano; Zorzoli, Ciro; Daulte, Javier (Argentina, 1963 - ); Couceyro, Analia (Argentina, 1974 - ); Obersztern, Mariana; Veronese, Daniel (Argentina, 1955 - ); Cozarinski, Edgardo (Argentina, 1939 - ); Chaud, Mariana; Tarrio, Gustavo; Muscari, José Maria (Argentina, 1976 - ); Gobernori, Santiago; Arias, Lola (Argentina, 1976 - )</td>
+      <td>2014</td>
+      <td>CICLO BIODRAMA. SOBRE LA VIDA DE LAS PERSONAS.</td>
+      <td>n/a</td>
+      <td>¡SENTATE!; LOS 8 DE JULIO: EXPERIENCIA SOBRE EL REGISTRO DEL PASO DEL TIEMPO; TEMPERLEY; EL NINO EN CUESTION; BARROCOS RETRATOS DE UMA PAPA; EL AIRE ALREDEDOR; LA FORMA QUE SE DESPLIEGA; SQUASH. ESCENAS DE LA VIDA DE UN ACTOR; BUDIN INGLES; SALIR LASTIMADO; FETICHE; DEUS EX MACHINA; MI VIDA DESPUES</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Gontijo, Juliana (Rio de Janeiro/RJ, 1980 - )</td>
+      <td><a href="https://web.archive.org/web/20170214034611/http://artcontexto.com.br/resenha-edicao08_juliana-gontijo.html">LA REALIDAD COMO UN PANTANO</a></td>
+      <td>Amaral, Mateo (Argentina, 1979 - )</td>
+      <td>2015</td>
+      <td>SIMPLIFICAR EL PANTANO</td>
+      <td>n/a</td>
+      <td>UNA PIEDRA NEGRA</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Kiefer, Luísa (Porto alegre/RS, 1986 - )</td>
+      <td><a href="https://web.archive.org/web/20190129202417/http://artcontexto.com.br/artigo-edicao09_aposta.html">O UNIVERSO ONIRICO DESAMY SFOGGIA: EXPERIMENTALISMO NA FOTOGRAFIA CONTEMPOR</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa530396/samy-sfoggia">Sfoggia, Samy (Porto Alegre/RS, 1984 - )</a></td>
+      <td>2016</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIESAMY’S DREAMING ABOUT THE FOREST; DRØMMER ON SKOV; SERIE RAPID EYE MOVEMENT</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Leal, André (São Paulo/SP, 1985 - )</td>
+      <td><a href="https://web.archive.org/web/20170509041954/http://artcontexto.com.br/artigo-edicao04-andre_leal.html">RONALD DUARTE: UM CORPO COLETIVO REAGINDO ESTETICAMENTE A CIDADE</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa251407/ronald-duarte">Duarte, Ronald (Rio de Janeiro/RJ, 1963 - )</a></td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>O QUE ROLA VOCE VE (BANHO DE SANGUE); A SANGUE FRIO; FOGO CRUZADO; NIMBO OXALA</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Livi, Silvia (Pelotas/RS)</td>
+      <td><a href="https://web.archive.org/web/20170530105418/http://artcontexto.com.br/textocurto_07_silvia_livi.html">UMA COLECAO: UMA GROSA DE PEQUENOS DESENHOS NA OBRA DEROGERIO LIVI</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa600918/rogerio-livi">Livi, Rogerio (Cachoeira do Sul/RS, 1945 - )</a></td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>MICROVARIACOES SOBRE UM TEMA</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Luersen, Paula (Três de Maio/RS, 1988 - )</td>
+      <td><a href="https://web.archive.org/web/20170213191831/http://artcontexto.com.br/artigo-edicao08_paula-luersen.html">FLERTE NAFEIRA DE CIENCIAS</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa590256/romy-pocztaruk">Pocztaruk, Romy (Porto Alegre/RS, 1983 - )</a></td>
+      <td>2015</td>
+      <td>FEIRA DE CIENCIAS</td>
+      <td>n/a</td>
+      <td>PIANOLA; DIORAMA II; SERIE A ULTIMA AVENTURA; SERIE LOST UTOPIA</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Mello Lopes, Maria Fernanda de (Ourinhos/SP, 1988 - )</td>
+      <td><a href="https://web.archive.org/web/20200715142018/http://artcontexto.com.br/portfolio/gambiarra-maria-fernanda-de-mello-lopes/">GAMBIARRA</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
+      <td>2019</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE GAMBIARRAS; #54</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Moraes, Fabiana de (Niterói/RJ, 1973 - )</td>
+      <td><a href="https://web.archive.org/web/2017*/http://artcontexto.com.br/resenha-edicao07_fabiana_moraes.html">CORPS DU MONDE(CORPOS DO MUNDO)– POETICA DEANA KESSELRING</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa251251/ana-kesselring">Kesselring, Ana (São Paulo/SP, 1961 - )</a></td>
+      <td>2015</td>
+      <td>CORPS DU MONDE</td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Moreira Xavier, Danilo (São Paulo/SP)</td>
+      <td><a href="https://web.archive.org/web/20181221120420/http://artcontexto.com.br/portfolio/algo-no-caminho-danilo-xavier/">ALGO NO CAMINHO: PARA IR MAIS LONGE</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa628881/denise-alves-rodrigues">Alves-Rodrigues, Denise (Itaporã/MG, 1981 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa367727/fabiana-amelio-faleiros">Faleiros, Fabiana (Pelotas/RS, 1980 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa248615/marta-penner">Penner, Marta (Porto Alegre/RS, 1965 - )</a>; Zilbersztejn, Marina (/); <a href="https://enciclopedia.itaucultural.org.br/pessoa254210/noara-quintana">Quintana, Noara (Florianópolis/SC, 1986 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa630630/potira-maia">Maia, Potira (Vitória da Conquista/BA)</a></td>
+      <td>2018</td>
+      <td>IMINENCIA DE TRAGEDIA</td>
+      <td>n/a</td>
+      <td>VOCACAO PARA A RUINA; DEUS SALVE O MATERIALISMO HISTORICO; SOBRE SOLO EMULADO; # PENDENTES; # ASSENTO; "EU TE AMO"; AUTORRETRATO COM BANDEIRA; INSTABILIDADES TROPICAIS; SERIE ENSAIOS PARA…</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Oliveira Borges Melo, Fernanda e</td>
+      <td><a href="https://web.archive.org/web/20170213193903/http://artcontexto.com.br/artigo-fernanda_oliveira.html">A PLURALIDADE DOS SENTIDOS EMHISTORIAS DO NAO VER</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>HISTORIAS DO NAO VER</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Oliveira Pacheco, Mirele de (Porto Alegre/RS, 1973 - )</td>
+      <td><a href="https://web.archive.org/web/20171222132119/http://artcontexto.com.br/artigo-edicao12_mirele-pacheco.html">RESSONANCIAS NAS ARTES VISUAIS: UMA ANALISE DO ESPETACULOCHOKING</a></td>
+      <td>Miranda, Jussara (Três de Maio/RS, 1958 - )</td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>MUOVERE CIA DE DANCA CONTEMPORANEA</td>
+      <td>CHOKING</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Par, Mariana (Rio de Janeiro/RJ, 1992 - )</td>
+      <td><a href="https://web.archive.org/web/20200706173525/http://artcontexto.com.br/portfolio/mariana-par/">PRIMEIRA IMPRESSAO</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa248645/fabio-morais">Morais, Fabio (São Paulo/SP, 1975 - )</a></td>
+      <td>2017</td>
+      <td>ESCRITEXPOGRAFICA</td>
+      <td>n/a</td>
+      <td>BRASILIA; MANIFESTACAO</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Quinderé, Natália (Fortaleza/CE, 1982 - )</td>
+      <td><a href="https://web.archive.org/web/20190129202332/http://artcontexto.com.br/aposta-edicao06_natalia.html">A SOMA DAS COISAS, OU SOBRE O SILENCIO EMMAYRA REDIN</a></td>
+      <td><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a>; Lima, Manoel Ricardo de</td>
+      <td>2015</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>SERIE PENULTIMAS; HISTORIAS DE OBSERVATORIOS; OBSERVATORIO DE NEVE; NADA (PORQUE O COMECO DA PALAVRA E ESPERANCA); VOCE VE QUE O VERMELHO NAO TEM MAIS; A ESCUTA DA ESCUTA; A SURDEZ DE QUEM OUVE (CANTOS); SERIE A ESCUTA DA ESCUTA</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Ruschel Nascimento Garcez, Luciane (Caxias do Sul/RS); <a href="https://enciclopedia.itaucultural.org.br/pessoa256690/sandra-makowiecky-sales">Makowiecky, Sandra (Florianópolis/SC, 1957 - )</a></td>
+      <td><a href="https://web.archive.org/web/20161020112846/http://artcontexto.com.br/artigo-edicao10_luciane-sandra.html">HUBERT DUPRATEM LATTARA: UMA INTERVENCAO CONTEMPORANEA NA HISTORIA ANTIGA</a></td>
+      <td>Duprat, Hubert (França, 1957 - )</td>
+      <td>2016</td>
+      <td>LATTARA</td>
+      <td>n/a</td>
+      <td>LATTARA</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>Segbars, Jack (Países Baixos, 1963 - )</td>
+      <td><a href="https://web.archive.org/web/20190103223447/http://artcontexto.com.br/portfolio/jack-segbars/">WE'RE AL STRANGERS NOW AND WE ALL NEED HEALING</a></td>
+      <td><a href="https://enciclopedia.itaucultural.org.br/pessoa370724/marta-masiero">Masiero, Marta (São Paulo/SP, 1983 - )</a></td>
+      <td>2017</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>LENDOLOLITAPOR MIM</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Vellozo Gomes, Renata (Nova Iguaçu/RJ, 1979 - )</td>
+      <td><a href="https://web.archive.org/web/20170530094132/http://artcontexto.com.br/artigo-edicao04-renata_vellozo.html">O GRAFITE DE CHAO DEFABIANO DO NASCIMENTO COSTANAS CALCADAS DO GRAJAU / RIO</a></td>
+      <td>Nascimento Costa, Fabiano do (Rio de Janeiro/RJ)</td>
+      <td>2014</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>n/a</td>
+    </tr>
+  </tbody>
 </table>

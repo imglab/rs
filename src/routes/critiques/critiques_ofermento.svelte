@@ -43,7 +43,7 @@
         <th>1</th>
         <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
         <td><a href="https://web.archive.org/web/20200213161216/http://ofermentorevista.com.br/2018/12/10/onde-estao-as-mulheres/">ONDE ESTAO AS MULHERES?</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa17557/brigida-baltar">Baltar, Brígida (Rio de Janeiro/RJ, 1959 - Rio de Janeiro/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9441/beatriz-milhazes">Milhazes, Beatriz (Rio de Janeiro/RJ, 1960 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa2450/mira-schendel">Schendel, Mira (Suíça, 1919 - Suíça, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa24353/neide-dias-de-sa">Sá, Neide Dias de (Rio de Janeiro/RJ, 1940 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10709/louise-bourgeois">Bourgeois, Louise Joséphine (França, 1911 - França, 2010)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8551/cristina-salgado">Salgado, Cristina (Rio de Janeiro/RJ, 1957 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa21390/maria-martins">Martins, Maria (Campanha/MG, 1894 - Campanha/MG)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa364705/maria-nepomuceno">Nepomuceno, Maria (Rio de Janeiro/RJ, 1976 - )</a>; Faro, Magdalena del (); <a href="http://enciclopedia.itaucultural.org.br/pessoa551352/amelia-silva-costa">Silva Costa, Amélia (Rio de Janeiro/RJ, 1976 - Rio de Janeiro/RJ)</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa17557/brigida-baltar">Baltar, Brígida (Rio de Janeiro/RJ, 1959 - Rio de Janeiro/RJ, 2022)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9441/beatriz-milhazes">Milhazes, Beatriz (Rio de Janeiro/RJ, 1960 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa2450/mira-schendel">Schendel, Mira (Suíça, 1919 - São Paulo/SP, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa24353/neide-dias-de-sa">Sá, Neide Dias de (Rio de Janeiro/RJ, 1940 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10709/louise-bourgeois">Bourgeois, Louise Joséphine (França, 1911 - Estados Unidos, 2010)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8551/cristina-salgado">Salgado, Cristina (Rio de Janeiro/RJ, 1957 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa21390/maria-martins">Martins, Maria (Campanha/MG, 1894 - Rio de Janeiro/RJ, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa364705/maria-nepomuceno">Nepomuceno, Maria (Rio de Janeiro/RJ, 1976 - )</a>; Faro, Magdalena del (Brasil); <a href="http://enciclopedia.itaucultural.org.br/pessoa551352/amelia-silva-costa">Silva Costa, Amélia (Rio de Janeiro/RJ, 1976 - , 1922)</a></td>
         <td>2018</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento649896/mulheres-na-colecao-mar">MULHERES NA COLECAOMAR</a></td>
         <td>n/a</td>
@@ -53,7 +53,7 @@
         <th>2</th>
         <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
         <td><a href="https://web.archive.org/web/20200213161657/http://ofermentorevista.com.br/2019/01/14/chantal-akerman-uma-mulher-de-frente-para-o-mundo/">UMA MULHER DE FRENTE PARA O MUNDO</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa454901/chantal-akerman">Akerman, Chantal (Bélgica, 1950 - Bélgica, 2015)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa454901/chantal-akerman">Akerman, Chantal (Bélgica, 1950 - França, 2015)</a></td>
         <td>2019</td>
         <td>CHANTAL AKERMAN: TEMPO EXPANDIDO</td>
         <td>n/a</td>
@@ -101,9 +101,9 @@
       </tr>
       <tr>
         <th>7</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213155647/http://ofermentorevista.com.br/2018/07/01/helio-oiticica-e-ivens-machado/">DE CORPO PRESENTE</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa26879/berna-reale">Reale, Berna (Belém/PA, 1965 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa579198/luciana-magno">Magno, Luciana (Belém/PA, 1987 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa267193/ayrson-heraclito">Heráclito, Ayrson (Macaúbas/BA, 1969 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10571/ivens-machado">Machado, Ivens (Florianópolis/SC, 1942 - Florianópolis/SC)</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ, 1980)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa26879/berna-reale">Reale, Berna (Belém/PA, 1965 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa579198/luciana-magno">Magno, Luciana (Belém/PA, 1987 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa267193/ayrson-heraclito">Heráclito, Ayrson (Macaúbas/BA, 1969 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10571/ivens-machado">Machado, Ivens (Florianópolis/SC, 1942 - Rio de Janeiro/RJ, 2015)</a></td>
         <td>2018</td>
         <td>HELIO OITICICA:RHODISLANDIA; IVENS MACHADO: CORPO E CONSTRUCAO</td>
         <td>OPAVIVARA!</td>
@@ -111,7 +111,7 @@
       </tr>
       <tr>
         <th>8</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213155821/http://ofermentorevista.com.br/2018/07/05/vicente-de-mello-memoria-as-escuras/">VICENTE DE MELLO: MEMORIA AS ESCURAS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa12684/vicente-de-mello">Mello, Vicente de (São Paulo/SP, 1967 - )</a></td>
         <td>2018</td>
@@ -121,9 +121,9 @@
       </tr>
       <tr>
         <th>9</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213155953/http://ofermentorevista.com.br/2018/07/20/tunga/">TRANSBORDAMENTOS DOS TRACOS AS FORMAS</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa376775/tunga">Mello Mourão, Antonio José de (Palmares/PE, 1952 - Palmares/PE)</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa376775/tunga">Mello Mourão, Antonio José de (Palmares/PE, 1952 - Rio de Janeiro/RJ, 2016)</a></td>
         <td>2018</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento650099/tunga-o-rigor-da-distracao">TUNGA: O RIGOR DA DISTRACAO</a></td>
         <td>n/a</td>
@@ -131,9 +131,9 @@
       </tr>
       <tr>
         <th>10</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160134/http://ofermentorevista.com.br/2018/08/26/poeticas-construtivas-sem-fronteiras/">POETICAS CONSTRUTIVAS SEM FRONTEIRAS</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1694/lygia-clark">Clark, Lygia (Belo Horizonte/MG, 1920 - Belo Horizonte/MG)</a>; Pérez Monzón, Gustavo (Cuba, 1956 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa103882/iran-do-espirito-santo">Espírito Santo, Iran do (Mococa/SP, 1963 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa950/lygia-pape">Pape, Lygia (Nova Friburgo/RJ, 1927 - Nova Friburgo/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa297/waldemar-cordeiro">Cordeiro, Waldemar (Itália, 1925 - Itália, 1973)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1610/alfredo-volpi">Volpi, Alfredo (Itália, 1896 - Itália, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8922/ivan-serpa">Serpa, Ivan (Rio de Janeiro/RJ, 1923 - Rio de Janeiro/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10387/willys-de-castro">Castro, Willys de (Uberlândia/MG, 1926 - Uberlândia/MG)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa21443/julio-le-parc">Parc, Julio Le (Argentina, 1928 - )</a>; Vardenega, Gregorio (Itália, 1923 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa6346/magdalena-fernandez">Fernández, Magdalena (Venezuela, 1964 - )</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ, 1980)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1694/lygia-clark">Clark, Lygia (Belo Horizonte/MG, 1920 - Rio de Janeiro/RJ, 1988)</a>; Pérez Monzón, Gustavo (Cuba, 1956 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa103882/iran-do-espirito-santo">Espírito Santo, Iran do (Mococa/SP, 1963 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa950/lygia-pape">Pape, Lygia (Nova Friburgo/RJ, 1927 - Rio de Janeiro/RJ, 2004)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa297/waldemar-cordeiro">Cordeiro, Waldemar (Itália, 1925 - São Paulo/SP, 1973)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1610/alfredo-volpi">Volpi, Alfredo (Itália, 1896 - São Paulo/SP, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8922/ivan-serpa">Serpa, Ivan (Rio de Janeiro/RJ, 1923 - Rio de Janeiro/RJ, 1973)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10387/willys-de-castro">Castro, Willys de (Uberlândia/MG, 1926 - São Paulo/SP, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa21443/julio-le-parc">Parc, Julio Le (Argentina, 1928 - )</a>; Vardenega, Gregorio (Itália, 1923 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa6346/magdalena-fernandez">Fernández, Magdalena (Venezuela, 1964 - )</a></td>
         <td>2018</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento648543/construcoes-sensiveis-a-experiencia-latino-americana-na-colecao-ella-fontanals-cisneros">CONSTRUCOES SENSIVEIS: A EXPERIENCIA GEOMETRICA LATINO-AMERICANA NA COLECAOELLA FONTANALS-CISNEROS</a></td>
         <td>n/a</td>
@@ -141,7 +141,7 @@
       </tr>
       <tr>
         <th>11</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160253/http://ofermentorevista.com.br/2018/08/26/iole-de-freitas-singelezas-de-aco/">IOLE DE FREITAS: SINGELEZAS DE ACO</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9002/iole-de-freitas">Freitas, Iole de (Belo Horizonte/MG, 1945 - )</a></td>
         <td>2018</td>
@@ -151,7 +151,7 @@
       </tr>
       <tr>
         <th>12</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2018/09/29/todo-mundo-grita-e-ninguem-se-ouve/">TODO MUNDO GRITA E NINGUEM SE OUVE</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa272134/rodrigo-braga">Braga, Rodrigo (Manaus/AM, 1976 - )</a></td>
         <td>2018</td>
@@ -161,9 +161,9 @@
       </tr>
       <tr>
         <th>13</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160505/http://ofermentorevista.com.br/2018/10/09/antonio-dias-alem-das-molduras/">ANTONIO DIAS: ALEM DAS MOLDURAS</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa45/antonio-dias">Lima Dias, Antônio Manuel (Campina Grande/PB, 1944 - Campina Grande/PB)</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa45/antonio-dias">Lima Dias, Antônio Manuel (Campina Grande/PB, 1944 - Rio de Janeiro/RJ, 2018)</a></td>
         <td>2018</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento438674/antonio-dias-o-ilusionista">ANTONIO DIAS: O ILUSIONISTA</a></td>
         <td>n/a</td>
@@ -171,7 +171,7 @@
       </tr>
       <tr>
         <th>14</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160611/http://ofermentorevista.com.br/2018/10/17/luminescencias-cromaticas/">LUMINESCENCIAS CROMATICAS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa14968/ana-freitas">Freitas, Ana (/RJ)</a></td>
         <td>2018</td>
@@ -181,7 +181,7 @@
       </tr>
       <tr>
         <th>15</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160719/http://ofermentorevista.com.br/2018/10/17/no-meio-do-caminho-tinha-muitas-pedras/">NO MEIO DO CAMINHO TINHA MUITAS PEDRAS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa280184/matheus-rocha-pitta">Rocha Pitta, Matheus (São João del Rei/MG, 1980 - )</a></td>
         <td>2018</td>
@@ -191,7 +191,7 @@
       </tr>
       <tr>
         <th>16</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213160918/http://ofermentorevista.com.br/2018/11/16/acredite-ou-nao-eu-sei-desenhar/">“ACREDITE OU NAO, EU SEI DESENHAR”</a></td>
         <td>Basquiat, Jean-Michel (Estados Unidos, 1960 - Estados Unidos, 1988)</td>
         <td>2018</td>
@@ -201,9 +201,9 @@
       </tr>
       <tr>
         <th>17</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2018/12/13/muito-alem-dos-azulejos/">MUITO ALEM DOS AZULEJOS</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa10287/athos-bulcao">Bulcão, Athos (Rio de Janeiro/RJ, 1918 - Rio de Janeiro/RJ)</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa10287/athos-bulcao">Bulcão, Athos (Rio de Janeiro/RJ, 1918 - Brasília/DF, 2008)</a></td>
         <td>2018</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento648538/100-anos-de-athos-bulcao">100 ANOS DEATHOS BULCAO</a></td>
         <td>n/a</td>
@@ -211,7 +211,7 @@
       </tr>
       <tr>
         <th>18</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2019/01/06/corpos-labirinticos/">CORPOS LABIRINTICOS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa561871/ze-carlos-garcia">Garcia, Zé Carlos (Aracaju/SE, 1973 - )</a></td>
         <td>2019</td>
@@ -221,7 +221,7 @@
       </tr>
       <tr>
         <th>19</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200213161812/http://ofermentorevista.com.br/2019/01/15/emersoes-do-avesso/">EMERSOES DO AVESSO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa279281/tiago-sant-ana">Sant’Ana, Tiago (Santo Antônio de Jesus/BA, 1990 - )</a></td>
         <td>2019</td>
@@ -231,7 +231,7 @@
       </tr>
       <tr>
         <th>20</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2019/01/15/luiz-zerbini-paisagens-caleidoscopicas/">PAISAGENS CALEIDOSCOPICAS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9162/luiz-zerbini">Zerbini, Luiz (São Paulo/SP, 1959 - )</a></td>
         <td>2019</td>
@@ -241,7 +241,7 @@
       </tr>
       <tr>
         <th>21</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2019/02/21/invisibilidade-tangivel/">INVISIBILIDADE TANGIVEL</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa24679/ronaldo-macedo">Rego Macedo, Ronaldo do (Rio de Janeiro/RJ, 1950 - )</a></td>
         <td>2019</td>
@@ -251,7 +251,7 @@
       </tr>
       <tr>
         <th>22</th>
-        <td>Veiga, Valesca ()</td>
+        <td>Veiga, Valesca (Brasil)</td>
         <td><a href="https://web.archive.org/save/http://ofermentorevista.com.br/2019/04/01/tramas-do-tempo/">TRAMAS DO TEMPO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa475835/janaina-mello">Mello Landini, Janaina (São Gotardo/MG, 1974 - )</a></td>
         <td>2019</td>

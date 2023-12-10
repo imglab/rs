@@ -54,7 +54,7 @@
         <th>2</th>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></td>
         <td><a href="https://web.archive.org/web/20200220165013/http://performatus.net/estudos/marcelo-braga/">PELES DE SI, PELES DE OUTRO, PELES DE OUTRORA: A FIGURACAO DO ARTISTA ENFER</a></td>
-        <td>Braga, Marcelo (Guarani/MGGuarani/MG); <a href="https://enciclopedia.itaucultural.org.br/pessoa13468/walter-carvalho">Carvalho, Walter (, 1947)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa27080/michel-groisman">Groisman, Michel (Rio de Janeiro/RJ, 1972 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa106830/renato-mangolin">Mangolin, Renato</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa459670/simone-spoladore">Spoladore, Simone (Curitiba/PR, 1979 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa373353/laura-samy">Samy, Laura ()</a>; Lancellotti, Domenico (Rio de Janeiro/RJ, 1972 - )</td>
+        <td>Braga, Marcelo (Guarani/MGRio de Janeiro/RJ, 2014-12-08); <a href="https://enciclopedia.itaucultural.org.br/pessoa13468/walter-carvalho">Carvalho, Walter (João Pessoa/PB, 1947)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa27080/michel-groisman">Groisman, Michel (Rio de Janeiro/RJ, 1972 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa106830/renato-mangolin">Mangolin, Renato</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa459670/simone-spoladore">Spoladore, Simone (Curitiba/PR, 1979 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa373353/laura-samy">Samy, Laura ()</a>; Lancellotti, Domenico (Rio de Janeiro/RJ, 1972 - )</td>
         <td>2013</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -64,7 +64,7 @@
         <th>3</th>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></td>
         <td><a href="https://web.archive.org/web/20200319172733/http://performatus.net/estudos/espaco-do-beijo/">O PEQUENO (E EXCESSIVO) ESPACO DO BEIJO</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a>; Guedes, Paula; Cordeiro Macedo, Suianni (); Cruz Nowell, Emily; Gaia Saunders, Rosa (Canadá); Dumas, Juliette (França); Félix, Hugus; <a href="https://enciclopedia.itaucultural.org.br/pessoa593143/larissa-camara">Câmara, Larissa</a>; Baumgratz, Leandro; Novaes, Lívia; Santos, Luís Filipe</td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJRio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (Brasil, 1981 - )</a>; Guedes, Paula; Cordeiro Macedo, Suianni (Brasil); Cruz Nowell, Emily; Gaia Saunders, Rosa (Canadá); Dumas, Juliette (França); Félix, Hugus; <a href="https://enciclopedia.itaucultural.org.br/pessoa593143/larissa-camara">Câmara, Larissa</a>; Baumgratz, Leandro; Novaes, Lívia; Santos, Luís Filipe</td>
         <td>2015</td>
         <td>n/a</td>
         <td>CIA. EXCESSOS</td>
@@ -84,7 +84,7 @@
         <th>5</th>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
         <td><a href="https://web.archive.org/web/20200205154716/http://performatus.net/perfil-de-artista/marcus-vinicius/">A(S)CENDER: CONSIDERACAO SOBRE A VIDA E A OBRA DEMARCUS VINICIUS</a></td>
-        <td>Souza Santos, Marcus Vinícius de (Vitória/ES, 1985 - Vitória/ES)</td>
+        <td>Souza Santos, Marcus Vinícius de (Vitória/ES, 1985 - Turquia, 2012)</td>
         <td>2013</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -162,7 +162,7 @@
       </tr>
       <tr>
         <th>13</th>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Cordeiro Macedo, Suianni ()</td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Cordeiro Macedo, Suianni (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200205160958/https://performatus.net/perfil-de-artista/patricia-correa/">O QUE PROCLAMAR AO PUBLICO SEM SE DIRIGIR A ELE: CONVERSA COMPATRICIA CORRE</a></td>
         <td>Corrêa, Patrícia (Portugal, 1978 - )</td>
         <td>2013</td>
@@ -314,7 +314,7 @@
         <th>28</th>
         <td>Bezerra, André (Natal/RN, 1987 - ); Silva, Chrystine (Natal/RN, 1988 - )</td>
         <td><a href="https://web.archive.org/web/20200205161246/https://performatus.net/estudos/reciprocidade-desalmada/">O DOBRO-NADA DE “RECIPROCIDADE DESALMADA”</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a>; Guedes, Paula</td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (Brasil, 1981 - )</a>; Guedes, Paula</td>
         <td>2013</td>
         <td>n/a</td>
         <td>CIA. EXCESSOS</td>
@@ -324,7 +324,7 @@
         <th>29</th>
         <td>Bezerra, André (Natal/RN, 1987 - ); Vasconcellos, Jaqueline (Salvador/BA, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa449841/grasiele-sousa">Sousa, Grasiele (São Bernardo do Campo/SP, 1978 - )</a>; Sehn, Carina (Estrela/RS, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa271974/clarisse-tarran">Tarran, Clarisse (Brasília/DF, 1968 - )</a>; Skorupski, Jefferson (, 1989 - ); Rezende, Roberto; <a href="https://enciclopedia.itaucultural.org.br/pessoa364860/daniela-hochmann-labra">Labra, Daniela (Chile, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa268777/dione-veiga-vieira">Veiga Vieira, Dione (Porto Alegre/RS, 1954 - )</a>; Nogueira, Cristiana (Rio de Janeiro/RJ)</td>
         <td><a href="https://web.archive.org/web/20200328175815/http://performatus.net/perfil-de-artista/claudia-paim/">SOBRECLAUDIA PAIM, PARACLAUDIA PAIM</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa390139/claudia-paim">Paim, Claudia (Porto Alegre/RS, 1961 - Porto Alegre/RS)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa390139/claudia-paim">Paim, Claudia (Porto Alegre/RS, 1961 - Brasil, 2018)</a></td>
         <td>2019</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -332,7 +332,7 @@
       </tr>
       <tr>
         <th>30</th>
-        <td>Cordeiro Macedo, Suianni ()</td>
+        <td>Cordeiro Macedo, Suianni (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200205155718/http://performatus.net/criticas/farnese-de-andrade/">INDIZIVEL INSTANTE: PRESENCA E MEMORIA DEFARNESE DE ANDRADE</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa407491/celina-sodre">Sodré Fonseca, Celina Maria (Rio de Janeiro/RJ, 1954 - )</a>; Silveira, Vandré (Belo Horizonte/MG, 1981 - )</td>
         <td>2013</td>
@@ -342,7 +342,7 @@
       </tr>
       <tr>
         <th>31</th>
-        <td>Cordeiro Macedo, Suianni ()</td>
+        <td>Cordeiro Macedo, Suianni (Brasil)</td>
         <td><a href="https://web.archive.org/save/https://performatus.net/estudos/waleria-americo/">MIRAR E HABITAR: A OBRA DEWALERIA AMERICODIANTE DO MUNDO</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa268288/waleria-americo">Américo Bezerra, Waléria (Fortaleza/CE, 1979 - )</a></td>
         <td>2013</td>
@@ -352,7 +352,7 @@
       </tr>
       <tr>
         <th>32</th>
-        <td>Cordeiro Macedo, Suianni ()</td>
+        <td>Cordeiro Macedo, Suianni (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200205160844/https://performatus.net/criticas/a-descoberta-da-verdade/">A DESCOBERTA DA VERDADE</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa26997/paulo-meira">Araújo Meira Júnior, Paulo de (Arcoverde/PE, 1966 - )</a>; Lago, Moacir (Recife/PE, 1973 - ); Queiroga, Luciana (Recife/PE); Andrade, Tiago (Recife/PE); Baccaro, Francisco (Olinda/PE, 1978 - )</td>
         <td>2013</td>
@@ -362,7 +362,7 @@
       </tr>
       <tr>
         <th>33</th>
-        <td>Cordeiro Macedo, Suianni ()</td>
+        <td>Cordeiro Macedo, Suianni (Brasil)</td>
         <td><a href="https://web.archive.org/web/20200312001414/http://performatus.net/estudos/klein-redin/">A INELUTAVEL “PRESENCA” DO VAZIO: DIALOGOS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a></td>
         <td>2014</td>
@@ -394,7 +394,7 @@
         <th>36</th>
         <td>Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</td>
         <td><a href="https://web.archive.org/web/20200205153757/http://performatus.net/estudos/o-beijo-cia-excessos/">TODO AMOR QUE HOUVER NESSA VIDA</a></td>
-        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJ)</td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJRio de Janeiro/RJ)</td>
         <td>2012</td>
         <td>n/a</td>
         <td>CIA. EXCESSOS</td>
@@ -574,7 +574,7 @@
         <th>54</th>
         <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
         <td><a href="https://web.archive.org/web/20170331232201/http://performatus.net/criticas/lizi-menezes/">CONSUMO OBSESSIVO OU REGURGITACAO NECESSARIA DOS ARQUETIPOS JA PETRIFICADOS</a></td>
-        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (Brasil, 1981 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -634,7 +634,7 @@
         <th>60</th>
         <td>Poty, Vanja (São Paulo/SP, 1986 - ); Vasconcelos, Thaís</td>
         <td><a href="https://web.archive.org/web/20170101131537/http://performatus.net/criticas/festival-de-teatro-da-amazonia-2/">ATRAVESSIADOGRUPO TECELAGEMPELO PALCO DOTEATRO AMAZONAS</a></td>
-        <td>Rosa, Guimarães (Cordisburgo/MG, 1908 - Cordisburgo/MG); Rodrigues, Thiago; França, Celso; Williams, Paulo</td>
+        <td>Rosa, Guimarães (Cordisburgo/MG, 1908 - Rio de Janeiro/RJ, 1967); Rodrigues, Thiago; França, Celso; Williams, Paulo</td>
         <td>2015</td>
         <td>n/a</td>
         <td>GRUPO TECELAGEM</td>
