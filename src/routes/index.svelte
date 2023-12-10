@@ -24,7 +24,7 @@
 <div class="hero bg-primary hero-sm">
 	<div class="hero-body">
 		<h1>Corpus Réseaux Sensibles</h1>
-		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019. Última atualização: 20/03/2023</p>
+		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019. Última atualização: 09/12/2023</p>
 	</div>
 </div>
 
@@ -35,11 +35,11 @@
 		<div class="column col-xl-4">
 				<h4>Críticas de Arte</h4>
 				<ul>
-					<li>Icônica: 73</li>
-	  				<li>eRevista Performatus: 65</li>
-	  				<li>Arte ConTexto: 42</li>
-	  				<li>Revista Desvio: 97</li>
-	  				<li>o fermento: 23</li>
+					<li><a href="/critiques/critiques_iconica">Icônica</a>: 73</li>
+	  				<li><a href="/critiques/critiques_performatus">eRevista Performatus</a>: 65</li>
+	  				<li><a href="/critiques/critiques_arte_contexto">Arte ConTexto</a>: 42</li>
+	  				<li><a href="/critiques/critiques_desvio">Revista Desvio</a>: 97</li>
+	  				<li><a href="/critiques/critiques_ofermento">o fermento</a>: 23</li>
 	  				<li>Total de Textos: 300</li>
 	  				<li>Total de Autores: 111</li>
    				</ul>

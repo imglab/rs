@@ -14,1743 +14,750 @@
 	</li>
 </ul>
 
-<h1>Críticas de Arte Publicadas pela Icônica até abril 2019</h1>
+<h1>Críticas de Arte Publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril 2019</h1>
 <table class="table">
-    <thead>
-            <tr>
-               <th>Críticas de Arte</th>
-               <th>Autores</th>
-               <th>Artistas</th>
-               <th>Obras</th>
-               <th>Exposições</th>
-            </tr>
+   <thead>
+      <tr style="text-align: left;">
+        <th></th>
+        <th>Autores</th>
+     <th>Críticas de Arte</th>
+     <th>Artistas &#40;tema&#41;</th>
+      <th>Ano de Publicação</th>
+      <th>Eventos Artísticos &#40;tema&#41;</th>
+      <th>Coletivos de Artistas &#40;tema&#41;</th>
+      <th>Obras de Arte dos Artistas e coletivos &#40;tema&#41;</th>
+      </tr>
     </thead>
     <tbody>
       <tr>
-         <td><a href="https://web.archive.org/web/20190809161555/http://www.iconica.com.br/site/doisneau-publicitario/">DOISNEAU PUBLICITÁRIO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Robert Doisneau</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>A Renault de Doisneau</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817084926/http://www.iconica.com.br/site/o-olhar-incomum-de-walker-evans/">O OLHAR INCOMUM DE WALKER EVANS</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Walker Evans</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Brooklyn Bridge</li>
-               <li>New York Streets</li>
-               <li>Tahiti</li>
-               <li>Havana</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Walker Evans</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808082609/http://www.iconica.com.br/site/coletivizando-o-coletivo/">COLETIVIZANDO O COLETIVO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cia de Foto</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>São Paulo de Muitos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190821053602/http://www.iconica.com.br/site/avatar-coisas-que-a-historia-da-fotografia-ensina-sobre-o-futuro-do-cinema/">AVATAR: COISAS QUE A HISTÓRIA DA FOTOGRAFIA ENSINA SOBRE O FUTURO DO CINEMA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>James Cameron</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Avatar</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809163530/http://www.iconica.com.br/site/gordon-matta-clark-o-registro-como-obra/">GORDON MATTA-CLARK: O REGISTRO COMO OBRA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Gordon Matta-Clark</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Gordon Matta-Clark: Desfazer o espaço</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817104457/http://www.iconica.com.br/site/o-olhar-e-as-paixoes-sobre-o-novo-filme-de-j-j-campanella/">O OLHAR E AS PAIXÕES: SOBRE O NOVO FILME DE J. J. CAMPANELLA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Juan Jose Campanella</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O segredo de seus olhos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190810213335/http://www.iconica.com.br/site/por-onde-andou-sebastiao-salgado/">POR ONDE ANDOU SEBASTIÃO SALGADO?</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sebastião Salgado</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Gênesis</li>
-               <li>Êxodos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190906020609/http://www.iconica.com.br/site/por-que-ver-os-classicos/">POR QUE VER OS CLÁSSICOS</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Maureen Bisilliat</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Xingu</li>
-               <li>Série Romeiros</li>
-               <li>Série Pele Preta</li>
-               <li>Série China</li>
-               <li>Série Japão</li>
-               <li>Série As Caranguejeiras</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Maureen Bisilliat – Fotografias</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190906190941/http://www.iconica.com.br/site/o-triste-fim-de-sophie-calle/">O TRISTE FIM DE SOPHIE CALLE</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sophie Calle</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cuide de Você</li>
-               <li>Cuide de Você</li>
-               <li>Cuide de Você</li>
-               <li>Cuide de Você</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817092622/http://www.iconica.com.br/site/irina-ionesco-imagens-de-um-tempo-sem-data/">IRINA IONESCO: IMAGENS DE UM TEMPO SEM DATA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Irina Ionesco</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Irina Ionesco, Nocturnes Porte Dorée</li>
-               <li>Série Eva: Eloge de ma fille</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Espelho de luz e sombra</li>
-               <li>Espelho de luz e sombra</li>
-               <li>Espelho de luz e sombra</li>
-               <li>Espelho de luz e sombra</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200117041901/http://www.iconica.com.br/site/pixo-na-bienal/">"PIXO" NA BIENAL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Djan Ivson</li>
-               <li>Rafael Guedes Augustaitiz</li>
-               <li>Adriano Choque</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>29a Bienal de São Paulo</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200108073709/http://www.iconica.com.br/site/dois-filmes-sobre-fotografos/">DOIS FILMES SOBRE FOTÓGRAFOS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Philippe Garrel</li>
-               <li>Louis Garrel</li>
-               <li>Laura Smet</li>
-               <li>Philippe Garrel</li>
-               <li>Jan Saudek</li>
-               <li>Sará Saudková</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>A fronteira do alvorecer</li>
-               <li>Jan Saudek: preso por suas paixões, nenhuma chance de resgate</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200108074208/http://www.iconica.com.br/site/um-ano-sem-otto-stupakoff/">UM ANO SEM OTTO STUPAKOFF</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Otto Stupakoff</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190917210826/http://www.iconica.com.br/site/o-retrato-de-zidane/">O RETRATO DE ZIDANE</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Douglas Gordon</li>
-               <li>Philippe Parreno</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Zidane, un portrait du 21e siècle</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808073641/http://www.iconica.com.br/site/vou-ao-cinema-nao-escapo-da-fotografia/">VOU AO CINEMA, NÃO ESCAPO DA FOTOGRAFIA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Karin Ainouz</li>
-               <li>Marcelo Gomes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Viajo porque preciso, volto porque te amo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817101943/http://www.iconica.com.br/site/gabinete-de-curiosidades/">GABINETE DE CURIOSIDADES</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Bob Wolfenson</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Apreensões</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Apreensões</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190910135036/http://www.iconica.com.br/site/luiz-braga-ruptura-e-contemplacao/">LUIZ BRAGA – RUPTURA E CONTEMPLAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Luiz Braga</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Ensaio – Estrada Nova S/N</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190826082540/http://www.iconica.com.br/site/muita-fotografia-e-video-na-bienal/">MUITA FOTOGRAFIA E VÍDEO NA BIENAL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Guy Veloso</li>
-               <li>Jonathas de Andrade</li>
-               <li>Rochelle Costi</li>
-               <li>Rosangela Rennó</li>
-               <li>Miguel Rio Branco</li>
-               <li>Alice Miceli</li>
-               <li>Alfredo Jaar</li>
-               <li>Nan Goldin</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>29a Bienal de São Paulo</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817115133/http://www.iconica.com.br/site/um-momento-especial-para-a-fotografia/">UM MOMENTO ESPECIAL PARA A FOTOGRAFIA</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Irmãos Vargas</li>
-               <li>Gaspar Gasparian</li>
-               <li>Marcel Gautherot</li>
-               <li>Peter Scheier</li>
-               <li>Thomaz Farkas</li>
-               <li>Bob Wolfenson</li>
-               <li>Miguel Rio Branco</li>
-               <li>Mauro Restiffe</li>
-               <li>Caio Reisewitz</li>
-               <li>Flavia Junqueira</li>
-               <li>Nan Goldin</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Estúdio de Arte Irmãos Vargas – a fotografia em Arequipa, Peru – 1912/1930</li>
-               <li>Gaspar Gasparian – um fotógrafo</li>
-               <li>As construções de Brasília</li>
-               <li>Apreensões</li>
-               <li>Maldicidade</li>
-               <li>Recorrências</li>
-               <li>Esqueceu de Beber Água, Agora Chora de Sede</li>
-               <li>A Casa em Festa</li>
-               <li>18ª Coleção Pirelli / MASP de Fotografia</li>
-               <li>Bienal da Internacional</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809181403/http://www.iconica.com.br/site/chacal-vs-capitao-nascimento/">CHACAL VS CAPITÃO NASCIMENTO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Olivier Assayas</li>
-               <li>Brian Eno</li>
-               <li>New Order</li>
-               <li>Wire</li>
-               <li>The Feelies</li>
-               <li>Chico Buarque</li>
-               <li>Pablo Milanez</li>
-               <li>José Padilha</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Carlos</li>
-               <li>Tropa de Elite II</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190710161257/http://www.iconica.com.br/site/jonathas-de-andrade-tensao-critica-entre-a-palavra-e-a-imagem/">A TENSÃO CRÍTICA ENTRE A PALAVRA E A IMAGEM</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Jonathas de Andrade</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Educação para adultos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190710165429/http://www.iconica.com.br/site/arqueologia-de-um-filme-de-godard/">ARQUEOLOGIA DE UM FILME DE GODARD</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Jean-Luc Godard</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Je vous salue, Sarajevo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817090820/http://www.iconica.com.br/site/norman-rockwell-behind-the-camera/">NORMAN ROCKWELL – BEHIND THE CAMERA</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Norman Rockwell</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>First Trip to the Beauty Shop</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Norman Rockwell: Behind the Camera</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817100755/http://www.iconica.com.br/site/a-imagem-do-ano-do-world-press-photo/">A IMAGEM DO ANO DO WORLD PRESS PHOTO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Jodi Bieber</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Bibi Aisha, 18</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>World Press Photo of the Year 2011</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808075812/http://www.iconica.com.br/site/la-camara-oscura-em-busca-de-um-olhar-que-transcende-as-aparencias/">"LA CÁMARA OSCURA", EM BUSCA DE UM OLHAR QUE TRANSCENDE AS APARÊNCIAS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Maria Victoria Menis</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>La cámara oscura</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190810212924/http://www.iconica.com.br/site/inhotim-espaco-e-experiencia/">INHOTIM: ESPAÇO E EXPERIÊNCIA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Miguel Rio Branco</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Exposição do acervo do Inhotim em 2011</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190811080837/http://www.iconica.com.br/site/a-construcao-de-uma-geracao/">A CONSTRUÇÃO DE UMA GERAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cláudia Andujar</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Geração 00</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817113509/http://www.iconica.com.br/site/geracao-00/">GERAÇÃO 00</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>João Castilho</li>
-               <li>Claudia Andujar</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Urihi-A</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Geração 00</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809160046/http://www.iconica.com.br/site/rodrigo-braga-num-sentido-extra-moral/">RODRIGO BRAGA NUM SENTIDO EXTRA-MORAL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Rodrigo Braga</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mentira repetida</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190917211515/http://www.iconica.com.br/site/tiago-santana-o-brasil-na-colecao-photo-poche/">TIAGO SANTANA – O BRASIL NA COLEÇÃO PHOTO POCHE</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tiago Santana</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sertão</li>
-               <li>Sertão</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808084759/http://www.iconica.com.br/site/o-processo-de-criacao-como-memoria/">O PROCESSO DE CRIAÇÃO COMO MEMÓRIA</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cristiano Mascaro</li>
-               <li>Bob Wolfenson</li>
-               <li>Marlene Bergamo</li>
-               <li>Cia de Foto</li>
-               <li>Pio Figueroa</li>
-               <li>Rafael Jacinto</li>
-               <li>João Kehl</li>
-               <li>Carol Lopes</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Bom Retiro e Luz: um roteiro (1976 – 2011)</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808073501/http://www.iconica.com.br/site/o-habitat-como-marca-distintiva-da-especie-ou-os-fotografos-nos-eventos-de-arte/">O HABITAT COMO MARCA DISTINTIVA DA ESPÉCIE [OU OS FOTÓGRAFOS NOS EVENTOS DE ARTE]</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>SP-Arte/Foto</li>
-               <li>7º Paraty em Foco - Festival Internacional de Fotografia</li>
-               <li>17º Festival Internacional de Arte Contemporânea Sesc_Videobrasil</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190830023157/http://www.iconica.com.br/site/a-imagem-do-ano-e-as-imagens-que-atravessam-o-tempo/">A IMAGEM DO ANO E AS IMAGENS QUE ATRAVESSAM O TEMPO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Samuel Aranda</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fatima al-Qaws cradles her son Zayed (18)</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>World Press Photo of the Year 2012</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817073845/http://www.iconica.com.br/site/pina-3d-as-profundidades-do-cinema/">PINA 3D: AS PROFUNDIDADES DO CINEMA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wim Wenders</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Pina</li>
-               <li>Buena Vista Social Club</li>
-               <li>A invenção de Hugo Cabret</li>
-               <li>Paris Texas</li>
-               <li>Asas do Desejo</li>
-               <li>Alice nas cidades</li>
-               <li>Movimento em falso</li>
-               <li>No decurso do tempo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808083301/http://www.iconica.com.br/site/wolfgang-tillmans-engenharia-do-acaso/">WOLFGANG TILLMANS: ENGENHARIA DO ACASO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wolfgang Tillmans</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wolfgang Tillmans</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190808085349/http://www.iconica.com.br/site/mis-centro-irradiador-de-fotografia/">MIS – CENTRO IRRADIADOR DE FOTOGRAFIA</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>André Kertész</li>
-               <li>Claudio Edinger</li>
-               <li>Andy Warhol</li>
-               <li>Ozualdo Candeias</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>De Bom Jesus a Milagres</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>André Kertész – Uma Vida em Dobro</li>
-               <li>Claudio Edinger – De Bom Jesus a Milagres</li>
-               <li>Andy Warhol Superfície Polaroides (1969-1986)</li>
-               <li>Ozualdo Candeias – Rua do Triumpho</li>
-               <li>Acervo Vivo – Câmeras Fotográficas de Dois Séculos</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809164155/http://www.iconica.com.br/site/as-formas-primitivas-de-apichatpong-weerasethakul/">AS FORMAS PRIMITIVAS DE APICHATPONG WEERASETHAKUL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Apichatpong Weerasethakul</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tio Boonmee, que Pode Recordar suas Vidas Passadas</li>
-               <li>Mekong Hotel</li>
-               <li>Ashes</li>
-               <li>Primitive</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190906015924/http://www.iconica.com.br/site/viagens-aparencias-e-aparicoes/">VIAGENS, APARÊNCIAS E APARIÇÕES</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>João Luiz Musa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Vila Prudente</li>
-               <li>24X36</li>
-               <li>Tate Modern, Londres, julho de 2011</li>
-               <li>Boulevard des Italiens, Paris, agosto de 2011</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>João Luiz Musa: 24X36 e Vila Prudente</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817103733/http://www.iconica.com.br/site/entre-morros-excesso-de-referencia-e-abstracao/">ENTRE MORROS – EXCESSO DE REFERÊNCIA E ABSTRAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Claudia Jaguaribe</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Entre Morros</li>
-               <li>Série Entre Morros</li>
-               <li>Menina na Laje</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190810214014/http://www.iconica.com.br/site/august-sander-e-hans-eijkelboom-na-ultima-sala-da-bienal/">A POSE E O ROSTO: AUGUST SANDER E HANS EIJKELBOOM NA BIENAL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>August Sander</li>
-               <li>Hans Eijkelboom</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Homens do século XX</li>
-               <li>Série Foto Notas</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>30ª edição da Bienal de São Paulo</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190818124635/http://www.iconica.com.br/site/acontecimento-e-imaginacao-em-sincronias-fotograficas/">ACONTECIMENTO E IMAGINAÇÃO EM SINCRONIAS FOTOGRÁFICAS</a></td>
-         <td>
-            <ul>
-               <li>Cláudia Linhares Sanz</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Michael Ruetz</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Demonstração no Primeiro de Maio, 1967, Berlim Oriental</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>1968: tempos incômodos</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190610034241/http://www.iconica.com.br/site/camara-lucida-camara-insana-fotografos-nao-sao-normais-parte-ii/">CÂMARA LÚCIDA, CÂMARA INSANA [FOTÓGRAFOS NÃO SÃO NORMAIS – PARTE II]</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Paul Thomas Anderson</li>
-               <li>Joaquin Phoenix</li>
-               <li>Philip Seymour Hoffman</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O mestre</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190830023435/http://www.iconica.com.br/site/maureen-bisilliat-fotografias-escolhidas-para-transformacao/">MAUREEN BISILLIAT, FOTOGRAFIAS ESCOLHIDAS PARA TRANSFORMAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Maureen Bisilliat</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Adesão: Junção/Ligação/União – fotografias escolhidas para transformação</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190910144754/http://www.iconica.com.br/site/cao-guimaraes-pequenos-impulsos-para-grandes-saltos/">CAO GUIMARÃES: PEQUENOS IMPULSOS PARA GRANDES SALTOS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cao Guimarães</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Gambiarras</li>
-               <li>Mestres da Gambiarra</li>
-               <li>Quarta-feira de cinzas</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Ver é uma fábula</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190810212613/http://www.iconica.com.br/site/da-caixa-preta-ao-cubo-branco-cronica-sobre-a-ressignificacao-de-um-espaco/">DA CAIXA PRETA AO CUBO BRANCO: CRÔNICA SOBRE A RESSIGNIFICAÇÃO DE UM ESPAÇO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mauro Restiffe</li>
-               <li>Carlito Carvalhosa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Obra</li>
-               <li>Sala de Espera</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Obra</li>
-               <li>Sala de Espera</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190811080902/http://www.iconica.com.br/site/coisas-como-elas-sao/">COISAS COMO ELAS SÃO</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Armando Prado</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Coisas como elas são</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190810215123/http://www.iconica.com.br/site/poderes-provisorios-imagens-impertinentes/">PODERES PROVISÓRIOS, IMAGENS IMPERTINENTES</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Orlando Brito</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Poder Provisório</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809164827/http://www.iconica.com.br/site/expor-uma-colecao/">A PAREDE: TRADUZIR AS INCERTEZAS DE UMA COLEÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Norbert H. Kox</li>
-               <li>Thomas Thompson</li>
-               <li>Hans-Peter Feldmann</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>The Gathering</li>
-               <li>Painting of light</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Le Mur</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190717105349/http://www.iconica.com.br/site/sertao-sem-sol-uma-paisagem-com-a-pouca-luz-que-tem-a-noite/">SERTÃO SEM SOL, UMA PAISAGEM COM A POUCA LUZ QUE TEM A NOITE</a></td>
-         <td>
-            <ul>
-               <li>Pio Figueiroa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Alexandre Severo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sertanejos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190922181232/http://www.iconica.com.br/site/recontro-os-tracos-de-uma-viagem-a-china/">RECONTRO, OS TRAÇOS DE UMA VIAGEM À CHINA</a></td>
-         <td>
-            <ul>
-               <li>Pio Figueiroa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Lívia Aquino</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Recontro</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190917195031/http://www.iconica.com.br/site/o-sal-da-terra/">O SAL DA TERRA: SINCRONIZAR A IMAGEM E A VOZ DE UM DRAMA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wim Wenders</li>
-               <li>Juliano Salgado</li>
-               <li>Sebastião Salgado</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O Sal da Terra</li>
-               <li>Buena Vista Social Club</li>
-               <li>Pina</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190917213808/http://www.iconica.com.br/site/analira/">VOTO DE ANA</a></td>
-         <td>
-            <ul>
-               <li>Pio Figueiroa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Ana Lira</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Voto!</li>
-               <li>Voto</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190906020152/http://www.iconica.com.br/site/sobremarinhos/">SOBREMARINHOS: PALAVRA-MATÉRIA, SENTIDOS FLUIDOS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Gilvan Barreto</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sobremarinhos</li>
-               <li>Moscouzinho</li>
-               <li>o Livro do Sol</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20191219182711/http://www.iconica.com.br/site/travessias/">TRAVESSIAS</a></td>
-         <td>
-            <ul>
-               <li>Rubens Fernandes Junior</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>German Lorca</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Geometria das Sombras</li>
-               <li>Aeroporto</li>
-               <li>Mondrian</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Travessias</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20191226193437/http://www.iconica.com.br/site/falar-de-imagens-sem-compreende-las-apichatpong-weerasethakul/">FALAR DE IMAGENS SEM COMPREENDÊ-LAS: APICHATPONG WEERASETHAKUL</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Apichatpong Weerasethakul</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cemitério do Esplendor</li>
-               <li>Tio Boonmee</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20191219183113/http://www.iconica.com.br/site/primeiras-licoes-de-hidrologia-e-outras-observacoes/">PRIMEIRAS LIÇÕES DE HIDROLOGIA – E OUTRAS OBSERVAÇÕES</a></td>
-         <td>
-            <ul>
-               <li>Pio Figueiroa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Adelaide Ivánova</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Primeiras lições de hidrologia – e outras observações</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200812070952/http://www.iconica.com.br/site/sobre-pequenas-pregnancias-coracao-de-cachorro-de-laurie-anderson/">SOBRE PEQUENAS PREGNÂNCIAS: CORAÇÃO DE CACHORRO, DE LAURIE ANDERSON</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Laurie Anderson</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Coração de Cachorro</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190811075057/http://www.iconica.com.br/site/a-diversidade-das-coisas-que-sao-as-mesmas-andrey-zignnatto-e-vincent-mauger/">A DIVERSIDADE DAS COISAS QUE SÃO AS MESMAS: ANDREY ZIGNNATTO E VINCENT MAUGER</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Andrey Zignnatto</li>
-               <li>Vincent Mauger</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200223163646/http://www.iconica.com.br/site/o-corpo-e-a-camera-oscilacoes-nostalgicas-de-wim-wenders-em-torno-da-fotografia/">O CORPO E A CÂMERA: OSCILAÇÕES NOSTÁLGICAS DE WIM WENDERS EM TORNO DA FOTOGRAFIA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wim Wenders</li>
-               <li>Milla Jovovich</li>
-               <li>Letizia Battaglia</li>
-               <li>Salgado</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Alice nas cidades</li>
-               <li>Palermo Shooting</li>
-               <li>O Sal da Terra</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809153343/http://www.iconica.com.br/site/a-perda-e-o-reencontro-as-varias-distancias-das-imagens/">A PERDA E O REENCONTRO: AS VÁRIAS DISTÂNCIAS DAS IMAGENS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Giselle Beiguelman</li>
-               <li>Robert Capa</li>
-               <li>Gerda Taro</li>
-               <li>David Seymour</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cinema Lascado</li>
-               <li>A Valise Mexicana</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200825041000/http://www.iconica.com.br/site/westworld-o-bordel-das-narrativas/">WESTWORLD: O BORDEL DAS NARRATIVAS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Jonathan Nolan</li>
-               <li>Lisa Joy</li>
-               <li>Anthony Hopkins</li>
-               <li>Ed Harris</li>
-               <li>Rodrigo Santoro</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Westworld</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200903120914/http://www.iconica.com.br/site/arte-instituicao-e-seguranca-subir-escadas-sem-segurar-no-corrimao/">ARTE, INSTITUIÇÃO E SEGURANÇA: SUBIR ESCADAS SEM SEGURAR NO CORRIMÃO</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Ana Maria Tavares</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Exit</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>No lugar mesmo: uma antologia de Ana Maria Tavares</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200219022420/http://www.iconica.com.br/site/religacoes-o-escuro-da-fotografia-contemporanea/">RELIGAÇÕES: O ESCURO DA FOTOGRAFIA CONTEMPORÂNEA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fernando de Tacca</li>
-               <li>Chiara Sengberg</li>
-               <li>Guilherme Albuquerque</li>
-               <li>Tony Queiroga</li>
-               <li>Pio Figueiroa</li>
-               <li>Roberta Figue</li>
-               <li>Marilia Zarattini</li>
-               <li>Claudia Elias</li>
-               <li>Manuel Martins</li>
-               <li>Livia Aquino</li>
-               <li>Hans Georg</li>
-               <li>Suzana Mendes</li>
-               <li>Ailton Machado</li>
-               <li>Fernando Schmitt</li>
-               <li>Denise Camargo</li>
-               <li>Cristiane Oshima</li>
-               <li>André Mortatti</li>
-               <li>Élida Nascimento</li>
-               <li>Caroline Moraes</li>
-               <li>Luísa Guanabara</li>
-               <li>Carlos Goldgrub</li>
-               <li>Alexandre Romero</li>
-               <li>Guilherme Maranhão</li>
-               <li>Rose Steinmetz</li>
-               <li>Leo Caobelli</li>
-               <li>Marcelo Costa</li>
-               <li>Guilherme Tosetto</li>
-               <li>Isis Gasparini</li>
-               <li>Marcelo Paciornik</li>
-               <li>Letícia Lampert</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Alusão</li>
-               <li>Série Oásis de Fatalidade</li>
-               <li>Série Diáfano</li>
-               <li>Estudos para tons de cinza</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200219164326/http://www.iconica.com.br/site/artistas-geniais-nervosos-neuroticos-perversos/">ARTISTAS GENIAIS, NERVOSOS, NEURÓTICOS, PERVERSOS…</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Woody Allen</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Annie Hall</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200823142203/http://www.iconica.com.br/site/viagem-ao-sul-do-real/">REAL, SURREAL, SUL DO REAL</a></td>
-         <td>
-            <ul>
-               <li>Didiana Prata</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Rogério Assis</li>
-               <li>Ciro Girard</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Viagem ao Sul do Real</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190718003928/http://www.iconica.com.br/site/paragem/wendel-medeiros-50-anos-do-golpe-militar/">WENDEL MEDEIROS | 50 ANOS DO GOLPE MILITAR DE 64</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Wendel Medeiros</li>
-               <li>Coletivo Aparecidos Políticos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>50 anos do golpe militar de 64</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190826065452/http://www.iconica.com.br/site/paragem/fabricio-arriaga-azimute/">FABRÍCIO ARRIAGA | AZIMUTE</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fabrício Arriaga</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Azimute</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190809172733/http://www.iconica.com.br/site/paragem/cyro-almeida-e-mestre-julio-santos-memoria-involuntaria/">CYRO ALMEIDA E MESTRE JÚLIO SANTOS | MEMÓRIA INVOLUNTÁRIA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cyro Almeida</li>
-               <li>Mestre Júlio Santos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Memória Involuntária</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190818110109/http://www.iconica.com.br/site/paragem/karina-rampazzo-persona/">KARINA RAMPAZZO | PERSONA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Karina Rampazzo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Persona</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817090458/http://www.iconica.com.br/site/paragem/mariana-andrade-iris/">MARIANA ANDRADE | IRIS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mariana Andrade</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Iris</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190928222933/http://www.iconica.com.br/site/paragem/lara-ovidio-territorios-pereciveis-teste/">LARA OVÍDIO | TERRITÓRIOS PERECÍVEIS</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Lara Ovídio</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Territórios Perecíveis</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20190817114727/http://www.iconica.com.br/site/paragem/samy-sfoggia-bababadalgharaghtakam/">SAMY SFOGGIA | RAPID EYE MOVEMENTE / BABABADALGHARAGHTAK(…)!</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Samy Sfoggia</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Rapid Eye Movement</li>
-               <li>Bababadalgha-raghtak(…)!</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170531201650/http://www.iconica.com.br/site/paragem/claudia-tavares-um-jardim-na-floresta/">CLAUDIA TAVARES | UM JARDIM NA FLORESTA</a></td>
-         <td>
-            <ul>
-               <li>Ronaldo Entler</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Claudia Tavares</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Um Jardim na Floresta</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
+        <th>0</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809161555/http://www.iconica.com.br/site/doisneau-publicitario/">DOISNEAUPUBLICITARIO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7289/robert-doisneau">Doisneau, Robert (França, 1912 - França, 1994)</a></td>
+        <td>2009</td>
+        <td>A RENAULT DEDOISNEAU</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808082609/http://www.iconica.com.br/site/coletivizando-o-coletivo/">COLETIVIZANDO O COLETIVO</a></td>
+        <td>n/a</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>CIA DE FOTO</td>
+        <td>SAO PAULO DE MUITOS</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190821053602/http://www.iconica.com.br/site/avatar-coisas-que-a-historia-da-fotografia-ensina-sobre-o-futuro-do-cinema/">AVATAR: COISAS QUE A HISTORIA DA FOTOGRAFIA ENSINA SOBRE O FUTURO DO CINEMA</a></td>
+        <td>Cameron, James (Canadá, 1954 - )</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>AVATAR</td>
+      </tr>
+      <tr>
+        <th>3</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809163530/http://www.iconica.com.br/site/gordon-matta-clark-o-registro-como-obra/">GORDON MATTA-CLARK: O REGISTRO COMO OBRA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa579940/gordon-matta-clark">Matta-Clark, Gordon (Estados Unidos, 1943 - Estados Unidos, 1978)</a></td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento634384/gordon-matta-clark-desfazer-o-espaco">GORDON MATTA-CLARK: DESFAZER O ESPACO</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>4</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817104457/http://www.iconica.com.br/site/o-olhar-e-as-paixoes-sobre-o-novo-filme-de-j-j-campanella/">O OLHAR E AS PAIXOES: SOBRE O NOVO FILME DEJ. J. CAMPANELLA</a></td>
+        <td>Campanella, Juan Jose (Argentina, 1959 - )</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>O SEGREDO DOS SEUS OLHOS</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190810213335/http://www.iconica.com.br/site/por-onde-andou-sebastiao-salgado/">POR ONDE ANDOUSEBASTIAO SALGADO?</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a></td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>EXODOS; GENESIS</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190906190941/http://www.iconica.com.br/site/o-triste-fim-de-sophie-calle/">O TRISTE FIM DESOPHIE CALLE</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a></td>
+        <td>2010</td>
+        <td>CUIDE DE VOCE; CUIDE DE VOCE; CUIDE DE VOCE; CUIDE DE VOCE</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817092622/http://www.iconica.com.br/site/irina-ionesco-imagens-de-um-tempo-sem-data/">IRINA IONESCO: IMAGENS DE UM TEMPO SEM DATA</a></td>
+        <td>Ionesco, Irina (França, 1930 - )</td>
+        <td>2010</td>
+        <td>ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA</td>
+        <td>n/a</td>
+        <td>IRINA IONESCO, NOCTURNES PORTE DOREE; SERIEEVA: ELOGE DE MA FILLE</td>
+      </tr>
+      <tr>
+        <th>8</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200117041901/http://www.iconica.com.br/site/pixo-na-bienal/">"PIXO" NABIENAL</a></td>
+        <td>Ivson, Djan (São Paulo/SP, 1984 - ); Guedes Augustaitiz, Rafael (); Choque, Adriano ()</td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>9</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200108073709/http://www.iconica.com.br/site/dois-filmes-sobre-fotografos/">DOIS FILMES SOBRE FOTOGRAFOS</a></td>
+        <td>Garrel, Philippe (França, 1948 - ); Garrel, Louis (França, 1983 - ); Smet, Laura (França, 1983 - ); Saudek, Jan (República Checa, 1935 - ); Saudková, Sára (República Checa, 1967 - )</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>A FRONTEIRA DO ALVORECER; JAN SAUDEK: PRESO POR SUAS PAIXOES, NENHUMA CHANCE DE RESGATE</td>
+      </tr>
+      <tr>
+        <th>10</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190917210826/http://www.iconica.com.br/site/o-retrato-de-zidane/">O RETRATO DEZIDANE</a></td>
+        <td>Gordon, Douglas (Reino Unido, 1966 - ); Parreno, Philippe (Argélia, 1964 - )</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ZIDANE, UM RETRATO DO SECULO XXI</td>
+      </tr>
+      <tr>
+        <th>11</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808073641/http://www.iconica.com.br/site/vou-ao-cinema-nao-escapo-da-fotografia/">VOU AO CINEMA, NAO ESCAPO DA FOTOGRAFIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa241630/karim-ainouz">Aïnouz, Karim (Fortaleza/CE, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13948/marcelo-gomes">Gomes, Marcelo (Recife/PE, 1963 - )</a></td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>VIAJO PORQUE PRECISO, VOLTO PORQUE TE AMO</td>
+      </tr>
+      <tr>
+        <th>12</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190826082540/http://www.iconica.com.br/site/muita-fotografia-e-video-na-bienal/">MUITA FOTOGRAFIA E VIDEO NABIENAL</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa621224/alfredo-jaar">Jaar, Alfredo (Chile, 1956 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10376/rosangela-renno">Rennó, Rosângela (Belo Horizonte/MG, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa27127/guy-veloso">Veloso, Guy (Belém/PA, 1969 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22077/rochelle-costi">Costi, Rochelle (Caxias do Sul/RS, 1961 - Caxias do Sul/RS)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa377650/alice-miceli">Miceli, Alice (Rio de Janeiro/RJ, 1980 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a></td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>13</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809181403/http://www.iconica.com.br/site/chacal-vs-capitao-nascimento/">CHACALVSCAPITAO NASCIMENTO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa12512/chico-buarque">Buarque, Chico (Rio de Janeiro/RJ, 1944 - )</a>; Assayas, Olivier (França, 1955 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa444596/jose-padilha">Padilha, José (Rio de Janeiro/RJ, 1967 - )</a>; Eno, Brian (Reino Unido, 1948 - ); Milanés, Pablo (Cuba, 1943 - )</td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>NEW ORDER; WIRE; THE FEELIES</td>
+        <td>CARLOS; TROPA DE ELITE II</td>
+      </tr>
+      <tr>
+        <th>14</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190710161257/http://www.iconica.com.br/site/jonathas-de-andrade-tensao-critica-entre-a-palavra-e-a-imagem/">A TENSAO CRITICA ENTRE A PALAVRA E A IMAGEM</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a></td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE EDUCACAO PARA ADULTOS</td>
+      </tr>
+      <tr>
+        <th>15</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190710165429/http://www.iconica.com.br/site/arqueologia-de-um-filme-de-godard/">ARQUEOLOGIA DE UM FILME DEGODARD</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa457135/jean-luc-godard">Godard, Jean-Luc (França, 1930 - )</a></td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>JE VOUS SALUE, SARAJEVO</td>
+      </tr>
+      <tr>
+        <th>16</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817100755/http://www.iconica.com.br/site/a-imagem-do-ano-do-world-press-photo/">A IMAGEM DO ANO DOWORLD PRESS PHOTO</a></td>
+        <td>Bieber, Jodi (África do Sul, 1967 - )</td>
+        <td>2011</td>
+        <td>WORLD PRESS PHOTO OF THE YEAR 2011</td>
+        <td>n/a</td>
+        <td>BIBI AISHA, 18</td>
+      </tr>
+      <tr>
+        <th>17</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808075812/http://www.iconica.com.br/site/la-camara-oscura-em-busca-de-um-olhar-que-transcende-as-aparencias/">"LA CAMARA OSCURA", EM BUSCA DE UM OLHAR QUE TRANSCENDE AS APARENCIAS</a></td>
+        <td>Menis, María Victoria (Argentina)</td>
+        <td>2011</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>LA CAMARA OSCURA</td>
+      </tr>
+      <tr>
+        <th>18</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190810212924/http://www.iconica.com.br/site/inhotim-espaco-e-experiencia/">INHOTIM: ESPACO E EXPERIENCIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a></td>
+        <td>2011</td>
+        <td>EXPOSICAO DO ACERVO DOINHOTIMEM 2011</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>19</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190811080837/http://www.iconica.com.br/site/a-construcao-de-uma-geracao/">A CONSTRUCAO DE UMA GERACAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a></td>
+        <td>2011</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento634625/geracao-00-a-nova-fotografia-brasileira">GERACAO 00</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>20</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809160046/http://www.iconica.com.br/site/rodrigo-braga-num-sentido-extra-moral/">RODRIGO BRAGANUM SENTIDO EXTRA-MORAL</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa272134/rodrigo-braga">Braga, Rodrigo (Manaus/AM, 1976 - )</a></td>
+        <td>2011</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>MENTIRA REPETIDA</td>
+      </tr>
+      <tr>
+        <th>21</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808073501/http://www.iconica.com.br/site/o-habitat-como-marca-distintiva-da-especie-ou-os-fotografos-nos-eventos-de-arte/">O HABITAT COMO MARCA DISTINTIVA DA ESPECIE [OU OS FOTOGRAFOS NOS EVENTOS DE</a></td>
+        <td>n/a</td>
+        <td>2011</td>
+        <td>SP-ARTE/FOTO 2011; 7º PARATY EM FOCO - FESTIVAL INTERNACIONAL DE FOTOGRAFIA; 17º FESTIVAL INTERNACIONAL DE ARTE CONTEMPORANEA SESC_VIDEOBRASIL</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>22</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190830023157/http://www.iconica.com.br/site/a-imagem-do-ano-e-as-imagens-que-atravessam-o-tempo/">A IMAGEM DO ANO E AS IMAGENS QUE ATRAVESSAM O TEMPO</a></td>
+        <td>Aranda, Samuel (Espanha, 1979 - )</td>
+        <td>2012</td>
+        <td>WORLD PRESS PHOTO OF THE YEAR 2012</td>
+        <td>n/a</td>
+        <td>FATIMA AL-QAWSCRADLES HER SONZAYED(18)</td>
+      </tr>
+      <tr>
+        <th>23</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817073845/http://www.iconica.com.br/site/pina-3d-as-profundidades-do-cinema/">PINA3D: AS PROFUNDIDADES DO CINEMA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PINA; PARIS TEXAS; ASAS DO DESEJO; ALICENAS CIDADES; MOVIMENTO EM FALSO; NO DECURSO DO TEMPO; BUENA VISTA SOCIAL CLUB; A INVENCAO DEHUGO CABRET</td>
+      </tr>
+      <tr>
+        <th>24</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808083301/http://www.iconica.com.br/site/wolfgang-tillmans-engenharia-do-acaso/">WOLFGANG TILLMANS: ENGENHARIA DO ACASO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a></td>
+        <td>2012</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento623643/wolfgang-tillmans">WOLFGANG TILLMANS</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>25</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809164155/http://www.iconica.com.br/site/as-formas-primitivas-de-apichatpong-weerasethakul/">AS FORMAS PRIMITIVAS DEAPICHATPONG WEERASETHAKUL</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>TIO BOONMEE, QUE PODE RECORDAR SUAS VIDAS PASSADAS; MEKONG HOTEL; ASHES; PRIMITIVE</td>
+      </tr>
+      <tr>
+        <th>26</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190810214014/http://www.iconica.com.br/site/august-sander-e-hans-eijkelboom-na-ultima-sala-da-bienal/">A POSE E O ROSTO:AUGUST SANDEREHANS EIJKELBOOMNABIENAL</a></td>
+        <td>Eijkelboom, Hans (Países Baixos, 1949 - ); Sander, August (Alemanha, 1876 - Alemanha, 1964)</td>
+        <td>2012</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento626763/30-bienal-internacional-de-sao-paulo">30ª BIENAL DE SAO PAULO</a></td>
+        <td>n/a</td>
+        <td>SERIE HOMENS DO SECULO XX; SERIE FOTO NOTAS</td>
+      </tr>
+      <tr>
+        <th>27</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190610034241/http://www.iconica.com.br/site/camara-lucida-camara-insana-fotografos-nao-sao-normais-parte-ii/">CAMARA LUCIDA, CAMARA INSANA [FOTOGRAFOS NAO SAO NORMAIS – PARTE II]</a></td>
+        <td>Seymour Hoffman, Philip (Estados Unidos, 1967 - Estados Unidos, 2014); Phoenix, Joaquin (Estados Unidos, 1974 - ); Anderson, Paul Thomas (Estados Unidos, 1970 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>O MESTRE</td>
+      </tr>
+      <tr>
+        <th>28</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190910144754/http://www.iconica.com.br/site/cao-guimaraes-pequenos-impulsos-para-grandes-saltos/">CAO GUIMARAES: PEQUENOS IMPULSOS PARA GRANDES SALTOS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
+        <td>2013</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento628823/ver-e-uma-fabula-mostra-cao-guimaraes">VER E UMA FABULA</a></td>
+        <td>n/a</td>
+        <td>SERIE GAMBIARRAS; MESTRES DA GAMBIARRA; QUARTA-FEIRA DE CINZAS</td>
+      </tr>
+      <tr>
+        <th>29</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190810212613/http://www.iconica.com.br/site/da-caixa-preta-ao-cubo-branco-cronica-sobre-a-ressignificacao-de-um-espaco/">DA CAIXA PRETA AO CUBO BRANCO: CRONICA SOBRE A RESSIGNIFICACAO DE UM ESPACO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8854/carlito-carvalhosa">Carvalhosa, Carlito (São Paulo/SP, 1961 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a></td>
+        <td>2013</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento650260/sala-de-espera">SALA DE ESPERA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento650254/obra">OBRA</a></td>
+        <td>n/a</td>
+        <td>SALA DE ESPERA; SERIE OBRA</td>
+      </tr>
+      <tr>
+        <th>30</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190810215123/http://www.iconica.com.br/site/poderes-provisorios-imagens-impertinentes/">PODERES PROVISORIOS, IMAGENS IMPERTINENTES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa18196/orlando-brito">Brito, Orlando (Janaúba/MG, 1950 - )</a></td>
+        <td>2014</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento640695/poder-provisorio-fotografia-no-acervo-do-mam">PODER PROVISORIO</a></td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>31</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809164827/http://www.iconica.com.br/site/expor-uma-colecao/">A PAREDE: TRADUZIR AS INCERTEZAS DE UMA COLECAO</a></td>
+        <td>Feldmann, Hans-Peter (Alemanha, 1941 - ); Thompson, Thomas (); Kox, Norbert (Estados Unidos, 1945 - Estados Unidos, 2018)</td>
+        <td>2014</td>
+        <td>LE MUR</td>
+        <td>n/a</td>
+        <td>THE GATHERING; PAINTING OF LIGHT</td>
+      </tr>
+      <tr>
+        <th>32</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20191226193437/http://www.iconica.com.br/site/falar-de-imagens-sem-compreende-las-apichatpong-weerasethakul/">FALAR DE IMAGENS SEM COMPREENDE-LAS:APICHATPONG WEERASETHAKUL</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>TIO BOONMEE, QUE PODE RECORDAR SUAS VIDAS PASSADAS; CEMITERIO DO ESPLENDOR</td>
+      </tr>
+      <tr>
+        <th>33</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190917195031/http://www.iconica.com.br/site/o-sal-da-terra/">O SAL DA TERRA: SINCRONIZAR A IMAGEM E A VOZ DE UM DRAMA</a></td>
+        <td>Ribeiro Salgado, Juliano (França, 1974 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PINA; BUENA VISTA SOCIAL CLUB; O SAL DA TERRA</td>
+      </tr>
+      <tr>
+        <th>34</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190906020152/http://www.iconica.com.br/site/sobremarinhos/">SOBREMARINHOS: PALAVRA-MATERIA, SENTIDOS FLUIDOS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa680/gilvan-barreto">Barreto, Gilvan (/PE, 1973 - )</a></td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SOBREMARINHOS; O LIVRO DO SOL; MOSCOUZINHO</td>
+      </tr>
+      <tr>
+        <th>35</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200812070952/http://www.iconica.com.br/site/sobre-pequenas-pregnancias-coracao-de-cachorro-de-laurie-anderson/">SOBRE PEQUENAS PREGNANCIAS:CORACAO DE CACHORRO, DELAURIE ANDERSON</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa618139/laura-anderson">Anderson, Laurie (Estados Unidos, 1947 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>CORACAO DE CACHORRO</td>
+      </tr>
+      <tr>
+        <th>36</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190811075057/http://www.iconica.com.br/site/a-diversidade-das-coisas-que-sao-as-mesmas-andrey-zignnatto-e-vincent-mauger/">A DIVERSIDADE DAS COISAS QUE SAO AS MESMAS:ANDREY ZIGNNATTOEVINCENT MAUGER</a></td>
+        <td>Mauger, Vincent (França, 1976 - ); Zignnatto, Andrey (Jundiaí/SP, 1981 - )</td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>37</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200223163646/http://www.iconica.com.br/site/o-corpo-e-a-camera-oscilacoes-nostalgicas-de-wim-wenders-em-torno-da-fotografia/">O CORPO E A CAMERA: OSCILACOES NOSTALGICAS DEWIM WENDERSEM TORNO DA FOTOGRA</a></td>
+        <td>Battaglia, Letizia (Itália, 1935 - ); Jovovich, Milla (Ucrânia, 1975 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ALICENAS CIDADES; PALERMO SHOOTING; O SAL DA TERRA</td>
+      </tr>
+      <tr>
+        <th>38</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809153343/http://www.iconica.com.br/site/a-perda-e-o-reencontro-as-varias-distancias-das-imagens/">A PERDA E O REENCONTRO: AS VARIAS DISTANCIAS DAS IMAGENS</a></td>
+        <td>Taro, Gerda (Alemanha, 1910 - Alemanha, 1937); Seymour, David (Polônia, 1911 - Polônia, 1956); <a href="https://enciclopedia.itaucultural.org.br/pessoa6993/giselle-beiguelman">Beiguelman, Giselle (São Paulo/SP, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7304/robert-capa">Capa, Robert (Hungria, 1913 - Hungria, 1954)</a></td>
+        <td>2016</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento643056/cinema-lascado">CINEMA LASCADO</a>; A VALISE MEXICANA</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>39</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200825041000/http://www.iconica.com.br/site/westworld-o-bordel-das-narrativas/">WESTWORLD: O BORDEL DAS NARRATIVAS</a></td>
+        <td>Hopkins, Anthony (Reino Unido, 1937 - ); Harris, Ed (Estados Unidos, 1950 - ); Santoro, Rodrigo (Petrópolis/RJ, 1975 - ); Nolan, Jonathan (Reino Unido, 1976 - ); Joy, Lisa (Estados Unidos, 1972 - )</td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>WESTWORLD</td>
+      </tr>
+      <tr>
+        <th>40</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200903120914/http://www.iconica.com.br/site/arte-instituicao-e-seguranca-subir-escadas-sem-segurar-no-corrimao/">ARTE, INSTITUICAO E SEGURANCA: SUBIR ESCADAS SEM SEGURAR NO CORRIMAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10078/ana-maria-tavares">Tavares, Ana Maria (Belo Horizonte/MG, 1958 - )</a></td>
+        <td>2016</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento649827/no-lugar-mesmo-uma-antologia-de-ana-maria-tavares">NO LUGAR MESMO: UMA ANTOLOGIA DEANA MARIA TAVARES</a></td>
+        <td>n/a</td>
+        <td>EXIT</td>
+      </tr>
+      <tr>
+        <th>41</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190809172733/http://www.iconica.com.br/site/paragem/cyro-almeida-e-mestre-julio-santos-memoria-involuntaria/">CYRO ALMEIDAEMESTRE JULIO SANTOS|MEMORIA INVOLUNTARIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa619681/cyro-almeida">Almeida, Cyro (Araxá/MG, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa620270/mestre-julio-santos">Santos, Júlio (Fortaleza/CE, 1944 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE MEMORIA INVOLUNTARIA</td>
+      </tr>
+      <tr>
+        <th>42</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190818110109/http://www.iconica.com.br/site/paragem/karina-rampazzo-persona/">KARINA RAMPAZZO|PERSONA</a></td>
+        <td>Rampazzo, Karina (/)</td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PERSONA</td>
+      </tr>
+      <tr>
+        <th>43</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817090458/http://www.iconica.com.br/site/paragem/mariana-andrade-iris/">MARIANA ANDRADE|IRIS</a></td>
+        <td>Andrade, Mariana (São Paulo/SP)</td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE IRIS</td>
+      </tr>
+      <tr>
+        <th>44</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190928222933/http://www.iconica.com.br/site/paragem/lara-ovidio-territorios-pereciveis-teste/">LARA OVIDIO|TERRITORIOS PERECIVEIS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa630562/lara-ovidio">Ovídio, Lara (Natal/RN, 1985 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>TERRITORIOS PERECIVEIS</td>
+      </tr>
+      <tr>
+        <th>45</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817114727/http://www.iconica.com.br/site/paragem/samy-sfoggia-bababadalgharaghtakam/">SAMY SFOGGIA|RAPID EYE MOVEMENTE /BABABADALGHARAGHTAK(…)!</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa530396/samy-sfoggia">Sfoggia, Samy (Porto Alegre/RS, 1984 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE BABABADALG…ENTHUR-NUK!; SERIE RAPID EYE MOVEMENT</td>
+      </tr>
+      <tr>
+        <th>46</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20170531201650/http://www.iconica.com.br/site/paragem/claudia-tavares-um-jardim-na-floresta/">CLAUDIA TAVARES|UM JARDIM NA FLORESTA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento646330/conjuncao">Tavares, Claudia (Rio de Janeiro/RJ, 1967 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>UM JARDIM NA FLORESTA</td>
+      </tr>
+      <tr>
+        <th>47</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200219022420/http://www.iconica.com.br/site/religacoes-o-escuro-da-fotografia-contemporanea/">RELIGACOES: O ESCURO DA FOTOGRAFIA CONTEMPORANEA</a></td>
+        <td>Sengberg, Chiara (/); Albuquerque, Guilherme (Brasília/DF); <a href="https://enciclopedia.itaucultural.org.br/pessoa381590/tony-queiroga">Queiroga, Tony (Rio de Janeiro/RJ)</a>; Figue, Roberta (); <a href="https://enciclopedia.itaucultural.org.br/pessoa333634/marilia-zarattini">Zarattini, Marília ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa638225/claudia-elias">Elias, Claudia (Rio de Janeiro/RJ, 1976 - )</a>; Martins, Manuel (); <a href="https://enciclopedia.itaucultural.org.br/pessoa376839/hans-georg">Georg, Hans (Porto Alegre/RS, 1964 - )</a>; Mendes, Suzana (); Machado, Ailton (); Schmitt, Fernando (Porto Alegre/RS); Camargo, Denise (São Paulo/SP); Oshima, Cristiane (São Paulo/SP); Mortatti, André (Goiânia/GO); Nascimento, Élida (); Moraes, Caroline (São Paulo/SP); Guanabara, Luísa (); <a href="https://enciclopedia.itaucultural.org.br/pessoa7939/carlos-goldgrub">Goldgrub, Carlos (Argentina, 1952 - )</a>; Romero, Alexandre (); Maranhão, Guilherme (); Steinmetz, Rose (Geórgia); Caobelli, Leo (Porto Alegre/RS, 1980 - ); Costa, Marcelo (São Paulo/SP); Tosetto, Guilherme (); <a href="https://enciclopedia.itaucultural.org.br/pessoa638606/isis-gasparini">Gasparini, Isis (São Paulo/SP)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa433962/marcelo-paciornik">Paciornik, Marcelo ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa504917/leticia-lampert">Lampert, Letícia (Porto Alegre/RS, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa242210/fernando-tacca">Tacca, Fernando (Franca/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ALUSAO; SERIE OASIS DE FATALIDADE; SERIE DIAFANO; ESTUDOS PARA TONS DE CINZA</td>
+      </tr>
+      <tr>
+        <th>48</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190718003928/http://www.iconica.com.br/site/paragem/wendel-medeiros-50-anos-do-golpe-militar/">WENDEL MEDEIROS|50 ANOS DO GOLPE MILITAR DE 64</a></td>
+        <td>Medeiros, Wendel (, 1977 - )</td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>COLETIVO APARECIDOS POLITICOS</td>
+        <td>50 ANOS DO GOLPE MILITAR DE 64</td>
+      </tr>
+      <tr>
+        <th>49</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190826065452/http://www.iconica.com.br/site/paragem/fabricio-arriaga-azimute/">FABRICIO ARRIAGA|AZIMUTE</a></td>
+        <td>Arriaga, Fabrício (São Gonçalo/RJ)</td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>AZIMUTE</td>
+      </tr>
+      <tr>
+        <th>50</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200219164326/http://www.iconica.com.br/site/artistas-geniais-nervosos-neuroticos-perversos/">ARTISTAS GENIAIS, NERVOSOS, NEUROTICOS, PERVERSOS…</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa399316/woody-allen">Allen, Woody (Estados Unidos)</a></td>
+        <td>2018</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ANNIE HALL</td>
+      </tr>
+      <tr>
+        <th>51</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190717105349/http://www.iconica.com.br/site/sertao-sem-sol-uma-paisagem-com-a-pouca-luz-que-tem-a-noite/">SERTAO SEM SOL, UMA PAISAGEM COM A POUCA LUZ QUE TEM A NOITE</a></td>
+        <td>Severo, Alexandre (Recife/PE, 1978 - )</td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE SERTANEJOS</td>
+      </tr>
+      <tr>
+        <th>52</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190922181232/http://www.iconica.com.br/site/recontro-os-tracos-de-uma-viagem-a-china/">RECONTRO, OS TRACOS DE UMA VIAGEM A CHINA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE RECONTRO</td>
+      </tr>
+      <tr>
+        <th>53</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190917213808/http://www.iconica.com.br/site/analira/">VOTODEANA</a></td>
+        <td>Lira, Ana (Caruaru/PE, 1977 - )</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE VOTO!; VOTO</td>
+      </tr>
+      <tr>
+        <th>54</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
+        <td><a href="https://web.archive.org/web/20191219183113/http://www.iconica.com.br/site/primeiras-licoes-de-hidrologia-e-outras-observacoes/">PRIMEIRAS LICOES DE HIDROLOGIA – E OUTRAS OBSERVACOES</a></td>
+        <td>Ivánova, Adelaide (Recife/PE, 1982 - )</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PRIMEIRAS LICOES DE HIDROLOGIA – E OUTRAS OBSERVACOES</td>
+      </tr>
+      <tr>
+        <th>55</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817084926/http://www.iconica.com.br/site/o-olhar-incomum-de-walker-evans/">O OLHAR INCOMUM DEWALKER EVANS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7311/walker-evans">Evans, Walker (Estados Unidos, 1903 - Estados Unidos, 1975)</a></td>
+        <td>2009</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento639964/walker-evans">WALKER EVANS</a></td>
+        <td>n/a</td>
+        <td>SERIE BROOKLYN BRIDGE; SERIE NEW YORK STREETS; SERIE TAHITI; SERIE HAVANA</td>
+      </tr>
+      <tr>
+        <th>56</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190906020609/http://www.iconica.com.br/site/por-que-ver-os-classicos/">POR QUE VER OS CLASSICOS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a></td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento557187/individual-de-maureen-bisilliat">MAUREEN BISILLIAT– FOTOGRAFIAS</a></td>
+        <td>n/a</td>
+        <td>SERIE XINGU; SERIE ROMEIROS; SERIE PELE PRETA; SERIE CHINA; SERIE JAPAO; SERIE AS CARANGUEJEIRAS</td>
+      </tr>
+      <tr>
+        <th>57</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200108074208/http://www.iconica.com.br/site/um-ano-sem-otto-stupakoff/">UM ANO SEMOTTO STUPAKOFF</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa22071/otto-stupakoff">Stupakoff, Otto (São Paulo/SP, 1935 - São Paulo/SP)</a></td>
+        <td>2010</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>58</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817101943/http://www.iconica.com.br/site/gabinete-de-curiosidades/">GABINETE DE CURIOSIDADES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a></td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento552298/apreensoes">APREENSOES</a></td>
+        <td>n/a</td>
+        <td>SERIE APREENSOES</td>
+      </tr>
+      <tr>
+        <th>59</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190910135036/http://www.iconica.com.br/site/luiz-braga-ruptura-e-contemplacao/">LUIZ BRAGA– RUPTURA E CONTEMPLACAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa16738/luiz-braga">Braga, Luiz (Belém/PA, 1956 - )</a></td>
+        <td>2010</td>
+        <td>ENSAIO – ESTRADA NOVA S/N</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>60</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817115133/http://www.iconica.com.br/site/um-momento-especial-para-a-fotografia/">UM MOMENTO ESPECIAL PARA A FOTOGRAFIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2381/gaspar-gasparian">Gasparian, Gaspar (São Paulo/SP, 1899 - São Paulo/SP)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa226/marcel-gautherot">Gautherot, Marcel (França, 1910 - França, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3267/peter-scheier">Scheier, Peter (Polônia, 1908 - Polônia, 1979)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - Hungria, 2011)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26889/caio-reisewitz">Reisewitz, Caio (São Paulo/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa478073/flavia-junqueira">Junqueira, Flávia (São Paulo/SP, 1985 - )</a></td>
+        <td>2010</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a>; <a href="https://enciclopedia.itaucultural.org.br/evento552298/apreensoes">APREENSOES</a>; ESTUDIO DE ARTEIRMAOS VARGAS– A FOTOGRAFIA EM AREQUIPA, PERU – 1912/1930; <a href="https://enciclopedia.itaucultural.org.br/evento569574/gaspar-gasparian-um-fotografo">GASPAR GASPARIAN– UM FOTOGRAFO</a>; <a href="https://enciclopedia.itaucultural.org.br/evento629987/as-construcoes-de-brasilia">AS CONSTRUCOES DE BRASILIA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento558593/maldicidade-marco-zero">MALDICIDADE</a>; <a href="https://enciclopedia.itaucultural.org.br/evento560555/recorrencias">RECORRENCIAS</a>; <a href="https://enciclopedia.itaucultural.org.br/evento560126/esqueceu-de-beber-agua-agora-chora-de-sede">ESQUECEU DE BEBER AGUA, AGORA CHORA DE SEDE</a>; <a href="https://enciclopedia.itaucultural.org.br/evento559041/a-casa-em-festa">A CASA EM FESTA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento559586/18-colecao-pirelli-masp-de-fotografia">18ª COLECAO PIRELLI /MASP</a></td>
+        <td>IRMAOS VARGAS</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>61</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817090820/http://www.iconica.com.br/site/norman-rockwell-behind-the-camera/">NORMAN ROCKWELL– BEHIND THE CAMERA</a></td>
+        <td>Rockwell, Norman (Estados Unidos, 1894 - Estados Unidos, 1978)</td>
+        <td>2011</td>
+        <td>NORMAN ROCKWELL: BEHIND THE CAMERA</td>
+        <td>n/a</td>
+        <td>FIRST TRIP TO THE BEAUTY SHOP</td>
+      </tr>
+      <tr>
+        <th>62</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817113509/http://www.iconica.com.br/site/geracao-00/">GERACAO 00</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa260388/joao-castilho">Castilho, João (Belo Horizonte/MG, 1978 - )</a></td>
+        <td>2011</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento634625/geracao-00-a-nova-fotografia-brasileira">GERACAO 00</a></td>
+        <td>n/a</td>
+        <td>URIHI-A</td>
+      </tr>
+      <tr>
+        <th>63</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190917211515/http://www.iconica.com.br/site/tiago-santana-o-brasil-na-colecao-photo-poche/">TIAGO SANTANA– O BRASIL NA COLECAO PHOTO POCHE</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa13171/tiago-santana">Santana, Tiago (Crato/CE, 1966 - )</a></td>
+        <td>2011</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERTAO; SERIE SERTAO</td>
+      </tr>
+      <tr>
+        <th>64</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808084759/http://www.iconica.com.br/site/o-processo-de-criacao-como-memoria/">O PROCESSO DE CRIACAO COMO MEMORIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3288/cristiano-mascaro">Mascaro, Cristiano (Catanduva/SP, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13178/marlene-bergamo">Bergamo, Marlene (São Paulo/SP, 1965 - )</a>; Jacinto, Rafael (São Paulo/SP); Kehl, João (São Paulo/SP, 1982 - ); Lopes, Carol (Recife/PE)</td>
+        <td>2011</td>
+        <td>BOM RETIRO E LUZ: UM ROTEIRO (1976 – 2011)</td>
+        <td>CIA DE FOTO</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>65</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190808085349/http://www.iconica.com.br/site/mis-centro-irradiador-de-fotografia/">MIS– CENTRO IRRADIADOR DE FOTOGRAFIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa26054/andy-warhol">Warhol, Andy (Estados Unidos, 1928 - Estados Unidos, 1987)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa637239/andre-kertesz">Kertész, André (Hungria, 1894 - Hungria, 1985)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21658/claudio-edinger">Edinger, Claudio (Rio de Janeiro/RJ, 1952 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11692/ozualdo-candeias">Candeias, Ozualdo (Cajobi/SP, 1918 - Cajobi/SP)</a></td>
+        <td>2012</td>
+        <td>ANDRE KERTESZ– UMA VIDA EM DOBRO; <a href="https://enciclopedia.itaucultural.org.br/evento648800/claudio-edinger-de-bom-jesus-a-milagres">CLAUDIO EDINGER– DE BOM JESUS A MILAGRES</a>; ANDY WARHOLSUPERFICIE POLAROIDES (1969-1986); <a href="https://enciclopedia.itaucultural.org.br/evento650443/ozualdo-candeias-rua-do-triumpho">OZUALDO CANDEIAS– RUA DO TRIUMPHO</a>; ACERVO VIVO – CAMERAS FOTOGRAFICAS DE DOIS SECULOS</td>
+        <td>n/a</td>
+        <td>SERIE DE BOM JESUS A MILAGRES</td>
+      </tr>
+      <tr>
+        <th>66</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190906015924/http://www.iconica.com.br/site/viagens-aparencias-e-aparicoes/">VIAGENS, APARENCIAS E APARICOES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9751/joao-luiz-musa">Musa, João Luiz (São Paulo/SP, 1951 - )</a></td>
+        <td>2012</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento629524/24x36-e-vila-prudente">JOAO LUIZ MUSA: 24X36 E VILA PRUDENTE</a></td>
+        <td>n/a</td>
+        <td>SERIE VILA PRUDENTE; SERIE 24X36; TATE MODERN, LONDRES, JULHO DE 2011; BOULEVARD DES ITALIENS, PARIS, AGOSTO DE 2011</td>
+      </tr>
+      <tr>
+        <th>67</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190817103733/http://www.iconica.com.br/site/entre-morros-excesso-de-referencia-e-abstracao/">ENTRE MORROS– EXCESSO DE REFERENCIA E ABSTRACAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa102299/claudia-jaguaribe">Jaguaribe, Claudia (Rio de Janeiro/RJ, 1955 - )</a></td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ENTRE MORROS; SERIE ENTRE MORROS; MENINA NA LAJE</td>
+      </tr>
+      <tr>
+        <th>68</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190830023435/http://www.iconica.com.br/site/maureen-bisilliat-fotografias-escolhidas-para-transformacao/">MAUREEN BISILLIAT, FOTOGRAFIAS ESCOLHIDAS PARA TRANSFORMACAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a></td>
+        <td>2013</td>
+        <td>ADESAO: JUNCAO/LIGACAO/UNIAO – FOTOGRAFIAS ESCOLHIDAS PARA TRANSFORMACAO</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>69</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20190811080902/http://www.iconica.com.br/site/coisas-como-elas-sao/">COISAS COMO ELAS SAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa3654/armando-prado">Prado, Armando (São Paulo/SP, 1952 - )</a></td>
+        <td>2013</td>
+        <td>COISAS COMO ELAS SAO</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>70</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
+        <td><a href="https://web.archive.org/web/20191219182711/http://www.iconica.com.br/site/travessias/">TRAVESSIAS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa21819/german-lorca">Lorca, German (São Paulo/SP, 1922 - )</a></td>
+        <td>2015</td>
+        <td>TRAVESSIAS</td>
+        <td>n/a</td>
+        <td>SERIE GEOMETRIA DAS SOMBRAS; AEROPORTO; MONDRIAN</td>
+      </tr>
+      <tr>
+        <th>71</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa642600/didiana-prata">Prata, Didiana (São Paulo/SP)</a></td>
+        <td><a href="https://web.archive.org/web/20200823142203/http://www.iconica.com.br/site/viagem-ao-sul-do-real/">REAL, SURREAL, SUL DO REAL</a></td>
+        <td>Girard, Ciro (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa450619/rogerio-assis">Assis, Rogério (Belém/PA, 1965 - )</a></td>
+        <td>2018</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>VIAGEM AO SUL DO REAL</td>
+      </tr>
+      <tr>
+        <th>72</th>
+        <td>Linhares Sanz, Cláudia (/RJ)</td>
+        <td><a href="https://web.archive.org/web/20190818124635/http://www.iconica.com.br/site/acontecimento-e-imaginacao-em-sincronias-fotograficas/">ACONTECIMENTO E IMAGINACAO EM SINCRONIAS FOTOGRAFICAS</a></td>
+        <td>Ruetz, Michael (Alemanha, 1940 - )</td>
+        <td>2012</td>
+        <td>1968: TEMPOS INCOMODOS</td>
+        <td>n/a</td>
+        <td>DEMONSTRACAO NO PRIMEIRO DE MAIO, 1967, BERLIM ORIENTAL</td>
       </tr>
     </tbody>
 </table>

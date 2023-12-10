@@ -15,1680 +15,671 @@
 </ul>
 
 
-<h1>Temas das Críticas de Arte Publicadas pela eRevista Performatus até abril 2019</h1>
+<h1>Temas das Críticas de Arte Publicadas pela <a href="https://performatus.com.br/">Performatus</a>  até abril 2019</h1>
 <table class="table">
 	<thead>
-            <tr>
-               <th>Críticas de Arte</th>
-               <th>Autores</th>
-               <th>Artistas</th>
-               <th>Obras</th>
-               <th>Exposições</th>
-            </tr>
-	</thead>
-	<tbody>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205153757/http://performatus.net/estudos/o-beijo-cia-excessos/">TODO AMOR QUE HOUVER NESSA VIDA</a></td>
-         <td>
-            <ul>
-               <li>Raphael Fonseca</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Cristine Ágape</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O Beijo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205154131/http://performatus.net/estudos/marina-abramovic/">MARINA ABRAMOVIĆ BRINCA AOS CLÁSSICOS</a></td>
-         <td>
-            <ul>
-               <li>Juliana Pinho</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marina Abramović</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série The Kitchen: Homage to Saint Therese</li>
-               <li>The Kitchen III</li>
-               <li> The Kitchen IV</li>
-               <li>The Kitchen V</li>
-               <li>The Kitchen VI</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205154305/http://performatus.net/criticas/a-festa-de-snezana-golubovic/">A FESTA DE SNEŽANA GOLUBOVIĆ</a></td>
-         <td>
-            <ul>
-               <li>Da Mata</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Snežana Golubović</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>I love you</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Rapid Pulse International Performance Art Festival</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205154522/http://performatus.net/criticas/bastao/">BASTÃO</a></td>
-         <td>
-            <ul>
-               <li>Raphael Fonseca</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Elen Gruber</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205154716/http://performatus.net/perfil-de-artista/marcus-vinicius/">A(S)CENDER: CONSIDERAÇÃO SOBRE A VIDA E A OBRA DE MARCUS VINÍCIUS</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marcus Vinícius</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Território Expandido I [Ilha da Pólvora]</li>
-               <li>O Imprevisível, o Acaso e o Que Não Se Sabe</li>
-               <li>About the Time</li>
-               <li>Bicho do Mato</li>
-               <li>Before the Dawn… That Be Endless, When the Dreams Die…?</li>
-               <li>You Must Change Your Life</li>
-               <li>Fragmentos de Pequeños Pensamentos</li>
-               <li>Frágil III</li>
-               <li>El Deseo Es el Rastro</li>
-               <li>Honey (Not Only in This Word)</li>
-               <li>Distant Closeness</li>
-               <li>Nudo</li>
-               <li>The Presence of the World in Me (Part II)</li>
-               <li>Everything Imaginable Can Be Dreamed</li>
-               <li>The Visible &amp; The Unconscious</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/http://performatus.net/estudos/vende-se/">O DESPIR-SE DE TALES FREY EM BUSCA DE UM OBJETO DE ENSAIO</a></td>
-         <td>
-            <ul>
-               <li>Nathália Mello</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Vende-se: Aceita-se Cartão de Débito</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205155718/http://performatus.net/criticas/farnese-de-andrade/">INDIZÍVEL INSTANTE: PRESENÇA E MEMÓRIA DE FARNESE DE ANDRADE</a></td>
-         <td>
-            <ul>
-               <li>Suianni Cordeiro Macedo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Celina Sodré</li>
-               <li>Vandré Silveira</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Farnese de Saudade</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20161230005402/https://performatus.net/criticas/tortura-prazer/">TORTURA E PRAZER: AUTO-EXPOSIÇÃO DE DESLIZES COMO OSTENTAÇÃO DO IMPECÁVEL</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tânia Dinis</li>
-               <li>Jorge Quintela</li>
-               <li>Diana Sá</li>
-               <li>Sara Pereira</li>
-               <li>Sofia Margarida</li>
-               <li>Teresa Alpendurada</li>
-               <li>Pedro Bastos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Female</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/https://performatus.net/estudos/waleria-americo/">MIRAR E HABITAR: A OBRA DE WALÉRIA AMÉRICO DIANTE DO MUNDO</a></td>
-         <td>
-            <ul>
-               <li>Suianni Cordeiro Macedo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Waléria Américo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tudo que Existia Dentro de Mim</li>
-               <li>Mergulho na Paisagem</li>
-               <li>Para Ver o Céu Mudar de Cor</li>
-               <li>Mirar</li>
-               <li>Horizonte Nômade</li>
-               <li>Acima do Nível do Mar</li>
-               <li>Plano de Fuga</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160203/https://performatus.net/estudos/imagem-e-dessemelhanca/">IMAGEM E DESSEMELHANÇA</a></td>
-         <td>
-            <ul>
-               <li>Dinah Cesare</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Re-banho</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160326/https://performatus.net/criticas/eros-eletronico/">O CORPO DO OUTRO – O EROS ELETRÔNICO</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fábio Lopes</li>
-               <li>António da Silva</li>
-               <li>Paulo Brás</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Subterrâneo: o corpo distribuído</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160447/https://performatus.net/estudos/amor-cia-excessos/">O ENCONTRO AMOROSO DE PAULO DA MATA E TALES FREY EM “ALIANÇA”: PERFORMANCE, RITUAL
-               E RESPEITO À DIVERSIDADE</a></td>
-         <td>
-            <ul>
-               <li>Vanja Poty</li>
-               <li>Gustavo Rosa Fontes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Paulo da Mata</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Aliança</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/https://performatus.net/estudos/malograr-como-tentativa/">MALOGRAR COMO TENTATIVA</a></td>
-         <td>
-            <ul>
-               <li>Mayra Martins Redin</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Vitor Butkus</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Malogramos sempre ao falar do que amamos</li>
-               <li>Malogramos sempre ao falar do que amamos (I)</li>
-               <li>Malogramos sempre ao falar do que amamos (II)</li>
-               <li>Malogramos sempre ao falar do que amamos (III)</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160648/https://performatus.net/estudos/separar-a-cabeca-do-corpo/">SEPARAR A CABEÇA DO CORPO</a></td>
-         <td>
-            <ul>
-               <li>Raphael Fonseca</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>OPAVIVARÁ!</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Pulacerca</li>
-               <li>Opavivará! Ao vivo!</li>
-               <li>Ao amor do público!</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160648/https://performatus.net/estudos/separar-a-cabeca-do-corpo/">A PALAVRA SOBRE A PALAVRA: EM VIAS DE MATERIALIZAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Ana Cristina Joaquim</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Paulo da Mata</li>
-               <li>Tânia Dinis</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Um Livro de Cabeceira ou Meu Cérebro na Página Doze</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160844/https://performatus.net/criticas/a-descoberta-da-verdade/">A DESCOBERTA DA VERDADE</a></td>
-         <td>
-            <ul>
-               <li>Suianni Cordeiro Macedo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Paulo Meira</li>
-               <li>Moa Lago</li>
-               <li>Luciana Queiroga</li>
-               <li>Zé Cafofinho</li>
-               <li>Francisco Baccaro</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Épico Culinário</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205160958/https://performatus.net/perfil-de-artista/patricia-correa/">O QUE PROCLAMAR AO PÚBLICO SEM SE DIRIGIR A ELE: CONVERSA COM PATRÍCIA CORRÊA</a></td>
-         <td>
-            <ul>
-               <li>Suianni Cordeiro Macedo</li>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Patrícia Corrêa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Alma</li>
-               <li>Tempo 4</li>
-               <li>Série Haan galo-haan galo</li>
-               <li>Haan galo-haan galo #6</li>
-               <li>Haan galo-haan galo #3</li>
-               <li>Haan galo-haan galo #2</li>
-               <li>Planta-me uma palavra</li>
-               <li>A Revolução Somos Nós</li>
-               <li>Vende-se Artista</li>
-               <li>Ship of Fools</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205161100/https://performatus.net/criticas/esculturas/">ESCULTURAS</a></td>
-         <td>
-            <ul>
-               <li>Raphael Fonseca</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Jorge Soledar</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Atravessamento</li>
-               <li>Nucas</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Como Me Tornei Insensível</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205161152/https://performatus.net/criticas/hygiene/">“HYGIENE” COMO UM RITUAL: O LIMIAR ENTRE A VERACIDADE DA IMITAÇÃO E A PRÓPRIA VERDADE</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Grupo XIX de Teatro</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Hygiene</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205161246/https://performatus.net/estudos/reciprocidade-desalmada/">O DOBRO-NADA DE “RECIPROCIDADE DESALMADA”</a></td>
-         <td>
-            <ul>
-               <li>André Bezerra</li>
-               <li>Chrystine Silva</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Cia. Excessos</li>
-               <li>Berenice Isabel</li>
-               <li>Joana Lleys</li>
-               <li>Lizi Menezes</li>
-               <li>Paula Guedes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Reciprocidade Desalmada</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205161349/https://performatus.net/estudos/tres-coisas/">TRÊS COISAS QUE EU ACHO QUE SEI SOBRE OPAVIVARÁ!</a></td>
-         <td>
-            <ul>
-               <li>Moacir dos Anjos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>OPAVIVARÁ!</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Opavivará! Ao vivo!</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200205161459/http://performatus.net/estudos/cia-enviezada/">CAMINHOS – INTERVENÇÃO URBANA DA CIA ENVIEZADA: A ESCRITA DO CORPO NO CHÃO DA CIDADE</a></td>
-         <td>
-            <ul>
-               <li>Nathália Mello</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cia EnvieZada</li>
-               <li>Rodrigo Pinho</li>
-               <li>Helga Nemeckzy</li>
-               <li>Fernanda Sal</li>
-               <li>Ade Zanardini</li>
-               <li>Samantha Gilbert</li>
-               <li>Jean Bodin</li>
-               <li>Fabricio Moser</li>
-               <li>Viviane de Oliveira</li>
-               <li>Tato Teixeira</li>
-               <li>Adriano Petermann</li>
-               <li>Helen Miranda</li>
-               <li>Preta Marques</li>
-               <li>Quatrilha</li>
-               <li>Raphael Cassou</li>
-               <li>Zé Alex</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Caminhos - Uma Intervenção Urbana</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200220165013/http://performatus.net/estudos/marcelo-braga/">PELES DE SI, PELES DE OUTRO, PELES DE OUTRORA: A FIGURAÇÃO DO ARTISTA ENFERMO EM “O
-               HOMEM VERMELHO”, DE MARCELO BRAGA</a></td>
-         <td>
-            <ul>
-               <li>André Masseno</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marcelo Braga</li>
-               <li>Walter Carvalho</li>
-               <li>Michel Groisman</li>
-               <li>Renato Mangolin</li>
-               <li>Simone Spoladore</li>
-               <li>Laura Samy</li>
-               <li>Domenico Lancellotti</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O Homem Vermelho</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200224165629/http://performatus.net/estudos/corpo-nino-cais/">O CORPO NO TRABALHO DE NINO CAIS</a></td>
-         <td>
-            <ul>
-               <li>Cauê Alves</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Nino Cais</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170912183859/https://performatus.net/estudos/httpperformatus-netwp-contentuploads201310faceless-tales-frey/">VELATURAS</a></td>
-         <td>
-            <ul>
-               <li>Júlio Minervino</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Faceless</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200224184018/http://performatus.net/criticas/olhos-d-agua/">PAISAGEM/PELE</a></td>
-         <td>
-            <ul>
-               <li>Viviane Matesco</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Suzana Queiroga</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Olhos d’Água</li>
-               <li>Cais</li>
-               <li>Olhos d’Água</li>
-               <li>Livro do AR</li>
-               <li>Livro do MAR</li>
-               <li>Livro da DOR</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Olhos d’Água</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/http://performatus.net/criticas/despair-metonia/">IMORAL EXPORT</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Şükran Moral</li>
-               <li>Valie Export</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Despair</li>
-               <li>METANOIA</li>
-               <li>The Artist</li>
-               <li>Série Body Configuration</li>
-               <li>Vertikal Gel</li>
-               <li>Dreieckmit Bogen</li>
-               <li>Adjungierte Distokationen II</li>
-               <li>Anagrammatische Komposition mit Würfelspiel von VALIE EXPORT (nach W.A. Mozart, Klavier)
-                  für Sopransaxophon
-               </li>
-               <li>ASEMIE – die Unfähigkeit sich durch Mienenspiel ausdrücken zu können</li>
-               <li>Bewegte Bilder über sich bewegende Personen</li>
-               <li>Body Politics</li>
-               <li>BODY TAPE</li>
-               <li>DELTA. Ein Stück</li>
-               <li>die süße nummer: ein friedliches konsumerlebnis</li>
-               <li>Die Zweiheit der Natur</li>
-               <li>FACING A FAMILY</li>
-               <li>Fragmente Burgenland</li>
-               <li>Gedichte</li>
-               <li>Hauchtext: Liebesgedicht</li>
-               <li>HYPERBULIE</li>
-               <li>I (BEAT (IT))</li>
-               <li>INTERRUPTED LINE</li>
-               <li>“I turn over the pictures of my voice in my head”</li>
-               <li>Mann &amp; Frau &amp; Animal</li>
-               <li>Raumsehen und Raumhören</li>
-               <li>… Remote … Remote …</li>
-               <li>Restringierter Code</li>
-               <li>Schnitte / Elemente der Anschauung</li>
-               <li>Sehtext: Fingergedicht</li>
-               <li>Sehtext: Fingergedicht</li>
-               <li>Selbstportrait mit Auge</li>
-               <li>Selbstportrait mit Kopf</li>
-               <li>Syntagma</li>
-               <li>TAPP und TASTKINO</li>
-               <li>“The voice as performance, act and body”</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Despair &amp; METANOIA: Şükran Moral | VALIE EXPORT</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200226181937/http://performatus.net/estudos/o-banho-e-o-rebanho/">O BANHO E O "REBANHO"</a></td>
-         <td>
-            <ul>
-               <li>Mayara Amaral Fernandes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Re-banho</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200227140215/http://performatus.net/criticas/acao-psicoativa-ou-sob-a-eficacia-de-um-mesmo-efeito-acionado/">AÇÃO PSICOATIVA OU SOB A EFICÁCIA DE UM MESMO EFEITO ACIONADO</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fernando Belfiore</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>.whatdowefinallyshare.</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200227140137/http://performatus.net/criticas/dramaturgia-musical/">DRAMARTUGIA MUSICAL</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tânia Dinis</li>
-               <li>Pedro Bastos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mono-Logo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200227135954/http://performatus.net/criticas/a-escuridao-que-nos-olha/">A ESCURIDÃO QUE NOS OLHA</a></td>
-         <td>
-            <ul>
-               <li>Arthur Moreau</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marcelo Evelin</li>
-               <li>Demolicion Inc.</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>De repente tudo fica preto de gente</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200311235128/http://performatus.net/criticas/romanceviolentado/">“ROMANCE VIOLENTADO”, TÍTULO QUE É LIVRO EM SI</a></td>
-         <td>
-            <ul>
-               <li>Ana Hupe</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Paulo da Mata</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Romance Violentado</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200312001414/http://performatus.net/estudos/klein-redin/">A INELUTÁVEL “PRESENÇA” DO VAZIO: DIÁLOGOS</a></td>
-         <td>
-            <ul>
-               <li>Suianni Cordeiro Macedo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mayra Redin</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O Vazio</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200312015821/http://performatus.net/estudos/videopolaroids-cia-excessos/">FOTÓGRAFO FÚTIL: APONTAMENTOS SOBRE VIDEOPOLAROIDS, DA CIA. EXCESSOS</a></td>
-         <td>
-            <ul>
-               <li>Renan Marcondes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série Videopolaroids</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170628033926/http://performatus.net/estudos/deslocamento-em-paisagem/">DESLOCAMENTO EM PAISAGEM: A IMAGEM DA VIAGEM</a></td>
-         <td>
-            <ul>
-               <li>Jacqueline Siano</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Suzana Queiroga</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Olhos d’água</li>
-               <li>Balão Voo-Velofluxo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200312150613/http://performatus.net/criticas/mostra-performatus-1/">REMINISCÊNCIAS A PARTIR DA “MOSTRA PERFORMATUS #1”</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Manuel Vason</li>
-               <li>Coletivo ES3</li>
-               <li>André Bezerra</li>
-               <li>Chrystine Silva</li>
-               <li>Ana Hupe</li>
-               <li>Loop B</li>
-               <li>Jorge Soledar</li>
-               <li>Sol Casal</li>
-               <li>Priscilla Davanzo</li>
-               <li>Thiago Soares</li>
-               <li>Clarissa Sacchelli</li>
-               <li>Renan Marcondes</li>
-               <li>Shima</li>
-               <li>Nathália Mello</li>
-               <li>Felipe Cidade</li>
-               <li>Nathália Coutinho</li>
-               <li>Luiza Prado</li>
-               <li>Daniel Toledo</li>
-               <li>Ana Montenegro</li>
-               <li>Maurizio Mancioli</li>
-               <li>Contratempo Coletivo</li>
-               <li>Vivianita</li>
-               <li>Rubiane Maia</li>
-               <li>Paulo Vega Jr.</li>
-               <li>Solange Bonfil</li>
-               <li>Elen Gruber</li>
-               <li>Maíra Vaz Valente</li>
-               <li>Tiago Cadete</li>
-               <li>Tânia Dinis</li>
-               <li>Lucio Agra</li>
-               <li>Grasiele Sousa</li>
-               <li>Fernando Ribeiro</li>
-               <li>Mercedes Torres</li>
-               <li>Esteban Faroles</li>
-               <li>Snežana Golubović</li>
-               <li>Paulo da Mata</li>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Mostra Performatus #1</li>
-               <li>Corpo (I)materializado</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200317010657/http://performatus.net/criticas/performance-como-resistencia/">PERFORMANCE COMO RESISTÊNCIA: A COABITAÇÃO NA CASA AMARELA, NA VILA ROMANA</a></td>
-         <td>
-            <ul>
-               <li>Leonardo Mello e Silva</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Loop B</li>
-               <li>Janice de Piero</li>
-               <li>Samuel Malbon</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Coabitação</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200317143835/http://performatus.net/estudos/performance-clarissa-sacchelli/">“TEXTO CRÍTICO?”: SOBRE “PERFORMANCE”, DE CLARISSA SACCHELLI</a></td>
-         <td>
-            <ul>
-               <li>Renan Marcondes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Clarissa Sacchelli</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Performance</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200317143639/http://performatus.net/estudos/sigalit-landau/">UM DISCURSO, O ARAME FARPADO, O LEVIATÃ, O FIO DE ARIADNE</a></td>
-         <td>
-            <ul>
-               <li>Silvana Dias Coelho</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sigalit Landau</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Barbed Hula</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/http://performatus.net/criticas/gal-oppido/">O QUE PODE UM CORPO QUE PEDE?</a></td>
-         <td>
-            <ul>
-               <li>Edith Derdyk</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Gal Oppido</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Prata sobre Pele sobre Prata</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200318153317/http://performatus.net/perfil-de-artista/as-armas-de-marcela-tiboni/">VIOLÊNCIA GRÁFICA: AS ARMAS DE MARCELA TIBONI</a></td>
-         <td>
-            <ul>
-               <li>Renan Marcondes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marcela Tiboni</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>Arsenal</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200318155836/http://performatus.net/estudos/performance-ricardo-marinelli/">MONSTRUOSIDADE E RESISTÊNCIA NA PERFORMANCE DE RICARDO MARINELLI</a></td>
-         <td>
-            <ul>
-               <li>Caio Riscado</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Ricardo Marinelli</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/save/http://performatus.net/criticas/marcelo-evelin-teatro-rivoli/">O QUE ESTÁ À LUZ DO NOSSO TEMPO, DISCERNIMOS NO ESCURO</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marcelo Evelin</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>De repente tudo fica preto de gente</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200318163605/http://performatus.net/criticas/lugares-da-escrita/">CORPO-SUPORTE VARIÁVEL PARA CONSTANTES PROCESSOS DISCURSIVOS</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Priscilla Davanzo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Coleção</li>
-               <li>D.N.A. – Reimpressões</li>
-               <li>Geotomia</li>
-               <li>Cabelódromo</li>
-               <li>Projeto D.N.A.</li>
-               <li>Pour être plus belle et efficiente – pour être plus beau et efficient</li>
-               <li>Colaboração #1 e #3 – Ações de Patylene &amp; Paulette</li>
-               <li>About the Body</li>
-               <li>Sem Título</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Priscilla Davanzo: Lugares da Escrita</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200319172733/http://performatus.net/estudos/espaco-do-beijo/">O PEQUENO (E EXCESSIVO) ESPAÇO DO BEIJO</a></td>
-         <td>
-            <ul>
-               <li>André Masseno</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cia. Excessos</li>
-               <li>Tales Frey</li>
-               <li>Cristine Ágape</li>
-               <li>Hugus Félix</li>
-               <li>Larissa Câmara</li>
-               <li>Leandro Baumgratz</li>
-               <li>Berenice Isabel</li>
-               <li>Paulo da Mata</li>
-               <li>Joana Lleys</li>
-               <li>Lizi Menezes</li>
-               <li>Paula Guedes</li>
-               <li>Lívia Novaes</li>
-               <li>Suianni Macedo</li>
-               <li>Luís Filipe Santos</li>
-               <li>Emily Cruz Nowell</li>
-               <li>Rosa Gaia Saunders</li>
-               <li>Juliette Dumas</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>O Beijo</li>
-               <li>O Beijo 2</li>
-               <li>O Outro Beijo no Asfalto</li>
-               <li>Reciprocidade Desalmada</li>
-               <li>Beija-se</li>
-               <li>The Other Asphalt Kiss</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200319174653/http://performatus.net/estudos/deslocamentos-marta-soares/">A PERMANÊNCIA DA FORMA DAS SETAS: NOVE TENTATIVAS A PARTIR DE “DESLOCAMENTOS”, DE
-               MARTA SOARES</a></td>
-         <td>
-            <ul>
-               <li>Renan Marcondes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Marta Soares</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Deslocamentos</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170101131537/http://performatus.net/criticas/festival-de-teatro-da-amazonia-2/">A TRAVESSIA DO GRUPO TECELAGEM PELO PALCO DO TEATRO AMAZONAS</a></td>
-         <td>
-            <ul>
-               <li>Thaís Vasconcelos</li>
-               <li>Vanja Poty</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Grupo Tecelagem</li>
-               <li>Guimarães Rosa</li>
-               <li>Thiago Rodrigues</li>
-               <li>Celso França</li>
-               <li>Paulo Williams</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Travessia</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200319224836/http://performatus.net/criticas/festival-de-teatro-da-amazonia-3/">“BEM DO SEU TAMANHO”: SIMPLICIDADE E IMAGINAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Ítalo Rui</li>
-               <li>Vanja Poty</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Núcleo Caboclinhas</li>
-               <li>Edu Silva</li>
-               <li>Ana Maria Machado</li>
-               <li>Giuliana Cerchiari</li>
-               <li>Geni Cavalcante</li>
-               <li>Luciana Silveira</li>
-               <li>Maria Fernanda Batalha</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Bem do Seu Tamanho</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200319230923/http://performatus.net/criticas/festival-de-teatro-da-amazonia-4/">“CONTOS DE BEIRADÃO”: A ARTE PELA ARTE E O DIÁLOGO ENTRE AS LINGUAGENS DE CENA</a></td>
-         <td>
-            <ul>
-               <li>Thaís Vasconcelos</li>
-               <li>Vanja Poty</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Arte pela Arte</li>
-               <li>Magda Carvalho</li>
-               <li>Sidney Fernandes</li>
-               <li>Marcelo Oliveira</li>
-               <li>Tiago Oliveira</li>
-               <li>Marta Marti</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Contos de Beiradão</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200321233804/http://performatus.net/estudos/engordurando-fronteiras/">ENGORDURANDO FRONTEIRAS: DEZ INSTANTES A PARTIR DO PROJETO DE PERFORMANCE “A NATUREZA
-               DA VIDA”, DE FERNANDA MAGALHÃES</a></td>
-         <td>
-            <ul>
-               <li>Caio Riscado</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fernanda Magalhães</li>
-               <li>Stefano Belo</li>
-               <li>Tamiris Spinelli</li>
-               <li>Ricardo Nolasco</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Série A Natureza da Vida</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200322002552/http://performatus.net/estudos/seis-manifestos/">SEIS MANIFESTOS IRREVOGÁVEIS SOBRE A PELE DE PAULO DA MATA</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Paulo da Mata</li>
-               <li>Tales Frey</li>
-               <li>Suzana Queiroga</li>
-               <li>Manuel Vason</li>
-               <li>Cia. Excessos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Homenagem a Oscar Niemeyer</li>
-               <li>Romance Violentado</li>
-               <li>Aliança</li>
-               <li>Compromisso</li>
-               <li>Em Você</li>
-               <li>série de Minotauros</li>
-               <li>El Minotauro # 1</li>
-               <li>El Minotauro # 2</li>
-               <li>El Minotauro # 3</li>
-               <li>El Minotauro # 4</li>
-               <li>Eu Gisberta</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170330222414/http://performatus.net/criticas/agua-ar-suzana-queiroga/">O MAR E O CÉU DE SUZANA QUEIROGA</a></td>
-         <td>
-            <ul>
-               <li>Constança Babo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Suzana Queiroga</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Olhos d’Água</li>
-               <li>Atlas</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>ÁguaAr</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170331011554/http://performatus.net/criticas/glitter/">GLITTER IS A BITCH'S BEST FRIEND</a></td>
-         <td>
-            <ul>
-               <li>Pedro Costa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Sergiu Matiș</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Welcome, bitchies!</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20180825022837/http://performatus.net/criticas/corpos-biomaquinicos-e-composicao-sonora/">CORPOS BIOMAQUÍNICOS E COMPOSIÇÃO SONORA: A ATUAL COMPLEXIDADE DO NOSSO PERGUNTAR</a></td>
-         <td>
-            <ul>
-               <li>Jaqueline Vasconcellos</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cadós Sanchez</li>
-               <li>Thiago Salas Gomes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Aspectos Contemporâneos da Pedagogia Musical</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20170331232201/http://performatus.net/criticas/lizi-menezes/">CONSUMO OBSESSIVO OU REGURGITAÇÃO NECESSÁRIA DOS ARQUÉTIPOS JÁ PETRIFICADOS</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Lizi Menezes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Panquecas Civilizadas</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200325024424/http://performatus.net/criticas/passagem-tales-frey/">O(S) “MITO(S)” DA(S) MASCULINIDADE(S) QUE PERPASSA(M) A OBRA “PASSAGEM”, DE TALES
-               FREY</a></td>
-         <td>
-            <ul>
-               <li>Lizi Menezes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Passagem</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200325170544/http://performatus.net/criticas/vejo-tudo-nu/">VEJO TUDO NU, #SQN</a></td>
-         <td>
-            <ul>
-               <li>Grasiele Sousa a.k.a. Grasiele Cabelódroma</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Lucio Agra</li>
-               <li>Otávio Donasci</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Vejo Tudo Nu</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200325171628/http://performatus.net/criticas/outroluiz/">IMPÁVIDO COMPROMISSO (DES)CUMPRIDO</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>OutroLuiz</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>1964 Golpes</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200325172403/http://performatus.net/criticas/a-ilha/">“A ILHA”: DAS FRONTEIRAS ÀS APROXIMAÇÕES</a></td>
-         <td>
-            <ul>
-               <li>Julia Pelison</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Cia. Excessos</li>
-               <li>Tales Frey</li>
-               <li>Paulo da Mata</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-         <td>
-            <ul>
-               <li>A Ilha</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200326020151/http://performatus.net/criticas/a-procura-do-lugar-feliz/">A CIDADE NÃO É INOCENTE</a></td>
-         <td>
-            <ul>
-               <li>Jonathon Austin</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fábio Lopes</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>À Procura do Lugar Feliz</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200328164743/http://performatus.net/estudos/tuca-pinheiro/">DANÇA E ANIMALIDADE: ENTRE PRÁTICAS E DISCURSOS</a></td>
-         <td>
-            <ul>
-               <li>André Masseno</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Tuca Pinheiro</li>
-               <li>Rosa Hercules</li>
-               <li>Adriana Banana</li>
-               <li>Leonardo Pavanello</li>
-               <li>Kiko Klaus</li>
-               <li>Caroline Silas</li>
-               <li>Denizard Dennis</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Hyenna: Não Deforma, Não Tem Cheiro, Não Solta as Tiras</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200328170306/http://performatus.net/criticas/lia-rodrigues/">VIVÊNCIA CONJUNTA PARA SENSAÇÕES DESSEMELHANTES</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Lia Rodrigues</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Para que o Céu não Caia</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200328171032/http://performatus.net/criticas/fyodor-pavlov-andreevich/">DUAS ANÁLISES CRÍTICAS A PARTIR DA OBRA “CARROSSEL PERFORMÁTICO DE FYODOR – DE CABEÇA
-               PARA BAIXO”</a></td>
-         <td>
-            <ul>
-               <li>Tales Frey (org.)</li>
-               <li>Marcos Villas Boas</li>
-               <li>Julia P. S. D’Arienzo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Fyodor Pavlov-Andreevich</li>
-               <li>Atelier Marko Brajović</li>
-               <li>Arto Lindsay</li>
-               <li>Ilya Pusenkoff</li>
-               <li>Guta Galli</li>
-               <li>Evamaria Schaller</li>
-               <li>Anguezomo Mba Bikoro</li>
-               <li>Jamie Lewis Hadley</li>
-               <li>Clarissa Sacchelli</li>
-               <li>Pashias</li>
-               <li>Rafael Menôva</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Carrossel Performático de Fyodor – De Cabeça para Baixo</li>
-               <li>É Vento</li>
-               <li>Prove-me, Eu Sou Você</li>
-               <li>Côncavo</li>
-               <li>As Coisas Como São</li>
-               <li>Manobra: O Vazio</li>
-               <li>Memória da Casa dos Budas Ditosos</li>
-               <li>Instituição de Segurança</li>
-               <li>Sobre Lágrimas e Melancias</li>
-               <li>Capela de Check-in</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Carrossel Performático de Fyodor – De Cabeça para Baixo</li>
-            </ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200328175815/http://performatus.net/perfil-de-artista/claudia-paim/">SOBRE CLAUDIA PAIM, PARA CLAUDIA PAIM</a></td>
-         <td>
-            <ul>
-               <li>VáriXs AutorXs</li>
-               <li>Carina Sehn</li>
-               <li>Clarisse Tarran</li>
-               <li>Jefferson Skorupski</li>
-               <li>Roberto Rezende</li>
-               <li>Daniela Labra</li>
-               <li>Dione Veiga Vieira</li>
-               <li>Cristiana Nogueira</li>
-               <li>Jaqueline Vasconcellos</li>
-               <li>André Bezerra</li>
-               <li>Grasiele Sousa</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Claudia Paim</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Entre Minha Boca e Teu Ouvido</li>
-               <li>Uma Pessoa Civilizada</li>
-               <li>Possibilidades</li>
-               <li>Ínfimo</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-      <tr>
-         <td><a href="https://web.archive.org/web/20200328202643/http://performatus.net/criticas/a-porosidade-da-ruminacao/">A POROSIDADE DA RUMINAÇÃO</a></td>
-         <td>
-            <ul>
-               <li>Andrea Maria Mello</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Priscilla Davanzo</li>
-            </ul>
-         </td>
-         <td>
-            <ul>
-               <li>Pour être une seductrice</li>
-            </ul>
-         </td>
-         <td>
-            <ul></ul>
-         </td>
-      </tr>
-	</tbody>
+      <tr style="text-align: left;">
+         <th></th>
+         <th>Autores</th>
+      <th>Críticas de Arte</th>
+      <th>Artistas &#40;tema&#41;</th>
+      <th>Ano de Publicação</th>
+      <th>Eventos Artísticos &#40;tema&#41;</th>
+      <th>Coletivos de Artistas &#40;tema&#41;</th>
+      <th>Obras de Arte dos Artistas e coletivos &#40;tema&#41;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>0</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa106025/moacir-dos-anjos">Anjos, Moacir dos (Recife/PE, 1963 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200205161349/https://performatus.net/estudos/tres-coisas/">TRES COISAS QUE EU ACHO QUE SEI SOBREOPAVIVARA!</a></td>
+        <td>n/a</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>OPAVIVARA!</td>
+        <td>OPAVIVARA! AO VIVO!</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa12553/viviane-matesco">Matesco, Viviane</a></td>
+        <td><a href="https://web.archive.org/web/20200224184018/http://performatus.net/criticas/olhos-d-agua/">PAISAGEM/PELE</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9600/suzana-queiroga">Queiroga, Suzana (Rio de Janeiro/RJ, 1961 - )</a></td>
+        <td>2013</td>
+        <td>OLHOS D’AGUA</td>
+        <td>n/a</td>
+        <td>OLHOS D’AGUA; CAIS; OLHOS D’AGUA; SERIE LIVRO DO AR; SERIE LIVRO DO MAR; SERIE LIVRO DA DOR</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200220165013/http://performatus.net/estudos/marcelo-braga/">PELES DE SI, PELES DE OUTRO, PELES DE OUTRORA: A FIGURACAO DO ARTISTA ENFER</a></td>
+        <td>Braga, Marcelo (Guarani/MGGuarani/MG); <a href="https://enciclopedia.itaucultural.org.br/pessoa13468/walter-carvalho">Carvalho, Walter (, 1947)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa27080/michel-groisman">Groisman, Michel (Rio de Janeiro/RJ, 1972 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa106830/renato-mangolin">Mangolin, Renato</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa459670/simone-spoladore">Spoladore, Simone (Curitiba/PR, 1979 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa373353/laura-samy">Samy, Laura ()</a>; Lancellotti, Domenico (Rio de Janeiro/RJ, 1972 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>O HOMEM VERMELHO (PECA)</td>
+      </tr>
+      <tr>
+        <th>3</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200319172733/http://performatus.net/estudos/espaco-do-beijo/">O PEQUENO (E EXCESSIVO) ESPACO DO BEIJO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a>; Guedes, Paula; Cordeiro Macedo, Suianni (); Cruz Nowell, Emily; Gaia Saunders, Rosa (Canadá); Dumas, Juliette (França); Félix, Hugus; <a href="https://enciclopedia.itaucultural.org.br/pessoa593143/larissa-camara">Câmara, Larissa</a>; Baumgratz, Leandro; Novaes, Lívia; Santos, Luís Filipe</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>OUTRO BEIJO NO ASFALTO; O BEIJO; O BEIJO II; RECIPROCIDADE DESALMADA; BEIJA-SE; THE OTHER ASPHALT KISS</td>
+      </tr>
+      <tr>
+        <th>4</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200328164743/http://performatus.net/estudos/tuca-pinheiro/">DANCA E ANIMALIDADE: ENTRE PRATICAS E DISCURSOS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa202021/tuca-pinheiro">Pinheiro, Tuca (Belo Horizonte/MG, 1960 - )</a>; Hercules, Rosa; <a href="https://enciclopedia.itaucultural.org.br/pessoa108945/adriana-banana">Banana, Adriana (Belo Horizonte/MG, 1973 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa638132/leonardo-pavanello">Pavanello, Leonardo</a>; Klaus, Kiko (, 1974 - ); Silas, Caroline (Belém/PA, 1984 - ); Dennis, Denizard</td>
+        <td>2018</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>HYENNA: NAO DEFORMA, NAO TEM CHEIRO, NAO SOLTA AS YIRAS</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200205154716/http://performatus.net/perfil-de-artista/marcus-vinicius/">A(S)CENDER: CONSIDERACAO SOBRE A VIDA E A OBRA DEMARCUS VINICIUS</a></td>
+        <td>Souza Santos, Marcus Vinícius de (Vitória/ES, 1985 - Vitória/ES)</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>TERRITORIO EXPANDIDO I [ILHA DA POLVORA]; O IMPREVISIVEL, O ACASO E O QUE NAO SE SABE; ABOUT THE TIME; BICHO DO MATO; BEFORE THE DAWN… THAT BE ENDLESS, WHEN THE DREAMS DIE…?; YOU MUST CHANGE YOUR LIFE; FRAGMENTOS DE PEQUENOS PENSAMENTOS; FRAGIL III; EL DESEO ES EL RASTRO; HONEY (NOT ONLY IN THIS WORD); DISTANT CLOSENESS; NUDO; THE PRESENCE OF THE WORLD IN ME (PART II); EVERYTHING IMAGINABLE CAN BE DREAMED; THE VISIBLE & THE UNCONSCIOUS</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20161230005402/https://performatus.net/criticas/tortura-prazer/">TORTURA E PRAZER: AUTO-EXPOSICAO DE DESLIZES COMO OSTENTACAO DO IMPECAVEL</a></td>
+        <td>Dinis, Tânia (Portugal, 1983 - ); Quintela, Jorge; Sá, Diana; Pereira, Sara; Margarida, Sofia; Alpendurada, Teresa; Bastos, Pedro (Portugal, 1980 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>FEMALE</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200205160326/https://performatus.net/criticas/eros-eletronico/">O CORPO DO OUTRO – O EROS ELETRONICO</a></td>
+        <td>Lopes, Fábio; Silva, António da; Brás, Paulo</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SUBTERRANEO: O CORPO DISTRIBUIDO</td>
+      </tr>
+      <tr>
+        <th>8</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200205161152/https://performatus.net/criticas/hygiene/">“HYGIENE” COMO UM RITUAL: O LIMIAR ENTRE A VERACIDADE DA IMITACAO E A PROPR</a></td>
+        <td>n/a</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>GRUPO XIX DE TEATRO</td>
+        <td>HYGIENE</td>
+      </tr>
+      <tr>
+        <th>9</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/save/http://performatus.net/criticas/despair-metonia/">IMORAL EXPORT</a></td>
+        <td>Moral, Şükran (Turquia, 1962 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa571780/valie-export">Export, Valie (Áustria, 1940 - )</a></td>
+        <td>2013</td>
+        <td>DESPAIR & METANOIA:SUKRAN MORAL|VALIE EXPORT</td>
+        <td>n/a</td>
+        <td>DESPAIR; METANOIA; THE ARTIST; SERIE BODY CONFIGURATION; VERTIKAL GEL; DREIECKMIT BOGEN; …REMOTE …REMOTE; MANN & FRAU & ANIMAL; ADJUNGIERTE DISTOKATIONEN II; ANAGRAMMATISCHE KOMPOSITION MIT WURFELSPIEL VONVALIE EXPORT(NACHW.A. MOZART, KLAVIER) FUR SOPRANSAXOPHON; ASEMIE – DIE UNFAHIGKEIT SICH DURCH MIENENSPIEL AUSDRUCKEN ZU KONNEN; BEWEGTE BILDER UBER SICH BEWEGENDE PERSONEN; BODY POLITICS; BODY TAPE; DELTA. EIN STUCK; DIE SUSSE NUMMER: EIN FRIEDLICHES KONSUMERLEBNIS; DIE ZWEIHEIT DER NATUR; FACING A FAMILY; FRAGMENTE BURGENLAND; GEDICHTE; HAUCHTEXT: LIEBESGEDICHT; HYPERBULIE; I (BEAT (IT)); INTERRUPTED LINE; RAUMSEHEN UND RAUMHOREN; RESTRINGIERTER CODE; SCHNITTE / ELEMENTE DER ANSCHAUUNG; SEHTEXT: FINGERGEDICHT; SEHTEXT: FINGERGEDICHT (1968); SELBSTPORTRAIT MIT AUGE; SELBSTPORTRAIT MIT KOPF; SYNTAGMA; TAPP UND TASTKINO; “THE VOICE AS PERFORMANCE, ACT AND BODY”</td>
+      </tr>
+      <tr>
+        <th>10</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200227140215/http://performatus.net/criticas/acao-psicoativa-ou-sob-a-eficacia-de-um-mesmo-efeito-acionado/">ACAO PSICOATIVA OU SOB A EFICACIA DE UM MESMO EFEITO ACIONADO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa564971/fernando-belfiore">Belfiore, Fernando (São Paulo/SP, 1983 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>.WHATDOWEFINALLYSHARE.</td>
+      </tr>
+      <tr>
+        <th>11</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/save/http://performatus.net/criticas/marcelo-evelin-teatro-rivoli/">O QUE ESTA A LUZ DO NOSSO TEMPO, DISCERNIMOS NO ESCURO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa449475/marcelo-evelin">Evelin, Marcelo (Teresina/PI, 1962 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>DE REPENTE TUDO FICA PRETO DE GENTE</td>
+      </tr>
+      <tr>
+        <th>12</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200328170306/http://performatus.net/criticas/lia-rodrigues/">VIVENCIA CONJUNTA PARA SENSACOES DESSEMELHANTES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa449154/lia-rodrigues">Rodrigues, Lia (São Paulo/SP, 1956 - )</a></td>
+        <td>2018</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PARA QUE O CEU NAO CAIA</td>
+      </tr>
+      <tr>
+        <th>13</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Cordeiro Macedo, Suianni ()</td>
+        <td><a href="https://web.archive.org/web/20200205160958/https://performatus.net/perfil-de-artista/patricia-correa/">O QUE PROCLAMAR AO PUBLICO SEM SE DIRIGIR A ELE: CONVERSA COMPATRICIA CORRE</a></td>
+        <td>Corrêa, Patrícia (Portugal, 1978 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ALMA; TEMPO 4; SERIE HAAN GALO-HAAN GALO; HAAN GALO-HAAN GALO #6; HAAN GALO-HAAN GALO #3; HAAN GALO-HAAN GALO #2; PLANTA-ME UMA PALAVRA; A REVOLUCAO SOMOS NOS; VENDE-SE ARTISTA; SHIP OF FOOLS</td>
+      </tr>
+      <tr>
+        <th>14</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Villas Boas, Marcos; P. S. D’Arienzo, Julia</td>
+        <td><a href="https://web.archive.org/web/20200328171032/http://performatus.net/criticas/fyodor-pavlov-andreevich/">DUAS ANALISES CRITICAS A PARTIR DA OBRA “CARROSSEL PERFORMATICO DE FYODOR –</a></td>
+        <td>Sacchelli, Clarissa (São Paulo/SP, 1983 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa589804/fyodor-pavlov-andreevich">Pavlov Andreevich, Fyodor (Rússia, 1976 - )</a>; Pusenkoff, Ilya (Rússia, 1982 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa628114/guta-galli">Galli, Guta (São Paulo/SP, 1982 - )</a>; Schaller, Evamaria (Áustria, 1980 - ); Mba Bikoro, Anguezomo (República Gabonesa); Lewis Hadley, Jamie (Reino Unido); , Pashias (Grécia); <a href="https://enciclopedia.itaucultural.org.br/pessoa12650/arto-lindsay">Lindsay, Arto</a>; Menôva, Rafael</td>
+        <td>2018</td>
+        <td>CARROSSEL PERFORMATICO DEFYODOR– DE CABECA PARA BAIXO</td>
+        <td>ATELIER MARKO BRAJOVIC</td>
+        <td>CARROSSEL PERFORMATICO DEFYODOR– DE CABECA PARA BAIXO; CAPELA DE CHECK-IN; SOBRE LAGRIMAS E MELANCIAS; INSTITUICAO DE SEGURANCA; MEMORIA DA CASA DOS BUDAS DITOSOS; MANOBRA: O VAZIO; AS COISAS COMO SAO; CONCAVO; PROVE-ME, EU SOU VOCE; E VENTO</td>
+      </tr>
+      <tr>
+        <th>15</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa562601/dinah-cesare">Cesare, Dinah</a></td>
+        <td><a href="https://web.archive.org/web/20200205160203/https://performatus.net/estudos/imagem-e-dessemelhanca/">IMAGEM E DESSEMELHANCA</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>RE-BANHO</td>
+      </tr>
+      <tr>
+        <th>16</th>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a></td>
+        <td><a href="https://web.archive.org/save/https://performatus.net/estudos/malograr-como-tentativa/">MALOGRAR COMO TENTATIVA</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa622177/vitor-butkus">Butkus, Vitor (Porto Alegre/RS, 1983 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS; MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (I); MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (II)</td>
+      </tr>
+      <tr>
+        <th>17</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10148/julio-minervino">Minervino, Júlio</a></td>
+        <td><a href="https://web.archive.org/web/20170912183859/https://performatus.net/estudos/httpperformatus-netwp-contentuploads201310faceless-tales-frey/">VELATURAS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE FACELESS</td>
+      </tr>
+      <tr>
+        <th>18</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa102145/caue-alves">Alves, Cauê (São Paulo/SP, 1977 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200224165629/http://performatus.net/estudos/corpo-nino-cais/">O CORPO NO TRABALHO DENINO CAIS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa374537/nino-cais">Cais, Nino (São Paulo/SP, 1969 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>19</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa214559/edith-derdyk">Derdyk, Edith (São Paulo/SP, 1955 - )</a></td>
+        <td><a href="https://web.archive.org/save/http://performatus.net/criticas/gal-oppido/">O QUE PODE UM CORPO QUE PEDE?</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17813/gal-oppido">Oppido, Gal (São Paulo/SP, 1952 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PRATA SOBRE PELE SOBRE PRATA</td>
+      </tr>
+      <tr>
+        <th>20</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200205154305/http://performatus.net/criticas/a-festa-de-snezana-golubovic/">A FESTA DESNEZANA GOLUBOVIC</a></td>
+        <td>Golubović, Snežana (Sérvia, 1965 - )</td>
+        <td>2012</td>
+        <td>RAPID PULSE INTERNATIONAL PERFORMANCE ART FESTIVAL</td>
+        <td>n/a</td>
+        <td>I LOVE YOU</td>
+      </tr>
+      <tr>
+        <th>21</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa449841/grasiele-sousa">Sousa, Grasiele (São Bernardo do Campo/SP, 1978 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200325170544/http://performatus.net/criticas/vejo-tudo-nu/">VEJO TUDO NU, #SQN</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa100653/lucio-agra">Agra, Lucio (Recife/PE, 1960 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa100707/otavio-donasci">Donasci, Otávio (São Paulo/SP, 1952 - )</a></td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>VEJO TUDO NU</td>
+      </tr>
+      <tr>
+        <th>22</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa477151/ana-hupe">Hupe, Ana (Rio de Janeiro/RJ, 1983 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200311235128/http://performatus.net/criticas/romanceviolentado/">“ROMANCE VIOLENTADO”, TITULO QUE E LIVRO EM SI</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ROMANCE VIOLENTADO</td>
+      </tr>
+      <tr>
+        <th>23</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa554975/jacqueline-siano">Siano, Jacqueline</a></td>
+        <td><a href="https://web.archive.org/web/20170628033926/http://performatus.net/estudos/deslocamento-em-paisagem/">DESLOCAMENTO EM PAISAGEM: A IMAGEM DA VIAGEM</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9600/suzana-queiroga">Queiroga, Suzana (Rio de Janeiro/RJ, 1961 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>OLHOS D’AGUA; BALAO VOO-VELOFLUXO</td>
+      </tr>
+      <tr>
+        <th>24</th>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a></td>
+        <td><a href="https://web.archive.org/web/20200325024424/http://performatus.net/criticas/passagem-tales-frey/">O(S) “MITO(S)” DA(S) MASCULINIDADE(S) QUE PERPASSA(M) A OBRA “PASSAGEM”, DE</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PASSAGEM; PASSAGEM</td>
+      </tr>
+      <tr>
+        <th>25</th>
+        <td>Amaral Fernandes, Mayara</td>
+        <td><a href="https://web.archive.org/web/20200226181937/http://performatus.net/estudos/o-banho-e-o-rebanho/">O BANHO E O "REBANHO"</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>RE-BANHO</td>
+      </tr>
+      <tr>
+        <th>26</th>
+        <td>Austin, Jonathon</td>
+        <td><a href="https://web.archive.org/web/20200326020151/http://performatus.net/criticas/a-procura-do-lugar-feliz/">A CIDADE NAO E INOCENTE</a></td>
+        <td>Lopes, Fábio</td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>A PROCURA DO LUGAR FELIZ</td>
+      </tr>
+      <tr>
+        <th>27</th>
+        <td>Babo, Constança (Portugal)</td>
+        <td><a href="https://web.archive.org/web/20170330222414/http://performatus.net/criticas/agua-ar-suzana-queiroga/">O MAR E O CEU DESUZANA QUEIROGA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9600/suzana-queiroga">Queiroga, Suzana (Rio de Janeiro/RJ, 1961 - )</a></td>
+        <td>2015</td>
+        <td>AGUAAR</td>
+        <td>n/a</td>
+        <td>OLHOS D’AGUA; ATLAS</td>
+      </tr>
+      <tr>
+        <th>28</th>
+        <td>Bezerra, André (Natal/RN, 1987 - ); Silva, Chrystine (Natal/RN, 1988 - )</td>
+        <td><a href="https://web.archive.org/web/20200205161246/https://performatus.net/estudos/reciprocidade-desalmada/">O DOBRO-NADA DE “RECIPROCIDADE DESALMADA”</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Isabel, Berenice; Lleys, Joana; <a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a>; Guedes, Paula</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>RECIPROCIDADE DESALMADA</td>
+      </tr>
+      <tr>
+        <th>29</th>
+        <td>Bezerra, André (Natal/RN, 1987 - ); Vasconcellos, Jaqueline (Salvador/BA, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa449841/grasiele-sousa">Sousa, Grasiele (São Bernardo do Campo/SP, 1978 - )</a>; Sehn, Carina (Estrela/RS, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa271974/clarisse-tarran">Tarran, Clarisse (Brasília/DF, 1968 - )</a>; Skorupski, Jefferson (, 1989 - ); Rezende, Roberto; <a href="https://enciclopedia.itaucultural.org.br/pessoa364860/daniela-hochmann-labra">Labra, Daniela (Chile, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa268777/dione-veiga-vieira">Veiga Vieira, Dione (Porto Alegre/RS, 1954 - )</a>; Nogueira, Cristiana (Rio de Janeiro/RJ)</td>
+        <td><a href="https://web.archive.org/web/20200328175815/http://performatus.net/perfil-de-artista/claudia-paim/">SOBRECLAUDIA PAIM, PARACLAUDIA PAIM</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa390139/claudia-paim">Paim, Claudia (Porto Alegre/RS, 1961 - Porto Alegre/RS)</a></td>
+        <td>2019</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ENTRE MINHA BOCA E TEU OUVIDO; UMA PESSOA CIVILIZADA; INFIMO; POSSIBILIDADES</td>
+      </tr>
+      <tr>
+        <th>30</th>
+        <td>Cordeiro Macedo, Suianni ()</td>
+        <td><a href="https://web.archive.org/web/20200205155718/http://performatus.net/criticas/farnese-de-andrade/">INDIZIVEL INSTANTE: PRESENCA E MEMORIA DEFARNESE DE ANDRADE</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa407491/celina-sodre">Sodré Fonseca, Celina Maria (Rio de Janeiro/RJ, 1954 - )</a>; Silveira, Vandré (Belo Horizonte/MG, 1981 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>FARNESEDE SAUDADE</td>
+      </tr>
+      <tr>
+        <th>31</th>
+        <td>Cordeiro Macedo, Suianni ()</td>
+        <td><a href="https://web.archive.org/save/https://performatus.net/estudos/waleria-americo/">MIRAR E HABITAR: A OBRA DEWALERIA AMERICODIANTE DO MUNDO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa268288/waleria-americo">Américo Bezerra, Waléria (Fortaleza/CE, 1979 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>TUDO QUE EXISTIA DENTRO DE MIM; MERGULHO NA PAISAGEM; PARA VER O CEU MUDAR DE COR; MIRAR; HORIZONTE NOMADE; ACIMA DO NIVEL DO MAR; PLANO DE FUGA</td>
+      </tr>
+      <tr>
+        <th>32</th>
+        <td>Cordeiro Macedo, Suianni ()</td>
+        <td><a href="https://web.archive.org/web/20200205160844/https://performatus.net/criticas/a-descoberta-da-verdade/">A DESCOBERTA DA VERDADE</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa26997/paulo-meira">Araújo Meira Júnior, Paulo de (Arcoverde/PE, 1966 - )</a>; Lago, Moacir (Recife/PE, 1973 - ); Queiroga, Luciana (Recife/PE); Andrade, Tiago (Recife/PE); Baccaro, Francisco (Olinda/PE, 1978 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>EPICO CULINARIO</td>
+      </tr>
+      <tr>
+        <th>33</th>
+        <td>Cordeiro Macedo, Suianni ()</td>
+        <td><a href="https://web.archive.org/web/20200312001414/http://performatus.net/estudos/klein-redin/">A INELUTAVEL “PRESENCA” DO VAZIO: DIALOGOS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>O VAZIO</td>
+      </tr>
+      <tr>
+        <th>34</th>
+        <td>Costa, Pedro</td>
+        <td><a href="https://web.archive.org/web/20170331011554/http://performatus.net/criticas/glitter/">GLITTER IS A BITCH'S BEST FRIEND</a></td>
+        <td>Matiș, Sergiu (Romênia, 1981 - )</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>WELCOME, BITCHIES!</td>
+      </tr>
+      <tr>
+        <th>35</th>
+        <td>Dias Coelho, Silvana</td>
+        <td><a href="https://web.archive.org/web/20200317143639/http://performatus.net/estudos/sigalit-landau/">UM DISCURSO, O ARAME FARPADO, OLEVIATA, O FIO DEARIADNE</a></td>
+        <td>Landau, Sigalit (, 1969 - )</td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>BARBED HULA</td>
+      </tr>
+      <tr>
+        <th>36</th>
+        <td>Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</td>
+        <td><a href="https://web.archive.org/web/20200205153757/http://performatus.net/estudos/o-beijo-cia-excessos/">TODO AMOR QUE HOUVER NESSA VIDA</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Ágape, Cristine (Rio de Janeiro/RJ)</td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>O BEIJO</td>
+      </tr>
+      <tr>
+        <th>37</th>
+        <td>Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</td>
+        <td><a href="https://web.archive.org/web/20200205154522/http://performatus.net/criticas/bastao/">BASTAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa603024/elen-gruber">Braga, Elen (Caxias/MA, 1984 - )</a></td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>38</th>
+        <td>Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</td>
+        <td><a href="https://web.archive.org/web/20200205160648/https://performatus.net/estudos/separar-a-cabeca-do-corpo/">SEPARAR A CABECA DO CORPO</a></td>
+        <td>n/a</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>OPAVIVARA!</td>
+        <td>PULACERCA; AO AMOR DO PUBLICO!; OPAVIVARA! AO VIVO!</td>
+      </tr>
+      <tr>
+        <th>39</th>
+        <td>Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</td>
+        <td><a href="https://web.archive.org/web/20200205161100/https://performatus.net/criticas/esculturas/">ESCULTURAS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa339152/jorge-soledar">Soledar, Jorge (Porto Alegre/RS, 1979 - )</a></td>
+        <td>2013</td>
+        <td>COMO ME TORNEI INSENSIVEL</td>
+        <td>n/a</td>
+        <td>ATRAVESSAMENTO</td>
+      </tr>
+      <tr>
+        <th>40</th>
+        <td>Joaquim, Ana Cristina (São Paulo/SP)</td>
+        <td><a href="https://web.archive.org/web/20200205160648/https://performatus.net/estudos/separar-a-cabeca-do-corpo/">A PALAVRA SOBRE A PALAVRA: EM VIAS DE MATERIALIZACAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; Dinis, Tânia (Portugal, 1983 - )</td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>UM LIVRO DE CABECEIRA OU MEU CEREBRO NA PAGINA DOZE</td>
+      </tr>
+      <tr>
+        <th>41</th>
+        <td>Marcondes, Renan (São Bernardo do Campo/SP, 1991 - )</td>
+        <td><a href="https://web.archive.org/web/20200312015821/http://performatus.net/estudos/videopolaroids-cia-excessos/">FOTOGRAFO FUTIL: APONTAMENTOS SOBREVIDEOPOLAROIDS, DACIA. EXCESSOS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>SERIE VIDEOPOLAROIDS</td>
+      </tr>
+      <tr>
+        <th>42</th>
+        <td>Marcondes, Renan (São Bernardo do Campo/SP, 1991 - )</td>
+        <td><a href="https://web.archive.org/web/20200317143835/http://performatus.net/estudos/performance-clarissa-sacchelli/">“TEXTO CRITICO?”: SOBRE “PERFORMANCE”, DECLARISSA SACCHELLI</a></td>
+        <td>Sacchelli, Clarissa (São Paulo/SP, 1983 - )</td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PERFORMANCE</td>
+      </tr>
+      <tr>
+        <th>43</th>
+        <td>Marcondes, Renan (São Bernardo do Campo/SP, 1991 - )</td>
+        <td><a href="https://web.archive.org/web/20200318153317/http://performatus.net/perfil-de-artista/as-armas-de-marcela-tiboni/">VIOLENCIA GRAFICA: AS ARMAS DEMARCELA TIBONI</a></td>
+        <td>Tiboni, Marcela (São Paulo/SP, 1982 - )</td>
+        <td>2014</td>
+        <td>ARSENAL</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>44</th>
+        <td>Marcondes, Renan (São Bernardo do Campo/SP, 1991 - )</td>
+        <td><a href="https://web.archive.org/web/20200319174653/http://performatus.net/estudos/deslocamentos-marta-soares/">A PERMANENCIA DA FORMA DAS SETAS: NOVE TENTATIVAS A PARTIR DE “DESLOCAMENTO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa205904/marta-soares">Soares, Marta (Piedade/SP, 1962 - )</a></td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>DESLOCAMENTOS</td>
+      </tr>
+      <tr>
+        <th>45</th>
+        <td>Mello Silva, Leonardo e</td>
+        <td><a href="https://web.archive.org/web/20200317010657/http://performatus.net/criticas/performance-como-resistencia/">PERFORMANCE COMO RESISTENCIA: ACOABITACAONACASA AMARELA, NA VILA ROMANA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa289331/loop-b">Loop B (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa242424/janice-de-piero">Piero, Janice de (São Paulo/SP, 1958 - )</a>; Malbon, Samuel</td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>COABITACAO</td>
+      </tr>
+      <tr>
+        <th>46</th>
+        <td>Mello, Andrea Maria</td>
+        <td><a href="https://web.archive.org/web/20200328202643/http://performatus.net/criticas/a-porosidade-da-ruminacao/">A POROSIDADE DA RUMINACAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa106596/priscilla-davanzo">Davanzo, Priscilla (São Paulo/SP, 1978 - )</a></td>
+        <td>2019</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>POUR ETRE UNE SEDUCTRICE</td>
+      </tr>
+      <tr>
+        <th>47</th>
+        <td>Mello, Nathália (Rio de Janeiro/RJ)</td>
+        <td><a href="https://web.archive.org/save/http://performatus.net/estudos/vende-se/">O DESPIR-SE DETALES FREYEM BUSCA DE UM OBJETO DE ENSAIO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>VENDE-SE: ACEITA-SE CARTAO DE DEBITO</td>
+      </tr>
+      <tr>
+        <th>48</th>
+        <td>Mello, Nathália (Rio de Janeiro/RJ)</td>
+        <td><a href="https://web.archive.org/web/20200205161459/http://performatus.net/estudos/cia-enviezada/">CAMINHOS – INTERVENCAO URBANA DACIA ENVIEZADA: A ESCRITA DO CORPO NO CHAO D</a></td>
+        <td>Pinho, Rodrigo; Nemeckzy, Helga; Sal, Fernanda; Zanardini, Ade; <a href="http://enciclopedia.itaucultural.org.br/pessoa562927/samantha-gilbert">Gilbert, Samantha</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa597725/jean-bodin">Bodin, Jean</a>; Moser, Fabricio (Dourados/MS); Oliveira, Viviane de; <a href="http://enciclopedia.itaucultural.org.br/pessoa436379/tato-teixeira">Teixeira, Tato (Valença/RJ)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa557979/adriano-petermann">Petermann, Adriano (Curitiba/PR)</a>; Miranda, Helen; Marques, Preta (Curitiba/PR); <a href="http://enciclopedia.itaucultural.org.br/pessoa363657/raphael-cassou">Souza Caron Cassou, Raphael de (Curitiba/PR, 1975 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa475509/ze-alex">Oliva Júnior, Zé Alex (, 1977 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>CIA ENVIEZADA; QUATRILHA</td>
+        <td>CAMINHOS - UMA INTERVENCAO URBANA</td>
+      </tr>
+      <tr>
+        <th>49</th>
+        <td>Moreau, Arthur (São Paulo/SP, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200227135954/http://performatus.net/criticas/a-escuridao-que-nos-olha/">A ESCURIDAO QUE NOS OLHA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa449475/marcelo-evelin">Evelin, Marcelo (Teresina/PI, 1962 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>DEMOLICION INC.</td>
+        <td>DE REPENTE TUDO FICA PRETO DE GENTE</td>
+      </tr>
+      <tr>
+        <th>50</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200227140137/http://performatus.net/criticas/dramaturgia-musical/">DRAMARTUGIA MUSICAL</a></td>
+        <td>Dinis, Tânia (Portugal, 1983 - ); Bastos, Pedro (Portugal, 1980 - )</td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>MONO-LOGO</td>
+      </tr>
+      <tr>
+        <th>51</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200312150613/http://performatus.net/criticas/mostra-performatus-1/">REMINISCENCIAS A PARTIR DA “MOSTRA PERFORMATUS #1”</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; Golubović, Snežana (Sérvia, 1965 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa603024/elen-gruber">Braga, Elen (Caxias/MA, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; Dinis, Tânia (Portugal, 1983 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa339152/jorge-soledar">Soledar, Jorge (Porto Alegre/RS, 1979 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa477151/ana-hupe">Hupe, Ana (Rio de Janeiro/RJ, 1983 - )</a>; Marcondes, Renan (São Bernardo do Campo/SP, 1991 - ); Mello, Nathália (Rio de Janeiro/RJ); Bezerra, André (Natal/RN, 1987 - ); Silva, Chrystine (Natal/RN, 1988 - ); Vason, Manuel (Itália, 1974 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa593895/sol-casal">Casal, Sol (Argentina, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa106596/priscilla-davanzo">Davanzo, Priscilla (São Paulo/SP, 1978 - )</a>; Soares, Thiago (São Paulo/SP); Sacchelli, Clarissa (São Paulo/SP, 1983 - ); Shima (São Paulo/SP, 1978 - ); Cidade, Felipe (São Paulo/SP, 1989 - ); Coutinho, Nathália; Prado, Luiza (Guaratinguetá/SP, 1988 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa335259/daniel-bastos-toledo">Toledo, Daniel (Rio de Janeiro/RJ, 1981 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26805/ana-montenegro">Montenegro, Ana (Recife/PE, 1958 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa406967/maurizio-mancioli">Mancioli, Maurizio (Suíça, 1970 - )</a>; , Vivianita; <a href="https://enciclopedia.itaucultural.org.br/pessoa451277/rubiane-maia">Maia, Rubiane (Caratinga/MG, 1979 - )</a>; Vega Jr., Paulo (Rio Grande/RS, 1987 - ); Bonfil, Solange (Argentina, 1979 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa276061/maira-valente">Valente, Maíra (São Bernardo do Campo/SP, 1981 - )</a>; Cadete, Tiago (Portugal); <a href="https://enciclopedia.itaucultural.org.br/pessoa100653/lucio-agra">Agra, Lucio (Recife/PE, 1960 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa449841/grasiele-sousa">Sousa, Grasiele (São Bernardo do Campo/SP, 1978 - )</a>; Ribeiro, Fernando (Curitiba/PR, 1979 - ); Torres, Mercedes; Faroles, Esteban; <a href="https://enciclopedia.itaucultural.org.br/pessoa289331/loop-b">Loop B (São Paulo/SP, 1954 - )</a></td>
+        <td>2014</td>
+        <td>MOSTRA PERFORMATUS #1; CORPO (I)MATERIALIZADO</td>
+        <td>COLETIVO ES3; CONTRATEMPO COLETIVO</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>52</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200318163605/http://performatus.net/criticas/lugares-da-escrita/">CORPO-SUPORTE VARIAVEL PARA CONSTANTES PROCESSOS DISCURSIVOS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa106596/priscilla-davanzo">Davanzo, Priscilla (São Paulo/SP, 1978 - )</a></td>
+        <td>2014</td>
+        <td>PRISCILLA DAVANZO: LUGARES DA ESCRITA</td>
+        <td>n/a</td>
+        <td>COLECAO; CABELODROMO; D.N.A. – REIMPRESSOES; GEOTOMIA; PROJETO D.N.A.; POUR ETRE PLUS BELLE ET EFFICIENTE – POUR ETRE PLUS BEAU ET EFFICIENT; COLABORACAO #1 E #3 – ACOES DEPATYLENE&PAULETTE; ABOUT THE BODY; SEM TITULO</td>
+      </tr>
+      <tr>
+        <th>53</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200322002552/http://performatus.net/estudos/seis-manifestos/">SEIS MANIFESTOS IRREVOGAVEIS SOBRE A PELE DEPAULO DA MATA</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9600/suzana-queiroga">Queiroga, Suzana (Rio de Janeiro/RJ, 1961 - )</a>; Vason, Manuel (Itália, 1974 - )</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>ALIANCA; ROMANCE VIOLENTADO; HOMENAGEM AOSCAR NIEMEYER; COMPROMISSO; EM VOCE; EUGISBERTA; SERIE DE MINOTAUROS; EL MINOTAURO # 1; EL MINOTAURO # 2; EL MINOTAURO # 3; EL MINOTAURO #4</td>
+      </tr>
+      <tr>
+        <th>54</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20170331232201/http://performatus.net/criticas/lizi-menezes/">CONSUMO OBSESSIVO OU REGURGITACAO NECESSARIA DOS ARQUETIPOS JA PETRIFICADOS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a></td>
+        <td>2016</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>PANQUECAS CIVILIZADAS</td>
+      </tr>
+      <tr>
+        <th>55</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200325171628/http://performatus.net/criticas/outroluiz/">IMPAVIDO COMPROMISSO (DES)CUMPRIDO</a></td>
+        <td>OutroLuiz (Mairinque/SP, 1984 - )</td>
+        <td>2017</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>1964 GOLPES</td>
+      </tr>
+      <tr>
+        <th>56</th>
+        <td>Pelison, Julia (Niterói/RJ, 1982 - )</td>
+        <td><a href="https://web.archive.org/web/20200325172403/http://performatus.net/criticas/a-ilha/">“A ILHA”: DAS FRONTEIRAS AS APROXIMACOES</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></td>
+        <td>2017</td>
+        <td>A ILHA</td>
+        <td>CIA. EXCESSOS</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>57</th>
+        <td>Pinho, Juliana</td>
+        <td><a href="https://web.archive.org/web/20200205154131/http://performatus.net/estudos/marina-abramovic/">MARINA ABRAMOVICBRINCA AOS CLASSICOS</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa444700/marina-abramovic">Abramović, Marina (Sérvia, 1946 - )</a></td>
+        <td>2012</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE THE KITCHEN: HOMAGE TOSAINT THERESE; THE KITCHEN III; THE KITCHEN IV; THE KITCHEN V; THE KITCHEN VI</td>
+      </tr>
+      <tr>
+        <th>58</th>
+        <td>Poty, Vanja (São Paulo/SP, 1986 - ); Rosa Fontes, Gustavo (Aracaju/SE, 1986 - )</td>
+        <td><a href="https://web.archive.org/web/20200205160447/https://performatus.net/estudos/amor-cia-excessos/">O ENCONTRO AMOROSO DEPAULO DA MATAETALES FREYEM “ALIANCA”: PERFORMANCE, RIT</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></td>
+        <td>2013</td>
+        <td>n/a</td>
+        <td>CIA. EXCESSOS</td>
+        <td>ALIANCA</td>
+      </tr>
+      <tr>
+        <th>59</th>
+        <td>Poty, Vanja (São Paulo/SP, 1986 - ); Rui, Ítalo</td>
+        <td><a href="https://web.archive.org/web/20200319224836/http://performatus.net/criticas/festival-de-teatro-da-amazonia-3/">“BEM DO SEU TAMANHO”: SIMPLICIDADE E IMAGINACAO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa1609/ana-maria-machado">Machado, Ana Maria (Rio de Janeiro/RJ, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa403921/edu-silva">Silva, Edu</a>; Cavalcante, Geni (São Paulo/SP); Cerchiari, Giuliana; Silveira, Luciana (Santos/SP); Batalha, Maria Fernanda</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>NUCLEO CABOCLINHAS</td>
+        <td>BEM DO SEU TAMANHO</td>
+      </tr>
+      <tr>
+        <th>60</th>
+        <td>Poty, Vanja (São Paulo/SP, 1986 - ); Vasconcelos, Thaís</td>
+        <td><a href="https://web.archive.org/web/20170101131537/http://performatus.net/criticas/festival-de-teatro-da-amazonia-2/">ATRAVESSIADOGRUPO TECELAGEMPELO PALCO DOTEATRO AMAZONAS</a></td>
+        <td>Rosa, Guimarães (Cordisburgo/MG, 1908 - Cordisburgo/MG); Rodrigues, Thiago; França, Celso; Williams, Paulo</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>GRUPO TECELAGEM</td>
+        <td>TRAVESSIA</td>
+      </tr>
+      <tr>
+        <th>61</th>
+        <td>Poty, Vanja (São Paulo/SP, 1986 - ); Vasconcelos, Thaís</td>
+        <td><a href="https://web.archive.org/web/20200319230923/http://performatus.net/criticas/festival-de-teatro-da-amazonia-4/">“CONTOS DE BEIRADAO”: A ARTE PELA ARTE E O DIALOGO ENTRE AS LINGUAGENS DE C</a></td>
+        <td>Marti, Marta; Oliveira, Tiago; Carvalho, Magda; Fernandes, Sidney; Oliveira, Marcelo</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>ARTE PELA ARTE</td>
+        <td>CONTOS DE BEIRADAO</td>
+      </tr>
+      <tr>
+        <th>62</th>
+        <td>Riscado, Caio (Niterói/RJ)</td>
+        <td><a href="https://web.archive.org/web/20200318155836/http://performatus.net/estudos/performance-ricardo-marinelli/">MONSTRUOSIDADE E RESISTENCIA NA PERFORMANCE DERICARDO MARINELLI</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa454453/ricardo-marinelli">Marinelli, Ricardo (Curitiba/PR, 1981 - )</a></td>
+        <td>2014</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>n/a</td>
+      </tr>
+      <tr>
+        <th>63</th>
+        <td>Riscado, Caio (Niterói/RJ)</td>
+        <td><a href="https://web.archive.org/web/20200321233804/http://performatus.net/estudos/engordurando-fronteiras/">ENGORDURANDO FRONTEIRAS: DEZ INSTANTES A PARTIR DO PROJETO DE PERFORMANCE “</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10721/fernanda-magalhaes">Magalhães, Fernanda (Londrina/PR, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa494615/stefano-belo">Belo, Stéfano (São Luís/MA)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa333878/ricardo-nolasco">Nolasco, Ricardo</a>; Spinelli, Tamíris</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>SERIE A NATUREZA DA VIDA</td>
+      </tr>
+      <tr>
+        <th>64</th>
+        <td>Vasconcellos, Jaqueline (Salvador/BA, 1980 - )</td>
+        <td><a href="https://web.archive.org/web/20180825022837/http://performatus.net/criticas/corpos-biomaquinicos-e-composicao-sonora/">CORPOS BIOMAQUINICOS E COMPOSICAO SONORA: A ATUAL COMPLEXIDADE DO NOSSO PER</a></td>
+        <td>Sanchez, Cadós; Salas Gomes, Thiago (, 1983 - )</td>
+        <td>2015</td>
+        <td>n/a</td>
+        <td>n/a</td>
+        <td>ASPECTOS CONTEMPORANEOS DA PEDAGOGIA MUSICAL</td>
+      </tr>
+    </tbody>
 </table>
 		 
