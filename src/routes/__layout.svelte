@@ -11,6 +11,7 @@
     <!-- <img src="/rs_logo.png" alt="logo" height="100px" width="auto"/> -->
   </section>
   <section>
+    <a href="/revues" class="btn btn-link">Revistas</a>
     <a href="/reseaux" class="btn btn-link">Redes</a>
 		<a href="/critiques" class="btn btn-link">Críticas de Arte</a>
     <a href="/a-propos" class="btn btn-link">Sobre</a>
@@ -56,4 +57,5 @@
         margin-left:auto;
         margin-right:auto;
 }
+
 </style>
