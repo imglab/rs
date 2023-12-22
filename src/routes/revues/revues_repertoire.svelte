@@ -15,7 +15,7 @@
 </ul>
 
 <h1>Levantamento de revistas de arte digitais atuantes no Brasil, realizado até agosto 2023.</h1>
-<table class="table" style="width: 50%">
+<table class="table table-scroll">
     <thead>
         <tr style="text-align: left;">
           <th></th>
@@ -71,8 +71,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>892.0</td>
-          <td>890.0</td>
+          <td>892</td>
+          <td>890</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -103,8 +103,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>761.0</td>
-          <td>724.0</td>
+          <td>761</td>
+          <td>724</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -135,8 +135,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>80000.0</td>
-          <td>77000.0</td>
+          <td>80000</td>
+          <td>77000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -167,8 +167,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>2600.0</td>
-          <td>2500.0</td>
+          <td>2600</td>
+          <td>2500</td>
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
@@ -199,8 +199,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>5400.0</td>
-          <td>5400.0</td>
+          <td>5400</td>
+          <td>5400</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -231,8 +231,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>48000.0</td>
-          <td>45000.0</td>
+          <td>48000</td>
+          <td>45000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -263,8 +263,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>45000.0</td>
-          <td>45000.0</td>
+          <td>45000</td>
+          <td>45000</td>
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
@@ -295,8 +295,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -327,8 +327,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>3500.0</td>
-          <td>3400.0</td>
+          <td>3500</td>
+          <td>3400</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -359,8 +359,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>24000.0</td>
-          <td>23000.0</td>
+          <td>24000</td>
+          <td>23000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -391,8 +391,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>27000.0</td>
-          <td>24000.0</td>
+          <td>27000</td>
+          <td>24000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -423,8 +423,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>521.0</td>
-          <td>519.0</td>
+          <td>521</td>
+          <td>519</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -455,8 +455,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>508.0</td>
-          <td>506.0</td>
+          <td>508</td>
+          <td>506</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -487,8 +487,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>548.0</td>
-          <td>550.0</td>
+          <td>548</td>
+          <td>550</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -519,8 +519,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>2600.0</td>
-          <td>2600.0</td>
+          <td>2600</td>
+          <td>2600</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -551,8 +551,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>322.0</td>
-          <td>323.0</td>
+          <td>322</td>
+          <td>323</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -583,8 +583,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>6400.0</td>
-          <td>6200.0</td>
+          <td>6400</td>
+          <td>6200</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -615,8 +615,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -647,8 +647,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -679,8 +679,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>1800.0</td>
-          <td>1800.0</td>
+          <td>1800</td>
+          <td>1800</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -711,8 +711,8 @@
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>1700.0</td>
-          <td>1600.0</td>
+          <td>1700</td>
+          <td>1600</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -743,8 +743,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>196.0</td>
-          <td>0.0</td>
+          <td>196</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -775,8 +775,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>228.0</td>
-          <td>226.0</td>
+          <td>228</td>
+          <td>226</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -807,8 +807,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -839,8 +839,8 @@
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>4300.0</td>
-          <td>4300.0</td>
+          <td>4300</td>
+          <td>4300</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -871,8 +871,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>5800.0</td>
-          <td>5600.0</td>
+          <td>5800</td>
+          <td>5600</td>
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
@@ -903,8 +903,8 @@
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>103.0</td>
-          <td>110.0</td>
+          <td>103</td>
+          <td>110</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -935,8 +935,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>3500.0</td>
-          <td>3500.0</td>
+          <td>3500</td>
+          <td>3500</td>
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
@@ -967,8 +967,8 @@
           <td>ND</td>
           <td>NON</td>
           <td>ND</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>ND</td>
           <td>ND</td>
           <td>ND</td>
@@ -999,8 +999,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>7600.0</td>
-          <td>7600.0</td>
+          <td>7600</td>
+          <td>7600</td>
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
@@ -1031,8 +1031,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>2300.0</td>
-          <td>2100.0</td>
+          <td>2300</td>
+          <td>2100</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -1063,8 +1063,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>1400.0</td>
-          <td>1400.0</td>
+          <td>1400</td>
+          <td>1400</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1095,8 +1095,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>29.0</td>
-          <td>4000.0</td>
+          <td>29</td>
+          <td>4000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -1127,8 +1127,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>2000.0</td>
-          <td>2000.0</td>
+          <td>2000</td>
+          <td>2000</td>
           <td>NON</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1159,8 +1159,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>133.0</td>
-          <td>117.0</td>
+          <td>133</td>
+          <td>117</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1191,8 +1191,8 @@
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -1223,8 +1223,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -1255,8 +1255,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>627.0</td>
-          <td>604.0</td>
+          <td>627</td>
+          <td>604</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1287,8 +1287,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1319,8 +1319,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>9200.0</td>
-          <td>8500.0</td>
+          <td>9200</td>
+          <td>8500</td>
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
@@ -1351,8 +1351,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -1383,8 +1383,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>1500.0</td>
-          <td>1400.0</td>
+          <td>1500</td>
+          <td>1400</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -1415,8 +1415,8 @@
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>4500.0</td>
-          <td>4600.0</td>
+          <td>4500</td>
+          <td>4600</td>
           <td>NON</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -1447,8 +1447,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>279.0</td>
-          <td>261.0</td>
+          <td>279</td>
+          <td>261</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1479,8 +1479,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>63.0</td>
-          <td>56.0</td>
+          <td>63</td>
+          <td>56</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1511,8 +1511,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>ND</td>
-          <td>NaN</td>
-          <td>NaN</td>
+          <td>0</td>
+          <td>0</td>
           <td>ND</td>
           <td>ND</td>
           <td>ND</td>
@@ -1543,8 +1543,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>697.0</td>
-          <td>691.0</td>
+          <td>697</td>
+          <td>691</td>
           <td>NON</td>
           <td>NON</td>
           <td>NON</td>
@@ -1575,8 +1575,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>6200.0</td>
-          <td>6100.0</td>
+          <td>6200</td>
+          <td>6100</td>
           <td>OUI</td>
           <td>NON</td>
           <td>NON</td>
@@ -1607,8 +1607,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>1100.0</td>
-          <td>1100.0</td>
+          <td>1100</td>
+          <td>1100</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>NON</td>
@@ -1639,8 +1639,8 @@
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>5200.0</td>
-          <td>4600.0</td>
+          <td>5200</td>
+          <td>4600</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -1671,8 +1671,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>4300.0</td>
-          <td>4300.0</td>
+          <td>4300</td>
+          <td>4300</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -1703,8 +1703,8 @@
           <td>NON</td>
           <td>OUI</td>
           <td>OUI</td>
-          <td>24000.0</td>
-          <td>23000.0</td>
+          <td>24000</td>
+          <td>23000</td>
           <td>OUI</td>
           <td>OUI</td>
           <td>OUI</td>
@@ -1735,8 +1735,8 @@
           <td>NON</td>
           <td>NON</td>
           <td>OUI</td>
-          <td>451.0</td>
-          <td>452.0</td>
+          <td>451</td>
+          <td>452</td>
           <td>OUI</td>
           <td>NON</td>
           <td>OUI</td>

@@ -16,7 +16,8 @@
 
 <h1>Críticas de Arte Publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril 2019</h1>
 
-<table class="table">  <thead>
+<table class="table">  
+  <thead>
    <tr style="text-align: left;">
      <th></th>
      <th>Autores</th>
