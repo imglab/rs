@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-temas - o fermento - EIC</title>
+	<title>Artistas-Tema - o fermento - EIC</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,18 +41,18 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais EIC</a>
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais dos Artistas-Tema EIC</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau5" class="btn btn-link">Artistas-temas - o fermento - EIC</a>
+		<a href="/reseaux/reseau5" class="btn btn-link">Artistas-Tema - o fermento - EIC</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - o fermento - EIC</h2>
-<p>Rede unimodal dos 47 artistas-temas das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<h2>Artistas-tema - o fermento - EIC</h2>
+<p>Rede unimodal dos 47 artistas-tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

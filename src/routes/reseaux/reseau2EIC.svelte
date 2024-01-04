@@ -41,18 +41,18 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais EIC</a>
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais dos Artistas-Tema EIC</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-temas - Revista Desvio - EIC</a>
+		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-Tema - Revista Desvio - EIC</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - Revista Desvio - EIC</h2>
-<p>Rede unimodal dos 238 artistas-temas das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<h2>Artistas-Tema - Revista Desvio - EIC</h2>
+<p>Rede unimodal dos 238 artistas-tema das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

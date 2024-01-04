@@ -48,8 +48,8 @@
 	</li>
 </ul>
 
-<h2>Autores e Artistas-temas - eRevista Performatus</h2>
-<p>Rede bimodal dos 147 artistas-temas das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019 com seus 45 autores. Última atualização: 20/03/2023</p>
+<h2>Autores e Artistas-Tema - eRevista Performatus</h2>
+<p>Rede bimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019 com seus 45 autores. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

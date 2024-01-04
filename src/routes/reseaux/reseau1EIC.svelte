@@ -41,18 +41,18 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais EIC</a>
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais dos Artistas-Tema EIC</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1" class="btn btn-link">Artistas-temas - Revista Performatus - EIC</a>
+		<a href="/reseaux/reseau1" class="btn btn-link">Artistas-Temas - eRevista Performatus - EIC</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - Revista Performatus - EIC</h2>
-<p>Rede unimodal dos 147 artistas-temas das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<h2>Artistas-Tema - Revista Performatus - EIC</h2>
+<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

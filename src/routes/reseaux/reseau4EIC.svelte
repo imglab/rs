@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-temas - Icônica - EIC</title>
+	<title>Artistas-Tema - Icônica - EIC</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,18 +41,18 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais EIC</a>
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais dos Artistas-TemaEIC</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau4" class="btn btn-link">Artistas-temas - Icônica - EIC</a>
+		<a href="/reseaux/reseau4" class="btn btn-link">Artistas-Tema - Icônica - EIC</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - Icônica - EIC</h2>
-<p>Rede unimodal dos 143 artistas-temas das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<h2>Artistas-Tema - Icônica - EIC</h2>
+<p>Rede unimodal dos 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
 <div id="cy"/>
 
 <style>

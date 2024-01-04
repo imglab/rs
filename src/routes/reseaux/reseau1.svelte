@@ -60,15 +60,15 @@ onMount(() => {
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseau1" class="btn btn-link">Artistas-temas - Revista Performatus</a>
+		<a href="/reseaux/reseau1" class="btn btn-link">Artistas-Tema - eRevista Performatus</a>
 	</li>
 </ul>
 
-<h2>Artistas-temas - eRevista Performatus</h2>
-<p>Rede unimodal dos 147 artistas-temas das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 20/03/2023</p>
+<h2>Artistas-Tema - eRevista Performatus</h2>
+<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 20/03/2023</p>
 
 <div id="cy"/>
 
