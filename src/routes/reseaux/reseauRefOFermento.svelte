@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referência - o fermento</h2>
-<p>Rede unimodal dos 87 artistas-referência das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 03/01/2024</p>
+<p>Rede unimodal dos 87 artistas-referência das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 04/01/2024</p>
 <div id="cy"/>
 
 <style>

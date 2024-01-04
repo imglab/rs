@@ -21,7 +21,8 @@
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">
-			<p></p>
+			<p>Focando na ideia que uma crítica de arte permite relacionar diferentes artistas no intuito de formar a argumentação apresentada por seu autor ou autores, as presentes redes revelam o conjunto de artistas referenciados pelos textos do corpus de cada uma das cinco revistas estudadas. A ligação entre dois artistas é formada pelo fato de ele ter sido mencionado/referenciado pelo texto, sem necessariamente terem assumido o papel de tema do texto em questão. Isso permite verificar como o conjunto de artistas-referência de cada revista se conecta dentro da série de críticas que foi levantada na minha pesquisa de doutorado.</p>
+			<p>Nas visualizações, a representação de um artista com um círculo roxo ocorre quando esse artista assumiu o papel de artista-tema em ao menos um dos textos publicados pela revista em questão.</p>
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">

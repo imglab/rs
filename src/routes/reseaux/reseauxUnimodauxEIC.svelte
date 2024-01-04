@@ -30,7 +30,7 @@
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">
-			<h4>Acesse as redes dos artistas-tema</h4>
+			<h4>Acesse as redes dos artistas-tema EIC</h4>
 			<ul>
 				<li><a href="/reseaux/reseau4EIC" class="btn btn-link">Icônica</a></li>
 				<li><a href="/reseaux/reseau1EIC" class="btn btn-link">Revista Performatus</a></li>

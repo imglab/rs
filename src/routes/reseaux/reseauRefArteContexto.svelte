@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referência - Arte ConTexto</h2>
-<p>Rede unimodal dos 153 artistas-referência das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 03/01/2024</p>
+<p>Rede unimodal dos 153 artistas-referência das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 04/01/2024</p>
 <div id="cy"/>
 
 <style>

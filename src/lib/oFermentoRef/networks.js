@@ -5,24 +5,24 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
   "data" : {
     "shared_name" : "rsArtistRefTextByPublicationreOFermento.xml",
     "name" : "rsArtistRefTextByPublicationreOFermento.xml",
-    "SUID" : 3570866,
+    "SUID" : 3609644,
     "__Annotations" : [ ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "3571179",
+        "id" : "3609960",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arSoniaGomes",
         "shared_name" : "Gomes, Sonia",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571179,
+        "SUID" : 3609960,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -37,28 +37,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Gomes, Sonia",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -44.95835863036672,
-        "y" : -74.78142677709974
+        "x" : -421.7011515329072,
+        "y" : 95.35282393836589
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571176",
+        "id" : "3609957",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arCarlosAndrade",
         "shared_name" : "Andrade, Carlos Drummond de",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "2",
-        "SUID" : 3571176,
+        "SUID" : 3609957,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -73,28 +74,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "2",
         "name" : "Andrade, Carlos Drummond de",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -500.3807600585894,
-        "y" : 279.723509441162
+        "x" : 1065.2925722642956,
+        "y" : -357.77910097443066
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571173",
+        "id" : "3609954",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arFredericoFilippi",
         "shared_name" : "Filippi, Frederico (1983-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571173,
+        "SUID" : 3609954,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -110,28 +112,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "5",
         "name" : "Filippi, Frederico (1983-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 120.01052106934031,
-        "y" : 279.723509441162
+        "x" : -695.4711236447954,
+        "y" : 596.0139642282015
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571170",
+        "id" : "3609951",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arJanainaLandini",
         "shared_name" : "Mello Landini, Janaina (1974-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571170,
+        "SUID" : 3609951,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -147,28 +150,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "5",
         "name" : "Mello Landini, Janaina (1974-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 220.0105210693403,
-        "y" : 279.723509441162
+        "x" : -595.7184478333846,
+        "y" : 616.8428348160658
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571167",
+        "id" : "3609948",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arJoseBernardelli",
         "shared_name" : "Bernardelli, José Maria Oscar Rodolfo (1852-1931)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "México",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571167,
+        "SUID" : 3609948,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -184,28 +188,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Jalisco",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Bernardelli, José Maria Oscar Rodolfo (1852-1931)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 37.058433666996564,
-        "y" : -262.67134987280286
+        "x" : 162.09811453198927,
+        "y" : 377.5275524568693
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571164",
+        "id" : "3609945",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arClodomiroMonteiro",
         "shared_name" : "Amazonas Monteiro, Clodomiro (1883-1953)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571164,
+        "SUID" : 3609945,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -221,28 +226,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Amazonas Monteiro, Clodomiro (1883-1953)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 59.039756909184064,
-        "y" : -328.2000974313966
+        "x" : 65.96996080176196,
+        "y" : 350.4832456953543
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571161",
+        "id" : "3609942",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arBernardinoSouza",
         "shared_name" : "Souza, Bernardino de (1895-1985)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571161,
+        "SUID" : 3609942,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -258,28 +264,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Souza, Bernardino de (1895-1985)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : -2.942527636714374,
-        "y" : -296.6906980173341
+        "x" : 63.91248516808864,
+        "y" : 419.9395184667919
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571158",
+        "id" : "3609939",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arManuelZamore",
         "shared_name" : "Hubert Zamore, Manuel Pierre (1840-1919)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "2",
-        "SUID" : 3571158,
+        "SUID" : 3609939,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -295,28 +302,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "BA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "2",
         "name" : "Hubert Zamore, Manuel Pierre (1840-1919)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 77.38240827637156,
-        "y" : -225.33590065405286
+        "x" : 66.06188362966576,
+        "y" : 476.4150435590585
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571155",
+        "id" : "3609936",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arHenriqueBernadelli",
         "shared_name" : "Bernadelli, Henrique (1858-1936)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Chile",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571155,
+        "SUID" : 3609936,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -332,28 +340,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Bernadelli, Henrique (1858-1936)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : -63.60319505614797,
-        "y" : -275.9697507517091
+        "x" : -118.27750508277813,
+        "y" : 418.41224486489915
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571152",
+        "id" : "3609933",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arJoseAlmeida",
         "shared_name" : "Almeida Júnior, José Ferraz de (1850-1899)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571152,
+        "SUID" : 3609933,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -369,28 +378,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Almeida Júnior, José Ferraz de (1850-1899)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 88.71968854980906,
-        "y" : -283.18840919897474
+        "x" : 157.7625869364399,
+        "y" : 483.66016602610813
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571149",
+        "id" : "3609930",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arClaudiaAndujar",
         "shared_name" : "Andujar, Claudia (1931-)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Suíça",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571149,
+        "SUID" : 3609930,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -406,28 +416,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Andujar, Claudia (1931-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 9.809120312504376,
-        "y" : -350.3243650095216
+        "x" : -118.78475270698976,
+        "y" : 475.03620938676045
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571146",
+        "id" : "3609927",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arAnitaMalfatti",
         "shared_name" : "Malfatti, Anita Catarina (1889-1964)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571146,
+        "SUID" : 3609927,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -443,28 +454,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Malfatti, Anita Catarina (1889-1964)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : 25.1201859863325,
-        "y" : -203.9551938669435
+        "x" : -27.17891783458019,
+        "y" : 467.0895772555812
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571143",
+        "id" : "3609924",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arEstevaoSilva",
         "shared_name" : "Silva, Estêvão Roberto da (1844-1891)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571143,
+        "SUID" : 3609924,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -480,28 +492,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "1",
         "name" : "Silva, Estêvão Roberto da (1844-1891)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : -45.938087329097186,
-        "y" : -329.74077736303724
+        "x" : 160.18814892445295,
+        "y" : 430.4523690557466
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571140",
+        "id" : "3609921",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arLaercioRedondo",
         "shared_name" : "Redondo, Laércio (1967-)",
         "TopologicalCoefficient" : 0.46,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "7",
-        "SUID" : 3571140,
+        "SUID" : 3609921,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.3043478260869565,
@@ -517,28 +530,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PR",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "7",
         "name" : "Redondo, Laércio (1967-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 11.5
       },
       "position" : {
-        "x" : -21.862686022944843,
-        "y" : -239.72774635717786
+        "x" : -26.766655016689448,
+        "y" : 375.27697206364803
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571137",
+        "id" : "3609918",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arAluisioCarvao",
         "shared_name" : "Carvão, Aluísio (1920-2001)",
         "TopologicalCoefficient" : 0.5050505050505051,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571137,
+        "SUID" : 3609918,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.217391304347826,
@@ -554,28 +568,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 3,
+        "countMentionsText" : "1",
         "name" : "Carvão, Aluísio (1920-2001)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 16.666666666666668
       },
       "position" : {
-        "x" : -183.73588930053273,
-        "y" : 150.41911185815417
+        "x" : -498.79829955934,
+        "y" : -290.3674597103932
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571134",
+        "id" : "3609915",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arRonaldoMacedo",
         "shared_name" : "Rego Macedo, Ronaldo do (1950-)",
         "TopologicalCoefficient" : 0.5050505050505051,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "6",
-        "SUID" : 3571134,
+        "SUID" : 3609915,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.217391304347826,
@@ -591,28 +606,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 3,
+        "countMentionsText" : "6",
         "name" : "Rego Macedo, Ronaldo do (1950-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 16.666666666666668
       },
       "position" : {
-        "x" : -262.0384062377886,
-        "y" : 168.05600226953112
+        "x" : -588.9780508907512,
+        "y" : -296.62196023154223
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571131",
+        "id" : "3609912",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arLuizGuimaraens",
         "shared_name" : "Guimaraens, Luiz Alphonsus de (1948-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571131,
+        "SUID" : 3609912,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -628,28 +644,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "1",
         "name" : "Guimaraens, Luiz Alphonsus de (1948-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 320.0105210693403,
-        "y" : 279.723509441162
+        "x" : 316.6289013828144,
+        "y" : 627.3986126173556
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571128",
+        "id" : "3609909",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arRosanaPaulino",
         "shared_name" : "Paulino, Rosana (1967-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571128,
+        "SUID" : 3609909,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -665,28 +682,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "5",
         "name" : "Paulino, Rosana (1967-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 420.0105210693403,
-        "y" : 279.723509441162
+        "x" : 11.198609499460593,
+        "y" : 566.4715969057743
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571125",
+        "id" : "3609906",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arZeGarcia",
         "shared_name" : "Garcia, Zé Carlos (1973-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "3",
-        "SUID" : 3571125,
+        "SUID" : 3609906,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -702,28 +720,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SE",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "3",
         "name" : "Garcia, Zé Carlos (1973-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 520.0105210693403,
-        "y" : 279.723509441162
+        "x" : 112.44431254158057,
+        "y" : 597.4689594505021
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571122",
+        "id" : "3609903",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arLuizZerbini",
         "shared_name" : "Zerbini, Luiz (1959-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571122,
+        "SUID" : 3609903,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -739,28 +758,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "5",
         "name" : "Zerbini, Luiz (1959-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 620.0105210693403,
-        "y" : 279.723509441162
+        "x" : 212.10770984714807,
+        "y" : 636.9557405576127
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571119",
+        "id" : "3609900",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arChantalAkerman",
         "shared_name" : "Akerman, Chantal (1950-2015)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Bélgica",
         "artistTerm" : "TERM",
-        "countMentions" : "14",
-        "SUID" : 3571119,
+        "SUID" : 3609900,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -776,28 +796,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "14",
         "name" : "Akerman, Chantal (1950-2015)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -500.3807600585894,
-        "y" : 481.46563590600573
+        "x" : 1434.454073736714,
+        "y" : -352.34635587879905
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571116",
+        "id" : "3609897",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJohannRugendas",
         "shared_name" : "Moritz Rugendas, Johann (1802-1858)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Alemanha",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571116,
+        "SUID" : 3609897,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -813,28 +834,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Bayern",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Moritz Rugendas, Johann (1802-1858)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -294.4791220275835,
-        "y" : 279.723509441162
+        "x" : 848.2412363907582,
+        "y" : -237.1824076636226
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571113",
+        "id" : "3609894",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJeanBaptisteDebret",
         "shared_name" : "Debret, Jean-Baptiste (1768-1848)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "França",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571113,
+        "SUID" : 3609894,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -850,28 +872,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Île de France",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Debret, Jean-Baptiste (1768-1848)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -187.2343004791216,
-        "y" : 290.3627916677245
+        "x" : 938.6020416418784,
+        "y" : -259.5629763702013
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571110",
+        "id" : "3609891",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arTiagoSantAna",
         "shared_name" : "Sant’Ana, Tiago (1990-)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "6",
-        "SUID" : 3571110,
+        "SUID" : 3609891,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -887,28 +910,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "BA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "6",
         "name" : "Sant’Ana, Tiago (1990-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -250.0832232086138,
-        "y" : 377.94732535913073
+        "x" : 876.3657324864088,
+        "y" : -324.6166017308199
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571107",
+        "id" : "3609888",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arCandidoPortinari",
         "shared_name" : "Portinari, Candido (1903-1962)",
         "TopologicalCoefficient" : 0.5333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571107,
+        "SUID" : 3609888,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7,
@@ -924,28 +948,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 3,
+        "countMentionsText" : "1",
         "name" : "Portinari, Candido (1903-1962)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.333333333333333
       },
       "position" : {
-        "x" : 188.71968854980906,
-        "y" : -290.65581642553724
+        "x" : 145.33081358125742,
+        "y" : -369.7493516618529
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571104",
+        "id" : "3609885",
         "idnoWKD" : "NA",
         "Eccentricity" : 2,
         "artistId" : "arJoaoLima",
         "shared_name" : "Lima, João Filgueiras (1932-2014)",
         "TopologicalCoefficient" : 0.5333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "2",
-        "SUID" : 3571104,
+        "SUID" : 3609885,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7,
@@ -961,28 +986,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 3,
+        "countMentionsText" : "2",
         "name" : "Lima, João Filgueiras (1932-2014)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.333333333333333
       },
       "position" : {
-        "x" : 252.55149854736766,
-        "y" : -350.3243650095216
+        "x" : 219.30409223857697,
+        "y" : -442.82860911117535
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571101",
+        "id" : "3609882",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arAthosBulcao",
         "shared_name" : "Bulcão, Athos (1918-2008)",
         "TopologicalCoefficient" : 0.5333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "8",
-        "SUID" : 3571101,
+        "SUID" : 3609882,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7,
@@ -998,28 +1024,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 3,
+        "countMentionsText" : "8",
         "name" : "Bulcão, Athos (1918-2008)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.333333333333333
       },
       "position" : {
-        "x" : 243.94580854492625,
-        "y" : -221.97274147436536
+        "x" : 120.11106116081459,
+        "y" : -435.4559752532004
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571098",
+        "id" : "3609879",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arAmeliaCosta",
         "shared_name" : "Silva Costa, Amélia (1976-1922)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571098,
+        "SUID" : 3609879,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1035,28 +1062,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Silva Costa, Amélia (1976-1922)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -105.15724168700734,
-        "y" : -60.50876747534193
+        "x" : -332.6611847946444,
+        "y" : 172.6196876903573
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571095",
+        "id" : "3609876",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arMagdalenaFaro",
         "shared_name" : "Faro, Magdalena del",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571095,
+        "SUID" : 3609876,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1071,28 +1099,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Faro, Magdalena del",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -105.5399702636675,
-        "y" : -146.51168190405286
+        "x" : -146.9460380016983,
+        "y" : 35.93301090240183
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571092",
+        "id" : "3609873",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arMariaNepomuceno",
         "shared_name" : "Nepomuceno, Maria (1976-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571092,
+        "SUID" : 3609873,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1108,28 +1137,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Nepomuceno, Maria (1976-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -182.5557631103472,
-        "y" : -145.66109596655286
+        "x" : -238.48325395294574,
+        "y" : 49.761313583533656
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571089",
+        "id" : "3609870",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arMariaMartins",
         "shared_name" : "Martins, Maria (1894-1973)",
         "TopologicalCoefficient" : 0.3293023255813953,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3571089,
+        "SUID" : 3609870,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.5217391304347827,
@@ -1145,28 +1175,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.34782608695652173,
         "NumberOfUndirectedEdges" : 25,
+        "countMentionsText" : "2",
         "name" : "Martins, Maria (1894-1973)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.16
       },
       "position" : {
-        "x" : -59.814552172847186,
-        "y" : -176.6363462106935
+        "x" : -140.21770620818256,
+        "y" : 246.63927755215136
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571086",
+        "id" : "3609867",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arCristinaSalgado",
         "shared_name" : "Salgado, Cristina (1957-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571086,
+        "SUID" : 3609867,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1182,28 +1213,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Salgado, Cristina (1957-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -144.9723434297518,
-        "y" : -36.95377479956068
+        "x" : -425.5807262690965,
+        "y" : 145.62907259101672
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571083",
+        "id" : "3609864",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arLouiseBourgeois",
         "shared_name" : "Bourgeois, Louise Joséphine (1911-2010)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "França",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571083,
+        "SUID" : 3609864,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1219,28 +1251,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Île de France",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Bourgeois, Louise Joséphine (1911-2010)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -97.46812807006398,
-        "y" : -102.82973610327161
+        "x" : -150.20119559442995,
+        "y" : 152.09278493320053
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571080",
+        "id" : "3609861",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arNeideSa",
         "shared_name" : "Sá, Neide Dias de (1940-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571080,
+        "SUID" : 3609861,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1256,28 +1289,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Sá, Neide Dias de (1940-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -142.70035861415425,
-        "y" : -166.54232155249036
+        "x" : -132.3366129915699,
+        "y" : 87.31145729887977
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571077",
+        "id" : "3609858",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arLenoraBarros",
         "shared_name" : "Barros, Lenora de (1988-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571077,
+        "SUID" : 3609858,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1293,28 +1327,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Barros, Lenora de (1988-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -62.31159196776906,
-        "y" : -36.8045133249513
+        "x" : -309.1407119700896,
+        "y" : -1.5424317124884475
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571074",
+        "id" : "3609855",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arMiraSchendel",
         "shared_name" : "Schendel, Mira (1919-1988)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Suíça",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3571074,
+        "SUID" : 3609855,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1330,28 +1365,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "2",
         "name" : "Schendel, Mira (1919-1988)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -101.11332689208547,
-        "y" : -14.60229622290052
+        "x" : -218.3451311188035,
+        "y" : -15.028339492611863
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571071",
+        "id" : "3609852",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arBeatrizMilhazes",
         "shared_name" : "Milhazes, Beatriz (1960-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571071,
+        "SUID" : 3609852,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1367,28 +1403,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Milhazes, Beatriz (1960-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -56.31237016601125,
-        "y" : -115.60994850561536
+        "x" : -330.23153087811033,
+        "y" : 64.48089349334248
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571068",
+        "id" : "3609849",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arBrigidaBaltar",
         "shared_name" : "Baltar, Brígida (1959-2022)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571068,
+        "SUID" : 3609849,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -1404,28 +1441,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Baltar, Brígida (1959-2022)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -167.52098260802785,
-        "y" : -75.29464088842786
+        "x" : -229.3584422280867,
+        "y" : 100.558082932757
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571065",
+        "id" : "3609846",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arHugoHouayek",
         "shared_name" : "Houayek, Hugo (1979-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "4",
-        "SUID" : 3571065,
+        "SUID" : 3609846,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1441,28 +1479,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "4",
         "name" : "Houayek, Hugo (1979-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -400.3807600585894,
-        "y" : 481.46563590600573
+        "x" : -782.0755805931772,
+        "y" : 537.5672705988882
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571062",
+        "id" : "3609843",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arMauriceRavel",
         "shared_name" : "Ravel, Maurice (1875-1937)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "França",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571062,
+        "SUID" : 3609843,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1478,28 +1517,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "1",
         "name" : "Ravel, Maurice (1875-1937)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 615.034874096684,
-        "y" : -337.4386151926271
+        "x" : 731.2397618162206,
+        "y" : -214.3852243325313
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571059",
+        "id" : "3609840",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJohannBach",
         "shared_name" : "Bach, Johann Sebastian (1685-1750)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Alemanha",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571059,
+        "SUID" : 3609840,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1515,28 +1555,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Turíngia",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "1",
         "name" : "Bach, Johann Sebastian (1685-1750)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 690.1473275573774,
-        "y" : -350.3243650095216
+        "x" : 581.3324746328609,
+        "y" : -354.2678141978152
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571056",
+        "id" : "3609837",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arAndyWarhol",
         "shared_name" : "Warhol, Andy (1928-1987)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Estados Unidos",
         "artistTerm" : "REF",
-        "countMentions" : "4",
-        "SUID" : 3571056,
+        "SUID" : 3609837,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1552,28 +1593,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Pittsburgh",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "4",
         "name" : "Warhol, Andy (1928-1987)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 642.1466599853559,
-        "y" : -210.4451669351808
+        "x" : 676.0789569761803,
+        "y" : -343.0692158377313
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571053",
+        "id" : "3609834",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arRobertRauschenberg",
         "shared_name" : "Rauschenberg, Robert (1925-2008)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Estados Unidos",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571053,
+        "SUID" : 3609834,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1589,28 +1631,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Texas",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "1",
         "name" : "Rauschenberg, Robert (1925-2008)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 736.6175738723798,
-        "y" : -292.0085843698732
+        "x" : 635.1562971901246,
+        "y" : -225.8858319873588
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571050",
+        "id" : "3609831",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJeanDubuffet",
         "shared_name" : "Dubuffet, Jean (1901-1985)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "França",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571050,
+        "SUID" : 3609831,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1626,28 +1669,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "1",
         "name" : "Dubuffet, Jean (1901-1985)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 662.367035046391,
-        "y" : -282.4618924753419
+        "x" : 569.6493354535668,
+        "y" : -296.58491887915187
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571047",
+        "id" : "3609828",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arLeonardoVinci",
         "shared_name" : "Vinci, Leonardo da (1452-1519)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571047,
+        "SUID" : 3609828,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1663,28 +1707,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Toscana",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "1",
         "name" : "Vinci, Leonardo da (1452-1519)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 591.1341782959028,
-        "y" : -265.00225197241224
+        "x" : 751.4440370432892,
+        "y" : -272.14642446951495
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571044",
+        "id" : "3609825",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJeanMichelBasquiat",
         "shared_name" : "Basquiat, Jean-Michel (1960-1988)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Estados Unidos",
         "artistTerm" : "TERM",
-        "countMentions" : "12",
-        "SUID" : 3571044,
+        "SUID" : 3609825,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1700,28 +1745,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Nova Iorque",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
+        "countMentionsText" : "12",
         "name" : "Basquiat, Jean-Michel (1960-1988)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 712.0229455383344,
-        "y" : -224.92599355146803
+        "x" : 659.8222953247887,
+        "y" : -284.1518302333863
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571041",
+        "id" : "3609822",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arMatheusPitta",
         "shared_name" : "Rocha Pitta, Matheus (1980-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "3",
-        "SUID" : 3571041,
+        "SUID" : 3609822,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1737,28 +1783,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "3",
         "name" : "Rocha Pitta, Matheus (1980-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -300.3807600585894,
-        "y" : 481.46563590600573
+        "x" : -493.92070069606456,
+        "y" : 613.896942994445
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571038",
+        "id" : "3609819",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arAnaFreitas",
         "shared_name" : "Freitas, Ana",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571038,
+        "SUID" : 3609819,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1773,28 +1820,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "5",
         "name" : "Freitas, Ana",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -200.38076005858937,
-        "y" : 481.46563590600573
+        "x" : -392.7535932122301,
+        "y" : 606.8371284415709
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571035",
+        "id" : "3609816",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arRubensGerchman",
         "shared_name" : "Gerchman, Rubens (1942-2008)",
         "TopologicalCoefficient" : 0.6333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571035,
+        "SUID" : 3609816,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.8043478260869565,
@@ -1810,28 +1858,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
+        "countMentionsText" : "1",
         "name" : "Gerchman, Rubens (1942-2008)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 9.5
       },
       "position" : {
-        "x" : -450.4221418945269,
-        "y" : 101.62959445550524
+        "x" : -873.5961545544269,
+        "y" : -260.62852893216785
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571032",
+        "id" : "3609813",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arCarlosSantos",
         "shared_name" : "Santos, Carlos Augusto Caminha Vergara dos (1941-)",
         "TopologicalCoefficient" : 0.6333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571032,
+        "SUID" : 3609813,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.8043478260869565,
@@ -1847,28 +1896,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RS",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
+        "countMentionsText" : "1",
         "name" : "Santos, Carlos Augusto Caminha Vergara dos (1941-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 9.5
       },
       "position" : {
-        "x" : -467.4355085937456,
-        "y" : -25.458825458740364
+        "x" : -907.4997266039035,
+        "y" : -173.22848012115247
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571029",
+        "id" : "3609810",
         "idnoWKD" : "WKD",
         "Eccentricity" : 4,
         "artistId" : "arAntonioDias",
         "shared_name" : "Lima Dias, Antônio Manuel (1944-2018)",
         "TopologicalCoefficient" : 0.6333333333333333,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "6",
-        "SUID" : 3571029,
+        "SUID" : 3609810,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.8043478260869565,
@@ -1884,28 +1934,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PB",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
+        "countMentionsText" : "6",
         "name" : "Lima Dias, Antônio Manuel (1944-2018)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 9.5
       },
       "position" : {
-        "x" : -500.3807600585894,
-        "y" : 43.30579246118151
+        "x" : -972.272496232074,
+        "y" : -230.2779926190375
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571026",
+        "id" : "3609807",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arMiltonNascimento",
         "shared_name" : "Nascimento, Milton (1942-)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571026,
+        "SUID" : 3609807,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1921,28 +1972,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Nascimento, Milton (1942-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -87.2343004791216,
-        "y" : 279.723509441162
+        "x" : 1356.0523331709862,
+        "y" : -284.0656868739724
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571023",
+        "id" : "3609804",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arRonaldoBastos",
         "shared_name" : "Bastos, Ronaldo (1948-)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3571023,
+        "SUID" : 3609804,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1958,28 +2010,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Bastos, Ronaldo (1948-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : 20.010521069340314,
-        "y" : 290.3627916677245
+        "x" : 1209.4895128696637,
+        "y" : -388.51266304159253
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571020",
+        "id" : "3609801",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arRodrigoBraga",
         "shared_name" : "Braga, Rodrigo (1976-)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3571020,
+        "SUID" : 3609801,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1995,28 +2048,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "AM",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "5",
         "name" : "Braga, Rodrigo (1976-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -42.838401660151874,
-        "y" : 377.94732535913073
+        "x" : 1283.576538804405,
+        "y" : -337.9523448966481
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571017",
+        "id" : "3609798",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arAtonioMourao",
         "shared_name" : "Mello Mourão, Antonio José de (1952-2016)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "8",
-        "SUID" : 3571017,
+        "SUID" : 3609798,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -2032,28 +2086,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PE",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "8",
         "name" : "Mello Mourão, Antonio José de (1952-2016)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -100.38076005858937,
-        "y" : 481.46563590600573
+        "x" : -293.4094390568545,
+        "y" : 624.7349120109811
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571014",
+        "id" : "3609795",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arIoleFreitas",
         "shared_name" : "Freitas, Iole de (1945-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "4",
-        "SUID" : 3571014,
+        "SUID" : 3609795,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -2069,28 +2124,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "4",
         "name" : "Freitas, Iole de (1945-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -0.3807600585893738,
-        "y" : 481.46563590600573
+        "x" : -191.18642443083306,
+        "y" : 643.1442818316518
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571011",
+        "id" : "3609792",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arMagdalenaFernandez",
         "shared_name" : "Fernández, Magdalena (1964-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Venezuela",
         "artistTerm" : "TERM",
-        "countMentions" : "0",
-        "SUID" : 3571011,
+        "SUID" : 3609792,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -2106,28 +2162,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
+        "countMentionsText" : "0",
         "name" : "Fernández, Magdalena (1964-)",
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 99.61923994141063,
-        "y" : 481.46563590600573
+        "x" : -87.54531512162173,
+        "y" : 605.6646556172295
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571008",
+        "id" : "3609789",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arGregorioVardenega",
         "shared_name" : "Vardenega, Gregorio (1923-)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571008,
+        "SUID" : 3609789,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2143,28 +2200,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Vardenega, Gregorio (1923-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -328.38007341308156,
-        "y" : -43.460595478271614
+        "x" : -636.1147999250816,
+        "y" : -170.71012019007475
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571005",
+        "id" : "3609786",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arJulioParc",
         "shared_name" : "Parc, Julio Le (1928-)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Argentina",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571005,
+        "SUID" : 3609786,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2180,28 +2238,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Mendoza",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Parc, Julio Le (1928-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -286.018363818355,
-        "y" : -63.16724525854505
+        "x" : -545.0377008237713,
+        "y" : -129.2477766843384
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571002",
+        "id" : "3609783",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arWillysCastro",
         "shared_name" : "Castro, Willys de (1926-1988)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3571002,
+        "SUID" : 3609783,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2217,28 +2276,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Castro, Willys de (1926-1988)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -317.02338395995656,
-        "y" : 62.27748740747057
+        "x" : -699.3902781630635,
+        "y" : -66.91501765507826
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570999",
+        "id" : "3609780",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arIvanSerpa",
         "shared_name" : "Serpa, Ivan (1923-1973)",
         "TopologicalCoefficient" : 0.362962962962963,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3570999,
+        "SUID" : 3609780,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.891304347826087,
@@ -2254,28 +2314,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0608695652173913,
         "NumberOfUndirectedEdges" : 16,
+        "countMentionsText" : "2",
         "name" : "Serpa, Ivan (1923-1973)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 13.066666666666666
       },
       "position" : {
-        "x" : -361.68842302245656,
-        "y" : 51.258207927490105
+        "x" : -730.6325756584793,
+        "y" : -181.00367155231652
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570996",
+        "id" : "3609777",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arAlfredoVolpi",
         "shared_name" : "Volpi, Alfredo (1896-1988)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570996,
+        "SUID" : 3609777,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2291,28 +2352,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Toscana",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Volpi, Alfredo (1896-1988)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -307.7288893310503,
-        "y" : 6.7002168996580735
+        "x" : -513.4836505495665,
+        "y" : -72.7440460588987
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570993",
+        "id" : "3609774",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arWaldemarCordeiro",
         "shared_name" : "Cordeiro, Waldemar (1925-1973)",
         "TopologicalCoefficient" : 0.362962962962963,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3570993,
+        "SUID" : 3609774,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.891304347826087,
@@ -2328,28 +2390,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Lácio",
         "BetweennessCentrality" : 0.0608695652173913,
         "NumberOfUndirectedEdges" : 16,
+        "countMentionsText" : "2",
         "name" : "Cordeiro, Waldemar (1925-1973)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 13.066666666666666
       },
       "position" : {
-        "x" : -364.34777055663625,
-        "y" : -4.473351825927864
+        "x" : -744.3758876580712,
+        "y" : -129.3344680571979
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570990",
+        "id" : "3609771",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arAnnaMaiolino",
         "shared_name" : "Maiolino, Anna Maria (1942-)",
         "TopologicalCoefficient" : 0.3285953177257525,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3570990,
+        "SUID" : 3609771,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.434782608695652,
@@ -2365,28 +2428,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Calábria",
         "BetweennessCentrality" : 0.16231884057971013,
         "NumberOfUndirectedEdges" : 27,
+        "countMentionsText" : "2",
         "name" : "Maiolino, Anna Maria (1942-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.115384615384615
       },
       "position" : {
-        "x" : -209.37909685058156,
-        "y" : -45.64885841772474
+        "x" : -418.267857528316,
+        "y" : 5.658569937217818
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570987",
+        "id" : "3609768",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arLygiaPape",
         "shared_name" : "Pape, Lygia (1927-2004)",
         "TopologicalCoefficient" : 0.37896825396825395,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "2",
-        "SUID" : 3570987,
+        "SUID" : 3609768,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9130434782608696,
@@ -2402,28 +2466,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.013526570048309178,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "2",
         "name" : "Pape, Lygia (1927-2004)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 13.642857142857142
       },
       "position" : {
-        "x" : -265.4477766601519,
-        "y" : 55.43443931176745
+        "x" : -543.5533878434219,
+        "y" : -184.02835883798818
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570984",
+        "id" : "3609765",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arIranSanto",
         "shared_name" : "Espírito Santo, Iran do (1963-)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570984,
+        "SUID" : 3609765,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2439,28 +2504,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Espírito Santo, Iran do (1963-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -229.3585966674761,
-        "y" : 73.99386085107409
+        "x" : -519.1269686351797,
+        "y" : -17.20825166471961
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570981",
+        "id" : "3609762",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arGustavoMonzon",
         "shared_name" : "Pérez Monzón, Gustavo (1956-)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Cuba",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570981,
+        "SUID" : 3609762,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2476,28 +2542,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Pérez Monzón, Gustavo (1956-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -236.18448625487844,
-        "y" : 18.907423625732292
+        "x" : -652.7011379899585,
+        "y" : -119.72033241810925
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570978",
+        "id" : "3609759",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arMichelSeuphor",
         "shared_name" : "Seuphor, Michel (1901-1999)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Bélgica",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570978,
+        "SUID" : 3609759,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2513,28 +2580,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Seuphor, Michel (1901-1999)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -265.9726103393511,
-        "y" : -20.836037983154426
+        "x" : -621.115961604784,
+        "y" : -15.092511485726689
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570975",
+        "id" : "3609756",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arPietMondrian",
         "shared_name" : "Mondrian, Piet (1872-1944)",
         "TopologicalCoefficient" : 0.43287037037037035,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "NA",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570975,
+        "SUID" : 3609756,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.9565217391304348,
@@ -2550,28 +2618,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 12,
+        "countMentionsText" : "1",
         "name" : "Mondrian, Piet (1872-1944)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 15.583333333333334
       },
       "position" : {
-        "x" : -287.9019392578081,
-        "y" : 98.04786361291491
+        "x" : -608.7809341512043,
+        "y" : -68.3699214293069
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570972",
+        "id" : "3609753",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arOscarNiemeyer",
         "shared_name" : "Niemeyer, Oscar (1907-2012)",
         "TopologicalCoefficient" : 0.58,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "2",
-        "SUID" : 3570972,
+        "SUID" : 3609753,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2587,28 +2656,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.4666666666666667,
         "NumberOfUndirectedEdges" : 10,
+        "countMentionsText" : "2",
         "name" : "Niemeyer, Oscar (1907-2012)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.8
       },
       "position" : {
-        "x" : 335.8807569892927,
-        "y" : -283.8320554392091
+        "x" : 244.66234355903418,
+        "y" : -329.2888111782991
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570969",
+        "id" : "3609750",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arJoaquinGarcia",
         "shared_name" : "Torres García, Joaquín (1874-1949)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Uruguai",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570969,
+        "SUID" : 3609750,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2624,28 +2694,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "1",
         "name" : "Torres García, Joaquín (1874-1949)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 491.1341782959028,
-        "y" : -288.9179471628419
+        "x" : 437.7783092477616,
+        "y" : -352.91117784249934
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570966",
+        "id" : "3609747",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arMariaLeontina",
         "shared_name" : "Leontina, Maria (1917-1984)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570966,
+        "SUID" : 3609747,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2661,28 +2732,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "1",
         "name" : "Leontina, Maria (1917-1984)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 418.38943494873484,
-        "y" : -275.91634498999036
+        "x" : 338.8306639584899,
+        "y" : -352.64995229619166
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570963",
+        "id" : "3609744",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arEdouardManet",
         "shared_name" : "Manet, Édouard (1832-1883)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "França",
         "artistTerm" : "REF",
-        "countMentions" : "2",
-        "SUID" : 3570963,
+        "SUID" : 3609744,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2698,28 +2770,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Île de France",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "2",
         "name" : "Manet, Édouard (1832-1883)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 421.26472486572703,
-        "y" : -197.56118904516615
+        "x" : 489.30177172737666,
+        "y" : -241.20938975671635
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570960",
+        "id" : "3609741",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arMichelangeloMerisi",
         "shared_name" : "Caravaggio, Michelangelo Merisi da (1571-1619)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Itália",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570960,
+        "SUID" : 3609741,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2735,28 +2808,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Lombardia",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "1",
         "name" : "Caravaggio, Michelangelo Merisi da (1571-1619)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 477.18181623535594,
-        "y" : -226.26851784155286
+        "x" : 386.3381408998443,
+        "y" : -302.17935584878535
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570957",
+        "id" : "3609738",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arLaszloNagy",
         "shared_name" : "Moholy-Nagy, László (1895-1946)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "NA",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570957,
+        "SUID" : 3609738,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2772,28 +2846,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "1",
         "name" : "Moholy-Nagy, László (1895-1946)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 369.2534409912153,
-        "y" : -226.40731178686536
+        "x" : 396.86476111554333,
+        "y" : -239.02159511284412
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570954",
+        "id" : "3609735",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arEmanuelRudzitsky",
         "shared_name" : "Rudzitsky, Emanuel (1890-1976)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Estados Unidos",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570954,
+        "SUID" : 3609735,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2809,28 +2884,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "Pensilvânia",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "1",
         "name" : "Rudzitsky, Emanuel (1890-1976)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 451.5504380615278,
-        "y" : -339.26946388647474
+        "x" : 477.19595920200584,
+        "y" : -294.28779563390657
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570951",
+        "id" : "3609732",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arVicenteMello",
         "shared_name" : "Mello, Vicente de (1967-)",
         "TopologicalCoefficient" : 0.7428571428571429,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "3",
-        "SUID" : 3570951,
+        "SUID" : 3609732,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.3,
@@ -2846,28 +2922,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SP",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 7,
+        "countMentionsText" : "3",
         "name" : "Mello, Vicente de (1967-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 7.428571428571429
       },
       "position" : {
-        "x" : 386.6785355957075,
-        "y" : -337.0427945749513
+        "x" : 295.2649949601068,
+        "y" : -271.5978222731882
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570948",
+        "id" : "3609729",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arIvensMachado",
         "shared_name" : "Machado, Ivens (1942-2015)",
         "TopologicalCoefficient" : 0.3212121212121212,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3570948,
+        "SUID" : 3609729,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.1739130434782608,
@@ -2883,28 +2960,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "SC",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
+        "countMentionsText" : "5",
         "name" : "Machado, Ivens (1942-2015)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 10.6
       },
       "position" : {
-        "x" : -63.70841966552297,
-        "y" : 67.5126024587401
+        "x" : -235.67244801290911,
+        "y" : -356.3751475575513
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570945",
+        "id" : "3609726",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arAyrsonHeraclito",
         "shared_name" : "Heráclito, Ayrson (1969-)",
         "TopologicalCoefficient" : 0.3212121212121212,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570945,
+        "SUID" : 3609726,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.1739130434782608,
@@ -2920,28 +2998,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "BA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
+        "countMentionsText" : "1",
         "name" : "Heráclito, Ayrson (1969-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 10.6
       },
       "position" : {
-        "x" : -126.78398500365773,
-        "y" : 112.54429395034396
+        "x" : -314.76196058508754,
+        "y" : -294.94303125011953
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570942",
+        "id" : "3609723",
         "idnoWKD" : "NA",
         "Eccentricity" : 3,
         "artistId" : "arLucianaMagno",
         "shared_name" : "Magno, Luciana (1987-)",
         "TopologicalCoefficient" : 0.3212121212121212,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570942,
+        "SUID" : 3609723,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.1739130434782608,
@@ -2957,28 +3036,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
+        "countMentionsText" : "1",
         "name" : "Magno, Luciana (1987-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 10.6
       },
       "position" : {
-        "x" : -111.95862565917531,
-        "y" : 179.72350944116198
+        "x" : -406.82357874672607,
+        "y" : -329.77540376613564
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570939",
+        "id" : "3609720",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arBernaReale",
         "shared_name" : "Reale, Berna (1965-)",
         "TopologicalCoefficient" : 0.3212121212121212,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "1",
-        "SUID" : 3570939,
+        "SUID" : 3609720,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.1739130434782608,
@@ -2994,28 +3074,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "PA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
+        "countMentionsText" : "1",
         "name" : "Reale, Berna (1965-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 10.6
       },
       "position" : {
-        "x" : -44.74188981933156,
-        "y" : 163.27278388574206
+        "x" : -328.09488929345207,
+        "y" : -381.58914914741183
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570936",
+        "id" : "3609717",
         "idnoWKD" : "WKD",
         "Eccentricity" : 2,
         "artistId" : "arLygiaClark",
         "shared_name" : "Clark, Lygia (1920-1988)",
         "TopologicalCoefficient" : 0.274703557312253,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "4",
-        "SUID" : 3570936,
+        "SUID" : 3609717,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.2826086956521738,
@@ -3031,28 +3112,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "MG",
         "BetweennessCentrality" : 0.42028985507246375,
         "NumberOfUndirectedEdges" : 35,
+        "countMentionsText" : "4",
         "name" : "Clark, Lygia (1920-1988)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 12.636363636363637
       },
       "position" : {
-        "x" : -169.83355699462453,
-        "y" : 13.462614665771355
+        "x" : -408.11615290104095,
+        "y" : -83.05896514823645
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570933",
+        "id" : "3609714",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arHelioOiticica",
         "shared_name" : "Oiticica, Hélio (1937-1980)",
         "TopologicalCoefficient" : 0.3212121212121212,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "TERM",
-        "countMentions" : "5",
-        "SUID" : 3570933,
+        "SUID" : 3609714,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 2.1739130434782608,
@@ -3068,28 +3150,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
+        "countMentionsText" : "5",
         "name" : "Oiticica, Hélio (1937-1980)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 10.6
       },
       "position" : {
-        "x" : -9.210899218745624,
-        "y" : 100.57981551721178
+        "x" : -420.5628520971876,
+        "y" : -382.8790521837956
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570930",
+        "id" : "3609711",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arWassilyKandinsky",
         "shared_name" : "Kandinsky, Wassily (1866-1944)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Rússia",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570930,
+        "SUID" : 3609711,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -3105,28 +3188,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "NA",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Kandinsky, Wassily (1866-1944)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -394.4791220275835,
-        "y" : 299.74481071069323
+        "x" : 1126.706641862645,
+        "y" : -291.9531011369874
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570927",
+        "id" : "3609708",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arAnnaGeiger",
         "shared_name" : "Geiger, Anna Bella (1933-)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570927,
+        "SUID" : 3609708,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -3142,28 +3226,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Geiger, Anna Bella (1933-)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -146.26421175879995,
-        "y" : -113.07314430639661
+        "x" : -240.852068085168,
+        "y" : 159.1943195871357
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570924",
+        "id" : "3609705",
         "idnoWKD" : "WKD",
         "Eccentricity" : 3,
         "artistId" : "arWandaPimentel",
         "shared_name" : "Pimentel, Wanda (1943-2019)",
         "TopologicalCoefficient" : 0.40930232558139534,
         "idnoEIC" : "EIC",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570924,
+        "SUID" : 3609705,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.7391304347826086,
@@ -3179,28 +3264,29 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 15,
+        "countMentionsText" : "1",
         "name" : "Pimentel, Wanda (1943-2019)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 17.6
       },
       "position" : {
-        "x" : -198.32516847533742,
-        "y" : -107.29302345678724
+        "x" : -331.6091192031566,
+        "y" : 116.24869190567763
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3570894",
+        "id" : "3609672",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arNiltonBravo",
         "shared_name" : "Bravo, Nilton (1937-2005)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
+        "countQuotesText" : "0",
         "birthCountry" : "Brasil",
         "artistTerm" : "REF",
-        "countMentions" : "1",
-        "SUID" : 3570894,
+        "SUID" : 3609672,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -3216,5582 +3302,5583 @@ export let networks = {"rsArtistRefTextByPublicationreOFermento.xml": {
         "birthRegion" : "RJ",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 2,
+        "countMentionsText" : "1",
         "name" : "Bravo, Nilton (1937-2005)",
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 2.0
       },
       "position" : {
-        "x" : -464.7872503845171,
-        "y" : 381.46563590600573
+        "x" : 1035.651611487681,
+        "y" : -272.43703286750895
       },
       "selected" : false
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "3572043",
-        "source" : "3571176",
-        "target" : "3570930",
+        "id" : "3610824",
+        "source" : "3609957",
+        "target" : "3609711",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCarlosAndrade (-) arWassilyKandinsky",
         "shared_interaction" : "-",
         "name" : "arCarlosAndrade (-) arWassilyKandinsky",
         "interaction" : "-",
-        "SUID" : 3572043,
+        "SUID" : 3610824,
         "text" : "oFermento201902-002",
         "selected" : false,
-        "authors" : "auPatriciaLattavo"
+        "authors" : "Lattavo, Patricia (1968-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572040",
-        "source" : "3571176",
-        "target" : "3570894",
+        "id" : "3610821",
+        "source" : "3609957",
+        "target" : "3609672",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCarlosAndrade (-) arNiltonBravo",
         "shared_interaction" : "-",
         "name" : "arCarlosAndrade (-) arNiltonBravo",
         "interaction" : "-",
-        "SUID" : 3572040,
+        "SUID" : 3610821,
         "text" : "oFermento201902-002",
         "selected" : false,
-        "authors" : "auPatriciaLattavo"
+        "authors" : "Lattavo, Patricia (1968-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572229",
-        "source" : "3571164",
-        "target" : "3571167",
+        "id" : "3611010",
+        "source" : "3609945",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClodomiroMonteiro (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arClodomiroMonteiro (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572229,
+        "SUID" : 3611010,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572226",
-        "source" : "3571161",
-        "target" : "3571167",
+        "id" : "3611007",
+        "source" : "3609942",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBernardinoSouza (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arBernardinoSouza (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572226,
+        "SUID" : 3611007,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572223",
-        "source" : "3571161",
-        "target" : "3571164",
+        "id" : "3611004",
+        "source" : "3609942",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBernardinoSouza (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arBernardinoSouza (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572223,
+        "SUID" : 3611004,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572220",
-        "source" : "3571158",
-        "target" : "3571167",
+        "id" : "3611001",
+        "source" : "3609939",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arManuelZamore (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arManuelZamore (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572220,
+        "SUID" : 3611001,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572217",
-        "source" : "3571158",
-        "target" : "3571164",
+        "id" : "3610998",
+        "source" : "3609939",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arManuelZamore (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arManuelZamore (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572217,
+        "SUID" : 3610998,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572214",
-        "source" : "3571158",
-        "target" : "3571161",
+        "id" : "3610995",
+        "source" : "3609939",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arManuelZamore (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arManuelZamore (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572214,
+        "SUID" : 3610995,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572211",
-        "source" : "3571155",
-        "target" : "3571167",
+        "id" : "3610992",
+        "source" : "3609936",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHenriqueBernadelli (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arHenriqueBernadelli (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572211,
+        "SUID" : 3610992,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572208",
-        "source" : "3571155",
-        "target" : "3571164",
+        "id" : "3610989",
+        "source" : "3609936",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHenriqueBernadelli (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arHenriqueBernadelli (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572208,
+        "SUID" : 3610989,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572205",
-        "source" : "3571155",
-        "target" : "3571161",
+        "id" : "3610986",
+        "source" : "3609936",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHenriqueBernadelli (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arHenriqueBernadelli (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572205,
+        "SUID" : 3610986,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572202",
-        "source" : "3571155",
-        "target" : "3571158",
+        "id" : "3610983",
+        "source" : "3609936",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHenriqueBernadelli (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arHenriqueBernadelli (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572202,
+        "SUID" : 3610983,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572199",
-        "source" : "3571152",
-        "target" : "3571167",
+        "id" : "3610980",
+        "source" : "3609933",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseAlmeida (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arJoseAlmeida (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572199,
+        "SUID" : 3610980,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572196",
-        "source" : "3571152",
-        "target" : "3571164",
+        "id" : "3610977",
+        "source" : "3609933",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseAlmeida (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arJoseAlmeida (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572196,
+        "SUID" : 3610977,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572193",
-        "source" : "3571152",
-        "target" : "3571161",
+        "id" : "3610974",
+        "source" : "3609933",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseAlmeida (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arJoseAlmeida (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572193,
+        "SUID" : 3610974,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572190",
-        "source" : "3571152",
-        "target" : "3571158",
+        "id" : "3610971",
+        "source" : "3609933",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseAlmeida (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arJoseAlmeida (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572190,
+        "SUID" : 3610971,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572187",
-        "source" : "3571152",
-        "target" : "3571155",
+        "id" : "3610968",
+        "source" : "3609933",
+        "target" : "3609936",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseAlmeida (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arJoseAlmeida (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572187,
+        "SUID" : 3610968,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572166",
-        "source" : "3571149",
-        "target" : "3571167",
+        "id" : "3610947",
+        "source" : "3609930",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572166,
+        "SUID" : 3610947,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572163",
-        "source" : "3571149",
-        "target" : "3571164",
+        "id" : "3610944",
+        "source" : "3609930",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572163,
+        "SUID" : 3610944,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572160",
-        "source" : "3571149",
-        "target" : "3571161",
+        "id" : "3610941",
+        "source" : "3609930",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572160,
+        "SUID" : 3610941,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572157",
-        "source" : "3571149",
-        "target" : "3571158",
+        "id" : "3610938",
+        "source" : "3609930",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572157,
+        "SUID" : 3610938,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572154",
-        "source" : "3571149",
-        "target" : "3571155",
+        "id" : "3610935",
+        "source" : "3609930",
+        "target" : "3609936",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572154,
+        "SUID" : 3610935,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572151",
-        "source" : "3571149",
-        "target" : "3571152",
+        "id" : "3610932",
+        "source" : "3609930",
+        "target" : "3609933",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arClaudiaAndujar (-) arJoseAlmeida",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arJoseAlmeida",
         "interaction" : "-",
-        "SUID" : 3572151,
+        "SUID" : 3610932,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572148",
-        "source" : "3571149",
-        "target" : "3571089",
+        "id" : "3610929",
+        "source" : "3609930",
+        "target" : "3609870",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arClaudiaAndujar (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arClaudiaAndujar (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3572148,
+        "SUID" : 3610929,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572145",
-        "source" : "3571146",
-        "target" : "3571167",
+        "id" : "3610926",
+        "source" : "3609927",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572145,
+        "SUID" : 3610926,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572142",
-        "source" : "3571146",
-        "target" : "3571164",
+        "id" : "3610923",
+        "source" : "3609927",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572142,
+        "SUID" : 3610923,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572139",
-        "source" : "3571146",
-        "target" : "3571161",
+        "id" : "3610920",
+        "source" : "3609927",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572139,
+        "SUID" : 3610920,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572136",
-        "source" : "3571146",
-        "target" : "3571158",
+        "id" : "3610917",
+        "source" : "3609927",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572136,
+        "SUID" : 3610917,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572133",
-        "source" : "3571146",
-        "target" : "3571155",
+        "id" : "3610914",
+        "source" : "3609927",
+        "target" : "3609936",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572133,
+        "SUID" : 3610914,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572130",
-        "source" : "3571146",
-        "target" : "3571152",
+        "id" : "3610911",
+        "source" : "3609927",
+        "target" : "3609933",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arJoseAlmeida",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arJoseAlmeida",
         "interaction" : "-",
-        "SUID" : 3572130,
+        "SUID" : 3610911,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572127",
-        "source" : "3571146",
-        "target" : "3571089",
+        "id" : "3610908",
+        "source" : "3609927",
+        "target" : "3609870",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arAnitaMalfatti (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3572127,
+        "SUID" : 3610908,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572124",
-        "source" : "3571146",
-        "target" : "3571149",
+        "id" : "3610905",
+        "source" : "3609927",
+        "target" : "3609930",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnitaMalfatti (-) arClaudiaAndujar",
         "shared_interaction" : "-",
         "name" : "arAnitaMalfatti (-) arClaudiaAndujar",
         "interaction" : "-",
-        "SUID" : 3572124,
+        "SUID" : 3610905,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572121",
-        "source" : "3571143",
-        "target" : "3571167",
+        "id" : "3610902",
+        "source" : "3609924",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572121,
+        "SUID" : 3610902,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572118",
-        "source" : "3571143",
-        "target" : "3571164",
+        "id" : "3610899",
+        "source" : "3609924",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572118,
+        "SUID" : 3610899,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572115",
-        "source" : "3571143",
-        "target" : "3571161",
+        "id" : "3610896",
+        "source" : "3609924",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572115,
+        "SUID" : 3610896,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572112",
-        "source" : "3571143",
-        "target" : "3571158",
+        "id" : "3610893",
+        "source" : "3609924",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572112,
+        "SUID" : 3610893,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572109",
-        "source" : "3571143",
-        "target" : "3571155",
+        "id" : "3610890",
+        "source" : "3609924",
+        "target" : "3609936",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572109,
+        "SUID" : 3610890,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572106",
-        "source" : "3571143",
-        "target" : "3571152",
+        "id" : "3610887",
+        "source" : "3609924",
+        "target" : "3609933",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arJoseAlmeida",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arJoseAlmeida",
         "interaction" : "-",
-        "SUID" : 3572106,
+        "SUID" : 3610887,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572103",
-        "source" : "3571143",
-        "target" : "3571089",
+        "id" : "3610884",
+        "source" : "3609924",
+        "target" : "3609870",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arEstevaoSilva (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3572103,
+        "SUID" : 3610884,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572100",
-        "source" : "3571143",
-        "target" : "3571149",
+        "id" : "3610881",
+        "source" : "3609924",
+        "target" : "3609930",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arClaudiaAndujar",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arClaudiaAndujar",
         "interaction" : "-",
-        "SUID" : 3572100,
+        "SUID" : 3610881,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572097",
-        "source" : "3571143",
-        "target" : "3571146",
+        "id" : "3610878",
+        "source" : "3609924",
+        "target" : "3609927",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEstevaoSilva (-) arAnitaMalfatti",
         "shared_interaction" : "-",
         "name" : "arEstevaoSilva (-) arAnitaMalfatti",
         "interaction" : "-",
-        "SUID" : 3572097,
+        "SUID" : 3610878,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572094",
-        "source" : "3571140",
-        "target" : "3571167",
+        "id" : "3610875",
+        "source" : "3609921",
+        "target" : "3609948",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572094,
+        "SUID" : 3610875,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572091",
-        "source" : "3571140",
-        "target" : "3571164",
+        "id" : "3610872",
+        "source" : "3609921",
+        "target" : "3609945",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572091,
+        "SUID" : 3610872,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572088",
-        "source" : "3571140",
-        "target" : "3571161",
+        "id" : "3610869",
+        "source" : "3609921",
+        "target" : "3609942",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572088,
+        "SUID" : 3610869,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572085",
-        "source" : "3571140",
-        "target" : "3571158",
+        "id" : "3610866",
+        "source" : "3609921",
+        "target" : "3609939",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572085,
+        "SUID" : 3610866,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572082",
-        "source" : "3571140",
-        "target" : "3571155",
+        "id" : "3610863",
+        "source" : "3609921",
+        "target" : "3609936",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572082,
+        "SUID" : 3610863,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572079",
-        "source" : "3571140",
-        "target" : "3571152",
+        "id" : "3610860",
+        "source" : "3609921",
+        "target" : "3609933",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arJoseAlmeida",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arJoseAlmeida",
         "interaction" : "-",
-        "SUID" : 3572079,
+        "SUID" : 3610860,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572076",
-        "source" : "3571140",
-        "target" : "3571089",
+        "id" : "3610857",
+        "source" : "3609921",
+        "target" : "3609870",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arLaercioRedondo (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3572076,
+        "SUID" : 3610857,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572073",
-        "source" : "3571140",
-        "target" : "3571149",
+        "id" : "3610854",
+        "source" : "3609921",
+        "target" : "3609930",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arClaudiaAndujar",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arClaudiaAndujar",
         "interaction" : "-",
-        "SUID" : 3572073,
+        "SUID" : 3610854,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572070",
-        "source" : "3571140",
-        "target" : "3571146",
+        "id" : "3610851",
+        "source" : "3609921",
+        "target" : "3609927",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arAnitaMalfatti",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arAnitaMalfatti",
         "interaction" : "-",
-        "SUID" : 3572070,
+        "SUID" : 3610851,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572067",
-        "source" : "3571140",
-        "target" : "3571143",
+        "id" : "3610848",
+        "source" : "3609921",
+        "target" : "3609924",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaercioRedondo (-) arEstevaoSilva",
         "shared_interaction" : "-",
         "name" : "arLaercioRedondo (-) arEstevaoSilva",
         "interaction" : "-",
-        "SUID" : 3572067,
+        "SUID" : 3610848,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572064",
-        "source" : "3571137",
-        "target" : "3570936",
+        "id" : "3610845",
+        "source" : "3609918",
+        "target" : "3609717",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arAluisioCarvao (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arAluisioCarvao (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3572064,
+        "SUID" : 3610845,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572055",
-        "source" : "3571134",
-        "target" : "3570936",
+        "id" : "3610836",
+        "source" : "3609915",
+        "target" : "3609717",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arRonaldoMacedo (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arRonaldoMacedo (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3572055,
+        "SUID" : 3610836,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572052",
-        "source" : "3571134",
-        "target" : "3571137",
+        "id" : "3610833",
+        "source" : "3609915",
+        "target" : "3609918",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRonaldoMacedo (-) arAluisioCarvao",
         "shared_interaction" : "-",
         "name" : "arRonaldoMacedo (-) arAluisioCarvao",
         "interaction" : "-",
-        "SUID" : 3572052,
+        "SUID" : 3610833,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572049",
-        "source" : "3571134",
-        "target" : "3570987",
+        "id" : "3610830",
+        "source" : "3609915",
+        "target" : "3609768",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arRonaldoMacedo (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arRonaldoMacedo (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3572049,
+        "SUID" : 3610830,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572037",
-        "source" : "3571113",
-        "target" : "3571116",
+        "id" : "3610818",
+        "source" : "3609894",
+        "target" : "3609897",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanBaptisteDebret (-) arJohannRugendas",
         "shared_interaction" : "-",
         "name" : "arJeanBaptisteDebret (-) arJohannRugendas",
         "interaction" : "-",
-        "SUID" : 3572037,
+        "SUID" : 3610818,
         "text" : "oFermento201901-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572034",
-        "source" : "3571110",
-        "target" : "3571116",
+        "id" : "3610815",
+        "source" : "3609891",
+        "target" : "3609897",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arTiagoSantAna (-) arJohannRugendas",
         "shared_interaction" : "-",
         "name" : "arTiagoSantAna (-) arJohannRugendas",
         "interaction" : "-",
-        "SUID" : 3572034,
+        "SUID" : 3610815,
         "text" : "oFermento201901-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572031",
-        "source" : "3571110",
-        "target" : "3571113",
+        "id" : "3610812",
+        "source" : "3609891",
+        "target" : "3609894",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arTiagoSantAna (-) arJeanBaptisteDebret",
         "shared_interaction" : "-",
         "name" : "arTiagoSantAna (-) arJeanBaptisteDebret",
         "interaction" : "-",
-        "SUID" : 3572031,
+        "SUID" : 3610812,
         "text" : "oFermento201901-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572028",
-        "source" : "3571104",
-        "target" : "3571107",
+        "id" : "3610809",
+        "source" : "3609885",
+        "target" : "3609888",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoaoLima (-) arCandidoPortinari",
         "shared_interaction" : "-",
         "name" : "arJoaoLima (-) arCandidoPortinari",
         "interaction" : "-",
-        "SUID" : 3572028,
+        "SUID" : 3610809,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572019",
-        "source" : "3571101",
-        "target" : "3571107",
+        "id" : "3610800",
+        "source" : "3609882",
+        "target" : "3609888",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAthosBulcao (-) arCandidoPortinari",
         "shared_interaction" : "-",
         "name" : "arAthosBulcao (-) arCandidoPortinari",
         "interaction" : "-",
-        "SUID" : 3572019,
+        "SUID" : 3610800,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572016",
-        "source" : "3571101",
-        "target" : "3571104",
+        "id" : "3610797",
+        "source" : "3609882",
+        "target" : "3609885",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAthosBulcao (-) arJoaoLima",
         "shared_interaction" : "-",
         "name" : "arAthosBulcao (-) arJoaoLima",
         "interaction" : "-",
-        "SUID" : 3572016,
+        "SUID" : 3610797,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572013",
-        "source" : "3571101",
-        "target" : "3570972",
+        "id" : "3610794",
+        "source" : "3609882",
+        "target" : "3609753",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAthosBulcao (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arAthosBulcao (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3572013,
+        "SUID" : 3610794,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571992",
-        "source" : "3571098",
-        "target" : "3571179",
+        "id" : "3610773",
+        "source" : "3609879",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAmeliaCosta (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arAmeliaCosta (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571992,
+        "SUID" : 3610773,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571989",
-        "source" : "3571098",
-        "target" : "3570924",
+        "id" : "3610770",
+        "source" : "3609879",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAmeliaCosta (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arAmeliaCosta (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571989,
+        "SUID" : 3610770,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571986",
-        "source" : "3571098",
-        "target" : "3570936",
+        "id" : "3610767",
+        "source" : "3609879",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arAmeliaCosta (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arAmeliaCosta (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571986,
+        "SUID" : 3610767,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571983",
-        "source" : "3571098",
-        "target" : "3570927",
+        "id" : "3610764",
+        "source" : "3609879",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAmeliaCosta (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arAmeliaCosta (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571983,
+        "SUID" : 3610764,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571980",
-        "source" : "3571095",
-        "target" : "3571179",
+        "id" : "3610761",
+        "source" : "3609876",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMagdalenaFaro (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arMagdalenaFaro (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571980,
+        "SUID" : 3610761,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571977",
-        "source" : "3571095",
-        "target" : "3570924",
+        "id" : "3610758",
+        "source" : "3609876",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMagdalenaFaro (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arMagdalenaFaro (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571977,
+        "SUID" : 3610758,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571974",
-        "source" : "3571095",
-        "target" : "3570936",
+        "id" : "3610755",
+        "source" : "3609876",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arMagdalenaFaro (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arMagdalenaFaro (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571974,
+        "SUID" : 3610755,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571971",
-        "source" : "3571095",
-        "target" : "3570927",
+        "id" : "3610752",
+        "source" : "3609876",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMagdalenaFaro (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arMagdalenaFaro (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571971,
+        "SUID" : 3610752,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571968",
-        "source" : "3571095",
-        "target" : "3571098",
+        "id" : "3610749",
+        "source" : "3609876",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMagdalenaFaro (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arMagdalenaFaro (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571968,
+        "SUID" : 3610749,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571965",
-        "source" : "3571092",
-        "target" : "3571179",
+        "id" : "3610746",
+        "source" : "3609873",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaNepomuceno (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571965,
+        "SUID" : 3610746,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571962",
-        "source" : "3571092",
-        "target" : "3570924",
+        "id" : "3610743",
+        "source" : "3609873",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaNepomuceno (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571962,
+        "SUID" : 3610743,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571959",
-        "source" : "3571092",
-        "target" : "3570936",
+        "id" : "3610740",
+        "source" : "3609873",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arMariaNepomuceno (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571959,
+        "SUID" : 3610740,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571956",
-        "source" : "3571092",
-        "target" : "3570927",
+        "id" : "3610737",
+        "source" : "3609873",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaNepomuceno (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571956,
+        "SUID" : 3610737,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571953",
-        "source" : "3571092",
-        "target" : "3571098",
+        "id" : "3610734",
+        "source" : "3609873",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaNepomuceno (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571953,
+        "SUID" : 3610734,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571950",
-        "source" : "3571092",
-        "target" : "3571095",
+        "id" : "3610731",
+        "source" : "3609873",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaNepomuceno (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arMariaNepomuceno (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571950,
+        "SUID" : 3610731,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572184",
-        "source" : "3571089",
-        "target" : "3571167",
+        "id" : "3610965",
+        "source" : "3609870",
+        "target" : "3609948",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arJoseBernardelli",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arJoseBernardelli",
         "interaction" : "-",
-        "SUID" : 3572184,
+        "SUID" : 3610965,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572181",
-        "source" : "3571089",
-        "target" : "3571164",
+        "id" : "3610962",
+        "source" : "3609870",
+        "target" : "3609945",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arClodomiroMonteiro",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arClodomiroMonteiro",
         "interaction" : "-",
-        "SUID" : 3572181,
+        "SUID" : 3610962,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572178",
-        "source" : "3571089",
-        "target" : "3571161",
+        "id" : "3610959",
+        "source" : "3609870",
+        "target" : "3609942",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arBernardinoSouza",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arBernardinoSouza",
         "interaction" : "-",
-        "SUID" : 3572178,
+        "SUID" : 3610959,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572175",
-        "source" : "3571089",
-        "target" : "3571158",
+        "id" : "3610956",
+        "source" : "3609870",
+        "target" : "3609939",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arManuelZamore",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arManuelZamore",
         "interaction" : "-",
-        "SUID" : 3572175,
+        "SUID" : 3610956,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572172",
-        "source" : "3571089",
-        "target" : "3571155",
+        "id" : "3610953",
+        "source" : "3609870",
+        "target" : "3609936",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arHenriqueBernadelli",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arHenriqueBernadelli",
         "interaction" : "-",
-        "SUID" : 3572172,
+        "SUID" : 3610953,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572169",
-        "source" : "3571089",
-        "target" : "3571152",
+        "id" : "3610950",
+        "source" : "3609870",
+        "target" : "3609933",
         "EdgeBetweenness" : 74.0,
         "shared_name" : "arMariaMartins (-) arJoseAlmeida",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arJoseAlmeida",
         "interaction" : "-",
-        "SUID" : 3572169,
+        "SUID" : 3610950,
         "text" : "oFermento201902-004",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571947",
-        "source" : "3571089",
-        "target" : "3571179",
+        "id" : "3610728",
+        "source" : "3609870",
+        "target" : "3609960",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571947,
+        "SUID" : 3610728,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571944",
-        "source" : "3571089",
-        "target" : "3570924",
+        "id" : "3610725",
+        "source" : "3609870",
+        "target" : "3609705",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571944,
+        "SUID" : 3610725,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571941",
-        "source" : "3571089",
-        "target" : "3570936",
+        "id" : "3610722",
+        "source" : "3609870",
+        "target" : "3609717",
         "EdgeBetweenness" : 330.0,
         "shared_name" : "arMariaMartins (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571941,
+        "SUID" : 3610722,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571938",
-        "source" : "3571089",
-        "target" : "3570927",
+        "id" : "3610719",
+        "source" : "3609870",
+        "target" : "3609708",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571938,
+        "SUID" : 3610719,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571935",
-        "source" : "3571089",
-        "target" : "3571098",
+        "id" : "3610716",
+        "source" : "3609870",
+        "target" : "3609879",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571935,
+        "SUID" : 3610716,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571932",
-        "source" : "3571089",
-        "target" : "3571095",
+        "id" : "3610713",
+        "source" : "3609870",
+        "target" : "3609876",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571932,
+        "SUID" : 3610713,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571929",
-        "source" : "3571089",
-        "target" : "3571092",
+        "id" : "3610710",
+        "source" : "3609870",
+        "target" : "3609873",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMariaMartins (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arMariaMartins (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571929,
+        "SUID" : 3610710,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571926",
-        "source" : "3571086",
-        "target" : "3571179",
+        "id" : "3610707",
+        "source" : "3609867",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571926,
+        "SUID" : 3610707,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571923",
-        "source" : "3571086",
-        "target" : "3570924",
+        "id" : "3610704",
+        "source" : "3609867",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571923,
+        "SUID" : 3610704,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571920",
-        "source" : "3571086",
-        "target" : "3570936",
+        "id" : "3610701",
+        "source" : "3609867",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arCristinaSalgado (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571920,
+        "SUID" : 3610701,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571917",
-        "source" : "3571086",
-        "target" : "3570927",
+        "id" : "3610698",
+        "source" : "3609867",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571917,
+        "SUID" : 3610698,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571914",
-        "source" : "3571086",
-        "target" : "3571098",
+        "id" : "3610695",
+        "source" : "3609867",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571914,
+        "SUID" : 3610695,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571911",
-        "source" : "3571086",
-        "target" : "3571095",
+        "id" : "3610692",
+        "source" : "3609867",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571911,
+        "SUID" : 3610692,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571908",
-        "source" : "3571086",
-        "target" : "3571092",
+        "id" : "3610689",
+        "source" : "3609867",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCristinaSalgado (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571908,
+        "SUID" : 3610689,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571905",
-        "source" : "3571086",
-        "target" : "3571089",
+        "id" : "3610686",
+        "source" : "3609867",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arCristinaSalgado (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arCristinaSalgado (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571905,
+        "SUID" : 3610686,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571902",
-        "source" : "3571083",
-        "target" : "3571179",
+        "id" : "3610683",
+        "source" : "3609864",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571902,
+        "SUID" : 3610683,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571899",
-        "source" : "3571083",
-        "target" : "3570924",
+        "id" : "3610680",
+        "source" : "3609864",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571899,
+        "SUID" : 3610680,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571896",
-        "source" : "3571083",
-        "target" : "3570936",
+        "id" : "3610677",
+        "source" : "3609864",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arLouiseBourgeois (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571896,
+        "SUID" : 3610677,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571893",
-        "source" : "3571083",
-        "target" : "3570927",
+        "id" : "3610674",
+        "source" : "3609864",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571893,
+        "SUID" : 3610674,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571890",
-        "source" : "3571083",
-        "target" : "3571098",
+        "id" : "3610671",
+        "source" : "3609864",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571890,
+        "SUID" : 3610671,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571887",
-        "source" : "3571083",
-        "target" : "3571095",
+        "id" : "3610668",
+        "source" : "3609864",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571887,
+        "SUID" : 3610668,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571884",
-        "source" : "3571083",
-        "target" : "3571092",
+        "id" : "3610665",
+        "source" : "3609864",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571884,
+        "SUID" : 3610665,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571881",
-        "source" : "3571083",
-        "target" : "3571089",
+        "id" : "3610662",
+        "source" : "3609864",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arLouiseBourgeois (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571881,
+        "SUID" : 3610662,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571878",
-        "source" : "3571083",
-        "target" : "3571086",
+        "id" : "3610659",
+        "source" : "3609864",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLouiseBourgeois (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arLouiseBourgeois (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571878,
+        "SUID" : 3610659,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571845",
-        "source" : "3571080",
-        "target" : "3571179",
+        "id" : "3610626",
+        "source" : "3609861",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571845,
+        "SUID" : 3610626,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571842",
-        "source" : "3571080",
-        "target" : "3570924",
+        "id" : "3610623",
+        "source" : "3609861",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571842,
+        "SUID" : 3610623,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571839",
-        "source" : "3571080",
-        "target" : "3570936",
+        "id" : "3610620",
+        "source" : "3609861",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arNeideSa (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571839,
+        "SUID" : 3610620,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571836",
-        "source" : "3571080",
-        "target" : "3570927",
+        "id" : "3610617",
+        "source" : "3609861",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571836,
+        "SUID" : 3610617,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571833",
-        "source" : "3571080",
-        "target" : "3571098",
+        "id" : "3610614",
+        "source" : "3609861",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571833,
+        "SUID" : 3610614,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571830",
-        "source" : "3571080",
-        "target" : "3571095",
+        "id" : "3610611",
+        "source" : "3609861",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571830,
+        "SUID" : 3610611,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571827",
-        "source" : "3571080",
-        "target" : "3571092",
+        "id" : "3610608",
+        "source" : "3609861",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571827,
+        "SUID" : 3610608,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571824",
-        "source" : "3571080",
-        "target" : "3571089",
+        "id" : "3610605",
+        "source" : "3609861",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arNeideSa (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571824,
+        "SUID" : 3610605,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571821",
-        "source" : "3571080",
-        "target" : "3571086",
+        "id" : "3610602",
+        "source" : "3609861",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571821,
+        "SUID" : 3610602,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571818",
-        "source" : "3571080",
-        "target" : "3571083",
+        "id" : "3610599",
+        "source" : "3609861",
+        "target" : "3609864",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNeideSa (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571818,
+        "SUID" : 3610599,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571815",
-        "source" : "3571080",
-        "target" : "3570990",
+        "id" : "3610596",
+        "source" : "3609861",
+        "target" : "3609771",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arNeideSa (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arNeideSa (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571815,
+        "SUID" : 3610596,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571812",
-        "source" : "3571077",
-        "target" : "3571179",
+        "id" : "3610593",
+        "source" : "3609858",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571812,
+        "SUID" : 3610593,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571809",
-        "source" : "3571077",
-        "target" : "3570924",
+        "id" : "3610590",
+        "source" : "3609858",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571809,
+        "SUID" : 3610590,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571806",
-        "source" : "3571077",
-        "target" : "3570936",
+        "id" : "3610587",
+        "source" : "3609858",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arLenoraBarros (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571806,
+        "SUID" : 3610587,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571803",
-        "source" : "3571077",
-        "target" : "3570927",
+        "id" : "3610584",
+        "source" : "3609858",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571803,
+        "SUID" : 3610584,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571800",
-        "source" : "3571077",
-        "target" : "3571098",
+        "id" : "3610581",
+        "source" : "3609858",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571800,
+        "SUID" : 3610581,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571797",
-        "source" : "3571077",
-        "target" : "3571095",
+        "id" : "3610578",
+        "source" : "3609858",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571797,
+        "SUID" : 3610578,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571794",
-        "source" : "3571077",
-        "target" : "3571092",
+        "id" : "3610575",
+        "source" : "3609858",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571794,
+        "SUID" : 3610575,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571791",
-        "source" : "3571077",
-        "target" : "3571089",
+        "id" : "3610572",
+        "source" : "3609858",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arLenoraBarros (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571791,
+        "SUID" : 3610572,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571788",
-        "source" : "3571077",
-        "target" : "3571086",
+        "id" : "3610569",
+        "source" : "3609858",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571788,
+        "SUID" : 3610569,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571785",
-        "source" : "3571077",
-        "target" : "3571083",
+        "id" : "3610566",
+        "source" : "3609858",
+        "target" : "3609864",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571785,
+        "SUID" : 3610566,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571782",
-        "source" : "3571077",
-        "target" : "3570990",
+        "id" : "3610563",
+        "source" : "3609858",
+        "target" : "3609771",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arLenoraBarros (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571782,
+        "SUID" : 3610563,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571779",
-        "source" : "3571077",
-        "target" : "3571080",
+        "id" : "3610560",
+        "source" : "3609858",
+        "target" : "3609861",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLenoraBarros (-) arNeideSa",
         "shared_interaction" : "-",
         "name" : "arLenoraBarros (-) arNeideSa",
         "interaction" : "-",
-        "SUID" : 3571779,
+        "SUID" : 3610560,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571776",
-        "source" : "3571074",
-        "target" : "3571179",
+        "id" : "3610557",
+        "source" : "3609855",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571776,
+        "SUID" : 3610557,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571773",
-        "source" : "3571074",
-        "target" : "3570924",
+        "id" : "3610554",
+        "source" : "3609855",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571773,
+        "SUID" : 3610554,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571770",
-        "source" : "3571074",
-        "target" : "3570936",
+        "id" : "3610551",
+        "source" : "3609855",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arMiraSchendel (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571770,
+        "SUID" : 3610551,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571767",
-        "source" : "3571074",
-        "target" : "3570927",
+        "id" : "3610548",
+        "source" : "3609855",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571767,
+        "SUID" : 3610548,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571764",
-        "source" : "3571074",
-        "target" : "3571098",
+        "id" : "3610545",
+        "source" : "3609855",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571764,
+        "SUID" : 3610545,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571761",
-        "source" : "3571074",
-        "target" : "3571095",
+        "id" : "3610542",
+        "source" : "3609855",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571761,
+        "SUID" : 3610542,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571758",
-        "source" : "3571074",
-        "target" : "3571092",
+        "id" : "3610539",
+        "source" : "3609855",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571758,
+        "SUID" : 3610539,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571755",
-        "source" : "3571074",
-        "target" : "3571089",
+        "id" : "3610536",
+        "source" : "3609855",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arMiraSchendel (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571755,
+        "SUID" : 3610536,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571752",
-        "source" : "3571074",
-        "target" : "3571086",
+        "id" : "3610533",
+        "source" : "3609855",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571752,
+        "SUID" : 3610533,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571749",
-        "source" : "3571074",
-        "target" : "3571083",
+        "id" : "3610530",
+        "source" : "3609855",
+        "target" : "3609864",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571749,
+        "SUID" : 3610530,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571746",
-        "source" : "3571074",
-        "target" : "3570990",
+        "id" : "3610527",
+        "source" : "3609855",
+        "target" : "3609771",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arMiraSchendel (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571746,
+        "SUID" : 3610527,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571743",
-        "source" : "3571074",
-        "target" : "3571080",
+        "id" : "3610524",
+        "source" : "3609855",
+        "target" : "3609861",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arNeideSa",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arNeideSa",
         "interaction" : "-",
-        "SUID" : 3571743,
+        "SUID" : 3610524,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571740",
-        "source" : "3571074",
-        "target" : "3571077",
+        "id" : "3610521",
+        "source" : "3609855",
+        "target" : "3609858",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiraSchendel (-) arLenoraBarros",
         "shared_interaction" : "-",
         "name" : "arMiraSchendel (-) arLenoraBarros",
         "interaction" : "-",
-        "SUID" : 3571740,
+        "SUID" : 3610521,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571737",
-        "source" : "3571071",
-        "target" : "3571179",
+        "id" : "3610518",
+        "source" : "3609852",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571737,
+        "SUID" : 3610518,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571734",
-        "source" : "3571071",
-        "target" : "3570924",
+        "id" : "3610515",
+        "source" : "3609852",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571734,
+        "SUID" : 3610515,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571731",
-        "source" : "3571071",
-        "target" : "3570936",
+        "id" : "3610512",
+        "source" : "3609852",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arBeatrizMilhazes (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571731,
+        "SUID" : 3610512,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571728",
-        "source" : "3571071",
-        "target" : "3570927",
+        "id" : "3610509",
+        "source" : "3609852",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571728,
+        "SUID" : 3610509,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571725",
-        "source" : "3571071",
-        "target" : "3571098",
+        "id" : "3610506",
+        "source" : "3609852",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571725,
+        "SUID" : 3610506,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571722",
-        "source" : "3571071",
-        "target" : "3571095",
+        "id" : "3610503",
+        "source" : "3609852",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571722,
+        "SUID" : 3610503,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571719",
-        "source" : "3571071",
-        "target" : "3571092",
+        "id" : "3610500",
+        "source" : "3609852",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571719,
+        "SUID" : 3610500,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571716",
-        "source" : "3571071",
-        "target" : "3571089",
+        "id" : "3610497",
+        "source" : "3609852",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arBeatrizMilhazes (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571716,
+        "SUID" : 3610497,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571713",
-        "source" : "3571071",
-        "target" : "3571086",
+        "id" : "3610494",
+        "source" : "3609852",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571713,
+        "SUID" : 3610494,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571710",
-        "source" : "3571071",
-        "target" : "3571083",
+        "id" : "3610491",
+        "source" : "3609852",
+        "target" : "3609864",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571710,
+        "SUID" : 3610491,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571707",
-        "source" : "3571071",
-        "target" : "3570990",
+        "id" : "3610488",
+        "source" : "3609852",
+        "target" : "3609771",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arBeatrizMilhazes (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571707,
+        "SUID" : 3610488,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571704",
-        "source" : "3571071",
-        "target" : "3571080",
+        "id" : "3610485",
+        "source" : "3609852",
+        "target" : "3609861",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arNeideSa",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arNeideSa",
         "interaction" : "-",
-        "SUID" : 3571704,
+        "SUID" : 3610485,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571701",
-        "source" : "3571071",
-        "target" : "3571077",
+        "id" : "3610482",
+        "source" : "3609852",
+        "target" : "3609858",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arLenoraBarros",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arLenoraBarros",
         "interaction" : "-",
-        "SUID" : 3571701,
+        "SUID" : 3610482,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571698",
-        "source" : "3571071",
-        "target" : "3571074",
+        "id" : "3610479",
+        "source" : "3609852",
+        "target" : "3609855",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizMilhazes (-) arMiraSchendel",
         "shared_interaction" : "-",
         "name" : "arBeatrizMilhazes (-) arMiraSchendel",
         "interaction" : "-",
-        "SUID" : 3571698,
+        "SUID" : 3610479,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571695",
-        "source" : "3571068",
-        "target" : "3571179",
+        "id" : "3610476",
+        "source" : "3609849",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571695,
+        "SUID" : 3610476,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571692",
-        "source" : "3571068",
-        "target" : "3570924",
+        "id" : "3610473",
+        "source" : "3609849",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571692,
+        "SUID" : 3610473,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571689",
-        "source" : "3571068",
-        "target" : "3570936",
+        "id" : "3610470",
+        "source" : "3609849",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arBrigidaBaltar (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571689,
+        "SUID" : 3610470,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571686",
-        "source" : "3571068",
-        "target" : "3570927",
+        "id" : "3610467",
+        "source" : "3609849",
+        "target" : "3609708",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571686,
+        "SUID" : 3610467,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571683",
-        "source" : "3571068",
-        "target" : "3571098",
+        "id" : "3610464",
+        "source" : "3609849",
+        "target" : "3609879",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571683,
+        "SUID" : 3610464,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571680",
-        "source" : "3571068",
-        "target" : "3571095",
+        "id" : "3610461",
+        "source" : "3609849",
+        "target" : "3609876",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571680,
+        "SUID" : 3610461,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571677",
-        "source" : "3571068",
-        "target" : "3571092",
+        "id" : "3610458",
+        "source" : "3609849",
+        "target" : "3609873",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571677,
+        "SUID" : 3610458,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571674",
-        "source" : "3571068",
-        "target" : "3571089",
+        "id" : "3610455",
+        "source" : "3609849",
+        "target" : "3609870",
         "EdgeBetweenness" : 22.0,
         "shared_name" : "arBrigidaBaltar (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571674,
+        "SUID" : 3610455,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571671",
-        "source" : "3571068",
-        "target" : "3571086",
+        "id" : "3610452",
+        "source" : "3609849",
+        "target" : "3609867",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571671,
+        "SUID" : 3610452,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571668",
-        "source" : "3571068",
-        "target" : "3571083",
+        "id" : "3610449",
+        "source" : "3609849",
+        "target" : "3609864",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571668,
+        "SUID" : 3610449,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571665",
-        "source" : "3571068",
-        "target" : "3570990",
+        "id" : "3610446",
+        "source" : "3609849",
+        "target" : "3609771",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arBrigidaBaltar (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571665,
+        "SUID" : 3610446,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571662",
-        "source" : "3571068",
-        "target" : "3571080",
+        "id" : "3610443",
+        "source" : "3609849",
+        "target" : "3609861",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arNeideSa",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arNeideSa",
         "interaction" : "-",
-        "SUID" : 3571662,
+        "SUID" : 3610443,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571659",
-        "source" : "3571068",
-        "target" : "3571077",
+        "id" : "3610440",
+        "source" : "3609849",
+        "target" : "3609858",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arLenoraBarros",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arLenoraBarros",
         "interaction" : "-",
-        "SUID" : 3571659,
+        "SUID" : 3610440,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571656",
-        "source" : "3571068",
-        "target" : "3571074",
+        "id" : "3610437",
+        "source" : "3609849",
+        "target" : "3609855",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arMiraSchendel",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arMiraSchendel",
         "interaction" : "-",
-        "SUID" : 3571656,
+        "SUID" : 3610437,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571653",
-        "source" : "3571068",
-        "target" : "3571071",
+        "id" : "3610434",
+        "source" : "3609849",
+        "target" : "3609852",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBrigidaBaltar (-) arBeatrizMilhazes",
         "shared_interaction" : "-",
         "name" : "arBrigidaBaltar (-) arBeatrizMilhazes",
         "interaction" : "-",
-        "SUID" : 3571653,
+        "SUID" : 3610434,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571650",
-        "source" : "3571059",
-        "target" : "3571062",
+        "id" : "3610431",
+        "source" : "3609840",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJohannBach (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arJohannBach (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571650,
+        "SUID" : 3610431,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571647",
-        "source" : "3571056",
-        "target" : "3571062",
+        "id" : "3610428",
+        "source" : "3609837",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndyWarhol (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arAndyWarhol (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571647,
+        "SUID" : 3610428,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571644",
-        "source" : "3571056",
-        "target" : "3571059",
+        "id" : "3610425",
+        "source" : "3609837",
+        "target" : "3609840",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndyWarhol (-) arJohannBach",
         "shared_interaction" : "-",
         "name" : "arAndyWarhol (-) arJohannBach",
         "interaction" : "-",
-        "SUID" : 3571644,
+        "SUID" : 3610425,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571641",
-        "source" : "3571053",
-        "target" : "3571062",
+        "id" : "3610422",
+        "source" : "3609834",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRobertRauschenberg (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arRobertRauschenberg (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571641,
+        "SUID" : 3610422,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571638",
-        "source" : "3571053",
-        "target" : "3571059",
+        "id" : "3610419",
+        "source" : "3609834",
+        "target" : "3609840",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRobertRauschenberg (-) arJohannBach",
         "shared_interaction" : "-",
         "name" : "arRobertRauschenberg (-) arJohannBach",
         "interaction" : "-",
-        "SUID" : 3571638,
+        "SUID" : 3610419,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571635",
-        "source" : "3571053",
-        "target" : "3571056",
+        "id" : "3610416",
+        "source" : "3609834",
+        "target" : "3609837",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRobertRauschenberg (-) arAndyWarhol",
         "shared_interaction" : "-",
         "name" : "arRobertRauschenberg (-) arAndyWarhol",
         "interaction" : "-",
-        "SUID" : 3571635,
+        "SUID" : 3610416,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571632",
-        "source" : "3571050",
-        "target" : "3571062",
+        "id" : "3610413",
+        "source" : "3609831",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanDubuffet (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arJeanDubuffet (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571632,
+        "SUID" : 3610413,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571629",
-        "source" : "3571050",
-        "target" : "3571059",
+        "id" : "3610410",
+        "source" : "3609831",
+        "target" : "3609840",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanDubuffet (-) arJohannBach",
         "shared_interaction" : "-",
         "name" : "arJeanDubuffet (-) arJohannBach",
         "interaction" : "-",
-        "SUID" : 3571629,
+        "SUID" : 3610410,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571626",
-        "source" : "3571050",
-        "target" : "3571056",
+        "id" : "3610407",
+        "source" : "3609831",
+        "target" : "3609837",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanDubuffet (-) arAndyWarhol",
         "shared_interaction" : "-",
         "name" : "arJeanDubuffet (-) arAndyWarhol",
         "interaction" : "-",
-        "SUID" : 3571626,
+        "SUID" : 3610407,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571623",
-        "source" : "3571050",
-        "target" : "3571053",
+        "id" : "3610404",
+        "source" : "3609831",
+        "target" : "3609834",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanDubuffet (-) arRobertRauschenberg",
         "shared_interaction" : "-",
         "name" : "arJeanDubuffet (-) arRobertRauschenberg",
         "interaction" : "-",
-        "SUID" : 3571623,
+        "SUID" : 3610404,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571620",
-        "source" : "3571047",
-        "target" : "3571062",
+        "id" : "3610401",
+        "source" : "3609828",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeonardoVinci (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arLeonardoVinci (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571620,
+        "SUID" : 3610401,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571617",
-        "source" : "3571047",
-        "target" : "3571059",
+        "id" : "3610398",
+        "source" : "3609828",
+        "target" : "3609840",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeonardoVinci (-) arJohannBach",
         "shared_interaction" : "-",
         "name" : "arLeonardoVinci (-) arJohannBach",
         "interaction" : "-",
-        "SUID" : 3571617,
+        "SUID" : 3610398,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571614",
-        "source" : "3571047",
-        "target" : "3571056",
+        "id" : "3610395",
+        "source" : "3609828",
+        "target" : "3609837",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeonardoVinci (-) arAndyWarhol",
         "shared_interaction" : "-",
         "name" : "arLeonardoVinci (-) arAndyWarhol",
         "interaction" : "-",
-        "SUID" : 3571614,
+        "SUID" : 3610395,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571611",
-        "source" : "3571047",
-        "target" : "3571053",
+        "id" : "3610392",
+        "source" : "3609828",
+        "target" : "3609834",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeonardoVinci (-) arRobertRauschenberg",
         "shared_interaction" : "-",
         "name" : "arLeonardoVinci (-) arRobertRauschenberg",
         "interaction" : "-",
-        "SUID" : 3571611,
+        "SUID" : 3610392,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571608",
-        "source" : "3571047",
-        "target" : "3571050",
+        "id" : "3610389",
+        "source" : "3609828",
+        "target" : "3609831",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeonardoVinci (-) arJeanDubuffet",
         "shared_interaction" : "-",
         "name" : "arLeonardoVinci (-) arJeanDubuffet",
         "interaction" : "-",
-        "SUID" : 3571608,
+        "SUID" : 3610389,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571605",
-        "source" : "3571044",
-        "target" : "3571062",
+        "id" : "3610386",
+        "source" : "3609825",
+        "target" : "3609843",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arMauriceRavel",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arMauriceRavel",
         "interaction" : "-",
-        "SUID" : 3571605,
+        "SUID" : 3610386,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571602",
-        "source" : "3571044",
-        "target" : "3571059",
+        "id" : "3610383",
+        "source" : "3609825",
+        "target" : "3609840",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arJohannBach",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arJohannBach",
         "interaction" : "-",
-        "SUID" : 3571602,
+        "SUID" : 3610383,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571599",
-        "source" : "3571044",
-        "target" : "3571056",
+        "id" : "3610380",
+        "source" : "3609825",
+        "target" : "3609837",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arAndyWarhol",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arAndyWarhol",
         "interaction" : "-",
-        "SUID" : 3571599,
+        "SUID" : 3610380,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571596",
-        "source" : "3571044",
-        "target" : "3571053",
+        "id" : "3610377",
+        "source" : "3609825",
+        "target" : "3609834",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arRobertRauschenberg",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arRobertRauschenberg",
         "interaction" : "-",
-        "SUID" : 3571596,
+        "SUID" : 3610377,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571593",
-        "source" : "3571044",
-        "target" : "3571050",
+        "id" : "3610374",
+        "source" : "3609825",
+        "target" : "3609831",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arJeanDubuffet",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arJeanDubuffet",
         "interaction" : "-",
-        "SUID" : 3571593,
+        "SUID" : 3610374,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571590",
-        "source" : "3571044",
-        "target" : "3571047",
+        "id" : "3610371",
+        "source" : "3609825",
+        "target" : "3609828",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJeanMichelBasquiat (-) arLeonardoVinci",
         "shared_interaction" : "-",
         "name" : "arJeanMichelBasquiat (-) arLeonardoVinci",
         "interaction" : "-",
-        "SUID" : 3571590,
+        "SUID" : 3610371,
         "text" : "oFermento201811-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571584",
-        "source" : "3571035",
-        "target" : "3570993",
+        "id" : "3610365",
+        "source" : "3609816",
+        "target" : "3609774",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arRubensGerchman (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arRubensGerchman (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571584,
+        "SUID" : 3610365,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571581",
-        "source" : "3571035",
-        "target" : "3570999",
+        "id" : "3610362",
+        "source" : "3609816",
+        "target" : "3609780",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arRubensGerchman (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arRubensGerchman (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571581,
+        "SUID" : 3610362,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571578",
-        "source" : "3571032",
-        "target" : "3570993",
+        "id" : "3610359",
+        "source" : "3609813",
+        "target" : "3609774",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arCarlosSantos (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arCarlosSantos (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571578,
+        "SUID" : 3610359,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571575",
-        "source" : "3571032",
-        "target" : "3570999",
+        "id" : "3610356",
+        "source" : "3609813",
+        "target" : "3609780",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arCarlosSantos (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arCarlosSantos (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571575,
+        "SUID" : 3610356,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571572",
-        "source" : "3571032",
-        "target" : "3571035",
+        "id" : "3610353",
+        "source" : "3609813",
+        "target" : "3609816",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCarlosSantos (-) arRubensGerchman",
         "shared_interaction" : "-",
         "name" : "arCarlosSantos (-) arRubensGerchman",
         "interaction" : "-",
-        "SUID" : 3571572,
+        "SUID" : 3610353,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571569",
-        "source" : "3571029",
-        "target" : "3570993",
+        "id" : "3610350",
+        "source" : "3609810",
+        "target" : "3609774",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arAntonioDias (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arAntonioDias (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571569,
+        "SUID" : 3610350,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571566",
-        "source" : "3571029",
-        "target" : "3570999",
+        "id" : "3610347",
+        "source" : "3609810",
+        "target" : "3609780",
         "EdgeBetweenness" : 44.0,
         "shared_name" : "arAntonioDias (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arAntonioDias (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571566,
+        "SUID" : 3610347,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571563",
-        "source" : "3571029",
-        "target" : "3571035",
+        "id" : "3610344",
+        "source" : "3609810",
+        "target" : "3609816",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAntonioDias (-) arRubensGerchman",
         "shared_interaction" : "-",
         "name" : "arAntonioDias (-) arRubensGerchman",
         "interaction" : "-",
-        "SUID" : 3571563,
+        "SUID" : 3610344,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571560",
-        "source" : "3571029",
-        "target" : "3571032",
+        "id" : "3610341",
+        "source" : "3609810",
+        "target" : "3609813",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAntonioDias (-) arCarlosSantos",
         "shared_interaction" : "-",
         "name" : "arAntonioDias (-) arCarlosSantos",
         "interaction" : "-",
-        "SUID" : 3571560,
+        "SUID" : 3610341,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571557",
-        "source" : "3571023",
-        "target" : "3571026",
+        "id" : "3610338",
+        "source" : "3609804",
+        "target" : "3609807",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRonaldoBastos (-) arMiltonNascimento",
         "shared_interaction" : "-",
         "name" : "arRonaldoBastos (-) arMiltonNascimento",
         "interaction" : "-",
-        "SUID" : 3571557,
+        "SUID" : 3610338,
         "text" : "oFermento201809-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571554",
-        "source" : "3571020",
-        "target" : "3571026",
+        "id" : "3610335",
+        "source" : "3609801",
+        "target" : "3609807",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRodrigoBraga (-) arMiltonNascimento",
         "shared_interaction" : "-",
         "name" : "arRodrigoBraga (-) arMiltonNascimento",
         "interaction" : "-",
-        "SUID" : 3571554,
+        "SUID" : 3610335,
         "text" : "oFermento201809-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571551",
-        "source" : "3571020",
-        "target" : "3571023",
+        "id" : "3610332",
+        "source" : "3609801",
+        "target" : "3609804",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRodrigoBraga (-) arRonaldoBastos",
         "shared_interaction" : "-",
         "name" : "arRodrigoBraga (-) arRonaldoBastos",
         "interaction" : "-",
-        "SUID" : 3571551,
+        "SUID" : 3610332,
         "text" : "oFermento201809-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571548",
-        "source" : "3571005",
-        "target" : "3571008",
+        "id" : "3610329",
+        "source" : "3609786",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJulioParc (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arJulioParc (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571548,
+        "SUID" : 3610329,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571545",
-        "source" : "3571002",
-        "target" : "3571008",
+        "id" : "3610326",
+        "source" : "3609783",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWillysCastro (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arWillysCastro (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571545,
+        "SUID" : 3610326,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571542",
-        "source" : "3571002",
-        "target" : "3571005",
+        "id" : "3610323",
+        "source" : "3609783",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWillysCastro (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arWillysCastro (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571542,
+        "SUID" : 3610323,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571587",
-        "source" : "3570999",
-        "target" : "3570993",
+        "id" : "3610368",
+        "source" : "3609780",
+        "target" : "3609774",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIvanSerpa (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arIvanSerpa (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571587,
+        "SUID" : 3610368,
         "text" : "oFermento201810-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571539",
-        "source" : "3570999",
-        "target" : "3571008",
+        "id" : "3610320",
+        "source" : "3609780",
+        "target" : "3609789",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arIvanSerpa (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arIvanSerpa (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571539,
+        "SUID" : 3610320,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571536",
-        "source" : "3570999",
-        "target" : "3571005",
+        "id" : "3610317",
+        "source" : "3609780",
+        "target" : "3609786",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arIvanSerpa (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arIvanSerpa (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571536,
+        "SUID" : 3610317,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571533",
-        "source" : "3570999",
-        "target" : "3571002",
+        "id" : "3610314",
+        "source" : "3609780",
+        "target" : "3609783",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arIvanSerpa (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arIvanSerpa (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571533,
+        "SUID" : 3610314,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571530",
-        "source" : "3570996",
-        "target" : "3571008",
+        "id" : "3610311",
+        "source" : "3609777",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAlfredoVolpi (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arAlfredoVolpi (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571530,
+        "SUID" : 3610311,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571527",
-        "source" : "3570996",
-        "target" : "3571005",
+        "id" : "3610308",
+        "source" : "3609777",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAlfredoVolpi (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arAlfredoVolpi (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571527,
+        "SUID" : 3610308,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571524",
-        "source" : "3570996",
-        "target" : "3571002",
+        "id" : "3610305",
+        "source" : "3609777",
+        "target" : "3609783",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAlfredoVolpi (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arAlfredoVolpi (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571524,
+        "SUID" : 3610305,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571521",
-        "source" : "3570996",
-        "target" : "3570999",
+        "id" : "3610302",
+        "source" : "3609777",
+        "target" : "3609780",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arAlfredoVolpi (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arAlfredoVolpi (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571521,
+        "SUID" : 3610302,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571518",
-        "source" : "3570993",
-        "target" : "3571008",
+        "id" : "3610299",
+        "source" : "3609774",
+        "target" : "3609789",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arWaldemarCordeiro (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arWaldemarCordeiro (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571518,
+        "SUID" : 3610299,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571515",
-        "source" : "3570993",
-        "target" : "3571005",
+        "id" : "3610296",
+        "source" : "3609774",
+        "target" : "3609786",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arWaldemarCordeiro (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arWaldemarCordeiro (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571515,
+        "SUID" : 3610296,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571512",
-        "source" : "3570993",
-        "target" : "3571002",
+        "id" : "3610293",
+        "source" : "3609774",
+        "target" : "3609783",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arWaldemarCordeiro (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arWaldemarCordeiro (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571512,
+        "SUID" : 3610293,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571509",
-        "source" : "3570993",
-        "target" : "3570999",
+        "id" : "3610290",
+        "source" : "3609774",
+        "target" : "3609780",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWaldemarCordeiro (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arWaldemarCordeiro (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571509,
+        "SUID" : 3610290,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571506",
-        "source" : "3570993",
-        "target" : "3570996",
+        "id" : "3610287",
+        "source" : "3609774",
+        "target" : "3609777",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arWaldemarCordeiro (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arWaldemarCordeiro (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571506,
+        "SUID" : 3610287,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571875",
-        "source" : "3570990",
-        "target" : "3571179",
+        "id" : "3610656",
+        "source" : "3609771",
+        "target" : "3609960",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3571875,
+        "SUID" : 3610656,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571872",
-        "source" : "3570990",
-        "target" : "3570924",
+        "id" : "3610653",
+        "source" : "3609771",
+        "target" : "3609705",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571872,
+        "SUID" : 3610653,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571869",
-        "source" : "3570990",
-        "target" : "3570936",
+        "id" : "3610650",
+        "source" : "3609771",
+        "target" : "3609717",
         "EdgeBetweenness" : 14.0,
         "shared_name" : "arAnnaMaiolino (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571869,
+        "SUID" : 3610650,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571866",
-        "source" : "3570990",
-        "target" : "3570927",
+        "id" : "3610647",
+        "source" : "3609771",
+        "target" : "3609708",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arAnnaGeiger",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arAnnaGeiger",
         "interaction" : "-",
-        "SUID" : 3571866,
+        "SUID" : 3610647,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571863",
-        "source" : "3570990",
-        "target" : "3571098",
+        "id" : "3610644",
+        "source" : "3609771",
+        "target" : "3609879",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arAmeliaCosta",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arAmeliaCosta",
         "interaction" : "-",
-        "SUID" : 3571863,
+        "SUID" : 3610644,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571860",
-        "source" : "3570990",
-        "target" : "3571095",
+        "id" : "3610641",
+        "source" : "3609771",
+        "target" : "3609876",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arMagdalenaFaro",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arMagdalenaFaro",
         "interaction" : "-",
-        "SUID" : 3571860,
+        "SUID" : 3610641,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571857",
-        "source" : "3570990",
-        "target" : "3571092",
+        "id" : "3610638",
+        "source" : "3609771",
+        "target" : "3609873",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arMariaNepomuceno",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arMariaNepomuceno",
         "interaction" : "-",
-        "SUID" : 3571857,
+        "SUID" : 3610638,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571854",
-        "source" : "3570990",
-        "target" : "3571089",
+        "id" : "3610635",
+        "source" : "3609771",
+        "target" : "3609870",
         "EdgeBetweenness" : 176.0,
         "shared_name" : "arAnnaMaiolino (-) arMariaMartins",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arMariaMartins",
         "interaction" : "-",
-        "SUID" : 3571854,
+        "SUID" : 3610635,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571851",
-        "source" : "3570990",
-        "target" : "3571086",
+        "id" : "3610632",
+        "source" : "3609771",
+        "target" : "3609867",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arCristinaSalgado",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arCristinaSalgado",
         "interaction" : "-",
-        "SUID" : 3571851,
+        "SUID" : 3610632,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571848",
-        "source" : "3570990",
-        "target" : "3571083",
+        "id" : "3610629",
+        "source" : "3609771",
+        "target" : "3609864",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arAnnaMaiolino (-) arLouiseBourgeois",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arLouiseBourgeois",
         "interaction" : "-",
-        "SUID" : 3571848,
+        "SUID" : 3610629,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571503",
-        "source" : "3570990",
-        "target" : "3571008",
+        "id" : "3610284",
+        "source" : "3609771",
+        "target" : "3609789",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arAnnaMaiolino (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571503,
+        "SUID" : 3610284,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571500",
-        "source" : "3570990",
-        "target" : "3571005",
+        "id" : "3610281",
+        "source" : "3609771",
+        "target" : "3609786",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arAnnaMaiolino (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571500,
+        "SUID" : 3610281,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571497",
-        "source" : "3570990",
-        "target" : "3571002",
+        "id" : "3610278",
+        "source" : "3609771",
+        "target" : "3609783",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arAnnaMaiolino (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571497,
+        "SUID" : 3610278,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571494",
-        "source" : "3570990",
-        "target" : "3570999",
+        "id" : "3610275",
+        "source" : "3609771",
+        "target" : "3609780",
         "EdgeBetweenness" : 65.0,
         "shared_name" : "arAnnaMaiolino (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571494,
+        "SUID" : 3610275,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571491",
-        "source" : "3570990",
-        "target" : "3570996",
+        "id" : "3610272",
+        "source" : "3609771",
+        "target" : "3609777",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arAnnaMaiolino (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571491,
+        "SUID" : 3610272,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571488",
-        "source" : "3570990",
-        "target" : "3570993",
+        "id" : "3610269",
+        "source" : "3609771",
+        "target" : "3609774",
         "EdgeBetweenness" : 65.0,
         "shared_name" : "arAnnaMaiolino (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arAnnaMaiolino (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571488,
+        "SUID" : 3610269,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572061",
-        "source" : "3570987",
-        "target" : "3570936",
+        "id" : "3610842",
+        "source" : "3609768",
+        "target" : "3609717",
         "EdgeBetweenness" : 36.0,
         "shared_name" : "arLygiaPape (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3572061,
+        "SUID" : 3610842,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572058",
-        "source" : "3570987",
-        "target" : "3571137",
+        "id" : "3610839",
+        "source" : "3609768",
+        "target" : "3609918",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arLygiaPape (-) arAluisioCarvao",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arAluisioCarvao",
         "interaction" : "-",
-        "SUID" : 3572058,
+        "SUID" : 3610839,
         "text" : "oFermento201902-003",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571485",
-        "source" : "3570987",
-        "target" : "3571008",
+        "id" : "3610266",
+        "source" : "3609768",
+        "target" : "3609789",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arLygiaPape (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571485,
+        "SUID" : 3610266,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571482",
-        "source" : "3570987",
-        "target" : "3571005",
+        "id" : "3610263",
+        "source" : "3609768",
+        "target" : "3609786",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arLygiaPape (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571482,
+        "SUID" : 3610263,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571479",
-        "source" : "3570987",
-        "target" : "3571002",
+        "id" : "3610260",
+        "source" : "3609768",
+        "target" : "3609783",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arLygiaPape (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571479,
+        "SUID" : 3610260,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571476",
-        "source" : "3570987",
-        "target" : "3570999",
+        "id" : "3610257",
+        "source" : "3609768",
+        "target" : "3609780",
         "EdgeBetweenness" : 10.0,
         "shared_name" : "arLygiaPape (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571476,
+        "SUID" : 3610257,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571473",
-        "source" : "3570987",
-        "target" : "3570996",
+        "id" : "3610254",
+        "source" : "3609768",
+        "target" : "3609777",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arLygiaPape (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571473,
+        "SUID" : 3610254,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571470",
-        "source" : "3570987",
-        "target" : "3570993",
+        "id" : "3610251",
+        "source" : "3609768",
+        "target" : "3609774",
         "EdgeBetweenness" : 10.0,
         "shared_name" : "arLygiaPape (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571470,
+        "SUID" : 3610251,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571467",
-        "source" : "3570987",
-        "target" : "3570990",
+        "id" : "3610248",
+        "source" : "3609768",
+        "target" : "3609771",
         "EdgeBetweenness" : 28.0,
         "shared_name" : "arLygiaPape (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arLygiaPape (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571467,
+        "SUID" : 3610248,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571440",
-        "source" : "3570984",
-        "target" : "3571008",
+        "id" : "3610221",
+        "source" : "3609765",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIranSanto (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571440,
+        "SUID" : 3610221,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571437",
-        "source" : "3570984",
-        "target" : "3571005",
+        "id" : "3610218",
+        "source" : "3609765",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIranSanto (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571437,
+        "SUID" : 3610218,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571434",
-        "source" : "3570984",
-        "target" : "3571002",
+        "id" : "3610215",
+        "source" : "3609765",
+        "target" : "3609783",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIranSanto (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571434,
+        "SUID" : 3610215,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571431",
-        "source" : "3570984",
-        "target" : "3570999",
+        "id" : "3610212",
+        "source" : "3609765",
+        "target" : "3609780",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arIranSanto (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571431,
+        "SUID" : 3610212,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571428",
-        "source" : "3570984",
-        "target" : "3570996",
+        "id" : "3610209",
+        "source" : "3609765",
+        "target" : "3609777",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIranSanto (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571428,
+        "SUID" : 3610209,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571425",
-        "source" : "3570984",
-        "target" : "3570993",
+        "id" : "3610206",
+        "source" : "3609765",
+        "target" : "3609774",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arIranSanto (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571425,
+        "SUID" : 3610206,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571422",
-        "source" : "3570984",
-        "target" : "3570990",
+        "id" : "3610203",
+        "source" : "3609765",
+        "target" : "3609771",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arIranSanto (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571422,
+        "SUID" : 3610203,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571419",
-        "source" : "3570984",
-        "target" : "3570987",
+        "id" : "3610200",
+        "source" : "3609765",
+        "target" : "3609768",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arIranSanto (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3571419,
+        "SUID" : 3610200,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571416",
-        "source" : "3570984",
-        "target" : "3570936",
+        "id" : "3610197",
+        "source" : "3609765",
+        "target" : "3609717",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arIranSanto (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arIranSanto (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571416,
+        "SUID" : 3610197,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571413",
-        "source" : "3570981",
-        "target" : "3571008",
+        "id" : "3610194",
+        "source" : "3609762",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoMonzon (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571413,
+        "SUID" : 3610194,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571410",
-        "source" : "3570981",
-        "target" : "3571005",
+        "id" : "3610191",
+        "source" : "3609762",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoMonzon (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571410,
+        "SUID" : 3610191,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571407",
-        "source" : "3570981",
-        "target" : "3571002",
+        "id" : "3610188",
+        "source" : "3609762",
+        "target" : "3609783",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoMonzon (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571407,
+        "SUID" : 3610188,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571404",
-        "source" : "3570981",
-        "target" : "3570999",
+        "id" : "3610185",
+        "source" : "3609762",
+        "target" : "3609780",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arGustavoMonzon (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571404,
+        "SUID" : 3610185,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571401",
-        "source" : "3570981",
-        "target" : "3570996",
+        "id" : "3610182",
+        "source" : "3609762",
+        "target" : "3609777",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoMonzon (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571401,
+        "SUID" : 3610182,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571398",
-        "source" : "3570981",
-        "target" : "3570993",
+        "id" : "3610179",
+        "source" : "3609762",
+        "target" : "3609774",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arGustavoMonzon (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571398,
+        "SUID" : 3610179,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571395",
-        "source" : "3570981",
-        "target" : "3570990",
+        "id" : "3610176",
+        "source" : "3609762",
+        "target" : "3609771",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arGustavoMonzon (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571395,
+        "SUID" : 3610176,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571392",
-        "source" : "3570981",
-        "target" : "3570987",
+        "id" : "3610173",
+        "source" : "3609762",
+        "target" : "3609768",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arGustavoMonzon (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3571392,
+        "SUID" : 3610173,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571389",
-        "source" : "3570981",
-        "target" : "3570936",
+        "id" : "3610170",
+        "source" : "3609762",
+        "target" : "3609717",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arGustavoMonzon (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571389,
+        "SUID" : 3610170,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571386",
-        "source" : "3570981",
-        "target" : "3570984",
+        "id" : "3610167",
+        "source" : "3609762",
+        "target" : "3609765",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoMonzon (-) arIranSanto",
         "shared_interaction" : "-",
         "name" : "arGustavoMonzon (-) arIranSanto",
         "interaction" : "-",
-        "SUID" : 3571386,
+        "SUID" : 3610167,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571383",
-        "source" : "3570978",
-        "target" : "3571008",
+        "id" : "3610164",
+        "source" : "3609759",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571383,
+        "SUID" : 3610164,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571380",
-        "source" : "3570978",
-        "target" : "3571005",
+        "id" : "3610161",
+        "source" : "3609759",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571380,
+        "SUID" : 3610161,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571377",
-        "source" : "3570978",
-        "target" : "3571002",
+        "id" : "3610158",
+        "source" : "3609759",
+        "target" : "3609783",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571377,
+        "SUID" : 3610158,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571374",
-        "source" : "3570978",
-        "target" : "3570999",
+        "id" : "3610155",
+        "source" : "3609759",
+        "target" : "3609780",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arMichelSeuphor (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571374,
+        "SUID" : 3610155,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571371",
-        "source" : "3570978",
-        "target" : "3570996",
+        "id" : "3610152",
+        "source" : "3609759",
+        "target" : "3609777",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571371,
+        "SUID" : 3610152,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571368",
-        "source" : "3570978",
-        "target" : "3570993",
+        "id" : "3610149",
+        "source" : "3609759",
+        "target" : "3609774",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arMichelSeuphor (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571368,
+        "SUID" : 3610149,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571365",
-        "source" : "3570978",
-        "target" : "3570990",
+        "id" : "3610146",
+        "source" : "3609759",
+        "target" : "3609771",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arMichelSeuphor (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571365,
+        "SUID" : 3610146,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571362",
-        "source" : "3570978",
-        "target" : "3570987",
+        "id" : "3610143",
+        "source" : "3609759",
+        "target" : "3609768",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arMichelSeuphor (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3571362,
+        "SUID" : 3610143,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571359",
-        "source" : "3570978",
-        "target" : "3570936",
+        "id" : "3610140",
+        "source" : "3609759",
+        "target" : "3609717",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arMichelSeuphor (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571359,
+        "SUID" : 3610140,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571356",
-        "source" : "3570978",
-        "target" : "3570984",
+        "id" : "3610137",
+        "source" : "3609759",
+        "target" : "3609765",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arIranSanto",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arIranSanto",
         "interaction" : "-",
-        "SUID" : 3571356,
+        "SUID" : 3610137,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571353",
-        "source" : "3570978",
-        "target" : "3570981",
+        "id" : "3610134",
+        "source" : "3609759",
+        "target" : "3609762",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelSeuphor (-) arGustavoMonzon",
         "shared_interaction" : "-",
         "name" : "arMichelSeuphor (-) arGustavoMonzon",
         "interaction" : "-",
-        "SUID" : 3571353,
+        "SUID" : 3610134,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571350",
-        "source" : "3570975",
-        "target" : "3571008",
+        "id" : "3610131",
+        "source" : "3609756",
+        "target" : "3609789",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571350,
+        "SUID" : 3610131,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571347",
-        "source" : "3570975",
-        "target" : "3571005",
+        "id" : "3610128",
+        "source" : "3609756",
+        "target" : "3609786",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571347,
+        "SUID" : 3610128,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571344",
-        "source" : "3570975",
-        "target" : "3571002",
+        "id" : "3610125",
+        "source" : "3609756",
+        "target" : "3609783",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571344,
+        "SUID" : 3610125,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571341",
-        "source" : "3570975",
-        "target" : "3570999",
+        "id" : "3610122",
+        "source" : "3609756",
+        "target" : "3609780",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arPietMondrian (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571341,
+        "SUID" : 3610122,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571338",
-        "source" : "3570975",
-        "target" : "3570996",
+        "id" : "3610119",
+        "source" : "3609756",
+        "target" : "3609777",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571338,
+        "SUID" : 3610119,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571335",
-        "source" : "3570975",
-        "target" : "3570993",
+        "id" : "3610116",
+        "source" : "3609756",
+        "target" : "3609774",
         "EdgeBetweenness" : 5.0,
         "shared_name" : "arPietMondrian (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571335,
+        "SUID" : 3610116,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571332",
-        "source" : "3570975",
-        "target" : "3570990",
+        "id" : "3610113",
+        "source" : "3609756",
+        "target" : "3609771",
         "EdgeBetweenness" : 26.0,
         "shared_name" : "arPietMondrian (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571332,
+        "SUID" : 3610113,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571329",
-        "source" : "3570975",
-        "target" : "3570987",
+        "id" : "3610110",
+        "source" : "3609756",
+        "target" : "3609768",
         "EdgeBetweenness" : 4.0,
         "shared_name" : "arPietMondrian (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3571329,
+        "SUID" : 3610110,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571326",
-        "source" : "3570975",
-        "target" : "3570936",
+        "id" : "3610107",
+        "source" : "3609756",
+        "target" : "3609717",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arPietMondrian (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571326,
+        "SUID" : 3610107,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571323",
-        "source" : "3570975",
-        "target" : "3570984",
+        "id" : "3610104",
+        "source" : "3609756",
+        "target" : "3609765",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arIranSanto",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arIranSanto",
         "interaction" : "-",
-        "SUID" : 3571323,
+        "SUID" : 3610104,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571320",
-        "source" : "3570975",
-        "target" : "3570981",
+        "id" : "3610101",
+        "source" : "3609756",
+        "target" : "3609762",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arGustavoMonzon",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arGustavoMonzon",
         "interaction" : "-",
-        "SUID" : 3571320,
+        "SUID" : 3610101,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571317",
-        "source" : "3570975",
-        "target" : "3570978",
+        "id" : "3610098",
+        "source" : "3609756",
+        "target" : "3609759",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPietMondrian (-) arMichelSeuphor",
         "shared_interaction" : "-",
         "name" : "arPietMondrian (-) arMichelSeuphor",
         "interaction" : "-",
-        "SUID" : 3571317,
+        "SUID" : 3610098,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572025",
-        "source" : "3570972",
-        "target" : "3571107",
+        "id" : "3610806",
+        "source" : "3609753",
+        "target" : "3609888",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arOscarNiemeyer (-) arCandidoPortinari",
         "shared_interaction" : "-",
         "name" : "arOscarNiemeyer (-) arCandidoPortinari",
         "interaction" : "-",
-        "SUID" : 3572025,
+        "SUID" : 3610806,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572022",
-        "source" : "3570972",
-        "target" : "3571104",
+        "id" : "3610803",
+        "source" : "3609753",
+        "target" : "3609885",
         "EdgeBetweenness" : 16.0,
         "shared_name" : "arOscarNiemeyer (-) arJoaoLima",
         "shared_interaction" : "-",
         "name" : "arOscarNiemeyer (-) arJoaoLima",
         "interaction" : "-",
-        "SUID" : 3572022,
+        "SUID" : 3610803,
         "text" : "oFermento201812-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571314",
-        "source" : "3570969",
-        "target" : "3570972",
+        "id" : "3610095",
+        "source" : "3609750",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arJoaquinGarcia (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arJoaquinGarcia (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571314,
+        "SUID" : 3610095,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571311",
-        "source" : "3570966",
-        "target" : "3570972",
+        "id" : "3610092",
+        "source" : "3609747",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arMariaLeontina (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arMariaLeontina (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571311,
+        "SUID" : 3610092,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571308",
-        "source" : "3570966",
-        "target" : "3570969",
+        "id" : "3610089",
+        "source" : "3609747",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMariaLeontina (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arMariaLeontina (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571308,
+        "SUID" : 3610089,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571305",
-        "source" : "3570963",
-        "target" : "3570972",
+        "id" : "3610086",
+        "source" : "3609744",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arEdouardManet (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arEdouardManet (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571305,
+        "SUID" : 3610086,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571302",
-        "source" : "3570963",
-        "target" : "3570969",
+        "id" : "3610083",
+        "source" : "3609744",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdouardManet (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arEdouardManet (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571302,
+        "SUID" : 3610083,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571299",
-        "source" : "3570963",
-        "target" : "3570966",
+        "id" : "3610080",
+        "source" : "3609744",
+        "target" : "3609747",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdouardManet (-) arMariaLeontina",
         "shared_interaction" : "-",
         "name" : "arEdouardManet (-) arMariaLeontina",
         "interaction" : "-",
-        "SUID" : 3571299,
+        "SUID" : 3610080,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571296",
-        "source" : "3570960",
-        "target" : "3570972",
+        "id" : "3610077",
+        "source" : "3609741",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arMichelangeloMerisi (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arMichelangeloMerisi (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571296,
+        "SUID" : 3610077,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571293",
-        "source" : "3570960",
-        "target" : "3570969",
+        "id" : "3610074",
+        "source" : "3609741",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelangeloMerisi (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arMichelangeloMerisi (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571293,
+        "SUID" : 3610074,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571290",
-        "source" : "3570960",
-        "target" : "3570966",
+        "id" : "3610071",
+        "source" : "3609741",
+        "target" : "3609747",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelangeloMerisi (-) arMariaLeontina",
         "shared_interaction" : "-",
         "name" : "arMichelangeloMerisi (-) arMariaLeontina",
         "interaction" : "-",
-        "SUID" : 3571290,
+        "SUID" : 3610071,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571287",
-        "source" : "3570960",
-        "target" : "3570963",
+        "id" : "3610068",
+        "source" : "3609741",
+        "target" : "3609744",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMichelangeloMerisi (-) arEdouardManet",
         "shared_interaction" : "-",
         "name" : "arMichelangeloMerisi (-) arEdouardManet",
         "interaction" : "-",
-        "SUID" : 3571287,
+        "SUID" : 3610068,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571284",
-        "source" : "3570957",
-        "target" : "3570972",
+        "id" : "3610065",
+        "source" : "3609738",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arLaszloNagy (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arLaszloNagy (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571284,
+        "SUID" : 3610065,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571281",
-        "source" : "3570957",
-        "target" : "3570969",
+        "id" : "3610062",
+        "source" : "3609738",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaszloNagy (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arLaszloNagy (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571281,
+        "SUID" : 3610062,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571278",
-        "source" : "3570957",
-        "target" : "3570966",
+        "id" : "3610059",
+        "source" : "3609738",
+        "target" : "3609747",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaszloNagy (-) arMariaLeontina",
         "shared_interaction" : "-",
         "name" : "arLaszloNagy (-) arMariaLeontina",
         "interaction" : "-",
-        "SUID" : 3571278,
+        "SUID" : 3610059,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571275",
-        "source" : "3570957",
-        "target" : "3570963",
+        "id" : "3610056",
+        "source" : "3609738",
+        "target" : "3609744",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaszloNagy (-) arEdouardManet",
         "shared_interaction" : "-",
         "name" : "arLaszloNagy (-) arEdouardManet",
         "interaction" : "-",
-        "SUID" : 3571275,
+        "SUID" : 3610056,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571272",
-        "source" : "3570957",
-        "target" : "3570960",
+        "id" : "3610053",
+        "source" : "3609738",
+        "target" : "3609741",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLaszloNagy (-) arMichelangeloMerisi",
         "shared_interaction" : "-",
         "name" : "arLaszloNagy (-) arMichelangeloMerisi",
         "interaction" : "-",
-        "SUID" : 3571272,
+        "SUID" : 3610053,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571269",
-        "source" : "3570954",
-        "target" : "3570972",
+        "id" : "3610050",
+        "source" : "3609735",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arEmanuelRudzitsky (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571269,
+        "SUID" : 3610050,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571266",
-        "source" : "3570954",
-        "target" : "3570969",
+        "id" : "3610047",
+        "source" : "3609735",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelRudzitsky (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571266,
+        "SUID" : 3610047,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571263",
-        "source" : "3570954",
-        "target" : "3570966",
+        "id" : "3610044",
+        "source" : "3609735",
+        "target" : "3609747",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelRudzitsky (-) arMariaLeontina",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arMariaLeontina",
         "interaction" : "-",
-        "SUID" : 3571263,
+        "SUID" : 3610044,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571260",
-        "source" : "3570954",
-        "target" : "3570963",
+        "id" : "3610041",
+        "source" : "3609735",
+        "target" : "3609744",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelRudzitsky (-) arEdouardManet",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arEdouardManet",
         "interaction" : "-",
-        "SUID" : 3571260,
+        "SUID" : 3610041,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571257",
-        "source" : "3570954",
-        "target" : "3570960",
+        "id" : "3610038",
+        "source" : "3609735",
+        "target" : "3609741",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelRudzitsky (-) arMichelangeloMerisi",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arMichelangeloMerisi",
         "interaction" : "-",
-        "SUID" : 3571257,
+        "SUID" : 3610038,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571254",
-        "source" : "3570954",
-        "target" : "3570957",
+        "id" : "3610035",
+        "source" : "3609735",
+        "target" : "3609738",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelRudzitsky (-) arLaszloNagy",
         "shared_interaction" : "-",
         "name" : "arEmanuelRudzitsky (-) arLaszloNagy",
         "interaction" : "-",
-        "SUID" : 3571254,
+        "SUID" : 3610035,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571251",
-        "source" : "3570951",
-        "target" : "3570972",
+        "id" : "3610032",
+        "source" : "3609732",
+        "target" : "3609753",
         "EdgeBetweenness" : 8.0,
         "shared_name" : "arVicenteMello (-) arOscarNiemeyer",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arOscarNiemeyer",
         "interaction" : "-",
-        "SUID" : 3571251,
+        "SUID" : 3610032,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571248",
-        "source" : "3570951",
-        "target" : "3570969",
+        "id" : "3610029",
+        "source" : "3609732",
+        "target" : "3609750",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arJoaquinGarcia",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arJoaquinGarcia",
         "interaction" : "-",
-        "SUID" : 3571248,
+        "SUID" : 3610029,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571245",
-        "source" : "3570951",
-        "target" : "3570966",
+        "id" : "3610026",
+        "source" : "3609732",
+        "target" : "3609747",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arMariaLeontina",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arMariaLeontina",
         "interaction" : "-",
-        "SUID" : 3571245,
+        "SUID" : 3610026,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571242",
-        "source" : "3570951",
-        "target" : "3570963",
+        "id" : "3610023",
+        "source" : "3609732",
+        "target" : "3609744",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arEdouardManet",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arEdouardManet",
         "interaction" : "-",
-        "SUID" : 3571242,
+        "SUID" : 3610023,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571239",
-        "source" : "3570951",
-        "target" : "3570960",
+        "id" : "3610020",
+        "source" : "3609732",
+        "target" : "3609741",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arMichelangeloMerisi",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arMichelangeloMerisi",
         "interaction" : "-",
-        "SUID" : 3571239,
+        "SUID" : 3610020,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571236",
-        "source" : "3570951",
-        "target" : "3570957",
+        "id" : "3610017",
+        "source" : "3609732",
+        "target" : "3609738",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arLaszloNagy",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arLaszloNagy",
         "interaction" : "-",
-        "SUID" : 3571236,
+        "SUID" : 3610017,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571233",
-        "source" : "3570951",
-        "target" : "3570954",
+        "id" : "3610014",
+        "source" : "3609732",
+        "target" : "3609735",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arVicenteMello (-) arEmanuelRudzitsky",
         "shared_interaction" : "-",
         "name" : "arVicenteMello (-) arEmanuelRudzitsky",
         "interaction" : "-",
-        "SUID" : 3571233,
+        "SUID" : 3610014,
         "text" : "oFermento201807-002",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571200",
-        "source" : "3570948",
-        "target" : "3570945",
+        "id" : "3609981",
+        "source" : "3609729",
+        "target" : "3609726",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIvensMachado (-) arAyrsonHeraclito",
         "shared_interaction" : "-",
         "name" : "arIvensMachado (-) arAyrsonHeraclito",
         "interaction" : "-",
-        "SUID" : 3571200,
+        "SUID" : 3609981,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571197",
-        "source" : "3570948",
-        "target" : "3570942",
+        "id" : "3609978",
+        "source" : "3609729",
+        "target" : "3609723",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIvensMachado (-) arLucianaMagno",
         "shared_interaction" : "-",
         "name" : "arIvensMachado (-) arLucianaMagno",
         "interaction" : "-",
-        "SUID" : 3571197,
+        "SUID" : 3609978,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571194",
-        "source" : "3570948",
-        "target" : "3570939",
+        "id" : "3609975",
+        "source" : "3609729",
+        "target" : "3609720",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIvensMachado (-) arBernaReale",
         "shared_interaction" : "-",
         "name" : "arIvensMachado (-) arBernaReale",
         "interaction" : "-",
-        "SUID" : 3571194,
+        "SUID" : 3609975,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571191",
-        "source" : "3570948",
-        "target" : "3570936",
+        "id" : "3609972",
+        "source" : "3609729",
+        "target" : "3609717",
         "EdgeBetweenness" : 84.0,
         "shared_name" : "arIvensMachado (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arIvensMachado (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571191,
+        "SUID" : 3609972,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571182",
-        "source" : "3570948",
-        "target" : "3570933",
+        "id" : "3609963",
+        "source" : "3609729",
+        "target" : "3609714",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIvensMachado (-) arHelioOiticica",
         "shared_interaction" : "-",
         "name" : "arIvensMachado (-) arHelioOiticica",
         "interaction" : "-",
-        "SUID" : 3571182,
+        "SUID" : 3609963,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571230",
-        "source" : "3570942",
-        "target" : "3570945",
+        "id" : "3610011",
+        "source" : "3609723",
+        "target" : "3609726",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianaMagno (-) arAyrsonHeraclito",
         "shared_interaction" : "-",
         "name" : "arLucianaMagno (-) arAyrsonHeraclito",
         "interaction" : "-",
-        "SUID" : 3571230,
+        "SUID" : 3610011,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571227",
-        "source" : "3570939",
-        "target" : "3570945",
+        "id" : "3610008",
+        "source" : "3609720",
+        "target" : "3609726",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBernaReale (-) arAyrsonHeraclito",
         "shared_interaction" : "-",
         "name" : "arBernaReale (-) arAyrsonHeraclito",
         "interaction" : "-",
-        "SUID" : 3571227,
+        "SUID" : 3610008,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571224",
-        "source" : "3570939",
-        "target" : "3570942",
+        "id" : "3610005",
+        "source" : "3609720",
+        "target" : "3609723",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBernaReale (-) arLucianaMagno",
         "shared_interaction" : "-",
         "name" : "arBernaReale (-) arLucianaMagno",
         "interaction" : "-",
-        "SUID" : 3571224,
+        "SUID" : 3610005,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572007",
-        "source" : "3570936",
-        "target" : "3571179",
+        "id" : "3610788",
+        "source" : "3609717",
+        "target" : "3609960",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arLygiaClark (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3572007,
+        "SUID" : 3610788,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572004",
-        "source" : "3570936",
-        "target" : "3570924",
+        "id" : "3610785",
+        "source" : "3609717",
+        "target" : "3609705",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arLygiaClark (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3572004,
+        "SUID" : 3610785,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571464",
-        "source" : "3570936",
-        "target" : "3571008",
+        "id" : "3610245",
+        "source" : "3609717",
+        "target" : "3609789",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arLygiaClark (-) arGregorioVardenega",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arGregorioVardenega",
         "interaction" : "-",
-        "SUID" : 3571464,
+        "SUID" : 3610245,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571461",
-        "source" : "3570936",
-        "target" : "3571005",
+        "id" : "3610242",
+        "source" : "3609717",
+        "target" : "3609786",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arLygiaClark (-) arJulioParc",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arJulioParc",
         "interaction" : "-",
-        "SUID" : 3571461,
+        "SUID" : 3610242,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571458",
-        "source" : "3570936",
-        "target" : "3571002",
+        "id" : "3610239",
+        "source" : "3609717",
+        "target" : "3609783",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arLygiaClark (-) arWillysCastro",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arWillysCastro",
         "interaction" : "-",
-        "SUID" : 3571458,
+        "SUID" : 3610239,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571455",
-        "source" : "3570936",
-        "target" : "3570999",
+        "id" : "3610236",
+        "source" : "3609717",
+        "target" : "3609780",
         "EdgeBetweenness" : 95.0,
         "shared_name" : "arLygiaClark (-) arIvanSerpa",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arIvanSerpa",
         "interaction" : "-",
-        "SUID" : 3571455,
+        "SUID" : 3610236,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571452",
-        "source" : "3570936",
-        "target" : "3570996",
+        "id" : "3610233",
+        "source" : "3609717",
+        "target" : "3609777",
         "EdgeBetweenness" : 38.0,
         "shared_name" : "arLygiaClark (-) arAlfredoVolpi",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arAlfredoVolpi",
         "interaction" : "-",
-        "SUID" : 3571452,
+        "SUID" : 3610233,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571449",
-        "source" : "3570936",
-        "target" : "3570993",
+        "id" : "3610230",
+        "source" : "3609717",
+        "target" : "3609774",
         "EdgeBetweenness" : 95.0,
         "shared_name" : "arLygiaClark (-) arWaldemarCordeiro",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arWaldemarCordeiro",
         "interaction" : "-",
-        "SUID" : 3571449,
+        "SUID" : 3610230,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571446",
-        "source" : "3570936",
-        "target" : "3570990",
+        "id" : "3610227",
+        "source" : "3609717",
+        "target" : "3609771",
         "EdgeBetweenness" : 14.0,
         "shared_name" : "arLygiaClark (-) arAnnaMaiolino",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arAnnaMaiolino",
         "interaction" : "-",
-        "SUID" : 3571446,
+        "SUID" : 3610227,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571443",
-        "source" : "3570936",
-        "target" : "3570987",
+        "id" : "3610224",
+        "source" : "3609717",
+        "target" : "3609768",
         "EdgeBetweenness" : 36.0,
         "shared_name" : "arLygiaClark (-) arLygiaPape",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arLygiaPape",
         "interaction" : "-",
-        "SUID" : 3571443,
+        "SUID" : 3610224,
         "text" : "oFermento201808-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571221",
-        "source" : "3570936",
-        "target" : "3570945",
+        "id" : "3610002",
+        "source" : "3609717",
+        "target" : "3609726",
         "EdgeBetweenness" : 84.0,
         "shared_name" : "arLygiaClark (-) arAyrsonHeraclito",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arAyrsonHeraclito",
         "interaction" : "-",
-        "SUID" : 3571221,
+        "SUID" : 3610002,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571218",
-        "source" : "3570936",
-        "target" : "3570942",
+        "id" : "3609999",
+        "source" : "3609717",
+        "target" : "3609723",
         "EdgeBetweenness" : 84.0,
         "shared_name" : "arLygiaClark (-) arLucianaMagno",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arLucianaMagno",
         "interaction" : "-",
-        "SUID" : 3571218,
+        "SUID" : 3609999,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571215",
-        "source" : "3570936",
-        "target" : "3570939",
+        "id" : "3609996",
+        "source" : "3609717",
+        "target" : "3609720",
         "EdgeBetweenness" : 84.0,
         "shared_name" : "arLygiaClark (-) arBernaReale",
         "shared_interaction" : "-",
         "name" : "arLygiaClark (-) arBernaReale",
         "interaction" : "-",
-        "SUID" : 3571215,
+        "SUID" : 3609996,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571212",
-        "source" : "3570933",
-        "target" : "3570945",
+        "id" : "3609993",
+        "source" : "3609714",
+        "target" : "3609726",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHelioOiticica (-) arAyrsonHeraclito",
         "shared_interaction" : "-",
         "name" : "arHelioOiticica (-) arAyrsonHeraclito",
         "interaction" : "-",
-        "SUID" : 3571212,
+        "SUID" : 3609993,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571209",
-        "source" : "3570933",
-        "target" : "3570942",
+        "id" : "3609990",
+        "source" : "3609714",
+        "target" : "3609723",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHelioOiticica (-) arLucianaMagno",
         "shared_interaction" : "-",
         "name" : "arHelioOiticica (-) arLucianaMagno",
         "interaction" : "-",
-        "SUID" : 3571209,
+        "SUID" : 3609990,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571206",
-        "source" : "3570933",
-        "target" : "3570939",
+        "id" : "3609987",
+        "source" : "3609714",
+        "target" : "3609720",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arHelioOiticica (-) arBernaReale",
         "shared_interaction" : "-",
         "name" : "arHelioOiticica (-) arBernaReale",
         "interaction" : "-",
-        "SUID" : 3571206,
+        "SUID" : 3609987,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571203",
-        "source" : "3570933",
-        "target" : "3570936",
+        "id" : "3609984",
+        "source" : "3609714",
+        "target" : "3609717",
         "EdgeBetweenness" : 84.0,
         "shared_name" : "arHelioOiticica (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arHelioOiticica (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571203,
+        "SUID" : 3609984,
         "text" : "oFermento201807-001",
         "selected" : false,
-        "authors" : "auValescaVeiga"
+        "authors" : "Veiga, Valesca"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572001",
-        "source" : "3570927",
-        "target" : "3571179",
+        "id" : "3610782",
+        "source" : "3609708",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnnaGeiger (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arAnnaGeiger (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3572001,
+        "SUID" : 3610782,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571998",
-        "source" : "3570927",
-        "target" : "3570924",
+        "id" : "3610779",
+        "source" : "3609708",
+        "target" : "3609705",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnnaGeiger (-) arWandaPimentel",
         "shared_interaction" : "-",
         "name" : "arAnnaGeiger (-) arWandaPimentel",
         "interaction" : "-",
-        "SUID" : 3571998,
+        "SUID" : 3610779,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3571995",
-        "source" : "3570927",
-        "target" : "3570936",
+        "id" : "3610776",
+        "source" : "3609708",
+        "target" : "3609717",
         "EdgeBetweenness" : 30.0,
         "shared_name" : "arAnnaGeiger (-) arLygiaClark",
         "shared_interaction" : "-",
         "name" : "arAnnaGeiger (-) arLygiaClark",
         "interaction" : "-",
-        "SUID" : 3571995,
+        "SUID" : 3610776,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572010",
-        "source" : "3570924",
-        "target" : "3571179",
+        "id" : "3610791",
+        "source" : "3609705",
+        "target" : "3609960",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWandaPimentel (-) arSoniaGomes",
         "shared_interaction" : "-",
         "name" : "arWandaPimentel (-) arSoniaGomes",
         "interaction" : "-",
-        "SUID" : 3572010,
+        "SUID" : 3610791,
         "text" : "oFermento201812-001",
         "selected" : false,
-        "authors" : "auLudmillaFonseca"
+        "authors" : "Fonseca, Ludimilla (1989-)"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "3572046",
-        "source" : "3570894",
-        "target" : "3570930",
+        "id" : "3610827",
+        "source" : "3609672",
+        "target" : "3609711",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNiltonBravo (-) arWassilyKandinsky",
         "shared_interaction" : "-",
         "name" : "arNiltonBravo (-) arWassilyKandinsky",
         "interaction" : "-",
-        "SUID" : 3572046,
+        "SUID" : 3610827,
         "text" : "oFermento201902-002",
         "selected" : false,
-        "authors" : "auPatriciaLattavo"
+        "authors" : "Lattavo, Patricia (1968-)"
       },
       "selected" : false
     } ]
