@@ -44,7 +44,7 @@
 		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefArteContexto" class="btn btn-link">Artistas-Tema - Arte ConTexto</a>
+		<a href="/reseaux/reseauRefArteContexto" class="btn btn-link">Artistas-Referência - Arte ConTexto</a>
 	</li>
 </ul>
 

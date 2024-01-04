@@ -44,7 +44,7 @@
 		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Tema - eRevista Performatus</a>
+		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referência - eRevista Performatus</a>
 	</li>
 </ul>
 

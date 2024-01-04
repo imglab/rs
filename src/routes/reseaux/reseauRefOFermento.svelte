@@ -44,7 +44,7 @@
 		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Tema - o fermento</a>
+		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referência - o fermento</a>
 	</li>
 </ul>
 
