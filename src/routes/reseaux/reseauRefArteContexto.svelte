@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-Referência - Arte ConTexto</title>
+	<title>Artistas-Referenciados - Arte ConTexto</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,15 +41,15 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefArteContexto" class="btn btn-link">Artistas-Referência - Arte ConTexto</a>
+		<a href="/reseaux/reseauRefArteContexto" class="btn btn-link">Artistas-Referenciados - Arte ConTexto</a>
 	</li>
 </ul>
 
-<h2>Artistas-Referência - Arte ConTexto</h2>
-<p>Rede unimodal dos 153 artistas-referência das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 04/01/2024</p>
+<h2>Artistas-Referenciados - Arte ConTexto</h2>
+<p>Rede unimodal dos 153 artistas-referenciados das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 05/01/2024</p>
 <div id="cy"/>
 
 <style>

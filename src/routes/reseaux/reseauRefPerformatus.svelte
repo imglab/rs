@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-Referência - eRevista Performatus</title>
+	<title>Artistas-Referenciados - eRevista Performatus</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,15 +41,15 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referência - eRevista Performatus</a>
+		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referenciados - eRevista Performatus</a>
 	</li>
 </ul>
 
-<h2>Artistas-Referência - eRevista Performatus</h2>
-<p>Rede unimodal dos 320 artistas-referência das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 04/01/2024</p>
+<h2>Artistas-Referenciados - eRevista Performatus</h2>
+<p>Rede unimodal dos 314 artistas-referenciados das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 05/01/2024</p>
 <div id="cy"/>
 
 <style>

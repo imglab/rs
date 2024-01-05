@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Artistas-Referência - Icônica</title>
+	<title>Artistas-Referenciados - Icônica</title>
 </svelte:head>
 
 <ul class="breadcrumb">
@@ -41,15 +41,15 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referência</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referência - Icônica</a>
+		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referenciados - Icônica</a>
 	</li>
 </ul>
 
-<h2>Artistas-Referência - Icônica</h2>
-<p>Rede unimodal dos 269 artistas-referência das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 04/01/2024</p>
+<h2>Artistas-Referenciados - Icônica</h2>
+<p>Rede unimodal dos 267 artistas-referenciados das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 05/01/2024</p>
 <div id="cy"/>
 
 <style>
