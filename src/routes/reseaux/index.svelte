@@ -20,7 +20,7 @@
 <li><a href="/reseaux/reseauxBimodaux" class="btn btn-link">Bimodais</a></li>
 </ul>
 
-<h2>Redes dos Artistas-Referência</h2>
+<h2>Redes dos Artistas-Referenciados</h2>
 <ul>
 <li><a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Unimodais</a></li>
 </ul>
