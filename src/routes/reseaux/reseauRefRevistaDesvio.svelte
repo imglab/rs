@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referenciados - Revista Desvio</h2>
-<p>Rede unimodal dos 322 artistas-referenciados das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Última atualização: 23/02/2024</p>
+<p>Rede unimodal dos 322 artistas-referenciados das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

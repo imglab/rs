@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Tema - Icônica</h2>
-<p>Rede unimodal dos 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 23/02/2024</p>
+<p>Rede unimodal dos 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

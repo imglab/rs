@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Autores e Artistas-Tema - Revista Desvio</h2>
-<p>Rede bimodal dos 238 artistas-tema das críticas publicadas pela Revista Desvio até abril de 2019 com seus 24 autores. Última atualização: 20/03/2023</p>
+<p>Rede bimodal dos 238 artistas-tema das críticas publicadas pela Revista Desvio até abril de 2019 com seus 24 autores. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

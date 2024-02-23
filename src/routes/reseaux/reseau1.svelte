@@ -50,7 +50,7 @@
 </ul>
 
 <h2>Artistas-Tema - eRevista Performatus</h2>
-<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 23/02/2024</p>
+<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 02/2024</p>
 
 <div id="cy"/>
 
