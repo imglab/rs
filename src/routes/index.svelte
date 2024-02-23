@@ -24,7 +24,7 @@
 <div class="hero bg-primary hero-sm">
 	<div class="hero-body">
 		<h1>Corpus Réseaux Sensibles</h1>
-		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019. Última atualização: 31/01/2024</p>
+		<p>Críticas de arte publicadas pela revistas digitais Icônica, eRevista Performatus, Arte ConTexto, Revista Desvio e o fermento até abril 2019. Última atualização: 02/2024</p>
 	</div>
 </div>
 
@@ -47,10 +47,10 @@
 		<div class="column col-xl-4">
 				<h4>Pessoas</h4>
 				<ul>
-				   <li>Artistas: 1071</li>
+				   <li>Artistas: 1072</li>
 				   <li>Coletivos de Artistas: 77</li>
 				   <li>Curadores: 121</li>
-				   <li>Outras Pessoas: 220</li>
+				   <li>Outras Pessoas: 218</li>
 				   <li>Outros Coletivos: 2</li>
 				</ul>
 		</div>

@@ -23,6 +23,7 @@
      <th>Autores</th>
      <th>Críticas de Arte</th>
      <th>Artistas &#40;tema&#41;</th>
+     <th>Artistas &#40;referenciados&#41;</th>
       <th>Ano de Publicação</th>
       <th>Eventos Artísticos &#40;tema&#41;</th>
       <th>Coletivos de Artistas &#40;tema&#41;</th>
@@ -35,6 +36,7 @@
     <td>Almeida, Ton (Fortaleza/CE)</td>
     <td><a href="https://web.archive.org/web/20200919205910/https://revistadesvio.com/2018/05/28/monumento-ao-homem-branco/">MONUMENTO AO HOMEM BRANCO</a></td>
     <td>Furtado, Aline (/, 1985 - )</td>
+    <td>Furtado, Aline (/, 1985 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa257021/joseph-beuys">Beuys, Joseph (Alemanha, 1921 - Alemanha, 1986)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -44,6 +46,7 @@
     <th>1</th>
     <td>Almeida, Ton (Fortaleza/CE)</td>
     <td><a href="https://web.archive.org/web/20200925061203/https://revistadesvio.com/2018/06/11/do-salao-de-abril-ao-quintal-de-outubro/">DO “SALAO DE ABRIL” AO “QUINTAL DE OUTUBRO”</a></td>
+    <td>n/a</td>
     <td>n/a</td>
     <td>2018</td>
     <td>QUINTAL DE OUTUBRO; SERIE SALAO DE ABRIL; 68º SALAO DE ABRIL – SEQUESTRADO; 69º SALAO DE ABRIL</td>
@@ -55,6 +58,7 @@
     <td>Almeida, Ton (Fortaleza/CE)</td>
     <td><a href="https://web.archive.org/web/20201117203750/https://revistadesvio.com/2018/06/25/caminhares-perifericos-nois-de-teatro-e-a-potencia-do-caminhar-no-teatro-de-rua-contemporaneo/">CAMINHARES PERIFERICOS –NOIS DE TEATROE A POTENCIA DO CAMINHAR NO TEATRO DE</a></td>
     <td>n/a</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa4332/augusto-boal">Boal, Augusto (Rio de Janeiro/RJ, 1931 - Rio de Janeiro/RJ, 2009)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>NOIS DE TEATRO</td>
@@ -64,6 +68,7 @@
     <th>3</th>
     <td>Alvarenga, Daniel Levy de</td>
     <td><a href="https://web.archive.org/web/20200923125723/https://revistadesvio.com/2019/03/13/memoria-esquecimento-e-resistencia/">MEMORIA, ESQUECIMENTO E RESISTENCIA</a></td>
+    <td>Vieira, Leandro (Rio de Janeiro/RJ, 1983 - )</td>
     <td>Vieira, Leandro (Rio de Janeiro/RJ, 1983 - )</td>
     <td>2019</td>
     <td>n/a</td>
@@ -75,6 +80,7 @@
     <td>Amancio, Felipe</td>
     <td><a href="https://web.archive.org/web/20210112204838/https://revistadesvioblog.files.wordpress.com/2017/11/desvio_3_artigo_felipe1.pdf">ARTE CONTEMPORANEA EM ANGOLA: ENTRE O LOCAL E O GLOBAL</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa589984/yonamine">, Yonamine (Angola, 1975 - )</a>; Miranda, Mónica de (Portugal, 1976 - ); Jasse, Délio (Angola, 1980 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa589984/yonamine">, Yonamine (Angola, 1975 - )</a>; Miranda, Mónica de (Portugal, 1976 - ); Jasse, Délio (Angola, 1980 - )</td>
     <td>2017</td>
     <td>DAQUI PRA FRENTE: ARTE CONTEMPORANEA EM ANGOLA</td>
     <td>n/a</td>
@@ -85,6 +91,7 @@
     <td>Ambrosoli, Pedro (Niterói/RJ)</td>
     <td><a href="https://web.archive.org/web/20210111005534/https://revistadesvioblog.files.wordpress.com/2017/07/desvio_02_critica_pedro.pdf">MEU MUNDO TEU: ELOS AFETIVOS E SIMBOLICOS DE SE ESTAR JUNTO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa271005/alexandre-sequeira">Sequeira, Alexandre (Belém/PA, 1971 - )</a></td>
+    <td>Tião (Tocantins/MG, 1942 - , 2015); <a href="https://enciclopedia.itaucultural.org.br/pessoa216141/paula-trope">Trope, Paula (, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa271005/alexandre-sequeira">Sequeira, Alexandre (Belém/PA, 1971 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa962/carlos-zilio">Zilio, Carlos (Rio de Janeiro/RJ, 1944 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ, 1980)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1694/lygia-clark">Clark, Lygia (Belo Horizonte/MG, 1920 - Rio de Janeiro/RJ, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa26879/berna-reale">Reale, Berna (Belém/PA, 1965 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa351466/gustave-courbet">Courbet, Gustave (França, 1819 - Suíça, 1877)</a></td>
     <td>2017</td>
     <td>MEU MUNDO TEU</td>
     <td>n/a</td>
@@ -94,6 +101,7 @@
     <th>6</th>
     <td>Anjos Meireles, Ana Renata dos (Brasil)</td>
     <td><a href="https://web.archive.org/web/20210112214249/https://revistadesvioblog.files.wordpress.com/2018/05/8-caderno-especial-queer-museu.pdf">CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA: COMENTARIO SOBREET VERBUM, DE</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa339633/antonio-oba">Obá, Antônio (Ceilândia/DF, 1983 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa339633/antonio-oba">Obá, Antônio (Ceilândia/DF, 1983 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento642709/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (FAROL SANTANDER PORTO ALEGRE)</a></td>
@@ -105,6 +113,7 @@
     <td>Assumpção, Ombela</td>
     <td><a href="https://web.archive.org/web/20200922180326/https://revistadesvio.com/2019/03/18/o-comentario-de-arte-como-possibilidade-de-exercicio-descolonial/">O COMENTARIO DE ARTE COMO POSSIBILIDADE DE EXERCICIO DESCOLONIAL</a></td>
     <td>Kilomba, Grada (Portugal, 1968 - )</td>
+    <td>Kilomba, Grada (Portugal, 1968 - )</td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -115,6 +124,7 @@
     <td>Assumpção, Ombela</td>
     <td><a href="https://web.archive.org/web/20200922012351/https://revistadesvio.com/2019/04/01/4109/">PRA NAO DIZER QUE NAO FALEI DE UTOPIA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa640643/arissana-pataxo">Pataxó, Arissana (Porto Seguro/BA, 1983 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa640643/arissana-pataxo">Pataxó, Arissana (Porto Seguro/BA, 1983 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa707/johann-moritz-rugendas">Moritz Rugendas, Johann (Alemanha, 1802 - Alemanha, 1858)</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -124,6 +134,7 @@
     <th>9</th>
     <td>Assumpção, Ombela</td>
     <td><a href="https://web.archive.org/web/20200919050314/https://revistadesvio.com/2019/04/29/reantropofagia/">REANTROPOFAGIA</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa628975/denilson-baniwa">Baniwa, Denilson (Barcelos/AM, 1984 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa628975/denilson-baniwa">Baniwa, Denilson (Barcelos/AM, 1984 - )</a></td>
     <td>2019</td>
     <td>REANTROPOFAGIA</td>
@@ -135,6 +146,7 @@
     <td>Barbosa, Luiz Guilherme (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20201020122643/https://revistadesvio.com/2019/03/24/o-pais-fora-do-ar/">O PAIS FORA DO AR</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa26987/regina-de-paula">Paula, Regina de (Curitiba/PR, 1957 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa410733/tania-bonin">Bonin, Tânia (, 1961 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26987/regina-de-paula">Paula, Regina de (Curitiba/PR, 1957 - )</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -145,6 +157,7 @@
     <td>Barbosa, Luiz Guilherme (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926204346/https://revistadesvio.com/2019/04/07/manifesto-contratextual/">MANIFESTO CONTRATEXTUAL</a></td>
     <td>Vasconcelos, Wescla; Oliveira, Lidi; Passareli, Matheusa (Rio Bonito/RJ, 1997 - Rio de Janeiro/RJ, 2018); <a href="https://enciclopedia.itaucultural.org.br/pessoa337133/tertuliana-lustosa">Lustosa, Tertuliana (Corrente/PI, 1996 - )</a></td>
+    <td>Vasconcelos, Wescla; Oliveira, Lidi; Passareli, Matheusa (Rio Bonito/RJ, 1997 - Rio de Janeiro/RJ, 2018); <a href="https://enciclopedia.itaucultural.org.br/pessoa337133/tertuliana-lustosa">Lustosa, Tertuliana (Corrente/PI, 1996 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7554/guimaraes-rosa">Rosa, Guimarães (Cordisburgo/MG, 1908 - Rio de Janeiro/RJ, 1967)</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>COLETIVO XICA MANICONGO</td>
@@ -155,6 +168,7 @@
     <td>Barbosa, Luiz Guilherme (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200921132818/https://revistadesvio.com/2019/04/21/o-lapis-de-adilia-lopes/">O LAPIS DEADILIA LOPES</a></td>
     <td>Lopes, Adília (Portugal, 1960 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa1381/manuel-bandeira">Bandeira, Manuel (Recife/PE, 1886 - Rio de Janeiro/RJ, 1968)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2884/augusto-de-campos">Campos, Augusto de (São Paulo/SP, 1931 - )</a>; Fibich, Zdeněk (Chéquia, 1850 - Chéquia, 1900); Grieg, Edvard (Noruega, 1843 - Noruega, 1907); Händel, Georg Friedrich (Alemanha, 1685 - Reino Unido, 1759); <a href="https://enciclopedia.itaucultural.org.br/pessoa19890/frederic-chopin">Chopin, Frédéric (Polônia, 1810 - França, 1849)</a>; Lopes, Adília (Portugal, 1960 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa1610/alfredo-volpi">Volpi, Alfredo (Itália, 1896 - São Paulo/SP, 1988)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa351689/jackson-pollock">Pollock, Jackson (Estados Unidos, 1912 - Estados Unidos, 1956)</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -164,6 +178,7 @@
     <th>13</th>
     <td>Carceceri, Pedro</td>
     <td><a href="https://web.archive.org/web/20210119151637/https://revistadesvioblog.files.wordpress.com/2018/12/9-5-ed.pdf">A EXPLOSAO DE UM CANTO INTERIOR</a></td>
+    <td>Victor Medeiros, João (Juiz de Fora/MG)</td>
     <td>Victor Medeiros, João (Juiz de Fora/MG)</td>
     <td>2018</td>
     <td>n/a</td>
@@ -175,6 +190,7 @@
     <td>Cassinelli, Daniela</td>
     <td><a href="https://web.archive.org/web/20210112004533/https://revistadesvioblog.files.wordpress.com/2017/11/desvio_3_artigo_daniela1.pdf">LUGARES DO DELIRIO: TRANSITOS ENTRE ARTE E LOUCURA NA CONTEMPORANEIDADE</a></td>
     <td>Wanderley, Lula; Deligny, Fernand (França, 1913 - França, 1996); Flores, Livia; Tiamo, Adilson; Damasceno, Bernardo (São Paulo/SP, 1970 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa23088/fernando-diniz">Diniz, Fernando (Salvador/BA, 1918 - Rio de Janeiro/RJ, 1999)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10811/arthur-bispo-do-rosario">Bispo Rosário, Arthur do (Japaratuba/SE, 1911 - Rio de Janeiro/RJ, 1989)</a></td>
+    <td>Wanderley, Lula; Deligny, Fernand (França, 1913 - França, 1996); Flores, Livia; Tiamo, Adilson; Damasceno, Bernardo (São Paulo/SP, 1970 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa23088/fernando-diniz">Diniz, Fernando (Salvador/BA, 1918 - Rio de Janeiro/RJ, 1999)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9891/abraham-palatnik">Palatnik, Abraham (Natal/RN, 1928 - Rio de Janeiro/RJ, 2020)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa5802/almir-mavignier">Mavignier, Almir (Rio de Janeiro/RJ, 1925 - Hamburgo/Hamburgo, 2018)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1694/lygia-clark">Clark, Lygia (Belo Horizonte/MG, 1920 - Rio de Janeiro/RJ, 1988)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8922/ivan-serpa">Serpa, Ivan (Rio de Janeiro/RJ, 1923 - Rio de Janeiro/RJ, 1973)</a>; Dubuffet, Jean (França, 1901 - França, 1985); <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10811/arthur-bispo-do-rosario">Bispo Rosário, Arthur do (Japaratuba/SE, 1911 - Rio de Janeiro/RJ, 1989)</a></td>
     <td>2017</td>
     <td>LUGARES DO DELIRIO</td>
     <td>GRUPO ARTE E CUIDADO; LOUCURA SUBURBANA; ATELIE GAIA</td>
@@ -185,6 +201,7 @@
     <td>Costa, Adeilma (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210111030201/https://revistadesvioblog.files.wordpress.com/2017/11/desvio_3_expo_pega1.pdf">ULTEROS HISTERICOS</a></td>
     <td>Schiavone, Silvia (Rio de Janeiro/RJ, 1980 - )</td>
+    <td>Schiavone, Silvia (Rio de Janeiro/RJ, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa200107/frida-kahlo">Kahlo, Frida (México, 1907 - México, 1954)</a></td>
     <td>2017</td>
     <td>EXPOSICAO DO I PEGA – ENCONTRO DE ESTUDANTES DE GRADUACOES EM ARTES DO ESTADO DO RIO DE JANEIRO</td>
     <td>n/a</td>
@@ -195,6 +212,7 @@
     <td>Costa, Adeilma (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210114171606/https://revistadesvioblog.files.wordpress.com/2018/05/10-the-square.pdf">RESENHA SOBRE O FILME “THE SQUARE – A ARTE DA DISCORDIA”</a></td>
     <td>Östlund, Ruben (Suécia, 1974 - )</td>
+    <td>Chiari, Eleonora (Itália); Goldschmied, Sara (Itália); Bang, Claes (Dinamarca, 1967 - ); Östlund, Ruben (Suécia, 1974 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa368/antonio-manuel">Manuel, Antonio (Portugal, 1947 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1694/lygia-clark">Clark, Lygia (Belo Horizonte/MG, 1920 - Rio de Janeiro/RJ, 1988)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9040/marcel-duchamp">Duchamp, Marcel (França, 1887 - França, 1968)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa224056/wagner-schwartz">Schwartz, Wagner (Volta Redonda/RJ, 1972 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -205,6 +223,7 @@
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926202220/https://revistadesvio.com/2018/05/22/o-filme-do-seculo-que-voce-ainda-nao-viu/">O “FILME DO SECULO” QUE VOCE AINDA NAO VIU</a></td>
     <td>Lee, Spike (Estados Unidos, 1957 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa59/monteiro-lobato">Lobato, Monteiro (Taubaté/SP, 1882 - São Paulo/SP, 1948)</a>; Dixon, Terry (Estados Unidos, 1969 - ); Boone, Edythe (Estados Unidos, 1938 - ); Morrison, Toni (Estados Unidos, 1931 - Estados Unidos, 2019); Lee, Bruce (Estados Unidos, 1940 - China, 1973); Lee, Spike (Estados Unidos, 1957 - ); Basquiat, Jean-Michel (Estados Unidos, 1960 - Estados Unidos, 1988)</td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -214,6 +233,7 @@
     <th>18</th>
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20201117192143/https://revistadesvio.com/2018/06/05/seculo-xxi-e-eu-sendo-o-unico-negro-do-role/">SECULO XXI E EU SENDO O UNICO NEGRO DO ROLE</a></td>
+    <td>Não fui eu; <a href="https://enciclopedia.itaucultural.org.br/pessoa248906/denise-adams">Adams, Denise (Porto Alegre/RS, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641083/livia-moura">Moura, Lívia (Rio de Janeiro/RJ, 1986 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10614/jose-rufino">Rufino, José (João Pessoa/PB, 1965 - )</a></td>
     <td>Não fui eu; <a href="https://enciclopedia.itaucultural.org.br/pessoa248906/denise-adams">Adams, Denise (Porto Alegre/RS, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641083/livia-moura">Moura, Lívia (Rio de Janeiro/RJ, 1986 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10614/jose-rufino">Rufino, José (João Pessoa/PB, 1965 - )</a></td>
     <td>2018</td>
     <td>INTERFLUXOS: COLAPSO COMO PERSPECTIVA; ACHADOS E PERDIDOS; <a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
@@ -225,6 +245,7 @@
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200922050825/https://revistadesvio.com/2018/06/12/pintores-grafiteiros-grafiteiros-pintores/">PINTORES GRAFITEIROS, GRAFITEIROS PINTORES</a></td>
     <td>Soledad, Cety (Rio de Janeiro/RJ); Viber, Lidia (Belo Horizonte/MG); CRUZ (); Camíz, Camila (Rio de Janeiro/RJ); Alfa, Miguel (Rio de Janeiro/RJ)</td>
+    <td>Soledad, Cety (Rio de Janeiro/RJ); Viber, Lidia (Belo Horizonte/MG); CRUZ (); Camíz, Camila (Rio de Janeiro/RJ); Alfa, Miguel (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa535150/eduardo-kobra">Kobra, Eduardo (São Paulo/SP, 1976 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa437174/zezao">Zezão (São Paulo/SP, 1971 - )</a></td>
     <td>2018</td>
     <td>CONGENERES</td>
     <td>n/a</td>
@@ -234,6 +255,7 @@
     <th>20</th>
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200925082309/https://revistadesvio.com/2018/08/28/quilombo-de-branco/">QUILOMBO DE BRANCO</a></td>
+    <td>Bezerra, Ton (Cedral/MA, 1977 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa216153/rosana-paulino">Paulino, Rosana (São Paulo/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa330138/sonia-gomes">Gomes, Sonia (Caetanópolis/MG)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10811/arthur-bispo-do-rosario">Bispo Rosário, Arthur do (Japaratuba/SE, 1911 - Rio de Janeiro/RJ, 1989)</a></td>
     <td>Bezerra, Ton (Cedral/MA, 1977 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa216153/rosana-paulino">Paulino, Rosana (São Paulo/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa330138/sonia-gomes">Gomes, Sonia (Caetanópolis/MG)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10811/arthur-bispo-do-rosario">Bispo Rosário, Arthur do (Japaratuba/SE, 1911 - Rio de Janeiro/RJ, 1989)</a></td>
     <td>2018</td>
     <td>QUILOMBO DO ROSARIO; <a href="https://enciclopedia.itaucultural.org.br/evento463898/historias-afro-atlanticas">HISTORIAS AFRO-ATLANTICAS</a></td>
@@ -245,6 +267,7 @@
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200921133426/https://revistadesvio.com/2018/09/18/o-manifesto/">O MANIFESTO</a></td>
     <td>Valentim, Anderson (Rio de Janeiro/RJ); Farra, Carol Dall (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa640632/aline-baiana">Baiana, Aline (Salvador/BA, 1985 - )</a>; Sadick, Aretha (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa640419/yhuri-cruz">Cruz, Yhuri (Rio de Janeiro/RJ, 1991 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262122/millena-lizia">Lízia, Millena (México)</a>; David, Ismael (Rio de Janeiro/RJ)</td>
+    <td>Valentim, Anderson (Rio de Janeiro/RJ); Farra, Carol Dall (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa640632/aline-baiana">Baiana, Aline (Salvador/BA, 1985 - )</a>; Sadick, Aretha (Rio de Janeiro/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa640419/yhuri-cruz">Cruz, Yhuri (Rio de Janeiro/RJ, 1991 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa262122/millena-lizia">Lízia, Millena (México)</a>; David, Ismael (Rio de Janeiro/RJ)</td>
     <td>2018</td>
     <td>MANIFESTO AFROFUTURISTA</td>
     <td>n/a</td>
@@ -254,6 +277,7 @@
     <th>22</th>
     <td>Costa, Candé (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200921123816/https://revistadesvio.com/2018/10/09/mitologia-brasileira/">MITOLOGIA BRASILEIRA</a></td>
+    <td>n/a</td>
     <td>n/a</td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento438672/modernos-10">MODERNOS 10</a></td>
@@ -265,6 +289,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200925082019/https://revistadesvio.com/2018/07/16/para-alem-dos-gadgets-um-museu-dos-futuros-possiveis-2/">PARA ALEM DOS GADGETS: UM MUSEU DOS FUTUROS POSSIVEIS</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa567425/pedro-franca">França, Pedro (Rio de Janeiro/RJ, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa397497/gisela-motta">Motta, Gisela (São Paulo/SP, 1976 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa396214/leandro-lima">Lima, Leandro (São Paulo/SP, 1976 - )</a>; Bilá, Gabriela (Brasília/DF); <a href="https://enciclopedia.itaucultural.org.br/pessoa200304/eduardo-kac">Kac, Eduardo (Rio de Janeiro/RJ, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa275945/camila-sposati">Sposati, Camila (São Paulo/SP, 1971 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa567425/pedro-franca">França, Pedro (Rio de Janeiro/RJ, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa397497/gisela-motta">Motta, Gisela (São Paulo/SP, 1976 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa396214/leandro-lima">Lima, Leandro (São Paulo/SP, 1976 - )</a>; Bilá, Gabriela (Brasília/DF); <a href="https://enciclopedia.itaucultural.org.br/pessoa200304/eduardo-kac">Kac, Eduardo (Rio de Janeiro/RJ, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa275945/camila-sposati">Sposati, Camila (São Paulo/SP, 1971 - )</a></td>
     <td>2018</td>
     <td>MUSEU DOS FUTUROS POSSIVEIS</td>
     <td>n/a</td>
@@ -274,6 +299,7 @@
     <th>24</th>
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200921190501/https://revistadesvio.com/2018/07/23/a-simplicidade-do-cotidiano-em-tempos-hipermodernos/">A SIMPLICIDADE DO COTIDIANO EM TEMPOS HIPERMODERNOS</a></td>
+    <td>Silberstein, Emília ()</td>
     <td>Silberstein, Emília ()</td>
     <td>2018</td>
     <td>n/a</td>
@@ -285,6 +311,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200922211513/https://revistadesvio.com/2018/07/30/leitura-enviesada/">LEITURA ENVIESADA</a></td>
     <td>n/a</td>
+    <td>n/a</td>
     <td>2018</td>
     <td>EU LEITOR</td>
     <td>n/a</td>
@@ -294,6 +321,7 @@
     <th>26</th>
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200922201355/https://revistadesvio.com/2018/08/13/alice-lara-e-a-ars-erotica-entre-o-humano-e-o-animal/">ALICE LARAE A ARS EROTICA ENTRE O HUMANO E O ANIMAL</a></td>
+    <td>Lara, Alice (Brasília/DF, 1987 - )</td>
     <td>Lara, Alice (Brasília/DF, 1987 - )</td>
     <td>2018</td>
     <td>TRANSBORDA BRASILIA – PREMIO DE ARTE CONTEMPORANEA 2018</td>
@@ -305,6 +333,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200807175239/https://revistadesvio.com/2018/08/27/a-cidade-atraves-do-indicio-cartografias-de-iris-helena/">A CIDADE ATRAVES DO INDICIO: CARTOGRAFIAS DEIRIS HELENA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa558135/iris-helena">Helena, Íris (João Pessoa/PB)</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa558135/iris-helena">Helena, Íris (João Pessoa/PB)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -314,6 +343,7 @@
     <th>28</th>
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200807173056/https://revistadesvio.com/2018/09/17/a-luta-conta-o-poder-e-a-luta-da-memoria-contra-o-esquecimento/">A LUTA CONTRA O PODER E A LUTA DA MEMORIA CONTRA O ESQUECIMENTO</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641515/gustavo-germano">Germano, Gustavo (Argentina, 1964 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641515/gustavo-germano">Germano, Gustavo (Argentina, 1964 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento647810/ausencias-brasil">AUSENCIAS BRASIL</a></td>
@@ -325,6 +355,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20201025001136/https://revistadesvio.com/2018/09/24/um-pouquinho-de-voce-me-atravessa/">"UM POUQUINHO DE VOCE ME ATRAVESSA"</a></td>
     <td>Macedo, Tauana ()</td>
+    <td>Macedo, Tauana ()</td>
     <td>2018</td>
     <td>2ª QUANTA! MOSTRA LBT</td>
     <td>n/a</td>
@@ -334,6 +365,7 @@
     <th>30</th>
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20201029194906/https://revistadesvio.com/2018/10/29/eterno-retorno/">ETERNO RETORNO</a></td>
+    <td>Andrade, Paulo (/MG)</td>
     <td>Andrade, Paulo (/MG)</td>
     <td>2018</td>
     <td>O ETERNO RETORNO – DESENHOS, GRAVURAS E IMPRESSOES</td>
@@ -345,6 +377,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200928073835/https://revistadesvio.com/2018/11/19/gravetos-armados-e-os-10-anos-de-jabutipe/">GRAVETOS ARMADOSE OS 10 ANOS DEJABUTIPE.</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa599736/antonio-augusto-bueno">Bueno, Antônio Augusto (Porto Alegre/RS, 1972 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa599736/antonio-augusto-bueno">Bueno, Antônio Augusto (Porto Alegre/RS, 1972 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -354,6 +387,7 @@
     <th>32</th>
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200921183343/https://revistadesvio.com/2018/12/17/sem-plano-nem-piloto/">SEM PLANO NEM PILOTO</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa356101/girafa">Girafa (Juiz de Fora/MG, 1950 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa356101/girafa">Girafa (Juiz de Fora/MG, 1950 - )</a></td>
     <td>2018</td>
     <td>SEM PLANO NEM PILOTO</td>
@@ -365,6 +399,7 @@
     <td>Fernandes, Mayã (Brasília/DF)</td>
     <td><a href="https://web.archive.org/web/20200925071810/https://revistadesvio.com/2019/02/11/a-memoria-fundida-no-aco-naval/">A MEMORIA FUNDIDA NO ACO NAVAL</a></td>
     <td>Miranda, Pedro (Belo Vale/MG)</td>
+    <td>Miranda, Pedro (Belo Vale/MG)</td>
     <td>2019</td>
     <td>ESCULTURAS EM ACO NAVAL</td>
     <td>n/a</td>
@@ -374,6 +409,7 @@
     <th>34</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922004432/https://revistadesvio.com/2018/05/03/advertencia-ao-entrar-na-exposicao-voce-esta-sujeitx-a-fortes-sensacoes/">ADVERTENCIA: AO ENTRAR NA EXPOSICAO, VOCE ESTA SUJEITX A FORTES SENSACOES</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9743/josely-carvalho">Carvalho, Josely (São Paulo/SP, 1942 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9743/josely-carvalho">Carvalho, Josely (São Paulo/SP, 1942 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento650319/diario-de-cheiros-teto-de-vidro">DIARIO DE CHEIROS – TETO DE VIDRO</a></td>
@@ -385,6 +421,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200921131449/https://revistadesvio.com/2018/05/10/exposicao-escola-entre-a-alucinacao-moderna-e-a-educacao-contemporanea/">EXPOSICAO-ESCOLA: ENTRE A ALUCINACAO MODERNA E A EDUCACAO CONTEMPORANEA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8669/guignard">Guignard,  (Nova Friburgo/RJ, 1896 - Belo Horizonte/MG, 1962)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa1787/cicero-dias">Dias, Cícero (Escada/PE, 1907 - França, 2003)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8953/vicente-do-rego-monteiro">Rego Monteiro, Vicente do (Recife/PE, 1899 - Recife/PE, 1970)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2223/fernand-leger">Léger, Fernand (França, 1881 - França, 1955)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20772/robert-delaunay">Delaunay, Robert (França, 1885 - França, 1941)</a>; Miró, Joan (Espanha, 1893 - Espanha, 1983); <a href="https://enciclopedia.itaucultural.org.br/pessoa2569/wassily-kandinsky">Kandinsky, Wassily (Rússia, 1866 - França, 1944)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa25757/georges-braque">Braque, Georges (França, 1882 - França, 1963)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa172/henri-matisse">Matisse, Henri (França, 1869 - França, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8580/lasar-segall">Segall, Lasar (Lituânia, 1889 - São Paulo/SP, 1957)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8657/ismael-nery">Nery, Ismael (Belém/PA, 1900 - Rio de Janeiro/RJ, 1934)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa510681/paul-klee">Klee, Paul (Suíça, 1879 - Suíça, 1940)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa824/tarsila-do-amaral">Amaral, Tarsila do (Capivari/SP, 1886 - São Paulo/SP, 1973)</a>; Rudzitsky, Emanuel (Estados Unidos, 1890 - França, 1976); <a href="http://enciclopedia.itaucultural.org.br/pessoa21390/maria-martins">Martins, Maria (Campanha/MG, 1894 - Rio de Janeiro/RJ, 1973)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10686/candido-portinari">Portinari, Candido (Brodósqui/SP, 1903 - Rio de Janeiro/RJ, 1962)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8938/anita-malfatti">Malfatti, Anita Catarina (São Paulo/SP, 1889 - São Paulo/SP, 1964)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa19218/salvador-dali">Domènech, Salvador Dalí i (Espanha, 1904 - Espanha, 1984)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8902/pablo-picasso">Picasso, Pablo (Espanha, 1881 - França, 1973)</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8669/guignard">Guignard,  (Nova Friburgo/RJ, 1896 - Belo Horizonte/MG, 1962)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa1787/cicero-dias">Dias, Cícero (Escada/PE, 1907 - França, 2003)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8953/vicente-do-rego-monteiro">Rego Monteiro, Vicente do (Recife/PE, 1899 - Recife/PE, 1970)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2223/fernand-leger">Léger, Fernand (França, 1881 - França, 1955)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20772/robert-delaunay">Delaunay, Robert (França, 1885 - França, 1941)</a>; Miró, Joan (Espanha, 1893 - Espanha, 1983); <a href="https://enciclopedia.itaucultural.org.br/pessoa2569/wassily-kandinsky">Kandinsky, Wassily (Rússia, 1866 - França, 1944)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa25757/georges-braque">Braque, Georges (França, 1882 - França, 1963)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa172/henri-matisse">Matisse, Henri (França, 1869 - França, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8580/lasar-segall">Segall, Lasar (Lituânia, 1889 - São Paulo/SP, 1957)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8657/ismael-nery">Nery, Ismael (Belém/PA, 1900 - Rio de Janeiro/RJ, 1934)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa510681/paul-klee">Klee, Paul (Suíça, 1879 - Suíça, 1940)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa824/tarsila-do-amaral">Amaral, Tarsila do (Capivari/SP, 1886 - São Paulo/SP, 1973)</a>; Rudzitsky, Emanuel (Estados Unidos, 1890 - França, 1976); <a href="http://enciclopedia.itaucultural.org.br/pessoa21390/maria-martins">Martins, Maria (Campanha/MG, 1894 - Rio de Janeiro/RJ, 1973)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10686/candido-portinari">Portinari, Candido (Brodósqui/SP, 1903 - Rio de Janeiro/RJ, 1962)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa8938/anita-malfatti">Malfatti, Anita Catarina (São Paulo/SP, 1889 - São Paulo/SP, 1964)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa19218/salvador-dali">Domènech, Salvador Dalí i (Espanha, 1904 - Espanha, 1984)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8902/pablo-picasso">Picasso, Pablo (Espanha, 1881 - França, 1973)</a></td>
     <td>2018</td>
     <td>ALUCINACOES PARCIAIS</td>
     <td>n/a</td>
@@ -394,6 +431,7 @@
     <th>36</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20201117023326/https://revistadesvio.com/2018/05/17/eu-ouvi-amem-irmaos-e-irmas/">EU OUVI “AMEM!”, IRMAOS E IRMAS?</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa362943/luiz-roberto-bolognesi">Bolognesi, Luiz Roberto (São Paulo/SP, 1966 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa362943/luiz-roberto-bolognesi">Bolognesi, Luiz Roberto (São Paulo/SP, 1966 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
@@ -405,6 +443,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20201117040440/https://revistadesvio.com/2018/05/31/finalmente-claudio-paiva/">FINALMENTE,CLAUDIO PAIVA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa278321/claudio-paiva">Paiva, Claudio (Carangola/MG, 1945 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa1613/ziraldo">, Ziraldo (Caratinga/MG, 1932 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa368/antonio-manuel">Manuel, Antonio (Portugal, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa245385/umberto-costa-barros">Costa Barros, Umberto (Rio de Janeiro/RJ, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa278321/claudio-paiva">Paiva, Claudio (Carangola/MG, 1945 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9679/luiz-alphonsus">Guimaraens, Luiz Alphonsus de (Belo Horizonte/MG, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa47/artur-barrio">Barrio, Artur (Portugal, 1945 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11621/vincent-van-gogh">Gogh, Vincent van (Holanda, 1853 - França, 1890)</a></td>
     <td>2018</td>
     <td>CLAUDIO PAIVA– O COLECIONADOR DE LINHAS</td>
     <td>n/a</td>
@@ -415,6 +454,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20201020135004/https://revistadesvio.com/2018/06/07/paraiso-perdido/">PARAISO PERDIDO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa13118/pedro-farkas">Farkas, Pedro (São Paulo/SP, 1954 - )</a>; Estiano, Marjorie (Curitiba/PR, 1982 - ); Konrad, Julia (Recife/PE, 1990 - ); Guedes, Hermila (Cabrobó/PE, 1980 - ); <a href="https://www.imdb.com/name/nm1441419">Galli, Malu (Rio de Janeiro/RJ, 1971 - )</a>; Carrão, Humberto (Rio de Janeiro/RJ, 1991 - ); Jaloo (Castanhal/PA, 1987 - ); , Jorge (Belford Roxo/RJ, 1970 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa359520/erasmo-carlos">Carlos, Erasmo (Rio de Janeiro/RJ, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa281417/zeca-baleiro">Baleiro, Zeca (São Luís/MA, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa14174/monique-gardenberg">Gardenberg, Monique (Salvador/BA, 1958 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa13118/pedro-farkas">Farkas, Pedro (São Paulo/SP, 1954 - )</a>; Estiano, Marjorie (Curitiba/PR, 1982 - ); Konrad, Julia (Recife/PE, 1990 - ); Guedes, Hermila (Cabrobó/PE, 1980 - ); <a href="https://www.imdb.com/name/nm1441419">Galli, Malu (Rio de Janeiro/RJ, 1971 - )</a>; Carrão, Humberto (Rio de Janeiro/RJ, 1991 - ); Jaloo (Castanhal/PA, 1987 - ); , Jorge (Belford Roxo/RJ, 1970 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa359520/erasmo-carlos">Carlos, Erasmo (Rio de Janeiro/RJ, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa101849/belchior">, Belchior (Sobral/CE, 1946 - Santa Cruz do Sul/RS, 2017)</a>; Donovan Maia, John (Recife/PE, 1987 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa531189/waldik-soriano">Soriano, Waldick (Caetité/BA, 1933 - Rio de Janeiro/RJ, 2008)</a>; , Gilliard (Natal/RN, 1956 - ); César, Augusto (Paulista/PE, 1959 - Recife/PE, 2021); Greyck, Márcio (Belo Horizonte/MG, 1947 - ); Rossi, Reginaldo (Recife/PE, 1943 - Recife/PE, 2013); <a href="https://enciclopedia.itaucultural.org.br/pessoa531090/odair-jose">José, Odair (Morrinhos/GO, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa281417/zeca-baleiro">Baleiro, Zeca (São Luís/MA, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21480/roberto-carlos">Carlos, Roberto (Cachoeiro de Itapemirim/ES, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa359578/marina-lima">Lima, Marina (Rio de Janeiro/RJ, 1955 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13935/caetano-veloso">Veloso, Caetano (Santo Amaro/BA, 1942 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa14174/monique-gardenberg">Gardenberg, Monique (Salvador/BA, 1958 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa5612/raul-seixas">Seixas, Raul (Salvador/BA, 1945 - São Paulo/SP, 1989)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -425,6 +465,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922050516/https://revistadesvio.com/2018/06/21/denticao/">DENTICAO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa390031/daniel-lannes">Lannes, Daniel (Niterói/RJ, 1981 - )</a></td>
+    <td>, Anitta (Rio de Janeiro/RJ, 1993 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa390031/daniel-lannes">Lannes, Daniel (Niterói/RJ, 1981 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2794/oswald-de-andrade">Andrade, Oswald de (São Paulo/SP, 1890 - São Paulo/SP, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa359489/carmen-miranda">Miranda, Carmen (Portugal, 1909 - Estados Unidos, 1955)</a></td>
     <td>2018</td>
     <td>DENTICAO</td>
     <td>n/a</td>
@@ -435,6 +476,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20201117204919/https://revistadesvio.com/2018/06/28/sobre-os-que-olham-para-o-ceu-e-os-que-nao-enxergam-alem-do-umbigo/">SOBRE OS QUE OLHAM PARA O CEU E OS QUE NAO ENXERGAM ALEM DO UMBIGO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa542259/derlon">, Derlon (Recife/PE, 1985 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa3901/dorival-caymmi">Caymmi, Dorival (Salvador/BH, 1914 - Rio de Janeiro/RJ, 2008)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8837/j-borges">Borges, J. (Bezerros/PE, 1935 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10514/gilvan-samico">Samico, Gilvan (Recife/PE, 1928 - Recife/PE, 2013)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa542259/derlon">, Derlon (Recife/PE, 1985 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento646137/o-reinado-da-lua">O REINADO DA LUA</a></td>
     <td>n/a</td>
@@ -444,6 +486,7 @@
     <th>41</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20191227054705/https://revistadesvio.com/2018/07/12/assustou/">ASSUSTOU?</a></td>
+    <td>Joint, Carlos ()</td>
     <td>Joint, Carlos ()</td>
     <td>2018</td>
     <td>n/a</td>
@@ -455,6 +498,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200919211739/https://revistadesvio.com/2018/07/26/sobre-sensores-e-censores/">SOBRE SENSORES E CENSORES</a></td>
     <td>Ski, Rafael (Juiz de Fora/MG)</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa427075/george-orwell">Orwell, George (Índia, 1903 - Reino Unido, 1950)</a>; Ski, Rafael (Juiz de Fora/MG)</td>
     <td>2018</td>
     <td>TER TODOS OS OLHOS DO MUNDO MENOS OS SEUS</td>
     <td>n/a</td>
@@ -464,6 +508,7 @@
     <th>43</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922041034/https://revistadesvio.com/2018/08/02/ele-nao-viu-que-eu-estava-com-roupa-de-escola/">ELE NAO VIU QUE EU ESTAVA COM ROUPA DE ESCOLA?</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa502002/igor-magalhaes-vidor">Magalhães Vidor, Igor (São Paulo/SP, 1985 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa502002/igor-magalhaes-vidor">Magalhães Vidor, Igor (São Paulo/SP, 1985 - )</a></td>
     <td>2018</td>
     <td>HEROIS NUNCA CELEBRAM VILOES – HEROIS APENAS CELEBRAM VILOES</td>
@@ -475,6 +520,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922203358/https://revistadesvio.com/2018/09/06/revisao-curatorial-o-que-esperar-da-33a-bienal-de-sao-paulo/">REVISAO CURATORIAL: O QUE ESPERAR DA33ª BIENAL DE SAO PAULO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8962/denise-milan">Milan, Denise (São Paulo/SP, 1954 - )</a>; Crosman, Luiza (Rio de Janeiro/RJ, 1987 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa494826/maria-laet">Laet, Maria (Rio de Janeiro/RJ, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9926/nelson-felix">Felix, Nelson (Rio de Janeiro/RJ, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa554036/tamar-guimaraes">Guimarães, Tamar (Viçosa/MG, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20286/vania-mignone">Mignone, Vânia (Campinas/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8771/siron-franco">Franco, Siron (Goiás Velho/GO, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa639632/lucia-nogueira">Nogueira, Lúcia (Goiânia/GO, 1950 - Reino Unido, 1998)</a>; López, Aníbal (Guatemala, 1964 - Guatemala, 2014); Centurión, Feliciano (Paraguai, 1962 - Argentina, 1996); <a href="https://enciclopedia.itaucultural.org.br/pessoa636616/bruno-moreschi">Moreschi, Bruno (São Paulo/SP, 1982 - )</a>; Corujeira, Alejandro (Argentina, 1961 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8962/denise-milan">Milan, Denise (São Paulo/SP, 1954 - )</a>; Crosman, Luiza (Rio de Janeiro/RJ, 1987 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa494826/maria-laet">Laet, Maria (Rio de Janeiro/RJ, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9926/nelson-felix">Felix, Nelson (Rio de Janeiro/RJ, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa554036/tamar-guimaraes">Guimarães, Tamar (Viçosa/MG, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20286/vania-mignone">Mignone, Vânia (Campinas/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8771/siron-franco">Franco, Siron (Goiás Velho/GO, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa639632/lucia-nogueira">Nogueira, Lúcia (Goiânia/GO, 1950 - Reino Unido, 1998)</a>; López, Aníbal (Guatemala, 1964 - Guatemala, 2014); Centurión, Feliciano (Paraguai, 1962 - Argentina, 1996); <a href="https://enciclopedia.itaucultural.org.br/pessoa636616/bruno-moreschi">Moreschi, Bruno (São Paulo/SP, 1982 - )</a>; Corujeira, Alejandro (Argentina, 1961 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa360224/goethe">, Goethe (Alemanha, 1749 - Alemanha, 1832)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9040/marcel-duchamp">Duchamp, Marcel (França, 1887 - França, 1968)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento647172/33-bienal-internacional-de-sao-paulo">33ª BIENAL DE SAO PAULO</a></td>
     <td>n/a</td>
@@ -484,6 +530,7 @@
     <th>45</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922011939/https://revistadesvio.com/2018/09/13/desafio/">DES(A)FIO</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa342408/jessica-a-mein">Mein, Jessica (São Paulo/SP, 1975 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa342408/jessica-a-mein">Mein, Jessica (São Paulo/SP, 1975 - )</a></td>
     <td>2018</td>
     <td>JESSICA MEIN</td>
@@ -495,6 +542,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200924124203/https://revistadesvio.com/2018/10/11/imagens-em-disputa-dos-cartazes-do-atelier-populaire-na-franca-de-1968-a-fabrica-de-memes-no-brasil-de-2018/">IMAGENS EM DISPUTA: DOS CARTAZES DOATELIER POPULAIRENA FRANCA DE 1968 A FAB</a></td>
     <td>, Gladson (Paranaguá/PR)</td>
+    <td>, Gladson (Paranaguá/PR)</td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -505,6 +553,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200922003020/https://revistadesvio.com/2018/11/15/este-nao-e-apenas-mais-um-filme-sobre-vincent-van-gogh/">ESTE NAO E APENAS MAIS UM FILME SOBREVINCENT VAN GOGH</a></td>
     <td>Delhomme, Benoît (França, 1961 - ); Dafoe, Willem (Estados Unidos, 1955 - ); Schnabel, Julian (Estados Unidos, 1951 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa359404/david-salle">Salle, David (Estados Unidos, 1952 - )</a>; Delhomme, Benoît (França, 1961 - ); Dafoe, Willem (Estados Unidos, 1955 - ); Schnabel, Julian (Estados Unidos, 1951 - ); Basquiat, Jean-Michel (Estados Unidos, 1960 - Estados Unidos, 1988); <a href="https://enciclopedia.itaucultural.org.br/pessoa826/paul-gauguin">Gauguin, Paul (França, 1848 - Polinésia Francesa, 1903)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11621/vincent-van-gogh">Gogh, Vincent van (Holanda, 1853 - França, 1890)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -515,6 +564,7 @@
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200926213611/https://revistadesvio.com/2019/01/24/venceremos/">VENCEREMOS!</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa243604/marcela-cantuaria">Cantuária, Marcela (Rio de Janeiro/RJ, 1992 - )</a></td>
+    <td>Passareli, Matheusa (Rio Bonito/RJ, 1997 - Rio de Janeiro/RJ, 2018); <a href="https://enciclopedia.itaucultural.org.br/pessoa243604/marcela-cantuaria">Cantuária, Marcela (Rio de Janeiro/RJ, 1992 - )</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -524,6 +574,7 @@
     <th>49</th>
     <td>Fonseca, Ludimilla (/MG, 1989 - )</td>
     <td><a href="https://web.archive.org/web/20200919231540/https://revistadesvio.com/2019/02/16/entusiasmos/">ENTUSIASMOS</a></td>
+    <td>Brandão, Júlia (Brasil, 1989 - ); Costa, Nicole Della (Rio de Janeiro/RJ)</td>
     <td>Brandão, Júlia (Brasil, 1989 - ); Costa, Nicole Della (Rio de Janeiro/RJ)</td>
     <td>2019</td>
     <td>n/a</td>
@@ -535,6 +586,7 @@
     <td>Lopes Cortes, Mayra Cristina (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210112214249/https://revistadesvioblog.files.wordpress.com/2018/05/8-caderno-especial-queer-museu.pdf">CRITICA DE ARTE DE "OXUMARE"</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa451337/nelson-boeira-faedrich">Boeira Faedrich, Nelson (Porto Alegre/RS, 1912 - Porto Alegre/RS, 1994)</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa451337/nelson-boeira-faedrich">Boeira Faedrich, Nelson (Porto Alegre/RS, 1912 - Porto Alegre/RS, 1994)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento642709/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (FAROL SANTANDER PORTO ALEGRE)</a></td>
     <td>n/a</td>
@@ -544,7 +596,8 @@
     <th>51</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200815075107/https://revistadesvio.com/2018/04/29/i-cant-get-no-satisfaction/">I CAN’T GET NO SATISFACTION</a></td>
-    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19985/rivane-neuenschwander">Neuenschwander, Rivane (Belo Horizonte/MG, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa580178/felix-gonzalez-torres">Gonzalez-Torres, Felix (Cuba, 1957 - Estados Unidos, 1996)</a>; Buñuel, Luis (Espanha, 1900 - México, 1983); <a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a>; Horn, Roni (Estados Unidos, 1955 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19985/rivane-neuenschwander">Neuenschwander, Rivane (Belo Horizonte/MG, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa580178/felix-gonzalez-torres">Gonzalez-Torres, Felix (Cuba, 1957 - Estados Unidos, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa455388/luis-bunuel">Buñuel, Luis (Espanha, 1900 - México, 1983)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a>; Horn, Roni (Estados Unidos, 1955 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19985/rivane-neuenschwander">Neuenschwander, Rivane (Belo Horizonte/MG, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa580178/felix-gonzalez-torres">Gonzalez-Torres, Felix (Cuba, 1957 - Estados Unidos, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa455388/luis-bunuel">Buñuel, Luis (Espanha, 1900 - México, 1983)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa529911/joseph-kosuth">Kosuth, Joseph (Estados Unidos, 1945 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a>; Jagger, Mick (Reino Unido, 1943 - ); Horn, Roni (Estados Unidos, 1955 - )</td>
     <td>2018</td>
     <td>ESSE OBSCURO OBJETO DO DESEJO; ESSE OBSCURO OBJETO DO DESEJO</td>
     <td>n/a</td>
@@ -554,6 +607,7 @@
     <th>52</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926205309/https://revistadesvio.com/2018/05/06/a-corda-da-trilha/">A CORDA DA TRILHA</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa278321/claudio-paiva">Paiva, Claudio (Carangola/MG, 1945 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa278321/claudio-paiva">Paiva, Claudio (Carangola/MG, 1945 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento650098/claudio-paiva-o-colecionador-de-linhas">CLAUDIO PAIVA - O COLECIONADOR DE LINHAS</a></td>
@@ -565,6 +619,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20201117023056/https://revistadesvio.com/2018/05/13/o-tripulante-e-a-casa-de-madeira/">O TRIPULANTE E A CASA DE MADEIRA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa442606/gustavo-rosa-de-moura">Rosa Moura, Gustavo de (São Paulo/SP, 1975 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa442606/gustavo-rosa-de-moura">Rosa Moura, Gustavo de (São Paulo/SP, 1975 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -575,6 +630,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20201117030341/https://revistadesvio.com/2018/05/20/colo-de-ma%CC%83e-e-a-virada-sobre-a-desventura/">COLO DE MAE E A VIRADA SOBRE A DESVENTURA</a></td>
     <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9245/farnese-de-andrade">Andrade Neto, Farnese de (Araguari/MG, 1926 - Rio de Janeiro/RJ, 1996)</a></td>
+    <td><a href="http://enciclopedia.itaucultural.org.br/pessoa9245/farnese-de-andrade">Andrade Neto, Farnese de (Araguari/MG, 1926 - Rio de Janeiro/RJ, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa351466/gustave-courbet">Courbet, Gustave (França, 1819 - Suíça, 1877)</a></td>
     <td>2018</td>
     <td>FARNESE DE ANDRADE– ARQUEOLOGIA EXISTENCIAL</td>
     <td>n/a</td>
@@ -585,6 +641,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20201117181255/https://revistadesvio.com/2018/06/03/you-have-nothing/">YOU HAVE NOTHING</a></td>
     <td>Östlund, Ruben (Suécia, 1974 - )</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa579948/robert-smithson">Smithson, Robert (Estados Unidos, 1938 - Estados Unidos, 1973)</a>; Östlund, Ruben (Suécia, 1974 - )</td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -594,6 +651,7 @@
     <th>56</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926221417/https://revistadesvio.com/2018/06/10/amanha-vai-ser-maior-amanha-vai-ser-maior/">AMANHA VAI SER MAIOR!</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa642034/camilla-braga">Braga, Camilla (Rio de Janeiro/RJ, 1994 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa642034/camilla-braga">Braga, Camilla (Rio de Janeiro/RJ, 1994 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
@@ -605,6 +663,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926201710/https://revistadesvio.com/2018/07/01/com-sentida-esperanca/">COM SENTIDA ESPERANCA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10709/louise-bourgeois">Bourgeois, Louise Joséphine (França, 1911 - Estados Unidos, 2010)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa200107/frida-kahlo">Kahlo, Frida (México, 1907 - México, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13466/joao-moreira-salles">Moreira Salles, João (Rio de Janeiro/RJ, 1962 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -614,6 +673,7 @@
     <th>58</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200922001157/https://revistadesvio.com/2018/07/08/volte-para-casa/">VOLTE PARA CASA</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa589983/nastio-mosquito">Mosquito, Nástio (Angola, 1981 - )</a>; Mahama, Ibrahim (Gana, 1987 - )</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa589983/nastio-mosquito">Mosquito, Nástio (Angola, 1981 - )</a>; Mahama, Ibrahim (Gana, 1987 - )</td>
     <td>2018</td>
     <td>n/a</td>
@@ -625,6 +685,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200919220857/https://revistadesvio.com/2018/07/15/tunga-e-o-fio-de-ariadne-%E2%80%8B/">TUNGAE O FIO DEARIADNE</a></td>
     <td><a href="http://enciclopedia.itaucultural.org.br/pessoa376775/tunga">Mello Mourão, Antonio José de (Palmares/PE, 1952 - Rio de Janeiro/RJ, 2016)</a></td>
+    <td><a href="http://enciclopedia.itaucultural.org.br/pessoa376775/tunga">Mello Mourão, Antonio José de (Palmares/PE, 1952 - Rio de Janeiro/RJ, 2016)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento650099/tunga-o-rigor-da-distracao">TUNGA: O RIGOR DA DISTRACAO</a></td>
     <td>n/a</td>
@@ -634,6 +695,7 @@
     <th>60</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200922001510/https://revistadesvio.com/2018/08/05/cade-voce-aki-comigo/">CADE VOCE AKI COMIGO?</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641991/aleta-valente">Valente, Aleta (Rio de Janeiro/RJ, 1986 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa641991/aleta-valente">Valente, Aleta (Rio de Janeiro/RJ, 1986 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
@@ -645,6 +707,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200922195547/https://revistadesvio.com/2018/08/19/boas-novas/">BOAS NOVAS</a></td>
     <td>Vilanova, Mariana; Faria, Caroline; Morais, Mariana</td>
+    <td>Botticelli, Sandro (Itália, 1445 - Itália, 1510); Vilanova, Mariana; Faria, Caroline; Morais, Mariana; <a href="http://enciclopedia.itaucultural.org.br/pessoa2104/rubens-gerchman">Gerchman, Rubens (Rio de Janeiro/RJ, 1942 - São Paulo/SP, 2008)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -655,6 +718,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926203558/https://revistadesvio.com/2018/09/02/eu-outro-eu/">EUOUTROEU</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a></td>
+    <td>O'Neill, Alexandre (Portugal, 1924 - Portugal, 1986); Sá-Carneiro, Mário de (Portugal, 1890 - Portugal, 1916); <a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -665,6 +729,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200923115516/https://revistadesvio.com/2018/09/23/gabe-passareli-em-queermuseu-o-que-fazer-quando-uma-corpa-vira-cinzas/">GABE PASSARELIEMQUEERMUSEU: O QUE FAZER QUANDO UMA CORPA VIRA CINZAS?</a></td>
     <td>Passareli, Gabe (Rio Bonito/RJ)</td>
+    <td>Passareli, Matheusa (Rio Bonito/RJ, 1997 - Rio de Janeiro/RJ, 2018); Passareli, Gabe (Rio Bonito/RJ)</td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento647285/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (ESCOLA DE ARTES VISUAIS DO PARQUE LAGE)</a></td>
     <td>n/a</td>
@@ -674,6 +739,7 @@
     <th>64</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200926205025/https://revistadesvio.com/2018/10/07/aula-de-corte-e-costura-para-iniciantes-1/">AULA DE CORTE E COSTURA PARA INICIANTES</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa592985/adrianna-eu">Eu, Adrianna (Rio de Janeiro/RJ, 1972 - )</a></td>
     <td>2018</td>
     <td>n/a</td>
@@ -685,6 +751,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200925071606/https://revistadesvio.com/2018/10/28/imagine/">IMAGINE</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa640950/randolpho-lamonier">Lamonier, Randolpho (Coronel Fabriciano/MG, 1988 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa267828/virginia-de-medeiros">Medeiros, Virgínia de (Feira de Santana/BA, 1973 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9547/emmanuel-nassar">Nassar, Emmanuel (Capanema/PA, 1949 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10675/rosana-palazyan">Palazyan, Rosana (Rio de Janeiro/RJ, 1963 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa432645/gustavo-speridiao">Speridião, Gustavo (Rio de Janeiro/RJ, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa640950/randolpho-lamonier">Lamonier, Randolpho (Coronel Fabriciano/MG, 1988 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa267828/virginia-de-medeiros">Medeiros, Virgínia de (Feira de Santana/BA, 1973 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9547/emmanuel-nassar">Nassar, Emmanuel (Capanema/PA, 1949 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10675/rosana-palazyan">Palazyan, Rosana (Rio de Janeiro/RJ, 1963 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa432645/gustavo-speridiao">Speridião, Gustavo (Rio de Janeiro/RJ, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9539/anna-maria-maiolino">Maiolino, Anna Maria (Itália, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento443199/arte-democracia-utopia-quem-nao-luta-ta-morto">ARTE DEMOCRACIA UTOPIA – QUEM NAO LUTA TA MORTO</a></td>
     <td>FRENTE 3 DE FEVEREIRO</td>
@@ -694,7 +761,8 @@
     <th>66</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200924114921/https://revistadesvio.com/2018/11/11/3416/">ACERVO DOMASP– QUEM VIUJAIME LAURIANO? – TEXTO 1</a></td>
-    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa424765/jaime-lauriano">Lauriano, Jaime (São Paulo/SP, 1985 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26927/cinthia-marcelle">Marcelle, Cinthia (Belo Horizonte/MG, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa482189/barbara-wagner">Wagner, Bárbara (Brasília/DF, 1980 - )</a>; Newton Souza, Francis (Índia, 1924 - Índia, 2002); <a href="https://enciclopedia.itaucultural.org.br/pessoa2221/carlos-prado">Prado, Carlos (São Paulo/SP, 1908 - São Paulo/SP, 1992)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa24188/teresinha-soares">Soares, Teresinha (Araxá/MG, 1927 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22966/elza-o-s">Oliveira Souza, Elza de (Recife/PE, 1928 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2079/jose-antonio-da-silva">Silva, José Antônio da (Sales Oliveira/SP, 1909 - São Paulo/SP, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10428/heitor-dos-prazeres">Prazeres, Heitor dos (Rio de Janeiro/RJ, 1898 - Rio de Janeiro/RJ, 1966)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa590022/pedro-figari">Figari, Pedro (Uruguai, 1861 - Uruguai, 1938)</a>; Valadon, Suzanne (França, 1865 - França, 1938); <a href="https://enciclopedia.itaucultural.org.br/pessoa359396/amedeo-modigliani">Modigliani, Amedeo (Itália, 1884 - França, 1920)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa340660/claude-monet">Monet, Claude (França, 1840 - França, 1926)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Cézanne, Paul (França, 1839 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Renoir, Pierre-Auguste (França, 1841 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa209978/rembrandt">, Rembrandt (Holanda, 1606 - Países Baixos, 1669)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa467043/el-greco">El Greco (Grécia, 1541 - Espanha, 1614)</a>; Bosch, Hieronymus (Países Baixos, 1450 - Países Baixos, 1516); <a href="https://enciclopedia.itaucultural.org.br/pessoa598430/giovanni-bellini">Bellini, Giovanni (Itália, 1430 - Itália, 1516)</a>; Botticelli, Sandro (Itália, 1445 - Itália, 1510); <a href="https://enciclopedia.itaucultural.org.br/pessoa172/henri-matisse">Matisse, Henri (França, 1869 - França, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa971/di-cavalcanti">Cavalcanti, Di (Rio de Janeiro/RJ, 1897 - Rio de Janeiro/RJ, 1976)</a>; Manet, Édouard (França, 1832 - França, 1883); Sanzio, Rafael (Itália, 1483 - Itália, 1520); Delacroix, Ferdinand Victor Eugène (França, 1798 - França, 1863); <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa282036/auguste-rodin">Rodin, Auguste (França, 1840 - França, 1917)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa826/paul-gauguin">Gauguin, Paul (França, 1848 - Polinésia Francesa, 1903)</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa424765/jaime-lauriano">Lauriano, Jaime (São Paulo/SP, 1985 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26927/cinthia-marcelle">Marcelle, Cinthia (Belo Horizonte/MG, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa482189/barbara-wagner">Wagner, Bárbara (Brasília/DF, 1980 - )</a>; Newton Souza, Francis (Índia, 1924 - Índia, 2002); <a href="https://enciclopedia.itaucultural.org.br/pessoa2221/carlos-prado">Prado, Carlos (São Paulo/SP, 1908 - São Paulo/SP, 1992)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa24188/teresinha-soares">Soares, Teresinha (Araxá/MG, 1927 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22966/elza-o-s">Oliveira Souza, Elza de (Recife/PE, 1928 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2079/jose-antonio-da-silva">Silva, José Antônio da (Sales Oliveira/SP, 1909 - São Paulo/SP, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10428/heitor-dos-prazeres">Prazeres, Heitor dos (Rio de Janeiro/RJ, 1898 - Rio de Janeiro/RJ, 1966)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa590022/pedro-figari">Figari, Pedro (Uruguai, 1861 - Uruguai, 1938)</a>; Valadon, Suzanne (França, 1865 - França, 1938); <a href="https://enciclopedia.itaucultural.org.br/pessoa359396/amedeo-modigliani">Modigliani, Amedeo (Itália, 1884 - França, 1920)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa340660/claude-monet">Monet, Claude (França, 1840 - França, 1926)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Cézanne, Paul (França, 1839 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Renoir, Pierre-Auguste (França, 1841 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa209978/rembrandt">, Rembrandt (Holanda, 1606 - Países Baixos, 1669)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa467043/el-greco">El Greco (Grécia, 1541 - Espanha, 1614)</a>; Bosch, Hieronymus (Países Baixos, 1450 - Países Baixos, 1516); <a href="https://enciclopedia.itaucultural.org.br/pessoa598430/giovanni-bellini">Bellini, Giovanni (Itália, 1430 - Itália, 1516)</a>; Botticelli, Sandro (Itália, 1445 - Itália, 1510); <a href="https://enciclopedia.itaucultural.org.br/pessoa172/henri-matisse">Matisse, Henri (França, 1869 - França, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa971/di-cavalcanti">Cavalcanti, Di (Rio de Janeiro/RJ, 1897 - Rio de Janeiro/RJ, 1976)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa349671/edouard-manet">Manet, Édouard (França, 1832 - França, 1883)</a>; Sanzio, Rafael (Itália, 1483 - Itália, 1520); <a href="https://enciclopedia.itaucultural.org.br/pessoa352840/eugene-delacroix">Delacroix, Eugène (França, 1798 - França, 1863)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa282036/auguste-rodin">Rodin, Auguste (França, 1840 - França, 1917)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa826/paul-gauguin">Gauguin, Paul (França, 1848 - Polinésia Francesa, 1903)</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa424765/jaime-lauriano">Lauriano, Jaime (São Paulo/SP, 1985 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26927/cinthia-marcelle">Marcelle, Cinthia (Belo Horizonte/MG, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa482189/barbara-wagner">Wagner, Bárbara (Brasília/DF, 1980 - )</a>; Newton Souza, Francis (Índia, 1924 - Índia, 2002); <a href="https://enciclopedia.itaucultural.org.br/pessoa2221/carlos-prado">Prado, Carlos (São Paulo/SP, 1908 - São Paulo/SP, 1992)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa24188/teresinha-soares">Soares, Teresinha (Araxá/MG, 1927 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22966/elza-o-s">Oliveira Souza, Elza de (Recife/PE, 1928 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2079/jose-antonio-da-silva">Silva, José Antônio da (Sales Oliveira/SP, 1909 - São Paulo/SP, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10428/heitor-dos-prazeres">Prazeres, Heitor dos (Rio de Janeiro/RJ, 1898 - Rio de Janeiro/RJ, 1966)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa590022/pedro-figari">Figari, Pedro (Uruguai, 1861 - Uruguai, 1938)</a>; Valadon, Suzanne (França, 1865 - França, 1938); <a href="https://enciclopedia.itaucultural.org.br/pessoa359396/amedeo-modigliani">Modigliani, Amedeo (Itália, 1884 - França, 1920)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa340660/claude-monet">Monet, Claude (França, 1840 - França, 1926)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Cézanne, Paul (França, 1839 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa211118/pierre-auguste-renoir">Renoir, Pierre-Auguste (França, 1841 - França, 1919)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa209978/rembrandt">, Rembrandt (Holanda, 1606 - Países Baixos, 1669)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa467043/el-greco">El Greco (Grécia, 1541 - Espanha, 1614)</a>; Bosch, Hieronymus (Países Baixos, 1450 - Países Baixos, 1516); <a href="https://enciclopedia.itaucultural.org.br/pessoa598430/giovanni-bellini">Bellini, Giovanni (Itália, 1430 - Itália, 1516)</a>; Botticelli, Sandro (Itália, 1445 - Itália, 1510); <a href="https://enciclopedia.itaucultural.org.br/pessoa172/henri-matisse">Matisse, Henri (França, 1869 - França, 1954)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa971/di-cavalcanti">Cavalcanti, Di (Rio de Janeiro/RJ, 1897 - Rio de Janeiro/RJ, 1976)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa349671/edouard-manet">Manet, Édouard (França, 1832 - França, 1883)</a>; Sanzio, Rafael (Itália, 1483 - Itália, 1520); <a href="https://enciclopedia.itaucultural.org.br/pessoa352840/eugene-delacroix">Delacroix, Eugène (França, 1798 - França, 1863)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa9016/flavio-de-carvalho">Resende Carvalho, Flávio de (Barra Mansa/RJ, 1899 - Valinhos/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa282036/auguste-rodin">Rodin, Auguste (França, 1840 - França, 1917)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa826/paul-gauguin">Gauguin, Paul (França, 1848 - Polinésia Francesa, 1903)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento647426/acervo-em-transformacao-tate-do-masp">ACERVO EM TRANSFORMACAO:TATENOMASP</a></td>
     <td>GUERRILLA GIRLS</td>
@@ -704,6 +772,7 @@
     <th>67</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200923115808/https://revistadesvio.com/2018/11/18/acervo-do-masp-quem-viu-jaime-lauriano-texto-2/">ACERVO DOMASP– QUEM VIUJAIME LAURIANO? – TEXTO 2</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa424765/jaime-lauriano">Lauriano, Jaime (São Paulo/SP, 1985 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa424765/jaime-lauriano">Lauriano, Jaime (São Paulo/SP, 1985 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento647426/acervo-em-transformacao-tate-do-masp">ACERVO EM TRANSFORMACAO:TATENOMASP</a></td>
@@ -715,6 +784,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200919225750/https://revistadesvio.com/2018/11/25/o-verso-das-coisas/">O VERSO DAS COISAS</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa356918/paulo-vivacqua">Vivacqua, Paulo (Vitória/ES, 1971 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa372792/eduardo-berliner">Berliner, Eduardo (Rio de Janeiro/RJ, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26906/cadu">Cadu (São Paulo/SP, 1977 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa520033/adriano-motta">Motta, Adriano (Estados Unidos, 1975 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa356918/paulo-vivacqua">Vivacqua, Paulo (Vitória/ES, 1971 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa372792/eduardo-berliner">Berliner, Eduardo (Rio de Janeiro/RJ, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26906/cadu">Cadu (São Paulo/SP, 1977 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa520033/adriano-motta">Motta, Adriano (Estados Unidos, 1975 - )</a></td>
     <td>2018</td>
     <td>PROJETO CAVALO: QUADRIVIUM 8 PATAS</td>
     <td>n/a</td>
@@ -724,6 +794,7 @@
     <th>69</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20201027234729/https://revistadesvio.com/2018/12/09/sem-cabimento/">SEM CABIMENTO</a></td>
+    <td>Porter, Liliana (Argentina, 1941 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa641290/clemencia-lucena">Lucena, Clemencia (Colômbia, 1945 - Colômbia, 1983)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641322/ana-victoria-jimenez">Jiménez, Ana Victória (México, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641319/maris-bustamante">Bustamante, Maris (México, 1949 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641320/silvia-gruner">Gruner, Silvia (México, 1959 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21759/celeida-tostes">Tostes, Celeida (Rio de Janeiro/RJ, 1929 - Rio de Janeiro/RJ, 1995)</a>; Santa Cruz, Victoria (Peru, 1922 - Peru, 2014); <a href="http://enciclopedia.itaucultural.org.br/pessoa216185/leticia-parente">Souza Parente, Letícia Tarquinio de (Salvador/BA, 1930 - Rio de Janeiro/RJ, 1991)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa579517/ana-mendieta">Mendieta, Ana (Cuba, 1948 - Estados Unidos, 1985)</a></td>
     <td>Porter, Liliana (Argentina, 1941 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa641290/clemencia-lucena">Lucena, Clemencia (Colômbia, 1945 - Colômbia, 1983)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641322/ana-victoria-jimenez">Jiménez, Ana Victória (México, 1941 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641319/maris-bustamante">Bustamante, Maris (México, 1949 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa641320/silvia-gruner">Gruner, Silvia (México, 1959 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21759/celeida-tostes">Tostes, Celeida (Rio de Janeiro/RJ, 1929 - Rio de Janeiro/RJ, 1995)</a>; Santa Cruz, Victoria (Peru, 1922 - Peru, 2014); <a href="http://enciclopedia.itaucultural.org.br/pessoa216185/leticia-parente">Souza Parente, Letícia Tarquinio de (Salvador/BA, 1930 - Rio de Janeiro/RJ, 1991)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa579517/ana-mendieta">Mendieta, Ana (Cuba, 1948 - Estados Unidos, 1985)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento646383/mulheres-radicais-arte-latino-americana-1960-1985">MULHERES RADICAIS: ARTE LATINO-AMERICANA, 1960-1985</a></td>
@@ -735,6 +806,7 @@
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200924110015/https://revistadesvio.com/2019/01/14/direita-volver/">DIREITA VOLVER</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8666/carmela-gross">Gross, Carmela (São Paulo/SP, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa251484/antonio-benetazzo">Benetazzo, Antônio (Itália, 1941 - São Paulo/SP, 1972)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9291/samuel-szpigel">Szpigel, Samuel (Rio de Janeiro/RJ, 1936 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa280184/matheus-rocha-pitta">Rocha Pitta, Matheus (São João del Rei/MG, 1980 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8666/carmela-gross">Gross, Carmela (São Paulo/SP, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa251484/antonio-benetazzo">Benetazzo, Antônio (Itália, 1941 - São Paulo/SP, 1972)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9291/samuel-szpigel">Szpigel, Samuel (Rio de Janeiro/RJ, 1936 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10593/cildo-meireles">Meireles, Cildo (Rio de Janeiro/RJ, 1948 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa280184/matheus-rocha-pitta">Rocha Pitta, Matheus (São João del Rei/MG, 1980 - )</a></td>
     <td>2019</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento444113/ai-5-50-anos-ainda-nao-terminou-de-acabar">AI-5 50 ANOS – AINDA NAO TERMINOU DE ACABAR</a></td>
     <td>n/a</td>
@@ -744,6 +816,7 @@
     <th>71</th>
     <td>Lopes, Carolina (São Gonçalo/RJ)</td>
     <td><a href="https://web.archive.org/web/20200919215943/https://revistadesvio.com/2019/01/20/obrigada-senhor-ladrao/">OBRIGADA, SENHOR LADRAO</a></td>
+    <td>López, Aníbal (Guatemala, 1964 - Guatemala, 2014)</td>
     <td>López, Aníbal (Guatemala, 1964 - Guatemala, 2014)</td>
     <td>2019</td>
     <td>n/a</td>
@@ -755,6 +828,7 @@
     <td>Manfredini, Gabriela</td>
     <td><a href="https://web.archive.org/web/20200919055203/https://revistadesvio.com/2019/03/19/duas-proposicoes-sobre-jodorowsky/">DUAS PROPOSICOES SOBREJODOROWSKY</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa558283/alejandro-jodorowsky">Jodorowsky, Alejandro (Chile, 1929 - )</a></td>
+    <td>Lennon, John (Reino Unido, 1940 - Estados Unidos, 1980); <a href="https://enciclopedia.itaucultural.org.br/pessoa558283/alejandro-jodorowsky">Jodorowsky, Alejandro (Chile, 1929 - )</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -764,6 +838,7 @@
     <th>73</th>
     <td>Manfredini, Gabriela</td>
     <td><a href="https://web.archive.org/web/20200924045102/https://revistadesvio.com/2019/03/26/falsificacao-e-participacao/">FALSIFICACAO E PARTICIPACAO</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa204185/luiz-camnitzer">Camnitzer, Luis (Alemanha, 1937 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa204185/luiz-camnitzer">Camnitzer, Luis (Alemanha, 1937 - )</a></td>
     <td>2019</td>
     <td>HOSPICIO DE UTOPIAS FALLIDAS</td>
@@ -775,6 +850,7 @@
     <td>Manfredini, Gabriela</td>
     <td><a href="https://web.archive.org/web/20200925085814/https://revistadesvio.com/2019/04/16/tempestade-em-banho-dagua-fria/">TEMPESTADE EM BANHO D’AGUA FRIA</a></td>
     <td>Cameron Sunde, Sarah (Estados Unidos)</td>
+    <td>Cameron Sunde, Sarah (Estados Unidos)</td>
     <td>2019</td>
     <td>16ª BIENAL DE ISTAMBUL</td>
     <td>n/a</td>
@@ -784,6 +860,7 @@
     <th>75</th>
     <td>Medeiros Oliveira, Priscila de</td>
     <td><a href="https://web.archive.org/web/20210108220745/https://revistadesvioblog.files.wordpress.com/2016/11/desvio_01_crc3adtica_priscila.pdf">MODERNIDADES FOTOGRAFICASNOINSTITUTO MOREIRA SALLES - RJ</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10624/hans-gunter-flieg">Günter Flieg, Hans (Alemanha, 1923 - )</a>; Medeiros, José (Teresina/PI, 1921 - Itália, 1990); <a href="https://enciclopedia.itaucultural.org.br/pessoa226/marcel-gautherot">Gautherot, Marcel (França, 1910 - Rio de Janeiro/RJ, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - São Paulo/SP, 2011)</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10624/hans-gunter-flieg">Günter Flieg, Hans (Alemanha, 1923 - )</a>; Medeiros, José (Teresina/PI, 1921 - Itália, 1990); <a href="https://enciclopedia.itaucultural.org.br/pessoa226/marcel-gautherot">Gautherot, Marcel (França, 1910 - Rio de Janeiro/RJ, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - São Paulo/SP, 2011)</a></td>
     <td>2016</td>
     <td>MODERNIDADES FOTOGRAFICAS: 1940-1964</td>
@@ -795,6 +872,7 @@
     <td>Moraes, Gean B. de (Fortaleza/CE)</td>
     <td><a href="https://web.archive.org/web/20210112214249/https://revistadesvioblog.files.wordpress.com/2018/05/8-caderno-especial-queer-museu.pdf">ET VERBUMDEANTONIO OBA(OU ISTO NAO E UMA HOSTIA)</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa339633/antonio-oba">Obá, Antônio (Ceilândia/DF, 1983 - )</a></td>
+    <td>Novalis (Alemanha, 1772 - Alemanha, 1801); Freytag-Loringhoven, Elsa von (Polônia, 1874 - França, 1927); <a href="https://enciclopedia.itaucultural.org.br/pessoa339633/antonio-oba">Obá, Antônio (Ceilândia/DF, 1983 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9040/marcel-duchamp">Duchamp, Marcel (França, 1887 - França, 1968)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa529911/joseph-kosuth">Kosuth, Joseph (Estados Unidos, 1945 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa341317/rene-magritte">Magritte, René (Bélgica, 1898 - Bélgica, 1967)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento642709/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (FAROL SANTANDER PORTO ALEGRE)</a></td>
     <td>n/a</td>
@@ -804,6 +882,7 @@
     <th>77</th>
     <td>Moreno, Letícia</td>
     <td><a href="https://web.archive.org/web/20210119142205/https://revistadesvioblog.files.wordpress.com/2018/05/11-ensaio-performance.pdf">O PROCESSO COMO PERFORMANCE: PENSAMENTOS SOBREKIM JUNGGI</a></td>
+    <td>Jung Gi, Kim (Coreia do Sul, 1975 - )</td>
     <td>Jung Gi, Kim (Coreia do Sul, 1975 - )</td>
     <td>2018</td>
     <td>n/a</td>
@@ -815,6 +894,7 @@
     <td>Nunes Vieira, Thainá (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210112214249/https://revistadesvioblog.files.wordpress.com/2018/05/8-caderno-especial-queer-museu.pdf">SEM TITULO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa600942/silvia-giordani">Giordani, Silvia (Porto Alegre/RS, 1970 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa600942/silvia-giordani">Giordani, Silvia (Porto Alegre/RS, 1970 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento642709/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (FAROL SANTANDER PORTO ALEGRE)</a></td>
     <td>n/a</td>
@@ -825,6 +905,7 @@
     <td>Ovidio, João Paulo (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210108215843/https://revistadesvioblog.files.wordpress.com/2016/11/desvio_01_crc3adtica_joc3a3o.pdf">VANIA MIGNONENAGALERIA MERCEDES VIEGAS</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa20286/vania-mignone">Mignone, Vânia (Campinas/SP, 1967 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa20286/vania-mignone">Mignone, Vânia (Campinas/SP, 1967 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa10588/oswaldo-goeldi">Goeldi, Oswaldo (Rio de Janeiro/RJ, 1895 - Rio de Janeiro/RJ, 1961)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa2104/rubens-gerchman">Gerchman, Rubens (Rio de Janeiro/RJ, 1942 - São Paulo/SP, 2008)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8742/leonilson">, Leonilson (Fortaleza/CE, 1957 - São Paulo/SP)</a></td>
     <td>2016</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento644511/hoje-em-dia">HOJE EM DIA</a></td>
     <td>n/a</td>
@@ -834,6 +915,7 @@
     <th>80</th>
     <td>Sabatino, Juliana</td>
     <td><a href="https://web.archive.org/web/20210112214249/https://revistadesvioblog.files.wordpress.com/2018/05/8-caderno-especial-queer-museu.pdf">NOTA DA CARTOGRAFIA DE HOJE: O CASO POLEMICO DA CRIANCA VIADA</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa4210/bia-leite">Leite, Bia (Brasília/DF, 1990 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa4210/bia-leite">Leite, Bia (Brasília/DF, 1990 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento642709/queermuseu-cartografias-da-diferenca-na-arte-brasileira">QUEERMUSEU: CARTOGRAFIAS DA DIFERENCA NA ARTE BRASILEIRA (FAROL SANTANDER PORTO ALEGRE)</a></td>
@@ -845,6 +927,7 @@
     <td>Spindola Motta Fernandes, Thiago (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20210108222142/https://revistadesvioblog.files.wordpress.com/2017/06/desvio_02_critica_thiago.pdf">BALANCETE-COLETIVO FILE DE PEIXENOCENTRO MUNICIPAL DE ARTE HELIO OITICICA</a></td>
     <td>n/a</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa526255/matthew-barney">Barney, Matthew (Estados Unidos, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7783/paulo-bruscky">Bruscky, Paulo (Recife/PE, 1949 - )</a></td>
     <td>2017</td>
     <td>BALANCETE</td>
     <td>COLETIVO FILE DE PEIXE</td>
@@ -854,6 +937,7 @@
     <th>82</th>
     <td>Tangerini, Vanessa (Rio de Janeiro/RJ)</td>
     <td><a href="https://web.archive.org/web/20200922023235/https://revistadesvio.com/2019/03/30/pardo-e-papel/">PARDO E PAPEL</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa11882/maxwell-alexandre">Alexandre, Maxwell (Rio de Janeiro/RJ, 1990 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa11882/maxwell-alexandre">Alexandre, Maxwell (Rio de Janeiro/RJ, 1990 - )</a></td>
     <td>2019</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento447841/pardo-e-papel">PARDO E PAPEL</a></td>
@@ -865,6 +949,7 @@
     <td>Valoura, Thales</td>
     <td><a href="https://web.archive.org/web/20210111030201/https://revistadesvioblog.files.wordpress.com/2017/11/desvio_3_expo_pega1.pdf">S.T.</a></td>
     <td>n/a</td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10814/glauber-rocha">Rocha, Glauber (Vitória da Conquista/BA, 1939 - Rio de Janeiro/RJ, 1981)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2914/gilberto-gil">Gil, Gilberto (Salvador/BA, 1942 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ, 1980)</a></td>
     <td>2017</td>
     <td>EXPOSICAO DO I PEGA – ENCONTRO DE ESTUDANTES DE GRADUACOES EM ARTES DO ESTADO DO RIO DE JANEIRO</td>
     <td>n/a</td>
@@ -875,6 +960,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200815075412/https://revistadesvio.com/2018/04/28/victor-arruda-o-artista-esta-presente/">VICTOR ARRUDA: O ARTISTA ESTA PRESENTE</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10278/victor-arruda">Arruda, Victor (Cuiabá/MT, 1947 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8657/ismael-nery">Nery, Ismael (Belém/PA, 1900 - Rio de Janeiro/RJ, 1934)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa510681/paul-klee">Klee, Paul (Suíça, 1879 - Suíça, 1940)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa824/tarsila-do-amaral">Amaral, Tarsila do (Capivari/SP, 1886 - São Paulo/SP, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10278/victor-arruda">Arruda, Victor (Cuiabá/MT, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa529911/joseph-kosuth">Kosuth, Joseph (Estados Unidos, 1945 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8902/pablo-picasso">Picasso, Pablo (Espanha, 1881 - França, 1973)</a></td>
     <td>2018</td>
     <td>ARRUDA, VICTOR</td>
     <td>n/a</td>
@@ -885,6 +971,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200925073015/https://revistadesvio.com/2018/05/05/matador-de-passarinho/">MATADOR DE PASSARINHO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa336214/vitor-mizael">Mizael, Vítor (São Caetano do Sul/SP, 1982 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8580/lasar-segall">Segall, Lasar (Lituânia, 1889 - São Paulo/SP, 1957)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa336214/vitor-mizael">Mizael, Vítor (São Caetano do Sul/SP, 1982 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa18749/jean-baptiste-debret">Debret, Jean-Baptiste (França, 1768 - França, 1848)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa707/johann-moritz-rugendas">Moritz Rugendas, Johann (Alemanha, 1802 - Alemanha, 1858)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa21332/pedro-americo">Figueiredo Mello, Pedro Américo de e (Areia/PB, 1843 - Itália, 1905)</a></td>
     <td>2018</td>
     <td>TERRA EM CHAMAS</td>
     <td>n/a</td>
@@ -894,6 +981,7 @@
     <th>86</th>
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200926203956/https://revistadesvio.com/2018/05/12/que-tiro-foi-esse/">QUE TIRO FOI ESSE?</a></td>
+    <td>SZA (Estados Unidos, 1990 - ); Gambino, Childish (Estados Unidos, 1983 - )</td>
     <td>SZA (Estados Unidos, 1990 - ); Gambino, Childish (Estados Unidos, 1983 - )</td>
     <td>2018</td>
     <td>n/a</td>
@@ -905,6 +993,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200926223018/https://revistadesvio.com/2018/05/19/a-simbologia-do-cabelo/">A SIMBOLOGIA DOCABELO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19755/cabelo">Cabelo (Cachoeiro de Itapemirim/ES, 1967 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19755/cabelo">Cabelo (Cachoeiro de Itapemirim/ES, 1967 - )</a></td>
     <td>2018</td>
     <td>LUZ COM TREVAS</td>
     <td>n/a</td>
@@ -915,6 +1004,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200919215624/https://revistadesvio.com/2018/05/26/um-nome-apropriado/">UM NOME APROPRIADO</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa265082/marcos-amaro">Amaro, Marcos (São Paulo/SP, 1984 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa341245/kazimir-malevich">Malevich, Kazimir (Ucrânia, 1878 - Rússia, 1935)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa265082/marcos-amaro">Amaro, Marcos (São Paulo/SP, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8902/pablo-picasso">Picasso, Pablo (Espanha, 1881 - França, 1973)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento645471/sobrevoo">SOBREVOO</a></td>
     <td>n/a</td>
@@ -924,6 +1014,7 @@
     <th>89</th>
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200925073515/https://revistadesvio.com/2018/06/02/afinal-arte-ou-brinquedo/">AFINAL, ARTE OU BRINQUEDO?</a></td>
+    <td>Marczinzik, Christin (Alemanha, 1988 - ); Binh Minh Nguyen, Thi (Vietnã, 1987 - ); Werf, Marleine van der (Países Baixos, 1985 - ); Duerinck, Frederik ()</td>
     <td>Marczinzik, Christin (Alemanha, 1988 - ); Binh Minh Nguyen, Thi (Vietnã, 1987 - ); Werf, Marleine van der (Países Baixos, 1985 - ); Duerinck, Frederik ()</td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento648545/file-festival-internacional-de-linguagem-eletronica-arte-eletronica-e-a-epoca-disruptiva">FILE – FESTIVAL INTERNACIONAL DE LINGUAGEM ELETRONICA – A ARTE ELETRONICA NA EPOCA DISRUPTIVA</a></td>
@@ -935,6 +1026,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200926213143/https://revistadesvio.com/2018/06/23/bem-vindo-ao-lar-sao-paulo-e-sua-casa-critica-a-exposicao-junho-de-2013-5-anos-depois-parte-i/">BEM VINDO AO LAR: SAO PAULO E SUA CASA. CRITICA A EXPOSICAOJUNHO DE 2013, 5</a></td>
     <td>Almeida, Nelson (Rio de Janeiro/RJ, 1997 - ); Massive Illegal Arts (São Paulo/SP); Barboza, Leandro (Niterói/RJ, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa474517/daniel-murgel">Murgel, Daniel (Niterói/RJ, 1981 - )</a>; Hortides, Ana (Rio de Janeiro/RJ, 1989 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa368332/guga">Ferraz, Guga (Rio de Janeiro/RJ, 1974 - )</a>; Florindo, Mariana (Rio Claro/SP, 1992 - ); Cipriano, Cecília ()</td>
+    <td>Almeida, Nelson (Rio de Janeiro/RJ, 1997 - ); Massive Illegal Arts (São Paulo/SP); Barboza, Leandro (Niterói/RJ, 1980 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa474517/daniel-murgel">Murgel, Daniel (Niterói/RJ, 1981 - )</a>; Hortides, Ana (Rio de Janeiro/RJ, 1989 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa368332/guga">Ferraz, Guga (Rio de Janeiro/RJ, 1974 - )</a>; Florindo, Mariana (Rio Claro/SP, 1992 - ); Cipriano, Cecília ()</td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
     <td>ATELIER SANITARIO</td>
@@ -944,6 +1036,7 @@
     <th>91</th>
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200922005329/https://revistadesvio.com/2018/06/30/o-sujeito-oculto-critica-a-exposicao-junho-de-2013-5-anos-depois-parte-ii/">O SUJEITO OCULTO – CRITICA A EXPOSICAOJUNHO DE 2013, 5 ANOS DEPOIS. PARTE I</a></td>
+    <td>Kloosterman, Jessica (, 1972 - ); Vandal, Tavarez (Rio de Janeiro/RJ, 1988 - ); Valentim, Philippe (Rio de Janeiro/RJ); Estrada, Emília (Argentina, 1989 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa368332/guga">Ferraz, Guga (Rio de Janeiro/RJ, 1974 - )</a></td>
     <td>Kloosterman, Jessica (, 1972 - ); Vandal, Tavarez (Rio de Janeiro/RJ, 1988 - ); Valentim, Philippe (Rio de Janeiro/RJ); Estrada, Emília (Argentina, 1989 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa368332/guga">Ferraz, Guga (Rio de Janeiro/RJ, 1974 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
@@ -955,6 +1048,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200922004050/https://revistadesvio.com/2018/07/07/dois-tipos-de-rotulos-critica-a-exposicao-junho-de-2013-5-anos-depois-parte-iii/">DOIS TIPOS DE ROTULOS CRITICA A EXPOSICAOJUNHO DE 2013: 5 ANOS DEPOIS. PART</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa432645/gustavo-speridiao">Speridião, Gustavo (Rio de Janeiro/RJ, 1978 - )</a>; Cesário, Isabelle (São José dos Campos/SP, 1995 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa333399/carine-caz">Caz, Carine (Rio de Janeiro/RJ, 1994 - )</a>; Meijueiro, Pablo (Rio de Janeiro/RJ, 1988 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa962/carlos-zilio">Zilio, Carlos (Rio de Janeiro/RJ, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa432645/gustavo-speridiao">Speridião, Gustavo (Rio de Janeiro/RJ, 1978 - )</a>; Cesário, Isabelle (São José dos Campos/SP, 1995 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa333399/carine-caz">Caz, Carine (Rio de Janeiro/RJ, 1994 - )</a>; Meijueiro, Pablo (Rio de Janeiro/RJ, 1988 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa48/helio-oiticica">Oiticica, Hélio (Rio de Janeiro/RJ, 1937 - Rio de Janeiro/RJ, 1980)</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
     <td>COLETIVO VO PIXA PELADA</td>
@@ -964,6 +1058,7 @@
     <th>93</th>
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200922000950/https://revistadesvio.com/2018/07/14/sobre-lutas-e-caminhos-critica-a-exposicao-junho-de-2013-5-anos-depois-final/">SOBRE LUTAS E CAMINHOS CRITICA A EXPOSICAOJUNHO DE 2013, 5 ANOS DEPOIS. FIN</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa371983/juliana-notari">Notari, Juliana (Recife/PE, 1975 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa604315/barbara-szaniecki">Szanieck, Barbara (Rio de Janeiro/RJ)</a>; Noctivaga, Cyanogaster (); Ortiz, Thiago (Rio de Janeiro/RJ, 1986 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa243604/marcela-cantuaria">Cantuária, Marcela (Rio de Janeiro/RJ, 1992 - )</a>; Frechette, Alex (Niterói/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa641991/aleta-valente">Valente, Aleta (Rio de Janeiro/RJ, 1986 - )</a>; Lohana, Beatriz (Franco da Rocha/SP, 1996 - ); Ferraro, Alïce (Rio de Janeiro/RJ, 1996 - ); Meijueiro, Pablo (Rio de Janeiro/RJ, 1988 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa642034/camilla-braga">Braga, Camilla (Rio de Janeiro/RJ, 1994 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa371983/juliana-notari">Notari, Juliana (Recife/PE, 1975 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa604315/barbara-szaniecki">Szanieck, Barbara (Rio de Janeiro/RJ)</a>; Noctivaga, Cyanogaster (); Ortiz, Thiago (Rio de Janeiro/RJ, 1986 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa243604/marcela-cantuaria">Cantuária, Marcela (Rio de Janeiro/RJ, 1992 - )</a>; Frechette, Alex (Niterói/RJ); <a href="https://enciclopedia.itaucultural.org.br/pessoa641991/aleta-valente">Valente, Aleta (Rio de Janeiro/RJ, 1986 - )</a>; Lohana, Beatriz (Franco da Rocha/SP, 1996 - ); Ferraro, Alïce (Rio de Janeiro/RJ, 1996 - ); Meijueiro, Pablo (Rio de Janeiro/RJ, 1988 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa642034/camilla-braga">Braga, Camilla (Rio de Janeiro/RJ, 1994 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa578552/ivan-grilo">Grilo, Ivan (Itatiba/SP, 1986 - )</a></td>
     <td>2018</td>
     <td><a href="https://enciclopedia.itaucultural.org.br/evento649848/junho-de-2013-cinco-anos-depois">JUNHO DE 2013: 5 ANOS DEPOIS</a></td>
@@ -975,6 +1070,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20201023015522/https://revistadesvio.com/2018/08/25/sobre-a-repulsa-a-perenidade/">SOBRE A REPULSA A PERENIDADE</a></td>
     <td>Abranches, Marcus (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa106596/priscilla-davanzo">Davanzo, Priscilla (São Paulo/SP, 1978 - )</a></td>
+    <td>Abranches, Marcus (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa106596/priscilla-davanzo">Davanzo, Priscilla (São Paulo/SP, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa333908/edvard-munch">Munch, Edvard (Noruega, 1863 - Noruega, 1944)</a></td>
     <td>2018</td>
     <td>n/a</td>
     <td>n/a</td>
@@ -985,6 +1081,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200925080048/https://revistadesvio.com/2018/11/17/o-estado-sombrio-da-materia/">O ESTADO SOMBRIO DA MATERIA</a></td>
     <td><a href="https://enciclopedia.itaucultural.org.br/pessoa249359/cristina-de-padula">Pádula, Cristina de (Rio de Janeiro/RJ, 1972 - )</a></td>
+    <td><a href="https://enciclopedia.itaucultural.org.br/pessoa25208/richard-serra">Serra, Richard (Estados Unidos, 1939 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa249359/cristina-de-padula">Pádula, Cristina de (Rio de Janeiro/RJ, 1972 - )</a></td>
     <td>2018</td>
     <td>ONDE, AGORA?</td>
     <td>n/a</td>
@@ -995,6 +1092,7 @@
     <td>Vieira, Camila (Brasil, 1991 - )</td>
     <td><a href="https://web.archive.org/web/20200922010354/https://revistadesvio.com/2019/01/05/atraves-do-espelho/">ATRAVES DO ESPELHO</a></td>
     <td>Slade, David (Reino Unido, 1969 - ); Brooker, Charlie (Reino Unido, 1971 - )</td>
+    <td>Slade, David (Reino Unido, 1969 - ); Brooker, Charlie (Reino Unido, 1971 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa7467/lewis-carroll">Carroll, Lewis (Reino Unido, 1832 - Reino Unido, 1898)</a></td>
     <td>2019</td>
     <td>n/a</td>
     <td>n/a</td>

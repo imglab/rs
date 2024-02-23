@@ -22,6 +22,7 @@
         <th>Autores</th>
      <th>Críticas de Arte</th>
      <th>Artistas &#40;tema&#41;</th>
+     <th>Artistas &#40;referenciados&#41;</th>
       <th>Ano de Publicação</th>
       <th>Eventos Artísticos &#40;tema&#41;</th>
       <th>Coletivos de Artistas &#40;tema&#41;</th>
@@ -34,6 +35,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809161555/http://www.iconica.com.br/site/doisneau-publicitario/">DOISNEAUPUBLICITARIO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7289/robert-doisneau">Doisneau, Robert (França, 1912 - França, 1994)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7369/henri-cartier-bresson">Cartier-Bresson, Henri (França, 1908 - França, 2004)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7289/robert-doisneau">Doisneau, Robert (França, 1912 - França, 1994)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa637239/andre-kertesz">Kertész, André (Hungria, 1894 - Estados Unidos, 1985)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7304/robert-capa">Capa, Robert (Hungria, 1913 - Vietnã, 1954)</a></td>
         <td>2009</td>
         <td>A RENAULT DEDOISNEAU</td>
         <td>n/a</td>
@@ -44,6 +46,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808082609/http://www.iconica.com.br/site/coletivizando-o-coletivo/">COLETIVIZANDO O COLETIVO</a></td>
         <td>n/a</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa427457/homero">, Homero (Grécia, -0928 - Grécia, -0898)</a></td>
         <td>2010</td>
         <td>n/a</td>
         <td>CIA DE FOTO</td>
@@ -54,6 +57,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190821053602/http://www.iconica.com.br/site/avatar-coisas-que-a-historia-da-fotografia-ensina-sobre-o-futuro-do-cinema/">AVATAR: COISAS QUE A HISTORIA DA FOTOGRAFIA ENSINA SOBRE O FUTURO DO CINEMA</a></td>
         <td>Cameron, James (Canadá, 1954 - )</td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa26053/leonardo-da-vinci">Vinci, Leonardo da (Itália, 1452 - França, 1519)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa594755/stanley-kubrick">Kubrick, Stanley (Estados Unidos, 1928 - Reino Unido, 1999)</a>; Cameron, James (Canadá, 1954 - ); Antonioni, Michelangelo (Itália, 1912 - Itália, 2007); Ford Coppola, Francis (Estados Unidos, 1939 - ); Burton, Tim (Estados Unidos, 1958 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa10340/carlos-moreira">Moreira, Carlos (São Paulo/SP, 1936 - São Paulo/SP, 2020)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa585953/charlie-chaplin">Chaplin, Charlie (Reino Unido, 1889 - Suíça, 1977)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa443055/chris-marker">Marker, Chris (França, 1921 - França, 2012)</a></td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -64,6 +68,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809163530/http://www.iconica.com.br/site/gordon-matta-clark-o-registro-como-obra/">GORDON MATTA-CLARK: O REGISTRO COMO OBRA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa579940/gordon-matta-clark">Matta-Clark, Gordon (Estados Unidos, 1943 - Estados Unidos, 1978)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa488037/yves-klein">Klein, Yves (França, 1928 - França, 1962)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa579940/gordon-matta-clark">Matta-Clark, Gordon (Estados Unidos, 1943 - Estados Unidos, 1978)</a>; Shunk, Harry (Alemanha, 1924 - Estados Unidos, 2006); <a href="https://enciclopedia.itaucultural.org.br/pessoa528960/georges-rousse">Rousse, Georges (França, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389471/cindy-sherman">Sherman, Cindy (Estados Unidos, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9203/vik-muniz">Muniz, Vik (São Paulo/SP, 1961 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10376/rosangela-renno">Rennó, Rosângela (Belo Horizonte/MG, 1962 - )</a></td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento634384/gordon-matta-clark-desfazer-o-espaco">GORDON MATTA-CLARK: DESFAZER O ESPACO</a></td>
         <td>n/a</td>
@@ -74,6 +79,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817104457/http://www.iconica.com.br/site/o-olhar-e-as-paixoes-sobre-o-novo-filme-de-j-j-campanella/">O OLHAR E AS PAIXOES: SOBRE O NOVO FILME DEJ. J. CAMPANELLA</a></td>
         <td>Campanella, Juan Jose (Argentina, 1959 - )</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7289/robert-doisneau">Doisneau, Robert (França, 1912 - França, 1994)</a>; Antonioni, Michelangelo (Itália, 1912 - Itália, 2007); Campanella, Juan Jose (Argentina, 1959 - ); Darín, Ricardo (Argentina, 1957 - )</td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -84,6 +90,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190810213335/http://www.iconica.com.br/site/por-onde-andou-sebastiao-salgado/">POR ONDE ANDOUSEBASTIAO SALGADO?</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a></td>
+        <td>Ciccone, Madonna Louise Veronica (Estados Unidos, 1958 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a></td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -94,6 +101,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190906190941/http://www.iconica.com.br/site/o-triste-fim-de-sophie-calle/">O TRISTE FIM DESOPHIE CALLE</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa359400/robert-rauschenberg">Rauschenberg, Robert (Estados Unidos, 1925 - Estados Unidos, 2008)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26054/andy-warhol">Warhol, Andy (Estados Unidos, 1928 - Estados Unidos, 1987)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389471/cindy-sherman">Sherman, Cindy (Estados Unidos, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a>; Bouillier, Gregoire (Argélia, 1960 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa266415/jeff-wall">Wall, Jeff (Canadá, 1946 - )</a></td>
         <td>2010</td>
         <td>CUIDE DE VOCE; CUIDE DE VOCE; CUIDE DE VOCE; CUIDE DE VOCE</td>
         <td>n/a</td>
@@ -104,6 +112,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817092622/http://www.iconica.com.br/site/irina-ionesco-imagens-de-um-tempo-sem-data/">IRINA IONESCO: IMAGENS DE UM TEMPO SEM DATA</a></td>
         <td>Ionesco, Irina (França, 1930 - )</td>
+        <td>Ionesco, Irina (França, 1930 - ); Camolli, Delphine (); Ionesco, Eva (França, 1965 - )</td>
         <td>2010</td>
         <td>ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA; ESPELHO DE LUZ E SOMBRA</td>
         <td>n/a</td>
@@ -113,7 +122,8 @@
         <th>8</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200117041901/http://www.iconica.com.br/site/pixo-na-bienal/">"PIXO" NABIENAL</a></td>
-        <td>Ivson, Djan (São Paulo/SP, 1984 - ); Guedes Augustaitiz, Rafael (); Choque, Adriano ()</td>
+        <td>Ivson, Djan (São Paulo/SP, 1984 - ); Guedes Augustaitiz, Rafael; Choque, Adriano</td>
+        <td>Ivson, Djan (São Paulo/SP, 1984 - ); Guedes Augustaitiz, Rafael; Choque, Adriano</td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a></td>
         <td>n/a</td>
@@ -124,6 +134,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200108073709/http://www.iconica.com.br/site/dois-filmes-sobre-fotografos/">DOIS FILMES SOBRE FOTOGRAFOS</a></td>
         <td>Garrel, Philippe (França, 1948 - ); Garrel, Louis (França, 1983 - ); Smet, Laura (França, 1983 - ); Saudek, Jan (República Checa, 1935 - ); Saudková, Sára (República Checa, 1967 - )</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7289/robert-doisneau">Doisneau, Robert (França, 1912 - França, 1994)</a>; Garrel, Philippe (França, 1948 - ); Garrel, Louis (França, 1983 - ); Smet, Laura (França, 1983 - ); Tarantino, Quentin (Estados Unidos, 1963 - ); Zika, Adolf (República Checa, 1972 - ); Saudek, Jan (República Checa, 1935 - ); Saudek, Kaja (República Checa, 1935 - República Checa, 2015); Saudková, Sára (República Checa, 1967 - )</td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -134,6 +145,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190917210826/http://www.iconica.com.br/site/o-retrato-de-zidane/">O RETRATO DEZIDANE</a></td>
         <td>Gordon, Douglas (Reino Unido, 1966 - ); Parreno, Philippe (Argélia, 1964 - )</td>
+        <td>Gordon, Douglas (Reino Unido, 1966 - ); Parreno, Philippe (Argélia, 1964 - ); Costard, Hellmuth (Alemanha, 1940 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa13097/joaquim-pedro-de-andrade">Pedro, Joaquim (Rio de Janeiro/RJ, 1932 - Rio de Janeiro/RJ, 1988)</a></td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -144,6 +156,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808073641/http://www.iconica.com.br/site/vou-ao-cinema-nao-escapo-da-fotografia/">VOU AO CINEMA, NAO ESCAPO DA FOTOGRAFIA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa241630/karim-ainouz">Aïnouz, Karim (Fortaleza/CE, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13948/marcelo-gomes">Gomes, Marcelo (Recife/PE, 1963 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa368078/james-joyce">Joyce, James (Irlanda, 1882 - Suíça, 1941)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa443055/chris-marker">Marker, Chris (França, 1921 - França, 2012)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa241630/karim-ainouz">Aïnouz, Karim (Fortaleza/CE, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13948/marcelo-gomes">Gomes, Marcelo (Recife/PE, 1963 - )</a>; Tassara, Marcello Giovanni (//, 2020)</td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -154,6 +167,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190826082540/http://www.iconica.com.br/site/muita-fotografia-e-video-na-bienal/">MUITA FOTOGRAFIA E VIDEO NABIENAL</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa621224/alfredo-jaar">Jaar, Alfredo (Chile, 1956 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10376/rosangela-renno">Rennó, Rosângela (Belo Horizonte/MG, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa27127/guy-veloso">Veloso, Guy (Belém/PA, 1969 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22077/rochelle-costi">Costi, Rochelle (Caxias do Sul/RS, 1961 - São Paulo/SP, 2022)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa377650/alice-miceli">Miceli, Alice (Rio de Janeiro/RJ, 1980 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa621224/alfredo-jaar">Jaar, Alfredo (Chile, 1956 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10376/rosangela-renno">Rennó, Rosângela (Belo Horizonte/MG, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa27127/guy-veloso">Veloso, Guy (Belém/PA, 1969 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22077/rochelle-costi">Costi, Rochelle (Caxias do Sul/RS, 1961 - São Paulo/SP, 2022)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa377650/alice-miceli">Miceli, Alice (Rio de Janeiro/RJ, 1980 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a>; Carjat, Étienne (França, 1828 - França, 1906); <a href="https://enciclopedia.itaucultural.org.br/pessoa7287/nadar">, Nadar (França, 1820 - França, 1910)</a></td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a></td>
         <td>n/a</td>
@@ -163,6 +177,7 @@
         <th>13</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809181403/http://www.iconica.com.br/site/chacal-vs-capitao-nascimento/">CHACALVSCAPITAO NASCIMENTO</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa12512/chico-buarque">Buarque, Chico (Rio de Janeiro/RJ, 1944 - )</a>; Assayas, Olivier (França, 1955 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa444596/jose-padilha">Padilha, José (Rio de Janeiro/RJ, 1967 - )</a>; Eno, Brian (Reino Unido, 1948 - ); Milanés, Pablo (Cuba, 1943 - )</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa12512/chico-buarque">Buarque, Chico (Rio de Janeiro/RJ, 1944 - )</a>; Assayas, Olivier (França, 1955 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa444596/jose-padilha">Padilha, José (Rio de Janeiro/RJ, 1967 - )</a>; Eno, Brian (Reino Unido, 1948 - ); Milanés, Pablo (Cuba, 1943 - )</td>
         <td>2010</td>
         <td>n/a</td>
@@ -174,6 +189,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190710161257/http://www.iconica.com.br/site/jonathas-de-andrade-tensao-critica-entre-a-palavra-e-a-imagem/">A TENSAO CRITICA ENTRE A PALAVRA E A IMAGEM</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9040/marcel-duchamp">Duchamp, Marcel (França, 1887 - França, 1968)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa496397/jonathas-de-andrade">Andrade, Jonathas de (Maceió/AL, 1982 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa341317/rene-magritte">Magritte, René (Bélgica, 1898 - Bélgica, 1967)</a></td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -184,6 +200,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190710165429/http://www.iconica.com.br/site/arqueologia-de-um-filme-de-godard/">ARQUEOLOGIA DE UM FILME DEGODARD</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa457135/jean-luc-godard">Godard, Jean-Luc (França, 1930 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa457135/jean-luc-godard">Godard, Jean-Luc (França, 1930 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa402478/georges-bernanos">Bernanos, Georges (França, 1888 - França, 1948)</a>; Aragon, Louis (França, 1897 - França,  1982); Pärt, Arvo (Estônia, 1935 - )</td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -194,6 +211,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817100755/http://www.iconica.com.br/site/a-imagem-do-ano-do-world-press-photo/">A IMAGEM DO ANO DOWORLD PRESS PHOTO</a></td>
         <td>Bieber, Jodi (África do Sul, 1967 - )</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa589634/diane-arbus">Arbus, Diane (Estados Unidos, 1923 - Estados Unidos, 1971)</a>; Bieber, Jodi (África do Sul, 1967 - ); Sander, August (Alemanha, 1876 - Alemanha, 1964); <a href="https://enciclopedia.itaucultural.org.br/pessoa7317/joel-peter-witkin">Witkin, Joel-Peter (Estados Unidos, 1939 - )</a></td>
         <td>2011</td>
         <td>WORLD PRESS PHOTO OF THE YEAR 2011</td>
         <td>n/a</td>
@@ -203,6 +221,7 @@
         <th>17</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808075812/http://www.iconica.com.br/site/la-camara-oscura-em-busca-de-um-olhar-que-transcende-as-aparencias/">"LA CAMARA OSCURA", EM BUSCA DE UM OLHAR QUE TRANSCENDE AS APARENCIAS</a></td>
+        <td>Menis, María Victoria (Argentina)</td>
         <td>Menis, María Victoria (Argentina)</td>
         <td>2011</td>
         <td>n/a</td>
@@ -214,6 +233,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190810212924/http://www.iconica.com.br/site/inhotim-espaco-e-experiencia/">INHOTIM: ESPACO E EXPERIENCIA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a></td>
         <td>2011</td>
         <td>EXPOSICAO DO ACERVO DOINHOTIMEM 2011</td>
         <td>n/a</td>
@@ -223,6 +243,7 @@
         <th>19</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190811080837/http://www.iconica.com.br/site/a-construcao-de-uma-geracao/">A CONSTRUCAO DE UMA GERACAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a></td>
         <td>2011</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento634625/geracao-00-a-nova-fotografia-brasileira">GERACAO 00</a></td>
@@ -234,6 +255,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809160046/http://www.iconica.com.br/site/rodrigo-braga-num-sentido-extra-moral/">RODRIGO BRAGANUM SENTIDO EXTRA-MORAL</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa272134/rodrigo-braga">Braga, Rodrigo (Manaus/AM, 1976 - )</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa272134/rodrigo-braga">Braga, Rodrigo (Manaus/AM, 1976 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa5649/fernando-pessoa">Nogueira Pessoa, Fernando António (Portugal, 1888 - Portugal, 1935)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10826/francisco-de-goya">Goya, Francisco (Espanha, 1746 - França, 1828)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11621/vincent-van-gogh">Gogh, Vincent van (Holanda, 1853 - França, 1890)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10811/arthur-bispo-do-rosario">Bispo Rosário, Arthur do (Japaratuba/SE, 1911 - Rio de Janeiro/RJ, 1989)</a></td>
         <td>2011</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -244,6 +266,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808073501/http://www.iconica.com.br/site/o-habitat-como-marca-distintiva-da-especie-ou-os-fotografos-nos-eventos-de-arte/">O HABITAT COMO MARCA DISTINTIVA DA ESPECIE [OU OS FOTOGRAFOS NOS EVENTOS DE</a></td>
         <td>n/a</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa257021/joseph-beuys">Beuys, Joseph (Alemanha, 1921 - Alemanha, 1986)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10376/rosangela-renno">Rennó, Rosângela (Belo Horizonte/MG, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a></td>
         <td>2011</td>
         <td>SP-ARTE/FOTO 2011; 7º PARATY EM FOCO - FESTIVAL INTERNACIONAL DE FOTOGRAFIA; 17º FESTIVAL INTERNACIONAL DE ARTE CONTEMPORANEA SESC_VIDEOBRASIL</td>
         <td>n/a</td>
@@ -254,6 +277,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190830023157/http://www.iconica.com.br/site/a-imagem-do-ano-e-as-imagens-que-atravessam-o-tempo/">A IMAGEM DO ANO E AS IMAGENS QUE ATRAVESSAM O TEMPO</a></td>
         <td>Aranda, Samuel (Espanha, 1979 - )</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; Aranda, Samuel (Espanha, 1979 - ); Frare, Therese (Estados Unidos, 1958 - )</td>
         <td>2012</td>
         <td>WORLD PRESS PHOTO OF THE YEAR 2012</td>
         <td>n/a</td>
@@ -264,6 +288,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817073845/http://www.iconica.com.br/site/pina-3d-as-profundidades-do-cinema/">PINA3D: AS PROFUNDIDADES DO CINEMA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a>; Bausch, Pina (Alemanha, 1940 - Alemanha, 2009); Méliès, Georges (França, 1861 - França, 1938)</td>
         <td>2012</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -274,6 +299,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808083301/http://www.iconica.com.br/site/wolfgang-tillmans-engenharia-do-acaso/">WOLFGANG TILLMANS: ENGENHARIA DO ACASO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7369/henri-cartier-bresson">Cartier-Bresson, Henri (França, 1908 - França, 2004)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa637239/andre-kertesz">Kertész, André (Hungria, 1894 - Estados Unidos, 1985)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa623642/wolfgang-tillmans">Tillmans, Wolfgang (Alemanha, 1968 - )</a>; Day, Corinne (Reino Unido, 1962 - Reino Unido, 2010); <a href="https://enciclopedia.itaucultural.org.br/pessoa519686/andreas-gursky">Gursky, Andreas (Alemanha, 1955 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa590517/candida-hoefer">Höfer, Candida (Alemanha, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa519707/thomas-struth">Struth, Thomas (Alemanha, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa519706/thomas-ruff">Ruff, Thomas (Alemanha, 1958 - )</a></td>
         <td>2012</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento623643/wolfgang-tillmans">WOLFGANG TILLMANS</a></td>
         <td>n/a</td>
@@ -283,6 +309,7 @@
         <th>25</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809164155/http://www.iconica.com.br/site/as-formas-primitivas-de-apichatpong-weerasethakul/">AS FORMAS PRIMITIVAS DEAPICHATPONG WEERASETHAKUL</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
         <td>2012</td>
         <td>n/a</td>
@@ -294,6 +321,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190810214014/http://www.iconica.com.br/site/august-sander-e-hans-eijkelboom-na-ultima-sala-da-bienal/">A POSE E O ROSTO:AUGUST SANDEREHANS EIJKELBOOMNABIENAL</a></td>
         <td>Eijkelboom, Hans (Países Baixos, 1949 - ); Sander, August (Alemanha, 1876 - Alemanha, 1964)</td>
+        <td>Cohen, Peter (Suécia, 1946 - ); Sander, Erich (Áustria, 1903 - Alemanha, 1944); Eijkelboom, Hans (Países Baixos, 1949 - ); Sander, August (Alemanha, 1876 - Alemanha, 1964)</td>
         <td>2012</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento626763/30-bienal-internacional-de-sao-paulo">30ª BIENAL DE SAO PAULO</a></td>
         <td>n/a</td>
@@ -304,6 +332,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190610034241/http://www.iconica.com.br/site/camara-lucida-camara-insana-fotografos-nao-sao-normais-parte-ii/">CAMARA LUCIDA, CAMARA INSANA [FOTOGRAFOS NAO SAO NORMAIS – PARTE II]</a></td>
         <td>Seymour Hoffman, Philip (Estados Unidos, 1967 - Estados Unidos, 2014); Phoenix, Joaquin (Estados Unidos, 1974 - ); Anderson, Paul Thomas (Estados Unidos, 1970 - )</td>
+        <td>Seymour Hoffman, Philip (Estados Unidos, 1967 - Estados Unidos, 2014); Travolta, John (Estados Unidos, 1954 - ); Cruise, Tom (Estados Unidos, 1962 - ); Phoenix, Joaquin (Estados Unidos, 1974 - ); Anderson, Paul Thomas (Estados Unidos, 1970 - )</td>
         <td>2013</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -314,6 +343,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190910144754/http://www.iconica.com.br/site/cao-guimaraes-pequenos-impulsos-para-grandes-saltos/">CAO GUIMARAES: PEQUENOS IMPULSOS PARA GRANDES SALTOS</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2851/paulo-leminski">Leminski Filho, Paulo (Curitiba/PR, 1944 - Curitiba/PR, 1989)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa17099/cao-guimaraes">Guimarães, Cao (Belo Horizonte/MG, 1965 - )</a></td>
         <td>2013</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento628823/ver-e-uma-fabula-mostra-cao-guimaraes">VER E UMA FABULA</a></td>
         <td>n/a</td>
@@ -324,6 +354,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190810212613/http://www.iconica.com.br/site/da-caixa-preta-ao-cubo-branco-cronica-sobre-a-ressignificacao-de-um-espaco/">DA CAIXA PRETA AO CUBO BRANCO: CRONICA SOBRE A RESSIGNIFICACAO DE UM ESPACO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa8854/carlito-carvalhosa">Carvalhosa, Carlito (São Paulo/SP, 1961 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa971/di-cavalcanti">Cavalcanti, Di (Rio de Janeiro/RJ, 1897 - Rio de Janeiro/RJ, 1976)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8854/carlito-carvalhosa">Carvalhosa, Carlito (São Paulo/SP, 1961 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa431/oscar-niemeyer">Niemeyer, Oscar (Rio de Janeiro/RJ, 1907 - Rio de Janeiro/RJ, 2012)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a></td>
         <td>2013</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento650260/sala-de-espera">SALA DE ESPERA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento650254/obra">OBRA</a></td>
         <td>n/a</td>
@@ -333,6 +364,7 @@
         <th>30</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190810215123/http://www.iconica.com.br/site/poderes-provisorios-imagens-impertinentes/">PODERES PROVISORIOS, IMAGENS IMPERTINENTES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa18196/orlando-brito">Brito, Orlando (Janaúba/MG, 1950 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa18196/orlando-brito">Brito, Orlando (Janaúba/MG, 1950 - )</a></td>
         <td>2014</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento640695/poder-provisorio-fotografia-no-acervo-do-mam">PODER PROVISORIO</a></td>
@@ -344,6 +376,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809164827/http://www.iconica.com.br/site/expor-uma-colecao/">A PAREDE: TRADUZIR AS INCERTEZAS DE UMA COLECAO</a></td>
         <td>Feldmann, Hans-Peter (Alemanha, 1941 - ); Thompson, Thomas; Kox, Norbert (Estados Unidos, 1945 - , 2018)</td>
+        <td>Bruegel, Pieter (, 1569); <a href="https://enciclopedia.itaucultural.org.br/pessoa580531/marcel-broodthaers">Broodhaers, Marcel (Bélgica, 1924 - Alemanha, 1976)</a>; Feldmann, Hans-Peter (Alemanha, 1941 - ); Thompson, Thomas; Kox, Norbert (Estados Unidos, 1945 - , 2018); <a href="https://enciclopedia.itaucultural.org.br/pessoa641401/michelangelo-merisi-da-caravaggio">Caravaggio, Michelangelo Merisi da (Itália, 1571 - Itália, 1619)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa450129/sophie-calle">Calle, Sophie (França)</a></td>
         <td>2014</td>
         <td>LE MUR</td>
         <td>n/a</td>
@@ -354,6 +387,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20191226193437/http://www.iconica.com.br/site/falar-de-imagens-sem-compreende-las-apichatpong-weerasethakul/">FALAR DE IMAGENS SEM COMPREENDE-LAS:APICHATPONG WEERASETHAKUL</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
+        <td>Farhadi, Asghar (Irã, 1972 - ); Kiarostami, Abbas (Irã, 1940 - França, 2016); <a href="https://enciclopedia.itaucultural.org.br/pessoa479563/apichatpong-weerasethakul">Weerasethakul, Apichatpong (Tailândia, 1970 - )</a></td>
         <td>2014</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -364,6 +398,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190917195031/http://www.iconica.com.br/site/o-sal-da-terra/">O SAL DA TERRA: SINCRONIZAR A IMAGEM E A VOZ DE UM DRAMA</a></td>
         <td>Ribeiro Salgado, Juliano (França, 1974 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa19940/lelia-deluiz-wanick-salgado">Wanick Salgado, Lélia (Vitória/ES, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7369/henri-cartier-bresson">Cartier-Bresson, Henri (França, 1908 - França, 2004)</a>; Ribeiro Salgado, Juliano (França, 1974 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a>; Bausch, Pina (Alemanha, 1940 - Alemanha, 2009)</td>
         <td>2015</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -374,6 +409,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190906020152/http://www.iconica.com.br/site/sobremarinhos/">SOBREMARINHOS: PALAVRA-MATERIA, SENTIDOS FLUIDOS</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa680/gilvan-barreto">Barreto, Gilvan (/PE, 1973 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa359865/albert-camus">Camus, Albert (França, 1913 - França, 1960)</a>; , Baquílides (Grécia, -0516 - , -0451); <a href="https://enciclopedia.itaucultural.org.br/pessoa680/gilvan-barreto">Barreto, Gilvan (/PE, 1973 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3026/joao-cabral-de-melo-neto">Melo Neto, João Cabral de (Recife/PE, 1920 - Rio de Janeiro/RJ, 1999)</a></td>
         <td>2015</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -384,6 +420,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200812070952/http://www.iconica.com.br/site/sobre-pequenas-pregnancias-coracao-de-cachorro-de-laurie-anderson/">SOBRE PEQUENAS PREGNANCIAS:CORACAO DE CACHORRO, DELAURIE ANDERSON</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa618139/laura-anderson">Anderson, Laurie (Estados Unidos, 1947 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa590990/lou-reed">Reed, Lou (Estados Unidos, 1942 - Estados Unidos, 2013)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa618139/laura-anderson">Anderson, Laurie (Estados Unidos, 1947 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa579940/gordon-matta-clark">Matta-Clark, Gordon (Estados Unidos, 1943 - Estados Unidos, 1978)</a></td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -394,6 +431,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190811075057/http://www.iconica.com.br/site/a-diversidade-das-coisas-que-sao-as-mesmas-andrey-zignnatto-e-vincent-mauger/">A DIVERSIDADE DAS COISAS QUE SAO AS MESMAS:ANDREY ZIGNNATTOEVINCENT MAUGER</a></td>
         <td>Mauger, Vincent (França, 1976 - ); Zignnatto, Andrey (Jundiaí/SP, 1981 - )</td>
+        <td>Barceló, Miquel (Espanha, 1957 - ); Mauger, Vincent (França, 1976 - ); Zignnatto, Andrey (Jundiaí/SP, 1981 - )</td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -404,6 +442,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200223163646/http://www.iconica.com.br/site/o-corpo-e-a-camera-oscilacoes-nostalgicas-de-wim-wenders-em-torno-da-fotografia/">O CORPO E A CAMERA: OSCILACOES NOSTALGICAS DEWIM WENDERSEM TORNO DA FOTOGRA</a></td>
         <td>Battaglia, Letizia (Itália, 1935 - ); Jovovich, Milla (Ucrânia, 1975 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
+        <td>Battaglia, Letizia (Itália, 1935 - ); Jovovich, Milla (Ucrânia, 1975 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa402717/ingmar-bergman">Ingmar Bergman, Ernst (Suécia, 1918 - Suécia, 2007)</a>; Antonioni, Michelangelo (Itália, 1912 - Itália, 2007); <a href="https://enciclopedia.itaucultural.org.br/pessoa2597/sebastiao-salgado">Salgado, Sebastião (Aimorés/MG, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -413,6 +452,7 @@
         <th>38</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809153343/http://www.iconica.com.br/site/a-perda-e-o-reencontro-as-varias-distancias-das-imagens/">A PERDA E O REENCONTRO: AS VARIAS DISTANCIAS DAS IMAGENS</a></td>
+        <td>Taro, Gerda (Alemanha, 1910 - Espanha, 1937); Seymour, David (Polônia, 1911 - Egito, 1956); <a href="https://enciclopedia.itaucultural.org.br/pessoa6993/giselle-beiguelman">Beiguelman, Giselle (São Paulo/SP, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7304/robert-capa">Capa, Robert (Hungria, 1913 - Vietnã, 1954)</a></td>
         <td>Taro, Gerda (Alemanha, 1910 - Espanha, 1937); Seymour, David (Polônia, 1911 - Egito, 1956); <a href="https://enciclopedia.itaucultural.org.br/pessoa6993/giselle-beiguelman">Beiguelman, Giselle (São Paulo/SP, 1962 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7304/robert-capa">Capa, Robert (Hungria, 1913 - Vietnã, 1954)</a></td>
         <td>2016</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento643056/cinema-lascado">CINEMA LASCADO</a>; A VALISE MEXICANA</td>
@@ -424,6 +464,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200825041000/http://www.iconica.com.br/site/westworld-o-bordel-das-narrativas/">WESTWORLD: O BORDEL DAS NARRATIVAS</a></td>
         <td>Hopkins, Anthony (Reino Unido, 1937 - ); Harris, Ed (Estados Unidos, 1950 - ); Santoro, Rodrigo (Petrópolis/RJ, 1975 - ); Nolan, Jonathan (Reino Unido, 1976 - ); Joy, Lisa (Estados Unidos, 1972 - )</td>
+        <td>Hopkins, Anthony (Reino Unido, 1937 - ); Harris, Ed (Estados Unidos, 1950 - ); Santoro, Rodrigo (Petrópolis/RJ, 1975 - ); Nolan, Jonathan (Reino Unido, 1976 - ); Joy, Lisa (Estados Unidos, 1972 - )</td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -434,6 +475,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200903120914/http://www.iconica.com.br/site/arte-instituicao-e-seguranca-subir-escadas-sem-segurar-no-corrimao/">ARTE, INSTITUICAO E SEGURANCA: SUBIR ESCADAS SEM SEGURAR NO CORRIMAO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10078/ana-maria-tavares">Tavares, Ana Maria (Belo Horizonte/MG, 1958 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa10078/ana-maria-tavares">Tavares, Ana Maria (Belo Horizonte/MG, 1958 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9040/marcel-duchamp">Duchamp, Marcel (França, 1887 - França, 1968)</a></td>
         <td>2016</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento649827/no-lugar-mesmo-uma-antologia-de-ana-maria-tavares">NO LUGAR MESMO: UMA ANTOLOGIA DEANA MARIA TAVARES</a></td>
         <td>n/a</td>
@@ -443,6 +485,7 @@
         <th>41</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190809172733/http://www.iconica.com.br/site/paragem/cyro-almeida-e-mestre-julio-santos-memoria-involuntaria/">CYRO ALMEIDAEMESTRE JULIO SANTOS|MEMORIA INVOLUNTARIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa619681/cyro-almeida">Almeida, Cyro (Araxá/MG, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa620270/mestre-julio-santos">Santos, Júlio (Fortaleza/CE, 1944 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa619681/cyro-almeida">Almeida, Cyro (Araxá/MG, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa620270/mestre-julio-santos">Santos, Júlio (Fortaleza/CE, 1944 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
@@ -454,6 +497,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190818110109/http://www.iconica.com.br/site/paragem/karina-rampazzo-persona/">KARINA RAMPAZZO|PERSONA</a></td>
         <td>Rampazzo, Karina (/)</td>
+        <td>Rampazzo, Karina (/)</td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -464,6 +508,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817090458/http://www.iconica.com.br/site/paragem/mariana-andrade-iris/">MARIANA ANDRADE|IRIS</a></td>
         <td>Andrade, Mariana (São Paulo/SP)</td>
+        <td>Andrade, Mariana (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa427958/pedro-almodovar">Almodóvar, Pedro (Espanha, 1949 - )</a>; Coppola, Sofia (Estados Unidos, 1971 - ); Jeunet, Jean-Pierre (França, 1953 - )</td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -473,6 +518,7 @@
         <th>44</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190928222933/http://www.iconica.com.br/site/paragem/lara-ovidio-territorios-pereciveis-teste/">LARA OVIDIO|TERRITORIOS PERECIVEIS</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa630562/lara-ovidio">Ovídio, Lara (Natal/RN, 1985 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa630562/lara-ovidio">Ovídio, Lara (Natal/RN, 1985 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
@@ -484,6 +530,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817114727/http://www.iconica.com.br/site/paragem/samy-sfoggia-bababadalgharaghtakam/">SAMY SFOGGIA|RAPID EYE MOVEMENTE /BABABADALGHARAGHTAK(…)!</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa530396/samy-sfoggia">Sfoggia, Samy (Porto Alegre/RS, 1984 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa530396/samy-sfoggia">Sfoggia, Samy (Porto Alegre/RS, 1984 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20507/elaine-tedesco">Tedesco, Elaine (Porto Alegre/RS, 1963 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -494,6 +541,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20170531201650/http://www.iconica.com.br/site/paragem/claudia-tavares-um-jardim-na-floresta/">CLAUDIA TAVARES|UM JARDIM NA FLORESTA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento646330/conjuncao">Tavares, Claudia (Rio de Janeiro/RJ, 1967 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/evento646330/conjuncao">Tavares, Claudia (Rio de Janeiro/RJ, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9737/monica-mansur">Mansur, Monica (Rio de Janeiro/RJ, 1956 - )</a></td>
         <td>2016</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -504,6 +552,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200219022420/http://www.iconica.com.br/site/religacoes-o-escuro-da-fotografia-contemporanea/">RELIGACOES: O ESCURO DA FOTOGRAFIA CONTEMPORANEA</a></td>
         <td>Sengberg, Chiara (/); Albuquerque, Guilherme (Brasília/DF); <a href="https://enciclopedia.itaucultural.org.br/pessoa381590/tony-queiroga">Queiroga, Tony (Rio de Janeiro/RJ)</a>; Figue, Roberta (); <a href="https://enciclopedia.itaucultural.org.br/pessoa333634/marilia-zarattini">Zarattini, Marília ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa638225/claudia-elias">Elias, Claudia (Rio de Janeiro/RJ, 1976 - )</a>; Martins, Manuel (); <a href="https://enciclopedia.itaucultural.org.br/pessoa376839/hans-georg">Georg, Hans (Porto Alegre/RS, 1964 - )</a>; Mendes, Suzana (); Machado, Ailton (); Schmitt, Fernando (Porto Alegre/RS); Camargo, Denise (São Paulo/SP); Oshima, Cristiane (São Paulo/SP); Mortatti, André (Goiânia/GO); Nascimento, Élida (); Moraes, Caroline (São Paulo/SP); Guanabara, Luísa (); <a href="https://enciclopedia.itaucultural.org.br/pessoa7939/carlos-goldgrub">Goldgrub, Carlos (Argentina, 1952 - )</a>; Romero, Alexandre (); Maranhão, Guilherme (); Steinmetz, Rose (Geórgia); Caobelli, Leo (Porto Alegre/RS, 1980 - ); Costa, Marcelo (São Paulo/SP); Tosetto, Guilherme (); <a href="https://enciclopedia.itaucultural.org.br/pessoa638606/isis-gasparini">Gasparini, Isis (São Paulo/SP)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa433962/marcelo-paciornik">Paciornik, Marcelo ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa504917/leticia-lampert">Lampert, Letícia (Porto Alegre/RS, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa242210/fernando-tacca">Tacca, Fernando (Franca/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
+        <td>Le Gray, Gustave (França, 1820 - Egito, 1884); Sengberg, Chiara (/); Albuquerque, Guilherme (Brasília/DF); <a href="https://enciclopedia.itaucultural.org.br/pessoa381590/tony-queiroga">Queiroga, Tony (Rio de Janeiro/RJ)</a>; Figue, Roberta (); <a href="https://enciclopedia.itaucultural.org.br/pessoa333634/marilia-zarattini">Zarattini, Marília ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa638225/claudia-elias">Elias, Claudia (Rio de Janeiro/RJ, 1976 - )</a>; Martins, Manuel (); <a href="https://enciclopedia.itaucultural.org.br/pessoa376839/hans-georg">Georg, Hans (Porto Alegre/RS, 1964 - )</a>; Mendes, Suzana (); Machado, Ailton (); Schmitt, Fernando (Porto Alegre/RS); Camargo, Denise (São Paulo/SP); Oshima, Cristiane (São Paulo/SP); Mortatti, André (Goiânia/GO); Nascimento, Élida (); Moraes, Caroline (São Paulo/SP); Guanabara, Luísa (); <a href="https://enciclopedia.itaucultural.org.br/pessoa7939/carlos-goldgrub">Goldgrub, Carlos (Argentina, 1952 - )</a>; Romero, Alexandre (); Maranhão, Guilherme (); Steinmetz, Rose (Geórgia); Caobelli, Leo (Porto Alegre/RS, 1980 - ); Costa, Marcelo (São Paulo/SP); Tosetto, Guilherme (); <a href="https://enciclopedia.itaucultural.org.br/pessoa638606/isis-gasparini">Gasparini, Isis (São Paulo/SP)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa433962/marcelo-paciornik">Paciornik, Marcelo ()</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa504917/leticia-lampert">Lampert, Letícia (Porto Alegre/RS, 1978 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa242210/fernando-tacca">Tacca, Fernando (Franca/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
         <td>2017</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -513,6 +562,7 @@
         <th>48</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190718003928/http://www.iconica.com.br/site/paragem/wendel-medeiros-50-anos-do-golpe-militar/">WENDEL MEDEIROS|50 ANOS DO GOLPE MILITAR DE 64</a></td>
+        <td>Medeiros, Wendel (, 1977 - )</td>
         <td>Medeiros, Wendel (, 1977 - )</td>
         <td>2017</td>
         <td>n/a</td>
@@ -524,6 +574,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20190826065452/http://www.iconica.com.br/site/paragem/fabricio-arriaga-azimute/">FABRICIO ARRIAGA|AZIMUTE</a></td>
         <td>Arriaga, Fabrício (São Gonçalo/RJ)</td>
+        <td>Arriaga, Fabrício (São Gonçalo/RJ); <a href="https://enciclopedia.itaucultural.org.br/evento646330/conjuncao">Tavares, Claudia (Rio de Janeiro/RJ, 1967 - )</a></td>
         <td>2017</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -534,6 +585,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></td>
         <td><a href="https://web.archive.org/web/20200219164326/http://www.iconica.com.br/site/artistas-geniais-nervosos-neuroticos-perversos/">ARTISTAS GENIAIS, NERVOSOS, NEUROTICOS, PERVERSOS…</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa399316/woody-allen">Allen, Woody (Estados Unidos)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa399316/woody-allen">Allen, Woody (Estados Unidos)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa12512/chico-buarque">Buarque, Chico (Rio de Janeiro/RJ, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
         <td>2018</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -544,6 +596,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
         <td><a href="https://web.archive.org/web/20190717105349/http://www.iconica.com.br/site/sertao-sem-sol-uma-paisagem-com-a-pouca-luz-que-tem-a-noite/">SERTAO SEM SOL, UMA PAISAGEM COM A POUCA LUZ QUE TEM A NOITE</a></td>
         <td>Severo, Alexandre (Recife/PE, 1978 - )</td>
+        <td>Severo, Alexandre (Recife/PE, 1978 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
         <td>2014</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -553,6 +606,7 @@
         <th>52</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
         <td><a href="https://web.archive.org/web/20190922181232/http://www.iconica.com.br/site/recontro-os-tracos-de-uma-viagem-a-china/">RECONTRO, OS TRACOS DE UMA VIAGEM A CHINA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa237015/livia-aquino">Aquino, Lívia (Fortaleza/CE, 1971 - )</a></td>
         <td>2015</td>
         <td>n/a</td>
@@ -564,6 +618,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
         <td><a href="https://web.archive.org/web/20190917213808/http://www.iconica.com.br/site/analira/">VOTODEANA</a></td>
         <td>Lira, Ana (Caruaru/PE, 1977 - )</td>
+        <td>Lira, Ana (Caruaru/PE, 1977 - ); <a href="http://enciclopedia.itaucultural.org.br/pessoa431/oscar-niemeyer">Niemeyer, Oscar (Rio de Janeiro/RJ, 1907 - Rio de Janeiro/RJ, 2012)</a></td>
         <td>2015</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -573,6 +628,7 @@
         <th>54</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></td>
         <td><a href="https://web.archive.org/web/20191219183113/http://www.iconica.com.br/site/primeiras-licoes-de-hidrologia-e-outras-observacoes/">PRIMEIRAS LICOES DE HIDROLOGIA – E OUTRAS OBSERVACOES</a></td>
+        <td>Ivánova, Adelaide (Recife/PE, 1982 - )</td>
         <td>Ivánova, Adelaide (Recife/PE, 1982 - )</td>
         <td>2015</td>
         <td>n/a</td>
@@ -584,6 +640,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817084926/http://www.iconica.com.br/site/o-olhar-incomum-de-walker-evans/">O OLHAR INCOMUM DEWALKER EVANS</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7311/walker-evans">Evans, Walker (Estados Unidos, 1903 - Estados Unidos, 1975)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa516651/gustave-flaubert">Flaubert, Gustave (França, 1821 - França, 1880)</a>; Beyle, Henri-Marie (França, 1783 - França, 1842); Baudelaire, Charles (França, 1821 - França, 1867); <a href="https://enciclopedia.itaucultural.org.br/pessoa427664/marcel-proust">Proust, Marcel (França, 1871 - França, 1922)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7311/walker-evans">Evans, Walker (Estados Unidos, 1903 - Estados Unidos, 1975)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa404416/henry-james">James, Henry (Estados Unidos, 1843 - Reino Unido, 1916)</a>; Hemingway, Ernest (Estados Unidos, 1899 - Estados Unidos, 1961); <a href="https://enciclopedia.itaucultural.org.br/pessoa368078/james-joyce">Joyce, James (Irlanda, 1882 - Suíça, 1941)</a>; Atget, Eugène (França, 1857 - França, 1927); <a href="https://enciclopedia.itaucultural.org.br/pessoa618769/robert-frank">Frank, Robert (Suíça, 1924 - Reino Unido, 2019)</a>; Friedlander, Lee (Estados Unidos, 1934 - ); <a href="https://enciclopedia.itaucultural.org.br/pessoa589634/diane-arbus">Arbus, Diane (Estados Unidos, 1923 - Estados Unidos, 1971)</a>; Winogrand, Garry (Estados Unidos, 1928 - México, 1984); <a href="https://enciclopedia.itaucultural.org.br/pessoa242210/fernando-tacca">Tacca, Fernando (Franca/SP, 1954 - )</a>; Stryker, Roy (Estados Unidos, 1893 - Estados Unidos, 1975)</td>
         <td>2009</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento639964/walker-evans">WALKER EVANS</a></td>
         <td>n/a</td>
@@ -594,6 +651,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190906020609/http://www.iconica.com.br/site/por-que-ver-os-classicos/">POR QUE VER OS CLASSICOS</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa7554/guimaraes-rosa">Rosa, Guimarães (Cordisburgo/MG, 1908 - Rio de Janeiro/RJ, 1967)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3596/adelia-prado">Prado, Adélia (Divinópolis/MG, 1935 - )</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa1779/euclides-da-cunha">Cunha, Euclides da (Cantagalo/RJ, 1866 - Rio de Janeiro/RJ, 1909)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa4164/jorge-amado">Amado, Jorge (Itabuna/BA, 1912 - Salvador/BA, 2001)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3026/joao-cabral-de-melo-neto">Melo Neto, João Cabral de (Recife/PE, 1920 - Rio de Janeiro/RJ, 1999)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa20650/mario-de-andrade">Andrade, Mário de (São Paulo/SP, 1893 - São Paulo/SP, 1945)</a></td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento557187/individual-de-maureen-bisilliat">MAUREEN BISILLIAT– FOTOGRAFIAS</a></td>
         <td>n/a</td>
@@ -604,6 +662,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20200108074208/http://www.iconica.com.br/site/um-ano-sem-otto-stupakoff/">UM ANO SEMOTTO STUPAKOFF</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa22071/otto-stupakoff">Stupakoff, Otto (São Paulo/SP, 1935 - São Paulo/SP, 2009)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa22071/otto-stupakoff">Stupakoff, Otto (São Paulo/SP, 1935 - São Paulo/SP, 2009)</a>; , Balthus (França, 1908 - Suíça, 2001)</td>
         <td>2010</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -613,6 +672,7 @@
         <th>58</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817101943/http://www.iconica.com.br/site/gabinete-de-curiosidades/">GABINETE DE CURIOSIDADES</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a></td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento552298/apreensoes">APREENSOES</a></td>
@@ -624,6 +684,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190910135036/http://www.iconica.com.br/site/luiz-braga-ruptura-e-contemplacao/">LUIZ BRAGA– RUPTURA E CONTEMPLACAO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa16738/luiz-braga">Braga, Luiz (Belém/PA, 1956 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa16738/luiz-braga">Braga, Luiz (Belém/PA, 1956 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7721/milton-hatoum">Hatoum, Milton (Manaus/AM, 1952 - )</a></td>
         <td>2010</td>
         <td>ENSAIO – ESTRADA NOVA S/N</td>
         <td>n/a</td>
@@ -634,6 +695,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817115133/http://www.iconica.com.br/site/um-momento-especial-para-a-fotografia/">UM MOMENTO ESPECIAL PARA A FOTOGRAFIA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2381/gaspar-gasparian">Gasparian, Gaspar (São Paulo/SP, 1899 - São Paulo/SP, 1966)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa226/marcel-gautherot">Gautherot, Marcel (França, 1910 - Rio de Janeiro/RJ, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3267/peter-scheier">Scheier, Peter (Polônia, 1908 - Alemanha, 1979)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - São Paulo/SP, 2011)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26889/caio-reisewitz">Reisewitz, Caio (São Paulo/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa478073/flavia-junqueira">Junqueira, Flávia (São Paulo/SP, 1985 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa10743/miguel-rio-branco">Rio Branco, Miguel (Espanha, 1946 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389479/nan-goldin">Goldin, Nan (Estados Unidos, 1953 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2381/gaspar-gasparian">Gasparian, Gaspar (São Paulo/SP, 1899 - São Paulo/SP, 1966)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa226/marcel-gautherot">Gautherot, Marcel (França, 1910 - Rio de Janeiro/RJ, 1996)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3267/peter-scheier">Scheier, Peter (Polônia, 1908 - Alemanha, 1979)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - São Paulo/SP, 2011)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21255/mauro-restiffe">Restiffe, Mauro (São José do Rio Pardo/SP, 1970 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26889/caio-reisewitz">Reisewitz, Caio (São Paulo/SP, 1967 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa478073/flavia-junqueira">Junqueira, Flávia (São Paulo/SP, 1985 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa16926/bertolt-brecht">Brecht, Bertolt (Alemanha, 1898 - Alemanha, 1956)</a></td>
         <td>2010</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento558985/29-bienal-internacional-de-sao-paulo">29ª BIENAL DE SAO PAULO</a>; <a href="https://enciclopedia.itaucultural.org.br/evento552298/apreensoes">APREENSOES</a>; ESTUDIO DE ARTEIRMAOS VARGAS– A FOTOGRAFIA EM AREQUIPA, PERU – 1912/1930; <a href="https://enciclopedia.itaucultural.org.br/evento569574/gaspar-gasparian-um-fotografo">GASPAR GASPARIAN– UM FOTOGRAFO</a>; <a href="https://enciclopedia.itaucultural.org.br/evento629987/as-construcoes-de-brasilia">AS CONSTRUCOES DE BRASILIA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento558593/maldicidade-marco-zero">MALDICIDADE</a>; <a href="https://enciclopedia.itaucultural.org.br/evento560555/recorrencias">RECORRENCIAS</a>; <a href="https://enciclopedia.itaucultural.org.br/evento560126/esqueceu-de-beber-agua-agora-chora-de-sede">ESQUECEU DE BEBER AGUA, AGORA CHORA DE SEDE</a>; <a href="https://enciclopedia.itaucultural.org.br/evento559041/a-casa-em-festa">A CASA EM FESTA</a>; <a href="https://enciclopedia.itaucultural.org.br/evento559586/18-colecao-pirelli-masp-de-fotografia">18ª COLECAO PIRELLI /MASP</a></td>
         <td>IRMAOS VARGAS</td>
@@ -644,6 +706,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817090820/http://www.iconica.com.br/site/norman-rockwell-behind-the-camera/">NORMAN ROCKWELL– BEHIND THE CAMERA</a></td>
         <td>Rockwell, Norman (Estados Unidos, 1894 - Estados Unidos, 1978)</td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa352840/eugene-delacroix">Delacroix, Eugène (França, 1798 - França, 1863)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8902/pablo-picasso">Picasso, Pablo (Espanha, 1881 - França, 1973)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa389471/cindy-sherman">Sherman, Cindy (Estados Unidos, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa266415/jeff-wall">Wall, Jeff (Canadá, 1946 - )</a>; Rockwell, Norman (Estados Unidos, 1894 - Estados Unidos, 1978); Pelham, Gene (Estados Unidos, 1909 - , 2004); Scovill, Bill (Estados Unidos, 1915 - , 1996); Lamone, Louie (Estados Unidos, 1918 - , 2007); Ingres, Jean Auguste Dominique (França, 1780 - França, 1867); <a href="https://enciclopedia.itaucultural.org.br/pessoa351466/gustave-courbet">Courbet, Gustave (França, 1819 - Suíça, 1877)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa826/paul-gauguin">Gauguin, Paul (França, 1848 - Polinésia Francesa, 1903)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa456908/edgar-degas">Degas, Edgar (França, 1834 - França, 1917)</a>; Peach Robinson, Henry (, 1830 - Reino Unido, 1901); Rejlander, Oscar Gustave (Suécia, 1813 - Reino Unido, 1875)</td>
         <td>2011</td>
         <td>NORMAN ROCKWELL: BEHIND THE CAMERA</td>
         <td>n/a</td>
@@ -653,6 +716,7 @@
         <th>62</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817113509/http://www.iconica.com.br/site/geracao-00/">GERACAO 00</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa260388/joao-castilho">Castilho, João (Belo Horizonte/MG, 1978 - )</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa18847/claudia-andujar">Andujar, Claudia (Suíça, 1931 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa260388/joao-castilho">Castilho, João (Belo Horizonte/MG, 1978 - )</a></td>
         <td>2011</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento634625/geracao-00-a-nova-fotografia-brasileira">GERACAO 00</a></td>
@@ -664,6 +728,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190917211515/http://www.iconica.com.br/site/tiago-santana-o-brasil-na-colecao-photo-poche/">TIAGO SANTANA– O BRASIL NA COLECAO PHOTO POCHE</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa13171/tiago-santana">Santana, Tiago (Crato/CE, 1966 - )</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa13171/tiago-santana">Santana, Tiago (Crato/CE, 1966 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa618769/robert-frank">Frank, Robert (Suíça, 1924 - Reino Unido, 2019)</a></td>
         <td>2011</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -673,6 +738,7 @@
         <th>64</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808084759/http://www.iconica.com.br/site/o-processo-de-criacao-como-memoria/">O PROCESSO DE CRIACAO COMO MEMORIA</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3288/cristiano-mascaro">Mascaro, Cristiano (Catanduva/SP, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13178/marlene-bergamo">Bergamo, Marlene (São Paulo/SP, 1965 - )</a>; Jacinto, Rafael (São Paulo/SP); Kehl, João (São Paulo/SP, 1982 - ); Lopes, Carol (Recife/PE)</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9641/bob-wolfenson">Wolfenson, Bob (São Paulo/SP, 1954 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3288/cristiano-mascaro">Mascaro, Cristiano (Catanduva/SP, 1944 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa13178/marlene-bergamo">Bergamo, Marlene (São Paulo/SP, 1965 - )</a>; Jacinto, Rafael (São Paulo/SP); Kehl, João (São Paulo/SP, 1982 - ); Lopes, Carol (Recife/PE)</td>
         <td>2011</td>
         <td>BOM RETIRO E LUZ: UM ROTEIRO (1976 – 2011)</td>
@@ -684,6 +750,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190808085349/http://www.iconica.com.br/site/mis-centro-irradiador-de-fotografia/">MIS– CENTRO IRRADIADOR DE FOTOGRAFIA</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa26054/andy-warhol">Warhol, Andy (Estados Unidos, 1928 - Estados Unidos, 1987)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa637239/andre-kertesz">Kertész, André (Hungria, 1894 - Estados Unidos, 1985)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21658/claudio-edinger">Edinger, Claudio (Rio de Janeiro/RJ, 1952 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11692/ozualdo-candeias">Candeias, Ozualdo (Cajobi/SP, 1918 - São Paulo/SP, 2007)</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa26054/andy-warhol">Warhol, Andy (Estados Unidos, 1928 - Estados Unidos, 1987)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7369/henri-cartier-bresson">Cartier-Bresson, Henri (França, 1908 - França, 2004)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa637239/andre-kertesz">Kertész, André (Hungria, 1894 - Estados Unidos, 1985)</a>; Sander, August (Alemanha, 1876 - Alemanha, 1964); <a href="https://enciclopedia.itaucultural.org.br/pessoa636991/wim-wenders">Wenders, Wim (Alemanha, 1945 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21658/claudio-edinger">Edinger, Claudio (Rio de Janeiro/RJ, 1952 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa11692/ozualdo-candeias">Candeias, Ozualdo (Cajobi/SP, 1918 - São Paulo/SP, 2007)</a>; Eisenstaedt, Alfred (Polônia, 1898 - Estados Unidos, 1995); List, Herbert (Alemanha, 1903 - Alemanha, 1975); <a href="https://enciclopedia.itaucultural.org.br/pessoa338996/manuel-alvarez-bravo">Alvarez Bravo, Manuel (México, 1902 - México, 2002)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa551778/paolo-gasparini">Gasparini, Paolo (Itália, 1934 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3587/jacques-henri-lartigue">Lartigue, Jacques-Henri (França, 1894 - França, 1986)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa26446/luc-chessex">Chessex, Luc (Suíça, 1936 - )</a></td>
         <td>2012</td>
         <td>ANDRE KERTESZ– UMA VIDA EM DOBRO; <a href="https://enciclopedia.itaucultural.org.br/evento648800/claudio-edinger-de-bom-jesus-a-milagres">CLAUDIO EDINGER– DE BOM JESUS A MILAGRES</a>; ANDY WARHOLSUPERFICIE POLAROIDES (1969-1986); <a href="https://enciclopedia.itaucultural.org.br/evento650443/ozualdo-candeias-rua-do-triumpho">OZUALDO CANDEIAS– RUA DO TRIUMPHO</a>; ACERVO VIVO – CAMERAS FOTOGRAFICAS DE DOIS SECULOS</td>
         <td>n/a</td>
@@ -694,6 +761,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190906015924/http://www.iconica.com.br/site/viagens-aparencias-e-aparicoes/">VIAGENS, APARENCIAS E APARICOES</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa9751/joao-luiz-musa">Musa, João Luiz (São Paulo/SP, 1951 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa21140/raul-garcez">Garcez, Raul (Cruzeiro/SP, 1949 - , 1987)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa9751/joao-luiz-musa">Musa, João Luiz (São Paulo/SP, 1951 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3288/cristiano-mascaro">Mascaro, Cristiano (Catanduva/SP, 1944 - )</a></td>
         <td>2012</td>
         <td><a href="https://enciclopedia.itaucultural.org.br/evento629524/24x36-e-vila-prudente">JOAO LUIZ MUSA: 24X36 E VILA PRUDENTE</a></td>
         <td>n/a</td>
@@ -704,6 +772,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190817103733/http://www.iconica.com.br/site/entre-morros-excesso-de-referencia-e-abstracao/">ENTRE MORROS– EXCESSO DE REFERENCIA E ABSTRACAO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa102299/claudia-jaguaribe">Jaguaribe, Claudia (Rio de Janeiro/RJ, 1955 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa21644/marc-ferrez">Ferrez, Marc (França, 1788 - Rio de Janeiro/RJ, 1850)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa102299/claudia-jaguaribe">Jaguaribe, Claudia (Rio de Janeiro/RJ, 1955 - )</a></td>
         <td>2012</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -713,6 +782,7 @@
         <th>68</th>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190830023435/http://www.iconica.com.br/site/maureen-bisilliat-fotografias-escolhidas-para-transformacao/">MAUREEN BISILLIAT, FOTOGRAFIAS ESCOLHIDAS PARA TRANSFORMACAO</a></td>
+        <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a></td>
         <td><a href="http://enciclopedia.itaucultural.org.br/pessoa2141/maureen-bisilliat">Bisilliat, Maureen (Reino Unido, 1931 - )</a></td>
         <td>2013</td>
         <td>ADESAO: JUNCAO/LIGACAO/UNIAO – FOTOGRAFIAS ESCOLHIDAS PARA TRANSFORMACAO</td>
@@ -724,6 +794,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20190811080902/http://www.iconica.com.br/site/coisas-como-elas-sao/">COISAS COMO ELAS SAO</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa3654/armando-prado">Prado, Armando (São Paulo/SP, 1952 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa3654/armando-prado">Prado, Armando (São Paulo/SP, 1952 - )</a></td>
         <td>2013</td>
         <td>COISAS COMO ELAS SAO</td>
         <td>n/a</td>
@@ -734,6 +805,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></td>
         <td><a href="https://web.archive.org/web/20191219182711/http://www.iconica.com.br/site/travessias/">TRAVESSIAS</a></td>
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa21819/german-lorca">Lorca, German (São Paulo/SP, 1922 - )</a></td>
+        <td><a href="https://enciclopedia.itaucultural.org.br/pessoa217208/giorgio-morandi">Morandi, Giorgio (Itália, 1890 - Itália, 1964)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22258/alexandre-wollner">Wollner, Alexandre (São Paulo/SP, 1928 - São Paulo/SP, 2018)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa8824/marcelo-grassmann">Grassmann, Marcelo (São Simão/SP, 1925 - São Paulo/SP, 2013)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21896/haroldo-de-campos">Campos, Haroldo de (São Paulo/SP, 1929 - São Paulo/SP, 2003)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa2273/aldemir-martins">Martins, Aldemir (Ingazeiras/CE, 1922 - São Paulo/SP, 2006)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3402/luiz-s-hossaka">Sadaki Hossaka, Luiz (Birigui/SP, 1928 - São Paulo/SP, 2009)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa3817/ademar-manarini">Manarini, Ademar (Campinas/SP, 1920 - São Paulo/SP, 1989)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa22018/chico-albuquerque">Albuquerque, Chico (Fortaleza/CE, 1917 - Fortaleza/CE, 2000)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa21819/german-lorca">Lorca, German (São Paulo/SP, 1922 - )</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa280202/piet-mondrian">Mondrian, Piet (Países Baixos, 1872 - Estados Unidos, 1944)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa6490/geraldo-de-barros">Barros, Geraldo de (Chavantes/SP, 1923 - São Paulo/SP, 1998)</a>; <a href="http://enciclopedia.itaucultural.org.br/pessoa1610/alfredo-volpi">Volpi, Alfredo (Itália, 1896 - São Paulo/SP, 1988)</a>; <a href="https://enciclopedia.itaucultural.org.br/pessoa7520/thomaz-farkas">Farkas, Thomaz (Hungria, 1924 - São Paulo/SP, 2011)</a></td>
         <td>2015</td>
         <td>TRAVESSIAS</td>
         <td>n/a</td>
@@ -744,6 +816,7 @@
         <td><a href="https://enciclopedia.itaucultural.org.br/pessoa642600/didiana-prata">Prata, Didiana (São Paulo/SP)</a></td>
         <td><a href="https://web.archive.org/web/20200823142203/http://www.iconica.com.br/site/viagem-ao-sul-do-real/">REAL, SURREAL, SUL DO REAL</a></td>
         <td>Girard, Ciro (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa450619/rogerio-assis">Assis, Rogério (Belém/PA, 1965 - )</a></td>
+        <td>Eisenstein, Sergei (Letônia, 1898 - ); Girard, Ciro (São Paulo/SP); <a href="https://enciclopedia.itaucultural.org.br/pessoa450619/rogerio-assis">Assis, Rogério (Belém/PA, 1965 - )</a></td>
         <td>2018</td>
         <td>n/a</td>
         <td>n/a</td>
@@ -753,6 +826,7 @@
         <th>72</th>
         <td>Linhares Sanz, Cláudia (/RJ)</td>
         <td><a href="https://web.archive.org/web/20190818124635/http://www.iconica.com.br/site/acontecimento-e-imaginacao-em-sincronias-fotograficas/">ACONTECIMENTO E IMAGINACAO EM SINCRONIAS FOTOGRAFICAS</a></td>
+        <td>Ruetz, Michael (Alemanha, 1940 - )</td>
         <td>Ruetz, Michael (Alemanha, 1940 - )</td>
         <td>2012</td>
         <td>1968: TEMPOS INCOMODOS</td>
