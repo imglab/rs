@@ -52,7 +52,7 @@
 </ul>
 
 <h2>Artistas-Tema - Icônica - EIC</h2>
-<p>Rede unimodal dos 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 23/02/2024</p>
 <div id="cy"/>
 
 <style>

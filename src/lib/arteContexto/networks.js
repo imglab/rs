@@ -5,14 +5,14 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
   "data" : {
     "shared_name" : "rsArtistTermAuthorByPublicationreArteContexto.xml",
     "name" : "rsArtistTermAuthorByPublicationreArteContexto.xml",
-    "SUID" : 1308975,
+    "SUID" : 4040304,
     "__Annotations" : [ ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "1309231",
+        "id" : "4040560",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arZinebSedira",
@@ -20,7 +20,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1309231,
+        "SUID" : 4040560,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -37,18 +37,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Sedira, Zineb (1963-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 407.7028877902407,
-        "y" : 251.09319601378968
+        "x" : -25.134992061461396,
+        "y" : 214.8699501867698
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309228",
+        "id" : "4040557",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arLauraBelem",
@@ -56,7 +56,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309228,
+        "SUID" : 4040557,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -73,18 +73,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Belém, Laura (1974-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 7.902552467598758,
-        "y" : 254.86724040854278
+        "x" : 75.0045815984347,
+        "y" : 213.60180129412404
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309225",
+        "id" : "4040554",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arPotiraMaia",
@@ -92,7 +92,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309225,
+        "SUID" : 4040554,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -108,18 +108,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
         "name" : "Maia, Potira",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 304.49522292853493,
-        "y" : -95.54940751600225
+        "x" : 331.7900208908256,
+        "y" : -129.57695483118013
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309222",
+        "id" : "4040551",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arNoaraQuintana",
@@ -127,7 +127,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309222,
+        "SUID" : 4040551,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -144,18 +144,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
         "name" : "Quintana, Noara (1986-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 351.50793657358105,
-        "y" : -64.56028700683149
+        "x" : 428.2145966153576,
+        "y" : -137.10705353118016
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309219",
+        "id" : "4040548",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMarinaZilbersztejn",
@@ -163,7 +163,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309219,
+        "SUID" : 4040548,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -179,18 +179,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
         "name" : "Zilbersztejn, Marina",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 402.25454437146004,
-        "y" : -88.7404248131083
+        "x" : 373.63639863150865,
+        "y" : -217.19540512204222
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309216",
+        "id" : "4040545",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMartaPenner",
@@ -198,7 +198,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309216,
+        "SUID" : 4040545,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -215,18 +215,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
         "name" : "Penner, Marta (1965-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 406.3473048702143,
-        "y" : -144.5670257425388
+        "x" : 423.9909016857498,
+        "y" : -192.94630916198065
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309213",
+        "id" : "4040542",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arFabianaFaleiros",
@@ -234,7 +234,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309213,
+        "SUID" : 4040542,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -251,26 +251,26 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
         "name" : "Faleiros, Fabiana (1980-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 309.93312759429296,
-        "y" : -151.44949115084825
+        "x" : 382.1842916366796,
+        "y" : -105.37544575759273
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309210",
+        "id" : "4040539",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arDeniseAlvesRodrigues",
-        "shared_name" : "Alves-Rodrigues, Denise",
+        "shared_name" : "Alves-Rodrigues, Denise (1981-)",
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309210,
+        "SUID" : 4040539,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -279,25 +279,26 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "Degree" : 5,
         "PartnerOfMultiEdgedNodePairs" : 0,
         "ClusteringCoefficient" : 1.0,
-        "birthCity" : "NA",
+        "birthCity" : "Itaporã",
         "Radiality" : 1.0,
+        "birthDate" : 1981,
         "Stress" : 0,
-        "birthRegion" : "NA",
+        "birthRegion" : "MG",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 5,
-        "name" : "Alves-Rodrigues, Denise",
-        "countTexts" : "1",
+        "name" : "Alves-Rodrigues, Denise (1981-)",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 5.0
       },
       "position" : {
-        "x" : 360.15464426093564,
-        "y" : -176.04525283788516
+        "x" : 327.565550625807,
+        "y" : -185.4214225863947
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309207",
+        "id" : "4040536",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arSebastienChou",
@@ -305,7 +306,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1309207,
+        "SUID" : 4040536,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -322,18 +323,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Chou, Sebastien (1972-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 307.83618914057814,
-        "y" : 250.42476719610167
+        "x" : 274.6513435169195,
+        "y" : 212.09845545279444
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309204",
+        "id" : "4040533",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arMartaMasiero",
@@ -341,7 +342,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309204,
+        "SUID" : 4040533,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -358,18 +359,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Masiero, Marta (1983-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 208.01938855773344,
-        "y" : 252.88749243724416
+        "x" : 374.45149146092956,
+        "y" : 211.53455794531956
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309201",
+        "id" : "4040530",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arFabioMorais",
@@ -377,7 +378,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309201,
+        "SUID" : 4040530,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -394,18 +395,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Morais, Fabio (1975-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 107.96005377224807,
-        "y" : 254.98331595639047
+        "x" : -325.6711538244668,
+        "y" : 313.6155649048203
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309198",
+        "id" : "4040527",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arMariaSantos",
@@ -413,7 +414,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309198,
+        "SUID" : 4040527,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -430,26 +431,26 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Santos, Maria Ivone dos (1958-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 461.62155082440626,
-        "y" : 49.81725185198235
+        "x" : 474.3730487672724,
+        "y" : 211.38942942063403
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309195",
+        "id" : "4040524",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arRenataRequiao",
-        "shared_name" : "Azevedo Requião, Renata",
+        "shared_name" : "Azevedo Requião, Renata (1960-)",
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309195,
+        "SUID" : 4040524,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -458,25 +459,26 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "Degree" : 1,
         "PartnerOfMultiEdgedNodePairs" : 0,
         "ClusteringCoefficient" : 0.0,
-        "birthCity" : "NA",
+        "birthCity" : "Pelotas",
         "Radiality" : 1.0,
+        "birthDate" : 1960,
         "Stress" : 0,
-        "birthRegion" : "NA",
+        "birthRegion" : "RS",
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
-        "name" : "Azevedo Requião, Renata",
-        "countTexts" : "1",
+        "name" : "Azevedo Requião, Renata (1960-)",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -188.1852043360692,
-        "y" : 56.10232150906271
+        "x" : 207.10385617836164,
+        "y" : 95.24997585346685
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309192",
+        "id" : "4040521",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arAndreNoble",
@@ -484,7 +486,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309192,
+        "SUID" : 4040521,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -501,18 +503,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
         "name" : "Winter Noble, André (1988-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -151.77740520448154,
-        "y" : 137.93663284799356
+        "x" : 187.79395773037714,
+        "y" : 7.211831033448821
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309189",
+        "id" : "4040518",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arJussaraMiranda",
@@ -520,7 +522,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309189,
+        "SUID" : 4040518,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -537,18 +539,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Miranda, Jussara (1958-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 161.72708656774654,
-        "y" : 53.292729601847654
+        "x" : -25.233565565266733,
+        "y" : 314.6582243019249
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309186",
+        "id" : "4040515",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arFanHo",
@@ -556,7 +558,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "China",
-        "SUID" : 1309186,
+        "SUID" : 4040515,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -573,18 +575,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 8,
         "name" : "Ho, Fan (1931-2016)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 611.0288723274829,
-        "y" : -129.80943918093521
+        "x" : -317.0551658519624,
+        "y" : 101.64809294995092
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309183",
+        "id" : "4040512",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arLeticiaLopes",
@@ -592,7 +594,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309183,
+        "SUID" : 4040512,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -609,18 +611,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Arais Lopes, Letícia (1988-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 60.98064587716224,
-        "y" : 53.02099868816749
+        "x" : 74.81928215808621,
+        "y" : 313.49372327957633
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309180",
+        "id" : "4040509",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arHubertDuprat",
@@ -628,7 +630,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "França",
-        "SUID" : 1309180,
+        "SUID" : 4040509,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -645,18 +647,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Duprat, Hubert (1957-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -192.41185437529046,
-        "y" : 258.8656391092871
+        "x" : 174.75655484308157,
+        "y" : 312.5457713226559
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309177",
+        "id" : "4040506",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arFransKrajcberg",
@@ -664,7 +666,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Polônia",
-        "SUID" : 1309177,
+        "SUID" : 4040506,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -681,18 +683,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 8,
         "name" : "Krajcberg, Frans (1921-2017)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 562.640521491993,
-        "y" : -173.5134105956355
+        "x" : -221.6013714544505,
+        "y" : 57.312066337271695
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309174",
+        "id" : "4040503",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arTeresaSiewerdt",
@@ -700,7 +702,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309174,
+        "SUID" : 4040503,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -717,18 +719,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Siewerdt, Teresa (1982-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -150.51089858119653,
-        "y" : -163.2637562938469
+        "x" : -68.32088594973092,
+        "y" : -215.73656881843044
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309171",
+        "id" : "4040500",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arFabianoRodrigues",
@@ -736,7 +738,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309171,
+        "SUID" : 4040500,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -753,18 +755,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Rodrigues, Fabiano (1974-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -292.93307682347256,
-        "y" : 262.3205903523348
+        "x" : 274.6202243199005,
+        "y" : 312.047804867637
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309168",
+        "id" : "4040497",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arSamySfoggia",
@@ -772,7 +774,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309168,
+        "SUID" : 4040497,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -789,18 +791,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Sfoggia, Samy (1984-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 561.6230697133918,
-        "y" : 50.81590746164304
+        "x" : 474.4605414941569,
+        "y" : 311.3884417948845
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309165",
+        "id" : "4040494",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arWalmorCorrea",
@@ -808,7 +810,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309165,
+        "SUID" : 4040494,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -825,18 +827,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 8,
         "name" : "Corrêa, Walmor (1960-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 506.20522687802077,
-        "y" : -141.00908589738088
+        "x" : -253.09648548250107,
+        "y" : 114.30574156332074
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309162",
+        "id" : "4040491",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arRomyPocztaruk",
@@ -844,7 +846,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309162,
+        "SUID" : 4040491,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -861,18 +863,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Pocztaruk, Romy (1983-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 607.6436460995417,
-        "y" : 252.88274435953568
+        "x" : 306.8037376499571,
+        "y" : 6.80733539677032
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309159",
+        "id" : "4040488",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arMateoAmaral",
@@ -880,7 +882,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309159,
+        "SUID" : 4040488,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -897,18 +899,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Amaral, Mateo (1979-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -391.3266096345056,
-        "y" : 362.1994996783071
+        "x" : 406.6892461800009,
+        "y" : 6.550256029934815
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309156",
+        "id" : "4040485",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMauraGrimaldi",
@@ -916,7 +918,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309156,
+        "SUID" : 4040485,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -933,18 +935,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Grimaldi, Maura (1988-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -91.76057473036005,
-        "y" : -175.53462307160405
+        "x" : -100.46720698515314,
+        "y" : -163.57273562719269
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309153",
+        "id" : "4040482",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arKaderAttia",
@@ -952,7 +954,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "França",
-        "SUID" : 1309153,
+        "SUID" : 4040482,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -969,18 +971,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Attia, Kader (1970-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 507.64017464053535,
-        "y" : 252.24861082584863
+        "x" : -225.2752363782758,
+        "y" : 214.3951788258412
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309150",
+        "id" : "4040479",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arRogerioLivi",
@@ -988,7 +990,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309150,
+        "SUID" : 4040479,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1005,18 +1007,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Livi, Rogerio (1945-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -290.8541011278283,
-        "y" : 362.1356430603096
+        "x" : -325.3619222872291,
+        "y" : 213.83338407857985
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309147",
+        "id" : "4040476",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arAnaKesselring",
@@ -1024,7 +1026,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309147,
+        "SUID" : 4040476,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1041,18 +1043,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Kesselring, Ana (1961-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -190.53196836036253,
-        "y" : 358.78132255369286
+        "x" : -125.14243954610217,
+        "y" : 214.79934798573692
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309144",
+        "id" : "4040473",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arElidaTessler",
@@ -1060,7 +1062,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309144,
+        "SUID" : 4040473,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1077,18 +1079,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 8,
         "name" : "Tessler, Elida (1961-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 584.1917887306369,
-        "y" : -70.43699709420316
+        "x" : -266.9366028816879,
+        "y" : 9.997139411336832
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309141",
+        "id" : "4040470",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arManoelLima",
@@ -1096,7 +1098,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309141,
+        "SUID" : 4040470,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1112,18 +1114,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
         "name" : "Lima, Manoel Ricardo de",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -39.419570397167384,
-        "y" : 51.540520916803565
+        "x" : 75.81404125860864,
+        "y" : 7.901866554476964
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309138",
+        "id" : "4040467",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arLolaArias",
@@ -1131,7 +1133,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309138,
+        "SUID" : 4040467,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1148,18 +1150,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Arias, Lola (1976-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -418.3554016506889,
-        "y" : -125.62171621764055
+        "x" : -195.10212158224982,
+        "y" : -97.29407658659488
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309135",
+        "id" : "4040464",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arSantiagoGobernori",
@@ -1167,7 +1169,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309135,
+        "SUID" : 4040464,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1183,18 +1185,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Gobernori, Santiago",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -373.07100323770635,
-        "y" : -80.43756103336348
+        "x" : -258.96303105716487,
+        "y" : -187.75659216356314
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309132",
+        "id" : "4040461",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJoseMuscari",
@@ -1202,7 +1204,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309132,
+        "SUID" : 4040461,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1219,18 +1221,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Muscari, José Maria (1976-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -419.4489304996252,
-        "y" : -78.56261614962337
+        "x" : -354.4016257588735,
+        "y" : -182.46874271882092
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309129",
+        "id" : "4040458",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arGustavoTarrio",
@@ -1238,7 +1240,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309129,
+        "SUID" : 4040458,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1254,18 +1256,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Tarrio, Gustavo",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -416.0857634321888,
-        "y" : -172.6268386219344
+        "x" : -306.6793885855955,
+        "y" : -190.7552777972525
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309126",
+        "id" : "4040455",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMarianaChaud",
@@ -1273,7 +1275,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309126,
+        "SUID" : 4040455,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1289,18 +1291,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Chaud, Mariana",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -324.5776530476426,
-        "y" : -181.98019463875235
+        "x" : -251.87377969336438,
+        "y" : -135.71597800676793
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309123",
+        "id" : "4040452",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arEdgardoCozarinski",
@@ -1308,7 +1310,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309123,
+        "SUID" : 4040452,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1325,18 +1327,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Cozarinski, Edgardo (1939-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -319.20783070003483,
-        "y" : -81.24425381374718
+        "x" : -308.54498680969954,
+        "y" : -138.14485037191074
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309120",
+        "id" : "4040449",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arDanielVeronese",
@@ -1344,7 +1346,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309120,
+        "SUID" : 4040449,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1361,18 +1363,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Veronese, Daniel (1955-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -369.61187828738036,
-        "y" : -181.50682893310164
+        "x" : -333.00545140423793,
+        "y" : -88.49414995147384
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309117",
+        "id" : "4040446",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arMarianaObersztern",
@@ -1380,7 +1382,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309117,
+        "SUID" : 4040446,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1396,18 +1398,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Obersztern, Mariana",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -272.5708828869058,
-        "y" : -159.966859059173
+        "x" : -365.4366753192043,
+        "y" : -135.6215185777051
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309114",
+        "id" : "4040443",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arAnaliaCouceyro",
@@ -1415,7 +1417,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309114,
+        "SUID" : 4040443,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1432,18 +1434,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Couceyro, Analia (1974-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -279.0466442298235,
-        "y" : -206.7723943205948
+        "x" : -305.21272411176307,
+        "y" : -237.19831468129053
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309111",
+        "id" : "4040440",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arJavierDaulte",
@@ -1451,7 +1453,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Argentina",
-        "SUID" : 1309111,
+        "SUID" : 4040440,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1468,18 +1470,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Daulte, Javier (1963-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -310.15494406099526,
-        "y" : -24.012540835092878
+        "x" : -207.72065647646565,
+        "y" : -189.589118706484
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309108",
+        "id" : "4040437",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arCiroZorzoli",
@@ -1487,7 +1489,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309108,
+        "SUID" : 4040437,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1503,18 +1505,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Zorzoli, Ciro",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -271.03801909185717,
-        "y" : -114.66172790923906
+        "x" : -286.29204896790685,
+        "y" : -89.50795661257607
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309105",
+        "id" : "4040434",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arLucianoSuardi",
@@ -1522,7 +1524,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309105,
+        "SUID" : 4040434,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1538,18 +1540,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Suardi, Luciano",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -355.5388122526676,
-        "y" : -33.96190910295248
+        "x" : -258.7883294959271,
+        "y" : -234.56745992700445
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309102",
+        "id" : "4040431",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arMarianoPensotti",
@@ -1557,7 +1559,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309102,
+        "SUID" : 4040431,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1573,18 +1575,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Pensotti, Mariano",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -318.1910309776267,
-        "y" : -136.0012237087892
+        "x" : -240.9903822184275,
+        "y" : -88.87487546754488
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309099",
+        "id" : "4040428",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arBeatrizCatani",
@@ -1592,7 +1594,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309099,
+        "SUID" : 4040428,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1609,18 +1611,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Catani, Beatriz (1955-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -369.634363567389,
-        "y" : -128.08301808954474
+        "x" : -213.61945130348056,
+        "y" : -234.82420985759737
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309096",
+        "id" : "4040425",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arStefanKaegi",
@@ -1628,7 +1630,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Suíça",
-        "SUID" : 1309096,
+        "SUID" : 4040425,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1644,18 +1646,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 14,
         "name" : "Kaegi, Stefan",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 14.0
       },
       "position" : {
-        "x" : -266.1753490929465,
-        "y" : -69.16901421651006
+        "x" : -204.93949671084556,
+        "y" : -144.0412068343628
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309093",
+        "id" : "4040422",
         "idnoWKD" : "WKD",
         "Eccentricity" : 0,
         "artistId" : "arCaoGuimaraes",
@@ -1663,7 +1665,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309093,
+        "SUID" : 4040422,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1680,18 +1682,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Guimarães, Cao (1965-)",
-        "countTexts" : "2",
+        "countTexts" : 2,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -91.97690798634206,
-        "y" : 256.59561732160194
+        "x" : 174.85874643960926,
+        "y" : 212.55219089394703
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309090",
+        "id" : "4040419",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arSusanaVentura",
@@ -1699,7 +1701,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Portugal",
-        "SUID" : 1309090,
+        "SUID" : 4040419,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1716,18 +1718,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Ventura, Susana (1978-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 212.169220224316,
-        "y" : -190.59985369090867
+        "x" : 121.52230821581831,
+        "y" : -126.61480943608763
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309087",
+        "id" : "4040416",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arPedroClarke",
@@ -1735,7 +1737,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309087,
+        "SUID" : 4040416,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1751,18 +1753,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Clarke, Pedro",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 44.90959334148415,
-        "y" : -191.5499059719998
+        "x" : 226.52256908331367,
+        "y" : -124.28565669262557
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309084",
+        "id" : "4040413",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arPauloMoreira",
@@ -1770,7 +1772,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309084,
+        "SUID" : 4040413,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1786,18 +1788,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Moreira, Paulo",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 74.79434196316762,
-        "y" : -154.84723061878523
+        "x" : 176.3350843075471,
+        "y" : -216.72041026497484
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309081",
+        "id" : "4040410",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMiguelMarcelino",
@@ -1805,7 +1807,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Portugal",
-        "SUID" : 1309081,
+        "SUID" : 4040410,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1822,18 +1824,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Marcelino, Miguel (1981-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 160.7111094701287,
-        "y" : -194.60204145204133
+        "x" : 174.3978533080827,
+        "y" : -155.5952385183956
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309078",
+        "id" : "4040407",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMiguelEufrasia",
@@ -1841,7 +1843,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309078,
+        "SUID" : 4040407,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1857,18 +1859,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Eufrásia, Miguel",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 130.90867496288206,
-        "y" : -157.07409030622952
+        "x" : 123.02518394249513,
+        "y" : -187.7021514705139
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309075",
+        "id" : "4040404",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMarianaPestana",
@@ -1876,7 +1878,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309075,
+        "SUID" : 4040404,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1892,18 +1894,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Pestana, Mariana",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 100.30924693053501,
-        "y" : -191.98757577988206
+        "x" : 173.38486936907577,
+        "y" : -94.74511320875564
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309072",
+        "id" : "4040401",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arAndreTavares",
@@ -1911,7 +1913,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "NA",
-        "SUID" : 1309072,
+        "SUID" : 4040401,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1927,18 +1929,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Tavares, André",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : 181.3521201437662,
-        "y" : -153.49420186805878
+        "x" : 227.87673135108236,
+        "y" : -184.9372923516406
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309069",
+        "id" : "4040398",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arEmanuelMonteiro",
@@ -1946,7 +1948,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309069,
+        "SUID" : 4040398,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -1963,18 +1965,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
         "name" : "Monteiro, Emanuel (1988-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -395.61339311031895,
-        "y" : 145.42969141985927
+        "x" : -34.617352044859445,
+        "y" : 106.78434825199267
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309066",
+        "id" : "4040395",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arFabianoCosta",
@@ -1982,7 +1984,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309066,
+        "SUID" : 4040395,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -1998,18 +2000,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Nascimento Costa, Fabiano do",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 261.6414710651511,
-        "y" : 48.4422456900721
+        "x" : -225.60846446926865,
+        "y" : 314.3557580008823
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309063",
+        "id" : "4040392",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arRonaldDuarte",
@@ -2017,7 +2019,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309063,
+        "SUID" : 4040392,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -2034,18 +2036,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Duarte, Ronald (1963-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : 361.600439850545,
-        "y" : 48.522212878397355
+        "x" : -125.45066916639675,
+        "y" : 314.7653796870831
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309060",
+        "id" : "4040389",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arLeticiaBertagna",
@@ -2053,7 +2055,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309060,
+        "SUID" : 4040389,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2070,18 +2072,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
         "name" : "Bertagna, Letícia (1983-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -310.93646103414454,
-        "y" : 163.7198791197482
+        "x" : -71.82178935160259,
+        "y" : 58.49543768823413
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309057",
+        "id" : "4040386",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMarciusAndrade",
@@ -2089,7 +2091,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309057,
+        "SUID" : 4040386,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2106,18 +2108,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Andrade, Marcius de (1979-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -68.82284826560004,
-        "y" : -71.92630144325229
+        "x" : -39.08640375530752,
+        "y" : -162.6377653729986
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309054",
+        "id" : "4040383",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arJoiceRossato",
@@ -2125,7 +2127,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309054,
+        "SUID" : 4040383,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2142,18 +2144,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Rossato, Joice (1983-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -109.40625925968078,
-        "y" : -117.40697267009507
+        "x" : -67.60026218110488,
+        "y" : -109.99131287269378
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309051",
+        "id" : "4040380",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arRaisaTorterola",
@@ -2161,7 +2163,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "NA",
         "birthCountry" : "Brasil",
-        "SUID" : 1309051,
+        "SUID" : 4040380,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2177,18 +2179,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Torterola, Raisa",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -128.55569458423273,
-        "y" : -59.41400292729627
+        "x" : -7.713650258804504,
+        "y" : -215.3395501530687
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309048",
+        "id" : "4040377",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arEduardoMontelli",
@@ -2196,7 +2198,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309048,
+        "SUID" : 4040377,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2213,18 +2215,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Montelli, Eduardo (1989-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -169.36550530463185,
-        "y" : -106.38598190611013
+        "x" : 21.90009575029503,
+        "y" : -162.70417450707868
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309045",
+        "id" : "4040374",
         "idnoWKD" : "NA",
         "Eccentricity" : 0,
         "artistId" : "arAdrianaMelo",
@@ -2232,7 +2234,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309045,
+        "SUID" : 4040374,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 0.0,
@@ -2249,18 +2251,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 0,
         "name" : "Conti Melo, Adriana (1965-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : true,
         "NeighborhoodConnectivity" : 0.0
       },
       "position" : {
-        "x" : -393.89590299534984,
-        "y" : 262.17474206143993
+        "x" : 374.5295037603093,
+        "y" : 311.5432818816684
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309042",
+        "id" : "4040371",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arIsmaelMonticelli",
@@ -2268,7 +2270,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309042,
+        "SUID" : 4040371,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2285,18 +2287,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
         "name" : "Monticelli, Ismael (1987-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -290.49515660133653,
-        "y" : 82.90243618296049
+        "x" : -23.975019049610697,
+        "y" : 19.662504639080847
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309039",
+        "id" : "4040368",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arWilliamKentridge",
@@ -2304,7 +2306,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "África do Sul",
-        "SUID" : 1309039,
+        "SUID" : 4040368,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2321,18 +2323,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 6,
         "name" : "Kentridge, William (1955-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 6.0
       },
       "position" : {
-        "x" : -50.168654093159425,
-        "y" : -130.66847403112035
+        "x" : -7.626246088919254,
+        "y" : -109.7485617710326
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309036",
+        "id" : "4040365",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMarcosFioravante",
@@ -2340,7 +2342,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309036,
+        "SUID" : 4040365,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2357,18 +2359,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
         "name" : "Fioravante, Marcos (1989-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -344.96531398122175,
-        "y" : 110.86205250155349
+        "x" : -120.80894025588131,
+        "y" : 96.95616762267255
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309033",
+        "id" : "4040362",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arMayraRedin",
@@ -2376,7 +2378,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 0.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309033,
+        "SUID" : 4040362,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2393,18 +2395,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 1,
         "name" : "Martins Redin, Mayra (1982-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 1.0
       },
       "position" : {
-        "x" : -51.90334499516185,
-        "y" : 141.7996429021357
+        "x" : 88.184853385312,
+        "y" : 97.33106703574185
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309030",
+        "id" : "4040359",
         "idnoWKD" : "NA",
         "Eccentricity" : 1,
         "artistId" : "arVitorButkus",
@@ -2412,7 +2414,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Brasil",
-        "SUID" : 1309030,
+        "SUID" : 4040359,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2429,18 +2431,18 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 4,
         "name" : "Butkus, Vitor (1983-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : -378.6464317670642,
-        "y" : 59.63640806704869
+        "x" : -109.8225933937904,
+        "y" : 11.81756364460978
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309003",
+        "id" : "4040332",
         "idnoWKD" : "WKD",
         "Eccentricity" : 1,
         "artistId" : "arMarinaAbramovic",
@@ -2448,7 +2450,7 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "TopologicalCoefficient" : 1.0,
         "idnoEIC" : "EIC",
         "birthCountry" : "Sérvia",
-        "SUID" : 1309003,
+        "SUID" : 4040332,
         "SelfLoops" : 0,
         "NumberOfDirectedEdges" : 0,
         "AverageShortestPathLength" : 1.0,
@@ -2465,2729 +2467,2729 @@ export let networks = {"rsArtistTermAuthorByPublicationreArteContexto.xml": {
         "BetweennessCentrality" : 0.0,
         "NumberOfUndirectedEdges" : 8,
         "name" : "Abramović, Marina (1946-)",
-        "countTexts" : "1",
+        "countTexts" : 1,
         "IsSingleNode" : false,
         "NeighborhoodConnectivity" : 4.0
       },
       "position" : {
-        "x" : 519.3589911341535,
-        "y" : -77.25682245704847
+        "x" : -326.2628983759176,
+        "y" : 37.288620179610355
       },
       "selected" : false
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "1309578",
-        "source" : "1309222",
-        "target" : "1309225",
+        "id" : "4040907",
+        "source" : "4040551",
+        "target" : "4040554",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arNoaraQuintana (-) arPotiraMaia",
         "shared_interaction" : "-",
         "name" : "arNoaraQuintana (-) arPotiraMaia",
         "interaction" : "-",
-        "SUID" : 1309578,
+        "SUID" : 4040907,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309576",
-        "source" : "1309219",
-        "target" : "1309225",
+        "id" : "4040905",
+        "source" : "4040548",
+        "target" : "4040554",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarinaZilbersztejn (-) arPotiraMaia",
         "shared_interaction" : "-",
         "name" : "arMarinaZilbersztejn (-) arPotiraMaia",
         "interaction" : "-",
-        "SUID" : 1309576,
+        "SUID" : 4040905,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309574",
-        "source" : "1309219",
-        "target" : "1309222",
+        "id" : "4040903",
+        "source" : "4040548",
+        "target" : "4040551",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarinaZilbersztejn (-) arNoaraQuintana",
         "shared_interaction" : "-",
         "name" : "arMarinaZilbersztejn (-) arNoaraQuintana",
         "interaction" : "-",
-        "SUID" : 1309574,
+        "SUID" : 4040903,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309572",
-        "source" : "1309216",
-        "target" : "1309225",
+        "id" : "4040901",
+        "source" : "4040545",
+        "target" : "4040554",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMartaPenner (-) arPotiraMaia",
         "shared_interaction" : "-",
         "name" : "arMartaPenner (-) arPotiraMaia",
         "interaction" : "-",
-        "SUID" : 1309572,
+        "SUID" : 4040901,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309570",
-        "source" : "1309216",
-        "target" : "1309222",
+        "id" : "4040899",
+        "source" : "4040545",
+        "target" : "4040551",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMartaPenner (-) arNoaraQuintana",
         "shared_interaction" : "-",
         "name" : "arMartaPenner (-) arNoaraQuintana",
         "interaction" : "-",
-        "SUID" : 1309570,
+        "SUID" : 4040899,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309568",
-        "source" : "1309216",
-        "target" : "1309219",
+        "id" : "4040897",
+        "source" : "4040545",
+        "target" : "4040548",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMartaPenner (-) arMarinaZilbersztejn",
         "shared_interaction" : "-",
         "name" : "arMartaPenner (-) arMarinaZilbersztejn",
         "interaction" : "-",
-        "SUID" : 1309568,
+        "SUID" : 4040897,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309566",
-        "source" : "1309213",
-        "target" : "1309225",
+        "id" : "4040895",
+        "source" : "4040542",
+        "target" : "4040554",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFabianaFaleiros (-) arPotiraMaia",
         "shared_interaction" : "-",
         "name" : "arFabianaFaleiros (-) arPotiraMaia",
         "interaction" : "-",
-        "SUID" : 1309566,
+        "SUID" : 4040895,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309564",
-        "source" : "1309213",
-        "target" : "1309222",
+        "id" : "4040893",
+        "source" : "4040542",
+        "target" : "4040551",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFabianaFaleiros (-) arNoaraQuintana",
         "shared_interaction" : "-",
         "name" : "arFabianaFaleiros (-) arNoaraQuintana",
         "interaction" : "-",
-        "SUID" : 1309564,
+        "SUID" : 4040893,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309562",
-        "source" : "1309213",
-        "target" : "1309219",
+        "id" : "4040891",
+        "source" : "4040542",
+        "target" : "4040548",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFabianaFaleiros (-) arMarinaZilbersztejn",
         "shared_interaction" : "-",
         "name" : "arFabianaFaleiros (-) arMarinaZilbersztejn",
         "interaction" : "-",
-        "SUID" : 1309562,
+        "SUID" : 4040891,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309560",
-        "source" : "1309213",
-        "target" : "1309216",
+        "id" : "4040889",
+        "source" : "4040542",
+        "target" : "4040545",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFabianaFaleiros (-) arMartaPenner",
         "shared_interaction" : "-",
         "name" : "arFabianaFaleiros (-) arMartaPenner",
         "interaction" : "-",
-        "SUID" : 1309560,
+        "SUID" : 4040889,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309558",
-        "source" : "1309210",
-        "target" : "1309225",
+        "id" : "4040887",
+        "source" : "4040539",
+        "target" : "4040554",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDeniseAlvesRodrigues (-) arPotiraMaia",
         "shared_interaction" : "-",
         "name" : "arDeniseAlvesRodrigues (-) arPotiraMaia",
         "interaction" : "-",
-        "SUID" : 1309558,
+        "SUID" : 4040887,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309556",
-        "source" : "1309210",
-        "target" : "1309222",
+        "id" : "4040885",
+        "source" : "4040539",
+        "target" : "4040551",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDeniseAlvesRodrigues (-) arNoaraQuintana",
         "shared_interaction" : "-",
         "name" : "arDeniseAlvesRodrigues (-) arNoaraQuintana",
         "interaction" : "-",
-        "SUID" : 1309556,
+        "SUID" : 4040885,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309554",
-        "source" : "1309210",
-        "target" : "1309219",
+        "id" : "4040883",
+        "source" : "4040539",
+        "target" : "4040548",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDeniseAlvesRodrigues (-) arMarinaZilbersztejn",
         "shared_interaction" : "-",
         "name" : "arDeniseAlvesRodrigues (-) arMarinaZilbersztejn",
         "interaction" : "-",
-        "SUID" : 1309554,
+        "SUID" : 4040883,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309552",
-        "source" : "1309210",
-        "target" : "1309216",
+        "id" : "4040881",
+        "source" : "4040539",
+        "target" : "4040545",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDeniseAlvesRodrigues (-) arMartaPenner",
         "shared_interaction" : "-",
         "name" : "arDeniseAlvesRodrigues (-) arMartaPenner",
         "interaction" : "-",
-        "SUID" : 1309552,
+        "SUID" : 4040881,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309550",
-        "source" : "1309210",
-        "target" : "1309213",
+        "id" : "4040879",
+        "source" : "4040539",
+        "target" : "4040542",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDeniseAlvesRodrigues (-) arFabianaFaleiros",
         "shared_interaction" : "-",
         "name" : "arDeniseAlvesRodrigues (-) arFabianaFaleiros",
         "interaction" : "-",
-        "SUID" : 1309550,
+        "SUID" : 4040879,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309548",
-        "source" : "1309192",
-        "target" : "1309195",
+        "id" : "4040877",
+        "source" : "4040521",
+        "target" : "4040524",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreNoble (-) arRenataRequiao",
         "shared_interaction" : "-",
         "name" : "arAndreNoble (-) arRenataRequiao",
         "interaction" : "-",
-        "SUID" : 1309548,
+        "SUID" : 4040877,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309546",
-        "source" : "1309186",
-        "target" : "1309003",
+        "id" : "4040875",
+        "source" : "4040515",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFanHo (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arFanHo (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309546,
+        "SUID" : 4040875,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309526",
-        "source" : "1309186",
-        "target" : "1309003",
+        "id" : "4040855",
+        "source" : "4040515",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFanHo (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arFanHo (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309526,
+        "SUID" : 4040855,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309544",
-        "source" : "1309177",
-        "target" : "1309003",
+        "id" : "4040873",
+        "source" : "4040506",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFransKrajcberg (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arFransKrajcberg (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309544,
+        "SUID" : 4040873,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309542",
-        "source" : "1309177",
-        "target" : "1309186",
+        "id" : "4040871",
+        "source" : "4040506",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFransKrajcberg (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arFransKrajcberg (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309542,
+        "SUID" : 4040871,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309524",
-        "source" : "1309177",
-        "target" : "1309003",
+        "id" : "4040853",
+        "source" : "4040506",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFransKrajcberg (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arFransKrajcberg (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309524,
+        "SUID" : 4040853,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309522",
-        "source" : "1309177",
-        "target" : "1309186",
+        "id" : "4040851",
+        "source" : "4040506",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arFransKrajcberg (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arFransKrajcberg (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309522,
+        "SUID" : 4040851,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309540",
-        "source" : "1309165",
-        "target" : "1309003",
+        "id" : "4040869",
+        "source" : "4040494",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309540,
+        "SUID" : 4040869,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309538",
-        "source" : "1309165",
-        "target" : "1309186",
+        "id" : "4040867",
+        "source" : "4040494",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309538,
+        "SUID" : 4040867,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309536",
-        "source" : "1309165",
-        "target" : "1309177",
+        "id" : "4040865",
+        "source" : "4040494",
+        "target" : "4040506",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arFransKrajcberg",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arFransKrajcberg",
         "interaction" : "-",
-        "SUID" : 1309536,
+        "SUID" : 4040865,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309520",
-        "source" : "1309165",
-        "target" : "1309003",
+        "id" : "4040849",
+        "source" : "4040494",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309520,
+        "SUID" : 4040849,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309518",
-        "source" : "1309165",
-        "target" : "1309186",
+        "id" : "4040847",
+        "source" : "4040494",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309518,
+        "SUID" : 4040847,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309516",
-        "source" : "1309165",
-        "target" : "1309177",
+        "id" : "4040845",
+        "source" : "4040494",
+        "target" : "4040506",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWalmorCorrea (-) arFransKrajcberg",
         "shared_interaction" : "-",
         "name" : "arWalmorCorrea (-) arFransKrajcberg",
         "interaction" : "-",
-        "SUID" : 1309516,
+        "SUID" : 4040845,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309294",
-        "source" : "1309156",
-        "target" : "1309174",
+        "id" : "4040623",
+        "source" : "4040485",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMauraGrimaldi (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arMauraGrimaldi (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309294,
+        "SUID" : 4040623,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309534",
-        "source" : "1309144",
-        "target" : "1309003",
+        "id" : "4040863",
+        "source" : "4040473",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309534,
+        "SUID" : 4040863,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309532",
-        "source" : "1309144",
-        "target" : "1309186",
+        "id" : "4040861",
+        "source" : "4040473",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309532,
+        "SUID" : 4040861,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309530",
-        "source" : "1309144",
-        "target" : "1309177",
+        "id" : "4040859",
+        "source" : "4040473",
+        "target" : "4040506",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arFransKrajcberg",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arFransKrajcberg",
         "interaction" : "-",
-        "SUID" : 1309530,
+        "SUID" : 4040859,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309528",
-        "source" : "1309144",
-        "target" : "1309165",
+        "id" : "4040857",
+        "source" : "4040473",
+        "target" : "4040494",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arWalmorCorrea",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arWalmorCorrea",
         "interaction" : "-",
-        "SUID" : 1309528,
+        "SUID" : 4040857,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309514",
-        "source" : "1309144",
-        "target" : "1309003",
+        "id" : "4040843",
+        "source" : "4040473",
+        "target" : "4040332",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arMarinaAbramovic",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arMarinaAbramovic",
         "interaction" : "-",
-        "SUID" : 1309514,
+        "SUID" : 4040843,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309512",
-        "source" : "1309144",
-        "target" : "1309186",
+        "id" : "4040841",
+        "source" : "4040473",
+        "target" : "4040515",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arFanHo",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arFanHo",
         "interaction" : "-",
-        "SUID" : 1309512,
+        "SUID" : 4040841,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309510",
-        "source" : "1309144",
-        "target" : "1309177",
+        "id" : "4040839",
+        "source" : "4040473",
+        "target" : "4040506",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arFransKrajcberg",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arFransKrajcberg",
         "interaction" : "-",
-        "SUID" : 1309510,
+        "SUID" : 4040839,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309508",
-        "source" : "1309144",
-        "target" : "1309165",
+        "id" : "4040837",
+        "source" : "4040473",
+        "target" : "4040494",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arElidaTessler (-) arWalmorCorrea",
         "shared_interaction" : "-",
         "name" : "arElidaTessler (-) arWalmorCorrea",
         "interaction" : "-",
-        "SUID" : 1309508,
+        "SUID" : 4040837,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309504",
-        "source" : "1309135",
-        "target" : "1309138",
+        "id" : "4040833",
+        "source" : "4040464",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arSantiagoGobernori (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arSantiagoGobernori (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309504,
+        "SUID" : 4040833,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309502",
-        "source" : "1309132",
-        "target" : "1309138",
+        "id" : "4040831",
+        "source" : "4040461",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseMuscari (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arJoseMuscari (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309502,
+        "SUID" : 4040831,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309500",
-        "source" : "1309132",
-        "target" : "1309135",
+        "id" : "4040829",
+        "source" : "4040461",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoseMuscari (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arJoseMuscari (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309500,
+        "SUID" : 4040829,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309498",
-        "source" : "1309129",
-        "target" : "1309138",
+        "id" : "4040827",
+        "source" : "4040458",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoTarrio (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arGustavoTarrio (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309498,
+        "SUID" : 4040827,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309496",
-        "source" : "1309129",
-        "target" : "1309135",
+        "id" : "4040825",
+        "source" : "4040458",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoTarrio (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arGustavoTarrio (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309496,
+        "SUID" : 4040825,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309494",
-        "source" : "1309129",
-        "target" : "1309132",
+        "id" : "4040823",
+        "source" : "4040458",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arGustavoTarrio (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arGustavoTarrio (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309494,
+        "SUID" : 4040823,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309492",
-        "source" : "1309126",
-        "target" : "1309138",
+        "id" : "4040821",
+        "source" : "4040455",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaChaud (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arMarianaChaud (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309492,
+        "SUID" : 4040821,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309490",
-        "source" : "1309126",
-        "target" : "1309135",
+        "id" : "4040819",
+        "source" : "4040455",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaChaud (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arMarianaChaud (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309490,
+        "SUID" : 4040819,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309488",
-        "source" : "1309126",
-        "target" : "1309132",
+        "id" : "4040817",
+        "source" : "4040455",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaChaud (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arMarianaChaud (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309488,
+        "SUID" : 4040817,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309486",
-        "source" : "1309126",
-        "target" : "1309129",
+        "id" : "4040815",
+        "source" : "4040455",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaChaud (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arMarianaChaud (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309486,
+        "SUID" : 4040815,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309484",
-        "source" : "1309123",
-        "target" : "1309138",
+        "id" : "4040813",
+        "source" : "4040452",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdgardoCozarinski (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arEdgardoCozarinski (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309484,
+        "SUID" : 4040813,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309482",
-        "source" : "1309123",
-        "target" : "1309135",
+        "id" : "4040811",
+        "source" : "4040452",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdgardoCozarinski (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arEdgardoCozarinski (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309482,
+        "SUID" : 4040811,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309480",
-        "source" : "1309123",
-        "target" : "1309132",
+        "id" : "4040809",
+        "source" : "4040452",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdgardoCozarinski (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arEdgardoCozarinski (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309480,
+        "SUID" : 4040809,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309478",
-        "source" : "1309123",
-        "target" : "1309129",
+        "id" : "4040807",
+        "source" : "4040452",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdgardoCozarinski (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arEdgardoCozarinski (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309478,
+        "SUID" : 4040807,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309476",
-        "source" : "1309123",
-        "target" : "1309126",
+        "id" : "4040805",
+        "source" : "4040452",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEdgardoCozarinski (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arEdgardoCozarinski (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309476,
+        "SUID" : 4040805,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309448",
-        "source" : "1309120",
-        "target" : "1309138",
+        "id" : "4040777",
+        "source" : "4040449",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309448,
+        "SUID" : 4040777,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309446",
-        "source" : "1309120",
-        "target" : "1309135",
+        "id" : "4040775",
+        "source" : "4040449",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309446,
+        "SUID" : 4040775,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309444",
-        "source" : "1309120",
-        "target" : "1309132",
+        "id" : "4040773",
+        "source" : "4040449",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309444,
+        "SUID" : 4040773,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309442",
-        "source" : "1309120",
-        "target" : "1309129",
+        "id" : "4040771",
+        "source" : "4040449",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309442,
+        "SUID" : 4040771,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309440",
-        "source" : "1309120",
-        "target" : "1309126",
+        "id" : "4040769",
+        "source" : "4040449",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309440,
+        "SUID" : 4040769,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309438",
-        "source" : "1309120",
-        "target" : "1309123",
+        "id" : "4040767",
+        "source" : "4040449",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309438,
+        "SUID" : 4040767,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309436",
-        "source" : "1309120",
-        "target" : "1309108",
+        "id" : "4040765",
+        "source" : "4040449",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309436,
+        "SUID" : 4040765,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309434",
-        "source" : "1309120",
-        "target" : "1309111",
+        "id" : "4040763",
+        "source" : "4040449",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arDanielVeronese (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arDanielVeronese (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309434,
+        "SUID" : 4040763,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309432",
-        "source" : "1309117",
-        "target" : "1309138",
+        "id" : "4040761",
+        "source" : "4040446",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309432,
+        "SUID" : 4040761,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309430",
-        "source" : "1309117",
-        "target" : "1309135",
+        "id" : "4040759",
+        "source" : "4040446",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309430,
+        "SUID" : 4040759,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309428",
-        "source" : "1309117",
-        "target" : "1309132",
+        "id" : "4040757",
+        "source" : "4040446",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309428,
+        "SUID" : 4040757,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309426",
-        "source" : "1309117",
-        "target" : "1309129",
+        "id" : "4040755",
+        "source" : "4040446",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309426,
+        "SUID" : 4040755,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309424",
-        "source" : "1309117",
-        "target" : "1309126",
+        "id" : "4040753",
+        "source" : "4040446",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309424,
+        "SUID" : 4040753,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309422",
-        "source" : "1309117",
-        "target" : "1309123",
+        "id" : "4040751",
+        "source" : "4040446",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309422,
+        "SUID" : 4040751,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309420",
-        "source" : "1309117",
-        "target" : "1309108",
+        "id" : "4040749",
+        "source" : "4040446",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309420,
+        "SUID" : 4040749,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309418",
-        "source" : "1309117",
-        "target" : "1309111",
+        "id" : "4040747",
+        "source" : "4040446",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309418,
+        "SUID" : 4040747,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309416",
-        "source" : "1309117",
-        "target" : "1309120",
+        "id" : "4040745",
+        "source" : "4040446",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaObersztern (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arMarianaObersztern (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309416,
+        "SUID" : 4040745,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309322",
-        "source" : "1309114",
-        "target" : "1309138",
+        "id" : "4040651",
+        "source" : "4040443",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309322,
+        "SUID" : 4040651,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309320",
-        "source" : "1309114",
-        "target" : "1309135",
+        "id" : "4040649",
+        "source" : "4040443",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309320,
+        "SUID" : 4040649,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309318",
-        "source" : "1309114",
-        "target" : "1309132",
+        "id" : "4040647",
+        "source" : "4040443",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309318,
+        "SUID" : 4040647,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309316",
-        "source" : "1309114",
-        "target" : "1309129",
+        "id" : "4040645",
+        "source" : "4040443",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309316,
+        "SUID" : 4040645,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309314",
-        "source" : "1309114",
-        "target" : "1309126",
+        "id" : "4040643",
+        "source" : "4040443",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309314,
+        "SUID" : 4040643,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309312",
-        "source" : "1309114",
-        "target" : "1309123",
+        "id" : "4040641",
+        "source" : "4040443",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309312,
+        "SUID" : 4040641,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309310",
-        "source" : "1309114",
-        "target" : "1309108",
+        "id" : "4040639",
+        "source" : "4040443",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309310,
+        "SUID" : 4040639,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309308",
-        "source" : "1309114",
-        "target" : "1309111",
+        "id" : "4040637",
+        "source" : "4040443",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309308,
+        "SUID" : 4040637,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309306",
-        "source" : "1309114",
-        "target" : "1309120",
+        "id" : "4040635",
+        "source" : "4040443",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309306,
+        "SUID" : 4040635,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309304",
-        "source" : "1309114",
-        "target" : "1309117",
+        "id" : "4040633",
+        "source" : "4040443",
+        "target" : "4040446",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arMarianaObersztern",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arMarianaObersztern",
         "interaction" : "-",
-        "SUID" : 1309304,
+        "SUID" : 4040633,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309302",
-        "source" : "1309114",
-        "target" : "1309096",
+        "id" : "4040631",
+        "source" : "4040443",
+        "target" : "4040425",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arStefanKaegi",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arStefanKaegi",
         "interaction" : "-",
-        "SUID" : 1309302,
+        "SUID" : 4040631,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309300",
-        "source" : "1309114",
-        "target" : "1309102",
+        "id" : "4040629",
+        "source" : "4040443",
+        "target" : "4040431",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arMarianoPensotti",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arMarianoPensotti",
         "interaction" : "-",
-        "SUID" : 1309300,
+        "SUID" : 4040629,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309298",
-        "source" : "1309114",
-        "target" : "1309099",
+        "id" : "4040627",
+        "source" : "4040443",
+        "target" : "4040428",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arBeatrizCatani",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arBeatrizCatani",
         "interaction" : "-",
-        "SUID" : 1309298,
+        "SUID" : 4040627,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309296",
-        "source" : "1309114",
-        "target" : "1309105",
+        "id" : "4040625",
+        "source" : "4040443",
+        "target" : "4040434",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAnaliaCouceyro (-) arLucianoSuardi",
         "shared_interaction" : "-",
         "name" : "arAnaliaCouceyro (-) arLucianoSuardi",
         "interaction" : "-",
-        "SUID" : 1309296,
+        "SUID" : 4040625,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309462",
-        "source" : "1309111",
-        "target" : "1309138",
+        "id" : "4040791",
+        "source" : "4040440",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309462,
+        "SUID" : 4040791,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309460",
-        "source" : "1309111",
-        "target" : "1309135",
+        "id" : "4040789",
+        "source" : "4040440",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309460,
+        "SUID" : 4040789,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309458",
-        "source" : "1309111",
-        "target" : "1309132",
+        "id" : "4040787",
+        "source" : "4040440",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309458,
+        "SUID" : 4040787,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309456",
-        "source" : "1309111",
-        "target" : "1309129",
+        "id" : "4040785",
+        "source" : "4040440",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309456,
+        "SUID" : 4040785,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309454",
-        "source" : "1309111",
-        "target" : "1309126",
+        "id" : "4040783",
+        "source" : "4040440",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309454,
+        "SUID" : 4040783,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309452",
-        "source" : "1309111",
-        "target" : "1309123",
+        "id" : "4040781",
+        "source" : "4040440",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309452,
+        "SUID" : 4040781,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309450",
-        "source" : "1309111",
-        "target" : "1309108",
+        "id" : "4040779",
+        "source" : "4040440",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJavierDaulte (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arJavierDaulte (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309450,
+        "SUID" : 4040779,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309474",
-        "source" : "1309108",
-        "target" : "1309138",
+        "id" : "4040803",
+        "source" : "4040437",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309474,
+        "SUID" : 4040803,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309472",
-        "source" : "1309108",
-        "target" : "1309135",
+        "id" : "4040801",
+        "source" : "4040437",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309472,
+        "SUID" : 4040801,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309470",
-        "source" : "1309108",
-        "target" : "1309132",
+        "id" : "4040799",
+        "source" : "4040437",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309470,
+        "SUID" : 4040799,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309468",
-        "source" : "1309108",
-        "target" : "1309129",
+        "id" : "4040797",
+        "source" : "4040437",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309468,
+        "SUID" : 4040797,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309466",
-        "source" : "1309108",
-        "target" : "1309126",
+        "id" : "4040795",
+        "source" : "4040437",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309466,
+        "SUID" : 4040795,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309464",
-        "source" : "1309108",
-        "target" : "1309123",
+        "id" : "4040793",
+        "source" : "4040437",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arCiroZorzoli (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arCiroZorzoli (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309464,
+        "SUID" : 4040793,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309348",
-        "source" : "1309105",
-        "target" : "1309138",
+        "id" : "4040677",
+        "source" : "4040434",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309348,
+        "SUID" : 4040677,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309346",
-        "source" : "1309105",
-        "target" : "1309135",
+        "id" : "4040675",
+        "source" : "4040434",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309346,
+        "SUID" : 4040675,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309344",
-        "source" : "1309105",
-        "target" : "1309132",
+        "id" : "4040673",
+        "source" : "4040434",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309344,
+        "SUID" : 4040673,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309342",
-        "source" : "1309105",
-        "target" : "1309129",
+        "id" : "4040671",
+        "source" : "4040434",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309342,
+        "SUID" : 4040671,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309340",
-        "source" : "1309105",
-        "target" : "1309126",
+        "id" : "4040669",
+        "source" : "4040434",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309340,
+        "SUID" : 4040669,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309338",
-        "source" : "1309105",
-        "target" : "1309123",
+        "id" : "4040667",
+        "source" : "4040434",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309338,
+        "SUID" : 4040667,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309336",
-        "source" : "1309105",
-        "target" : "1309108",
+        "id" : "4040665",
+        "source" : "4040434",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309336,
+        "SUID" : 4040665,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309334",
-        "source" : "1309105",
-        "target" : "1309111",
+        "id" : "4040663",
+        "source" : "4040434",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309334,
+        "SUID" : 4040663,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309332",
-        "source" : "1309105",
-        "target" : "1309120",
+        "id" : "4040661",
+        "source" : "4040434",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309332,
+        "SUID" : 4040661,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309330",
-        "source" : "1309105",
-        "target" : "1309117",
+        "id" : "4040659",
+        "source" : "4040434",
+        "target" : "4040446",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arMarianaObersztern",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arMarianaObersztern",
         "interaction" : "-",
-        "SUID" : 1309330,
+        "SUID" : 4040659,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309328",
-        "source" : "1309105",
-        "target" : "1309096",
+        "id" : "4040657",
+        "source" : "4040434",
+        "target" : "4040425",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arStefanKaegi",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arStefanKaegi",
         "interaction" : "-",
-        "SUID" : 1309328,
+        "SUID" : 4040657,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309326",
-        "source" : "1309105",
-        "target" : "1309102",
+        "id" : "4040655",
+        "source" : "4040434",
+        "target" : "4040431",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arMarianoPensotti",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arMarianoPensotti",
         "interaction" : "-",
-        "SUID" : 1309326,
+        "SUID" : 4040655,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309324",
-        "source" : "1309105",
-        "target" : "1309099",
+        "id" : "4040653",
+        "source" : "4040434",
+        "target" : "4040428",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLucianoSuardi (-) arBeatrizCatani",
         "shared_interaction" : "-",
         "name" : "arLucianoSuardi (-) arBeatrizCatani",
         "interaction" : "-",
-        "SUID" : 1309324,
+        "SUID" : 4040653,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309394",
-        "source" : "1309102",
-        "target" : "1309138",
+        "id" : "4040723",
+        "source" : "4040431",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309394,
+        "SUID" : 4040723,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309392",
-        "source" : "1309102",
-        "target" : "1309135",
+        "id" : "4040721",
+        "source" : "4040431",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309392,
+        "SUID" : 4040721,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309390",
-        "source" : "1309102",
-        "target" : "1309132",
+        "id" : "4040719",
+        "source" : "4040431",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309390,
+        "SUID" : 4040719,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309388",
-        "source" : "1309102",
-        "target" : "1309129",
+        "id" : "4040717",
+        "source" : "4040431",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309388,
+        "SUID" : 4040717,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309386",
-        "source" : "1309102",
-        "target" : "1309126",
+        "id" : "4040715",
+        "source" : "4040431",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309386,
+        "SUID" : 4040715,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309384",
-        "source" : "1309102",
-        "target" : "1309123",
+        "id" : "4040713",
+        "source" : "4040431",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309384,
+        "SUID" : 4040713,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309382",
-        "source" : "1309102",
-        "target" : "1309108",
+        "id" : "4040711",
+        "source" : "4040431",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309382,
+        "SUID" : 4040711,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309380",
-        "source" : "1309102",
-        "target" : "1309111",
+        "id" : "4040709",
+        "source" : "4040431",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309380,
+        "SUID" : 4040709,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309378",
-        "source" : "1309102",
-        "target" : "1309120",
+        "id" : "4040707",
+        "source" : "4040431",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309378,
+        "SUID" : 4040707,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309376",
-        "source" : "1309102",
-        "target" : "1309117",
+        "id" : "4040705",
+        "source" : "4040431",
+        "target" : "4040446",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arMarianaObersztern",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arMarianaObersztern",
         "interaction" : "-",
-        "SUID" : 1309376,
+        "SUID" : 4040705,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309374",
-        "source" : "1309102",
-        "target" : "1309096",
+        "id" : "4040703",
+        "source" : "4040431",
+        "target" : "4040425",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianoPensotti (-) arStefanKaegi",
         "shared_interaction" : "-",
         "name" : "arMarianoPensotti (-) arStefanKaegi",
         "interaction" : "-",
-        "SUID" : 1309374,
+        "SUID" : 4040703,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309372",
-        "source" : "1309099",
-        "target" : "1309138",
+        "id" : "4040701",
+        "source" : "4040428",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309372,
+        "SUID" : 4040701,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309370",
-        "source" : "1309099",
-        "target" : "1309135",
+        "id" : "4040699",
+        "source" : "4040428",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309370,
+        "SUID" : 4040699,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309368",
-        "source" : "1309099",
-        "target" : "1309132",
+        "id" : "4040697",
+        "source" : "4040428",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309368,
+        "SUID" : 4040697,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309366",
-        "source" : "1309099",
-        "target" : "1309129",
+        "id" : "4040695",
+        "source" : "4040428",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309366,
+        "SUID" : 4040695,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309364",
-        "source" : "1309099",
-        "target" : "1309126",
+        "id" : "4040693",
+        "source" : "4040428",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309364,
+        "SUID" : 4040693,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309362",
-        "source" : "1309099",
-        "target" : "1309123",
+        "id" : "4040691",
+        "source" : "4040428",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309362,
+        "SUID" : 4040691,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309360",
-        "source" : "1309099",
-        "target" : "1309108",
+        "id" : "4040689",
+        "source" : "4040428",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309360,
+        "SUID" : 4040689,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309358",
-        "source" : "1309099",
-        "target" : "1309111",
+        "id" : "4040687",
+        "source" : "4040428",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309358,
+        "SUID" : 4040687,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309356",
-        "source" : "1309099",
-        "target" : "1309120",
+        "id" : "4040685",
+        "source" : "4040428",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309356,
+        "SUID" : 4040685,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309354",
-        "source" : "1309099",
-        "target" : "1309117",
+        "id" : "4040683",
+        "source" : "4040428",
+        "target" : "4040446",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arMarianaObersztern",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arMarianaObersztern",
         "interaction" : "-",
-        "SUID" : 1309354,
+        "SUID" : 4040683,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309352",
-        "source" : "1309099",
-        "target" : "1309096",
+        "id" : "4040681",
+        "source" : "4040428",
+        "target" : "4040425",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arStefanKaegi",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arStefanKaegi",
         "interaction" : "-",
-        "SUID" : 1309352,
+        "SUID" : 4040681,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309350",
-        "source" : "1309099",
-        "target" : "1309102",
+        "id" : "4040679",
+        "source" : "4040428",
+        "target" : "4040431",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arBeatrizCatani (-) arMarianoPensotti",
         "shared_interaction" : "-",
         "name" : "arBeatrizCatani (-) arMarianoPensotti",
         "interaction" : "-",
-        "SUID" : 1309350,
+        "SUID" : 4040679,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309414",
-        "source" : "1309096",
-        "target" : "1309138",
+        "id" : "4040743",
+        "source" : "4040425",
+        "target" : "4040467",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arLolaArias",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arLolaArias",
         "interaction" : "-",
-        "SUID" : 1309414,
+        "SUID" : 4040743,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309412",
-        "source" : "1309096",
-        "target" : "1309135",
+        "id" : "4040741",
+        "source" : "4040425",
+        "target" : "4040464",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arSantiagoGobernori",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arSantiagoGobernori",
         "interaction" : "-",
-        "SUID" : 1309412,
+        "SUID" : 4040741,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309410",
-        "source" : "1309096",
-        "target" : "1309132",
+        "id" : "4040739",
+        "source" : "4040425",
+        "target" : "4040461",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arJoseMuscari",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arJoseMuscari",
         "interaction" : "-",
-        "SUID" : 1309410,
+        "SUID" : 4040739,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309408",
-        "source" : "1309096",
-        "target" : "1309129",
+        "id" : "4040737",
+        "source" : "4040425",
+        "target" : "4040458",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arGustavoTarrio",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arGustavoTarrio",
         "interaction" : "-",
-        "SUID" : 1309408,
+        "SUID" : 4040737,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309406",
-        "source" : "1309096",
-        "target" : "1309126",
+        "id" : "4040735",
+        "source" : "4040425",
+        "target" : "4040455",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arMarianaChaud",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arMarianaChaud",
         "interaction" : "-",
-        "SUID" : 1309406,
+        "SUID" : 4040735,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309404",
-        "source" : "1309096",
-        "target" : "1309123",
+        "id" : "4040733",
+        "source" : "4040425",
+        "target" : "4040452",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arEdgardoCozarinski",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arEdgardoCozarinski",
         "interaction" : "-",
-        "SUID" : 1309404,
+        "SUID" : 4040733,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309402",
-        "source" : "1309096",
-        "target" : "1309108",
+        "id" : "4040731",
+        "source" : "4040425",
+        "target" : "4040437",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arCiroZorzoli",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arCiroZorzoli",
         "interaction" : "-",
-        "SUID" : 1309402,
+        "SUID" : 4040731,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309400",
-        "source" : "1309096",
-        "target" : "1309111",
+        "id" : "4040729",
+        "source" : "4040425",
+        "target" : "4040440",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arJavierDaulte",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arJavierDaulte",
         "interaction" : "-",
-        "SUID" : 1309400,
+        "SUID" : 4040729,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309398",
-        "source" : "1309096",
-        "target" : "1309120",
+        "id" : "4040727",
+        "source" : "4040425",
+        "target" : "4040449",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arDanielVeronese",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arDanielVeronese",
         "interaction" : "-",
-        "SUID" : 1309398,
+        "SUID" : 4040727,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309396",
-        "source" : "1309096",
-        "target" : "1309117",
+        "id" : "4040725",
+        "source" : "4040425",
+        "target" : "4040446",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arStefanKaegi (-) arMarianaObersztern",
         "shared_interaction" : "-",
         "name" : "arStefanKaegi (-) arMarianaObersztern",
         "interaction" : "-",
-        "SUID" : 1309396,
+        "SUID" : 4040725,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309620",
-        "source" : "1309087",
-        "target" : "1309090",
+        "id" : "4040949",
+        "source" : "4040416",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPedroClarke (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arPedroClarke (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309620,
+        "SUID" : 4040949,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309618",
-        "source" : "1309084",
-        "target" : "1309090",
+        "id" : "4040947",
+        "source" : "4040413",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPauloMoreira (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arPauloMoreira (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309618,
+        "SUID" : 4040947,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309616",
-        "source" : "1309084",
-        "target" : "1309087",
+        "id" : "4040945",
+        "source" : "4040413",
+        "target" : "4040416",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arPauloMoreira (-) arPedroClarke",
         "shared_interaction" : "-",
         "name" : "arPauloMoreira (-) arPedroClarke",
         "interaction" : "-",
-        "SUID" : 1309616,
+        "SUID" : 4040945,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309614",
-        "source" : "1309081",
-        "target" : "1309090",
+        "id" : "4040943",
+        "source" : "4040410",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelMarcelino (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arMiguelMarcelino (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309614,
+        "SUID" : 4040943,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309612",
-        "source" : "1309081",
-        "target" : "1309087",
+        "id" : "4040941",
+        "source" : "4040410",
+        "target" : "4040416",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelMarcelino (-) arPedroClarke",
         "shared_interaction" : "-",
         "name" : "arMiguelMarcelino (-) arPedroClarke",
         "interaction" : "-",
-        "SUID" : 1309612,
+        "SUID" : 4040941,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309610",
-        "source" : "1309081",
-        "target" : "1309084",
+        "id" : "4040939",
+        "source" : "4040410",
+        "target" : "4040413",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelMarcelino (-) arPauloMoreira",
         "shared_interaction" : "-",
         "name" : "arMiguelMarcelino (-) arPauloMoreira",
         "interaction" : "-",
-        "SUID" : 1309610,
+        "SUID" : 4040939,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309608",
-        "source" : "1309078",
-        "target" : "1309090",
+        "id" : "4040937",
+        "source" : "4040407",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelEufrasia (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arMiguelEufrasia (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309608,
+        "SUID" : 4040937,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309606",
-        "source" : "1309078",
-        "target" : "1309087",
+        "id" : "4040935",
+        "source" : "4040407",
+        "target" : "4040416",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelEufrasia (-) arPedroClarke",
         "shared_interaction" : "-",
         "name" : "arMiguelEufrasia (-) arPedroClarke",
         "interaction" : "-",
-        "SUID" : 1309606,
+        "SUID" : 4040935,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309604",
-        "source" : "1309078",
-        "target" : "1309084",
+        "id" : "4040933",
+        "source" : "4040407",
+        "target" : "4040413",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelEufrasia (-) arPauloMoreira",
         "shared_interaction" : "-",
         "name" : "arMiguelEufrasia (-) arPauloMoreira",
         "interaction" : "-",
-        "SUID" : 1309604,
+        "SUID" : 4040933,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309602",
-        "source" : "1309078",
-        "target" : "1309081",
+        "id" : "4040931",
+        "source" : "4040407",
+        "target" : "4040410",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMiguelEufrasia (-) arMiguelMarcelino",
         "shared_interaction" : "-",
         "name" : "arMiguelEufrasia (-) arMiguelMarcelino",
         "interaction" : "-",
-        "SUID" : 1309602,
+        "SUID" : 4040931,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309600",
-        "source" : "1309075",
-        "target" : "1309090",
+        "id" : "4040929",
+        "source" : "4040404",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaPestana (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arMarianaPestana (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309600,
+        "SUID" : 4040929,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309598",
-        "source" : "1309075",
-        "target" : "1309087",
+        "id" : "4040927",
+        "source" : "4040404",
+        "target" : "4040416",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaPestana (-) arPedroClarke",
         "shared_interaction" : "-",
         "name" : "arMarianaPestana (-) arPedroClarke",
         "interaction" : "-",
-        "SUID" : 1309598,
+        "SUID" : 4040927,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309596",
-        "source" : "1309075",
-        "target" : "1309084",
+        "id" : "4040925",
+        "source" : "4040404",
+        "target" : "4040413",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaPestana (-) arPauloMoreira",
         "shared_interaction" : "-",
         "name" : "arMarianaPestana (-) arPauloMoreira",
         "interaction" : "-",
-        "SUID" : 1309596,
+        "SUID" : 4040925,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309594",
-        "source" : "1309075",
-        "target" : "1309081",
+        "id" : "4040923",
+        "source" : "4040404",
+        "target" : "4040410",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaPestana (-) arMiguelMarcelino",
         "shared_interaction" : "-",
         "name" : "arMarianaPestana (-) arMiguelMarcelino",
         "interaction" : "-",
-        "SUID" : 1309594,
+        "SUID" : 4040923,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309592",
-        "source" : "1309075",
-        "target" : "1309078",
+        "id" : "4040921",
+        "source" : "4040404",
+        "target" : "4040407",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarianaPestana (-) arMiguelEufrasia",
         "shared_interaction" : "-",
         "name" : "arMarianaPestana (-) arMiguelEufrasia",
         "interaction" : "-",
-        "SUID" : 1309592,
+        "SUID" : 4040921,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309590",
-        "source" : "1309072",
-        "target" : "1309090",
+        "id" : "4040919",
+        "source" : "4040401",
+        "target" : "4040419",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arSusanaVentura",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arSusanaVentura",
         "interaction" : "-",
-        "SUID" : 1309590,
+        "SUID" : 4040919,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309588",
-        "source" : "1309072",
-        "target" : "1309087",
+        "id" : "4040917",
+        "source" : "4040401",
+        "target" : "4040416",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arPedroClarke",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arPedroClarke",
         "interaction" : "-",
-        "SUID" : 1309588,
+        "SUID" : 4040917,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309586",
-        "source" : "1309072",
-        "target" : "1309084",
+        "id" : "4040915",
+        "source" : "4040401",
+        "target" : "4040413",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arPauloMoreira",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arPauloMoreira",
         "interaction" : "-",
-        "SUID" : 1309586,
+        "SUID" : 4040915,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309584",
-        "source" : "1309072",
-        "target" : "1309081",
+        "id" : "4040913",
+        "source" : "4040401",
+        "target" : "4040410",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arMiguelMarcelino",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arMiguelMarcelino",
         "interaction" : "-",
-        "SUID" : 1309584,
+        "SUID" : 4040913,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309582",
-        "source" : "1309072",
-        "target" : "1309078",
+        "id" : "4040911",
+        "source" : "4040401",
+        "target" : "4040407",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arMiguelEufrasia",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arMiguelEufrasia",
         "interaction" : "-",
-        "SUID" : 1309582,
+        "SUID" : 4040911,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309580",
-        "source" : "1309072",
-        "target" : "1309075",
+        "id" : "4040909",
+        "source" : "4040401",
+        "target" : "4040404",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arAndreTavares (-) arMarianaPestana",
         "shared_interaction" : "-",
         "name" : "arAndreTavares (-) arMarianaPestana",
         "interaction" : "-",
-        "SUID" : 1309580,
+        "SUID" : 4040909,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309252",
-        "source" : "1309069",
-        "target" : "1309030",
+        "id" : "4040581",
+        "source" : "4040398",
+        "target" : "4040359",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEmanuelMonteiro (-) arVitorButkus",
         "shared_interaction" : "-",
         "name" : "arEmanuelMonteiro (-) arVitorButkus",
         "interaction" : "-",
-        "SUID" : 1309252,
+        "SUID" : 4040581,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309250",
-        "source" : "1309060",
-        "target" : "1309030",
+        "id" : "4040579",
+        "source" : "4040389",
+        "target" : "4040359",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeticiaBertagna (-) arVitorButkus",
         "shared_interaction" : "-",
         "name" : "arLeticiaBertagna (-) arVitorButkus",
         "interaction" : "-",
-        "SUID" : 1309250,
+        "SUID" : 4040579,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309248",
-        "source" : "1309060",
-        "target" : "1309069",
+        "id" : "4040577",
+        "source" : "4040389",
+        "target" : "4040398",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arLeticiaBertagna (-) arEmanuelMonteiro",
         "shared_interaction" : "-",
         "name" : "arLeticiaBertagna (-) arEmanuelMonteiro",
         "interaction" : "-",
-        "SUID" : 1309248,
+        "SUID" : 4040577,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309292",
-        "source" : "1309057",
-        "target" : "1309174",
+        "id" : "4040621",
+        "source" : "4040386",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarciusAndrade (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arMarciusAndrade (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309292,
+        "SUID" : 4040621,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309290",
-        "source" : "1309057",
-        "target" : "1309156",
+        "id" : "4040619",
+        "source" : "4040386",
+        "target" : "4040485",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarciusAndrade (-) arMauraGrimaldi",
         "shared_interaction" : "-",
         "name" : "arMarciusAndrade (-) arMauraGrimaldi",
         "interaction" : "-",
-        "SUID" : 1309290,
+        "SUID" : 4040619,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309288",
-        "source" : "1309054",
-        "target" : "1309174",
+        "id" : "4040617",
+        "source" : "4040383",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoiceRossato (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arJoiceRossato (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309288,
+        "SUID" : 4040617,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309286",
-        "source" : "1309054",
-        "target" : "1309156",
+        "id" : "4040615",
+        "source" : "4040383",
+        "target" : "4040485",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoiceRossato (-) arMauraGrimaldi",
         "shared_interaction" : "-",
         "name" : "arJoiceRossato (-) arMauraGrimaldi",
         "interaction" : "-",
-        "SUID" : 1309286,
+        "SUID" : 4040615,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309284",
-        "source" : "1309054",
-        "target" : "1309057",
+        "id" : "4040613",
+        "source" : "4040383",
+        "target" : "4040386",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arJoiceRossato (-) arMarciusAndrade",
         "shared_interaction" : "-",
         "name" : "arJoiceRossato (-) arMarciusAndrade",
         "interaction" : "-",
-        "SUID" : 1309284,
+        "SUID" : 4040613,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309282",
-        "source" : "1309051",
-        "target" : "1309174",
+        "id" : "4040611",
+        "source" : "4040380",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRaisaTorterola (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arRaisaTorterola (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309282,
+        "SUID" : 4040611,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309280",
-        "source" : "1309051",
-        "target" : "1309156",
+        "id" : "4040609",
+        "source" : "4040380",
+        "target" : "4040485",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRaisaTorterola (-) arMauraGrimaldi",
         "shared_interaction" : "-",
         "name" : "arRaisaTorterola (-) arMauraGrimaldi",
         "interaction" : "-",
-        "SUID" : 1309280,
+        "SUID" : 4040609,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309278",
-        "source" : "1309051",
-        "target" : "1309057",
+        "id" : "4040607",
+        "source" : "4040380",
+        "target" : "4040386",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRaisaTorterola (-) arMarciusAndrade",
         "shared_interaction" : "-",
         "name" : "arRaisaTorterola (-) arMarciusAndrade",
         "interaction" : "-",
-        "SUID" : 1309278,
+        "SUID" : 4040607,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309276",
-        "source" : "1309051",
-        "target" : "1309054",
+        "id" : "4040605",
+        "source" : "4040380",
+        "target" : "4040383",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arRaisaTorterola (-) arJoiceRossato",
         "shared_interaction" : "-",
         "name" : "arRaisaTorterola (-) arJoiceRossato",
         "interaction" : "-",
-        "SUID" : 1309276,
+        "SUID" : 4040605,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309274",
-        "source" : "1309048",
-        "target" : "1309174",
+        "id" : "4040603",
+        "source" : "4040377",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEduardoMontelli (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arEduardoMontelli (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309274,
+        "SUID" : 4040603,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309272",
-        "source" : "1309048",
-        "target" : "1309156",
+        "id" : "4040601",
+        "source" : "4040377",
+        "target" : "4040485",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEduardoMontelli (-) arMauraGrimaldi",
         "shared_interaction" : "-",
         "name" : "arEduardoMontelli (-) arMauraGrimaldi",
         "interaction" : "-",
-        "SUID" : 1309272,
+        "SUID" : 4040601,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309270",
-        "source" : "1309048",
-        "target" : "1309057",
+        "id" : "4040599",
+        "source" : "4040377",
+        "target" : "4040386",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEduardoMontelli (-) arMarciusAndrade",
         "shared_interaction" : "-",
         "name" : "arEduardoMontelli (-) arMarciusAndrade",
         "interaction" : "-",
-        "SUID" : 1309270,
+        "SUID" : 4040599,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309268",
-        "source" : "1309048",
-        "target" : "1309054",
+        "id" : "4040597",
+        "source" : "4040377",
+        "target" : "4040383",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEduardoMontelli (-) arJoiceRossato",
         "shared_interaction" : "-",
         "name" : "arEduardoMontelli (-) arJoiceRossato",
         "interaction" : "-",
-        "SUID" : 1309268,
+        "SUID" : 4040597,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309266",
-        "source" : "1309048",
-        "target" : "1309051",
+        "id" : "4040595",
+        "source" : "4040377",
+        "target" : "4040380",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arEduardoMontelli (-) arRaisaTorterola",
         "shared_interaction" : "-",
         "name" : "arEduardoMontelli (-) arRaisaTorterola",
         "interaction" : "-",
-        "SUID" : 1309266,
+        "SUID" : 4040595,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309246",
-        "source" : "1309042",
-        "target" : "1309030",
+        "id" : "4040575",
+        "source" : "4040371",
+        "target" : "4040359",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIsmaelMonticelli (-) arVitorButkus",
         "shared_interaction" : "-",
         "name" : "arIsmaelMonticelli (-) arVitorButkus",
         "interaction" : "-",
-        "SUID" : 1309246,
+        "SUID" : 4040575,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309244",
-        "source" : "1309042",
-        "target" : "1309069",
+        "id" : "4040573",
+        "source" : "4040371",
+        "target" : "4040398",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIsmaelMonticelli (-) arEmanuelMonteiro",
         "shared_interaction" : "-",
         "name" : "arIsmaelMonticelli (-) arEmanuelMonteiro",
         "interaction" : "-",
-        "SUID" : 1309244,
+        "SUID" : 4040573,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309242",
-        "source" : "1309042",
-        "target" : "1309060",
+        "id" : "4040571",
+        "source" : "4040371",
+        "target" : "4040389",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arIsmaelMonticelli (-) arLeticiaBertagna",
         "shared_interaction" : "-",
         "name" : "arIsmaelMonticelli (-) arLeticiaBertagna",
         "interaction" : "-",
-        "SUID" : 1309242,
+        "SUID" : 4040571,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309264",
-        "source" : "1309039",
-        "target" : "1309174",
+        "id" : "4040593",
+        "source" : "4040368",
+        "target" : "4040503",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arTeresaSiewerdt",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arTeresaSiewerdt",
         "interaction" : "-",
-        "SUID" : 1309264,
+        "SUID" : 4040593,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309262",
-        "source" : "1309039",
-        "target" : "1309156",
+        "id" : "4040591",
+        "source" : "4040368",
+        "target" : "4040485",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arMauraGrimaldi",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arMauraGrimaldi",
         "interaction" : "-",
-        "SUID" : 1309262,
+        "SUID" : 4040591,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309260",
-        "source" : "1309039",
-        "target" : "1309057",
+        "id" : "4040589",
+        "source" : "4040368",
+        "target" : "4040386",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arMarciusAndrade",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arMarciusAndrade",
         "interaction" : "-",
-        "SUID" : 1309260,
+        "SUID" : 4040589,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309258",
-        "source" : "1309039",
-        "target" : "1309054",
+        "id" : "4040587",
+        "source" : "4040368",
+        "target" : "4040383",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arJoiceRossato",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arJoiceRossato",
         "interaction" : "-",
-        "SUID" : 1309258,
+        "SUID" : 4040587,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309256",
-        "source" : "1309039",
-        "target" : "1309051",
+        "id" : "4040585",
+        "source" : "4040368",
+        "target" : "4040380",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arRaisaTorterola",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arRaisaTorterola",
         "interaction" : "-",
-        "SUID" : 1309256,
+        "SUID" : 4040585,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309254",
-        "source" : "1309039",
-        "target" : "1309048",
+        "id" : "4040583",
+        "source" : "4040368",
+        "target" : "4040377",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arWilliamKentridge (-) arEduardoMontelli",
         "shared_interaction" : "-",
         "name" : "arWilliamKentridge (-) arEduardoMontelli",
         "interaction" : "-",
-        "SUID" : 1309254,
+        "SUID" : 4040583,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309240",
-        "source" : "1309036",
-        "target" : "1309030",
+        "id" : "4040569",
+        "source" : "4040365",
+        "target" : "4040359",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarcosFioravante (-) arVitorButkus",
         "shared_interaction" : "-",
         "name" : "arMarcosFioravante (-) arVitorButkus",
         "interaction" : "-",
-        "SUID" : 1309240,
+        "SUID" : 4040569,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309238",
-        "source" : "1309036",
-        "target" : "1309069",
+        "id" : "4040567",
+        "source" : "4040365",
+        "target" : "4040398",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarcosFioravante (-) arEmanuelMonteiro",
         "shared_interaction" : "-",
         "name" : "arMarcosFioravante (-) arEmanuelMonteiro",
         "interaction" : "-",
-        "SUID" : 1309238,
+        "SUID" : 4040567,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309236",
-        "source" : "1309036",
-        "target" : "1309060",
+        "id" : "4040565",
+        "source" : "4040365",
+        "target" : "4040389",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarcosFioravante (-) arLeticiaBertagna",
         "shared_interaction" : "-",
         "name" : "arMarcosFioravante (-) arLeticiaBertagna",
         "interaction" : "-",
-        "SUID" : 1309236,
+        "SUID" : 4040565,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309234",
-        "source" : "1309036",
-        "target" : "1309042",
+        "id" : "4040563",
+        "source" : "4040365",
+        "target" : "4040371",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMarcosFioravante (-) arIsmaelMonticelli",
         "shared_interaction" : "-",
         "name" : "arMarcosFioravante (-) arIsmaelMonticelli",
         "interaction" : "-",
-        "SUID" : 1309234,
+        "SUID" : 4040563,
         "selected" : false
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1309506",
-        "source" : "1309033",
-        "target" : "1309141",
+        "id" : "4040835",
+        "source" : "4040362",
+        "target" : "4040470",
         "EdgeBetweenness" : 2.0,
         "shared_name" : "arMayraRedin (-) arManoelLima",
         "shared_interaction" : "-",
         "name" : "arMayraRedin (-) arManoelLima",
         "interaction" : "-",
-        "SUID" : 1309506,
+        "SUID" : 4040835,
         "selected" : false
       },
       "selected" : false

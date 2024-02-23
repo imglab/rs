@@ -1,36 +1,19 @@
-<!-- première façon d'ajouter le réseau -->
+<!-- deuxième façon d'ajouter le réseau -->
 <script>
 	import { onMount } from 'svelte';
 	import cytoscape from 'cytoscape';
-	// import { networks }  from '$lib/performatus/networks'
-	// import { styles }  from '$lib/performatus/styles'
+	import { networks }  from '$lib/performatus/networks'
+	import { styles }  from '$lib/performatus/styles'
 
-	export let item;
+	console.log('networks', networks)
+	console.log('style', styles)
 
-	// console.log('networks', networks)
-	// console.log('style', styles)
-	console.log('item', item)
-
-	// const network = [
-    // { data: { id: 'a' } },
-    // { data: { id: 'b' } },
-    // {
-    //   data: {
-    //     id: 'ab',
-    //     source: 'a',
-    //     target: 'b'
-    //   }
-    // }]
-onMount(() => {
-
-	// fetch('./test.json')
-	// 	.then(res => res.json())
-	// 	.then(data => console.log(data))
+	onMount(() => {
 		
 	var cy = cytoscape({
 			container: document.getElementById('cy'),
-			elements: item.networks["rsArtistTermAuthorByPublicationrePerformatus.xml"].elements,
-			style: item.styles[0].style,
+			elements: networks["rsArtistTermAuthorByPublicationrePerformatus.xml"].elements,
+			style: styles[0].style,
 			layout: { name: 'preset', padding: 10 },
 			boxSelectionEnabled: !0,
         ready: function() {
@@ -41,7 +24,6 @@ onMount(() => {
                     null === o && (o = style), cy.style().fromJson(o.style).update()
                 
         }
-			 // container to render in
 		});
 });
 
@@ -68,7 +50,7 @@ onMount(() => {
 </ul>
 
 <h2>Artistas-Tema - eRevista Performatus</h2>
-<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 23/02/2024</p>
 
 <div id="cy"/>
 

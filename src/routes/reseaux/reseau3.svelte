@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Tema - Arte ConTexto</h2>
-<p>Rede unimodal dos 69 artistas-tema das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 69 artistas-tema das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Última atualização: 23/02/2024</p>
 
 <div id="cy"/>
 

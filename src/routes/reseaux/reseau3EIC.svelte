@@ -52,7 +52,7 @@
 </ul>
 
 <h2>Artistas-Tema - Arte ConTexto - EIC</h2>
-<p>Rede unimodal dos 69 artistas-tema das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 20/03/2023</p>
+<p>Rede unimodal dos 69 artistas-tema das críticas publicadas pela <a href="https://artcontexto.com.br/">Arte ConTexto</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 23/02/2024</p>
 
 <div id="cy"/>
 
