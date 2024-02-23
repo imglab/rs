@@ -6,21 +6,21 @@ export let styles = [ {
   "style" : [ {
     "selector" : "node",
     "css" : {
-      "text-opacity" : 1.0,
-      "border-width" : 1.0,
-      "font-family" : "SansSerif",
-      "font-weight" : "normal",
+      "width" : 35.0,
+      "shape" : "ellipse",
       "border-color" : "rgb(204,204,204)",
       "background-color" : "rgb(137,208,245)",
-      "shape" : "ellipse",
-      "color" : "rgb(0,0,0)",
+      "font-size" : 8,
       "height" : 35.0,
-      "width" : 35.0,
-      "background-opacity" : 1.0,
-      "border-opacity" : 1.0,
+      "font-family" : "SansSerif",
+      "font-weight" : "normal",
+      "color" : "rgb(0,0,0)",
+      "border-width" : 1.0,
       "text-valign" : "center",
       "text-halign" : "center",
-      "font-size" : 8,
+      "background-opacity" : 1.0,
+      "border-opacity" : 1.0,
+      "text-opacity" : 1.0,
       "content" : "data(name)"
     }
   }, {
@@ -41,19 +41,19 @@ export let styles = [ {
   }, {
     "selector" : "edge",
     "css" : {
-      "color" : "rgb(0,0,0)",
       "target-arrow-color" : "rgb(0,0,0)",
-      "font-size" : 2,
-      "source-arrow-color" : "rgb(0,0,0)",
+      "line-color" : "rgb(132,132,132)",
       "target-arrow-shape" : "none",
-      "width" : 0.75,
-      "opacity" : 0.5882352941176471,
+      "color" : "rgb(0,0,0)",
       "text-opacity" : 1.0,
+      "line-style" : "solid",
+      "font-size" : 2,
+      "opacity" : 0.5882352941176471,
+      "width" : 0.75,
+      "source-arrow-color" : "rgb(0,0,0)",
       "font-family" : "Dialog",
       "font-weight" : "normal",
-      "line-color" : "rgb(132,132,132)",
       "source-arrow-shape" : "none",
-      "line-style" : "solid",
       "content" : "data(authors)"
     }
   }, {

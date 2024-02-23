@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referenciados - eRevista Performatus</h2>
-<p>Rede unimodal dos 314 artistas-referenciados das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 31/01/2024</p>
+<p>Rede unimodal dos 314 artistas-referenciados das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 23/02/2024</p>
 <div id="cy"/>
 
 <style>

@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referenciados - Icônica</h2>
-<p>Rede unimodal dos 267 artistas-referenciados das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 20/01/2024</p>
+<p>Rede unimodal dos 267 artistas-referenciados das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019. Última atualização: 23/02/2024</p>
 <div id="cy"/>
 
 <style>
