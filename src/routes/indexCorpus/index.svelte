@@ -594,7 +594,7 @@
 </table>
 <br>
 <br>
-<h3><a id="artistasIndex">Tabela dos 1072 artistas do corpus</a></h3>
+<h3><a id="artistasIndex">Tabela dos(as) 1072 artistas do corpus</a></h3>
 <a href="#topPage"><i class="icon icon-upward"/></a>
 
 <table class="table table-hover">
