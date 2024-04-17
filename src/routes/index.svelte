@@ -47,7 +47,7 @@
 		<div class="column col-xl-4">
 				<h4>Pessoas</h4>
 				<ul>
-				   <li><a href="/indexCorpus#artistasIndex">Artistas</a>: 1072</li>
+				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#artistasIndex">Artistas</a>: 1072</li>
 				   <li>Coletivos de Artistas: 77</li>
 				   <li>Curadores: 121</li>
 				   <li>Outras Pessoas: 218</li>
@@ -58,8 +58,8 @@
 		
    				<h4>Produções artísticas</h4>
    				<ul>
-					<li><a href="/indexCorpus#obrasIndex">Total de Obras e Séries de Obras: 946</a></li>
-					<li><a href="/indexCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos: 337</a></li>
+					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#obrasIndex">Total de Obras e Séries de Obras: 946</a></li>
+					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos: 337</a></li>
    				</ul>
 				<p></p>
    				<h4>Lugares de Exposição</h4>
