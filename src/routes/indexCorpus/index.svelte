@@ -7665,7 +7665,7 @@
     <tr>
       <th>250</th>
       <td><a id="oeBrasiliaSinfoniaDaAlvorada">BRASILIA, SINFONIA DA ALVORADA</a></td>
-      <td></td>
+      <td>Trabalho de Literatura e de Artes Performativas</td>
       <td>Disco</td>
       <td>1961</td>
       <td>1961</td>
@@ -7966,7 +7966,7 @@
       <td>Escultura</td>
       <td>1969</td>
       <td>1969</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMortos">#evArteDemocraciaUtopiaQuemNaoLutaTaMortos</a>                                                        </td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a>                                                        </td>
     </tr>
     <tr>
       <th>284</th>
@@ -12007,7 +12007,7 @@
       <td>Pintura</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMortos">#evArteDemocraciaUtopiaQuemNaoLutaTaMortos</a>                                                        </td>
+      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a>                                                        </td>
     </tr>
     <tr>
       <th>733</th>
@@ -13222,7 +13222,7 @@
       <td>Escultura;Bandeira</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arEmmanuelNassar">#arEmmanuelNassar</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMortos">#evArteDemocraciaUtopiaQuemNaoLutaTaMortos</a>                                                        </td>
+      <td><a href="#arEmmanuelNassar">#arEmmanuelNassar</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a>                                                        </td>
     </tr>
     <tr>
       <th>868</th>
@@ -13852,7 +13852,7 @@
       <td>Bordado;Costura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arRandolphoLamonier">#arRandolphoLamonier</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMortos">#evArteDemocraciaUtopiaQuemNaoLutaTaMortos</a>                                                        </td>
+      <td><a href="#arRandolphoLamonier">#arRandolphoLamonier</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a>                                                        </td>
     </tr>
     <tr>
       <th>938</th>
@@ -13861,7 +13861,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arVirginiaMedeiros">#arVirginiaMedeiros</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMortos">#evArteDemocraciaUtopiaQuemNaoLutaTaMortos</a>                                                        </td>
+      <td><a href="#arVirginiaMedeiros">#arVirginiaMedeiros</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a>                                                        </td>
     </tr>
     <tr>
       <th>939</th>
