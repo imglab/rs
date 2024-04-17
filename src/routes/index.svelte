@@ -58,8 +58,8 @@
 		
    				<h4>Produções artísticas</h4>
    				<ul>
-					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#obrasIndex">Total de Obras e Séries de Obras: 946</a></li>
-					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos: 337</a></li>
+					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#obrasIndex">Total de Obras e Séries de Obras</a>: 946</li>
+					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos</a>: 337</li>
    				</ul>
 				<p></p>
    				<h4>Lugares de Exposição</h4>
