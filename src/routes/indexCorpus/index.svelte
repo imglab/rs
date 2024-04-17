@@ -195,7 +195,7 @@
     </tr>
     <tr>
       <th>32</th>
-      <td><a id="arAlfredCortot"><a href="">Cortot, Alfred (Suíça, 1877 - Suíça, 1962)</a></a></td>
+      <td><a id="arAlfredCortot">Cortot, Alfred (Suíça, 1877 - Suíça, 1962)</a></td>
       <td>Instrumentista; Maestro/Maestrina</td>
     </tr>
     <tr>
@@ -4165,7 +4165,7 @@
     </tr>
     <tr>
       <th>826</th>
-      <td><a id="arPauloMata"><a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></a></td>
+      <td><a id="arHildaPaulo"><a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></a></td>
       <td>Historiador(a) da Arte; Artista Visual</td>
     </tr>
     <tr>
@@ -5576,7 +5576,7 @@
       <th>27</th>
       <td><a id="arCiaExcessos">Cia. Excessos</a></td>
       <td>Grupo de Artistas</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arTalesFrey">#arTalesFrey</a>  </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTalesFrey">#arTalesFrey</a>  </td>
     </tr>
     <tr>
       <th>28</th>
@@ -5798,7 +5798,7 @@
       <th>64</th>
       <td><a id="arAndreanRenand">Andréan Renand</a></td>
       <td>Escritores</td>
-      <td><a href="#auAndreNoble">#auAndreNoble</a> <a href="#auRenataRequiao">#auRenataRequiao</a>  </td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a>  </td>
     </tr>
     <tr>
       <th>65</th>
@@ -6701,7 +6701,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arManuelVason">#arManuelVason</a>                                                        </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arManuelVason">#arManuelVason</a>                                                        </td>
     </tr>
     <tr>
       <th>90</th>
@@ -6710,7 +6710,7 @@
       <td>Arte Postal</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>91</th>
@@ -10760,7 +10760,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#ruaDosClerigos">#ruaDosClerigos</a>                                                  </td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#ruaDosClerigos">#ruaDosClerigos</a>                                                  </td>
     </tr>
     <tr>
       <th>541</th>
@@ -10895,7 +10895,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arCiaExcessos">#arCiaExcessos</a>                                                    </td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arCiaExcessos">#arCiaExcessos</a>                                                    </td>
     </tr>
     <tr>
       <th>556</th>
@@ -10958,7 +10958,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>563</th>
@@ -11084,7 +11084,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>577</th>
@@ -11462,7 +11462,7 @@
       <td>Performance;Fotografia;Videoarte</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>619</th>
@@ -11759,7 +11759,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arLuisSantos">#arLuisSantos</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#mausHabitos">#mausHabitos</a>                                                  </td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arLuisSantos">#arLuisSantos</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#mausHabitos">#mausHabitos</a>                                                  </td>
     </tr>
     <tr>
       <th>652</th>
@@ -11840,7 +11840,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arEmilyNowell">#arEmilyNowell</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arRosaSaunders">#arRosaSaunders</a> <a href="#arJulietteDumas">#arJulietteDumas</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a>                                              </td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arEmilyNowell">#arEmilyNowell</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arRosaSaunders">#arRosaSaunders</a> <a href="#arJulietteDumas">#arJulietteDumas</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a>                                              </td>
     </tr>
     <tr>
       <th>661</th>
@@ -12056,7 +12056,7 @@
       <td>Performance</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a>                                                      </td>
+      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arHildaPaulo">#arHildaPaulo</a>                                                      </td>
     </tr>
     <tr>
       <th>685</th>
@@ -12398,7 +12398,7 @@
       <td>Fotografia</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a>                                                        </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a>                                                        </td>
     </tr>
     <tr>
       <th>723</th>
@@ -12578,7 +12578,7 @@
       <td>Fotografia;Body art</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>743</th>
@@ -12623,7 +12623,7 @@
       <td>Videoarte</td>
       <td>2014</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>748</th>
@@ -12740,7 +12740,7 @@
       <td>Videoarte</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a>                                                      </td>
+      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arHildaPaulo">#arHildaPaulo</a>                                                      </td>
     </tr>
     <tr>
       <th>761</th>
@@ -12758,7 +12758,7 @@
       <td>Body art</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a>                                                          </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a>                                                          </td>
     </tr>
     <tr>
       <th>763</th>
@@ -16105,8 +16105,8 @@
       <td><a href="#centralGaleria #institutoHildaHilstCasaDoSol">#centralGaleria #institutoHildaHilstCasaDoSol</a></td>
       <td>2014-03</td>
       <td>2014-05</td>
-      <td><a href="#arManuelVason">#arManuelVason</a> <a href="#arColetivoES3">#arColetivoES3</a> <a href="#arChrystineSilva">#arChrystineSilva</a> <a href="#arAnaHupe">#arAnaHupe</a> <a href="#arLoopB">#arLoopB</a> <a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#arSolCasal">#arSolCasal</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arThiagoSoares">#arThiagoSoares</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arRenanMarcondes">#arRenanMarcondes</a> <a href="#arShima">#arShima</a> <a href="#arNathaliaMello">#arNathaliaMello</a> <a href="#arFelipeCidade">#arFelipeCidade</a> <a href="#arNathaliaCoutinho">#arNathaliaCoutinho</a> <a href="#arLuizaPrado">#arLuizaPrado</a> <a href="#arDanielToledo">#arDanielToledo</a> <a href="#arAnaMontenegro">#arAnaMontenegro</a> <a href="#arMaurizioMancioli">#arMaurizioMancioli</a> <a href="#arContratempoColetivo">#arContratempoColetivo</a> <a href="#arVivianita">#arVivianita</a> <a href="#arRubianeMaia">#arRubianeMaia</a> <a href="#arPauloVega">#arPauloVega</a> <a href="#arSolangeBonfil">#arSolangeBonfil</a> <a href="#arElenBraga">#arElenBraga</a> <a href="#arMairaValente">#arMairaValente</a> <a href="#arTiagoCadete">#arTiagoCadete</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arLucioAgra">#arLucioAgra</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#arFernandoRibeiro">#arFernandoRibeiro</a> <a href="#arMercedesTorres">#arMercedesTorres</a> <a href="#arEstebanFaroles">#arEstebanFaroles</a> <a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arTalesFrey">#arTalesFrey</a></td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
+      <td><a href="#arManuelVason">#arManuelVason</a> <a href="#arColetivoES3">#arColetivoES3</a> <a href="#arChrystineSilva">#arChrystineSilva</a> <a href="#arAnaHupe">#arAnaHupe</a> <a href="#arLoopB">#arLoopB</a> <a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#arSolCasal">#arSolCasal</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arThiagoSoares">#arThiagoSoares</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arRenanMarcondes">#arRenanMarcondes</a> <a href="#arShima">#arShima</a> <a href="#arNathaliaMello">#arNathaliaMello</a> <a href="#arFelipeCidade">#arFelipeCidade</a> <a href="#arNathaliaCoutinho">#arNathaliaCoutinho</a> <a href="#arLuizaPrado">#arLuizaPrado</a> <a href="#arDanielToledo">#arDanielToledo</a> <a href="#arAnaMontenegro">#arAnaMontenegro</a> <a href="#arMaurizioMancioli">#arMaurizioMancioli</a> <a href="#arContratempoColetivo">#arContratempoColetivo</a> <a href="#arVivianita">#arVivianita</a> <a href="#arRubianeMaia">#arRubianeMaia</a> <a href="#arPauloVega">#arPauloVega</a> <a href="#arSolangeBonfil">#arSolangeBonfil</a> <a href="#arElenBraga">#arElenBraga</a> <a href="#arMairaValente">#arMairaValente</a> <a href="#arTiagoCadete">#arTiagoCadete</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arLucioAgra">#arLucioAgra</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#arFernandoRibeiro">#arFernandoRibeiro</a> <a href="#arMercedesTorres">#arMercedesTorres</a> <a href="#arEstebanFaroles">#arEstebanFaroles</a> <a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTalesFrey">#arTalesFrey</a></td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
     </tr>
     <tr>
       <th>168</th>
@@ -16126,7 +16126,7 @@
       <td>2014-03-27</td>
       <td>2014-05-03</td>
       <td>                                                                       </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
     </tr>
     <tr>
       <th>170</th>
@@ -16306,7 +16306,7 @@
       <td>2014-09-06</td>
       <td>2014-09-23</td>
       <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arMarceloGarcia">#arMarceloGarcia</a> <a href="#arFabiaFuzeti">#arFabiaFuzeti</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a>                                                                </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
     </tr>
     <tr>
       <th>188</th>
@@ -16486,7 +16486,7 @@
       <td>2015-06-20</td>
       <td>2015-08-09</td>
       <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a>                                                                      </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>            </td>
     </tr>
     <tr>
       <th>206</th>
@@ -16755,7 +16755,7 @@
       <td><a href="#galeriaSputENik">#galeriaSputENik</a></td>
       <td>2016-12-03</td>
       <td>2017-01-21</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arTalesFrey">#arTalesFrey</a>                                                                    </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTalesFrey">#arTalesFrey</a>                                                                    </td>
       <td><a href="#coSusanaRodrigues">#coSusanaRodrigues</a>              </td>
     </tr>
     <tr>
