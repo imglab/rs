@@ -13931,7 +13931,7 @@
 <br>
 <br>
 <h3><a id="eventosIndex">Tabela dos 337 eventos e séries de eventos artísticos do corpus</a></h3>
-<a href="#topPge"><i class="icon icon-upward"/></a>
+<a href="#topPage"><i class="icon icon-upward"/></a>
 
 <table class="table table-hover">
   <thead>
