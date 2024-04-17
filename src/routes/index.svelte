@@ -41,7 +41,7 @@
 	  				<li><a href="/critiques/critiques_desvio">Revista Desvio</a>: 97</li>
 	  				<li><a href="/critiques/critiques_ofermento">o fermento</a>: 23</li>
 	  				<li>Total de Textos: 300</li>
-	  				<li>Total de Autores: 111</li>
+	  				<li><a href="http://www.reseaux-sensibles.art/indexCorpus#autoresIndex">Total de Autores(as)</a>: 111</li>
    				</ul>
 		</div>
 		<div class="column col-xl-4">
@@ -49,7 +49,7 @@
 				<ul>
 				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#artistasIndex">Artistas</a>: 1072</li>
 				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#coletivosIndex">Coletivos de Artistas</a>: 77</li>
-				   <li>Curadores: 121</li>
+				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#curadoresIndex">Curadores(as)</a>: 121</li>
 				   <li>Outras Pessoas: 218</li>
 				   <li>Outros Coletivos: 2</li>
 				</ul>
@@ -64,7 +64,7 @@
 				<p></p>
    				<h4>Lugares de Exposição</h4>
   				<ul>
-					<li>Total de Lugares: 222</li>
+					<li><a href="http://www.reseaux-sensibles.art/indexCorpus#lugaresIndex">Total de Lugares</a>: 222</li>
    				</ul>
 		</div>
 	</div>	
