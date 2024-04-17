@@ -59,7 +59,7 @@
    				<h4>Produções artísticas</h4>
    				<ul>
 					<li><a href="/indexCorpus#obrasIndex">Total de Obras e Séries de Obras: 946</a></li>
-					<li><a href="/indextCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos: 337</a></li>
+					<li><a href="/indexCorpus#eventosIndex">Total de Eventos e Séries de Eventos Artísticos: 337</a></li>
    				</ul>
 				<p></p>
    				<h4>Lugares de Exposição</h4>
