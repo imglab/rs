@@ -15961,7 +15961,7 @@
       <th>201</th>
       <td><a id="evVIPremioDiarioContemporaneoDeFotografia">VI PREMIO DIARIO CONTEMPORANEO DE FOTOGRAFIA</a></td>
       <td>Coletivo</td>
-      <td><a href="espacoCulturalCasaDasOnzeJanelas">espacoCulturalCasaDasOnzeJanelas</a></td>
+      <td><a href="#espacoCulturalCasaDasOnzeJanelas">espacoCulturalCasaDasOnzeJanelas</a></td>
       <td>2015-04-22</td>
       <td>2015-06-28</td>
       <td><a href="#arLaraOvidio">#arLaraOvidio</a>                                                                      </td>

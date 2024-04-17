@@ -47,7 +47,7 @@
 		<div class="column col-xl-4">
 				<h4>Pessoas</h4>
 				<ul>
-				   <li>Artistas: 1072</li>
+				   <li><a href="#artistasIndex">Artistas</a>: 1072</li>
 				   <li>Coletivos de Artistas: 77</li>
 				   <li>Curadores: 121</li>
 				   <li>Outras Pessoas: 218</li>
