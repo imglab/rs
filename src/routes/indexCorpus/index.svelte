@@ -25,7 +25,7 @@
 <br>
 <br>
 <h3><a id="autoresIndex">Tabela dos(as) 111 autores(as) do corpus</a></h3>
-<a href="#topPge"><i class="icon icon-upward"/></a>
+<a href="#topPage"><i class="icon icon-upward"/></a>
 <table class="table table-hover">
   <thead>
     <tr style="text-align: left;">
@@ -595,7 +595,7 @@
 <br>
 <br>
 <h3><a id="artistasIndex">Tabela dos 1072 artistas do corpus</a></h3>
-<a href="#topPge"><i class="icon icon-upward"/></a>
+<a href="#topPage"><i class="icon icon-upward"/></a>
 
 <table class="table table-hover">
   <thead>
@@ -5972,7 +5972,7 @@
 <br>
 <br>
 <h3><a id="coletivosIndex">Tabela dos 77 coletivos de artistas do corpus</a></h3>
-<a href="#topPge"><i class="icon icon-upward"/></a>
+<a href="#topPage"><i class="icon icon-upward"/></a>
 <table class="table table-hover">
   <thead>
     <tr style="text-align: left;">
@@ -18999,7 +18999,7 @@
 <br>
 <br>
 <h3><a id="lugaresIndex">Tabela dos 222 lugares do corpus</a></h3>
-<a href="#topPge"><i class="icon icon-upward"/></a>
+<a href="#topPage"><i class="icon icon-upward"/></a>
 
 <table class="table table-hover">
   <thead>
