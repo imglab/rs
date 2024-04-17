@@ -48,7 +48,7 @@
 				<h4>Pessoas</h4>
 				<ul>
 				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#artistasIndex">Artistas</a>: 1072</li>
-				   <li>Coletivos de Artistas: 77</li>
+				   <li><a href="http://www.reseaux-sensibles.art/indexCorpus#coletivosIndex">Coletivos de Artistas</a>: 77</li>
 				   <li>Curadores: 121</li>
 				   <li>Outras Pessoas: 218</li>
 				   <li>Outros Coletivos: 2</li>
