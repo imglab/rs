@@ -59,7 +59,7 @@
    				<h4>Produções artísticas</h4>
    				<ul>
 					<li>Total de Obras e Séries de Obras: 946</li>
-					<li>Total de Eventos Artísticos: 337</li>
+					<li>Total de Eventos e Séries de Eventos Artísticos: 337</li>
    				</ul>
 				<p></p>
    				<h4>Lugares de Exposição</h4>

@@ -15,7 +15,7 @@
 </ul>
 
 <h1>Levantamento de revistas de arte digitais atuantes no Brasil, realizado até agosto 2023.</h1>
-<table class="table table-scroll">
+<table class="table table-hover table-scroll">
     <thead>
         <tr style="text-align: left;">
           <th></th>

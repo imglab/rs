@@ -15,7 +15,7 @@
 </ul>
 
 <h1>Críticas de Arte Publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril 2019</h1>
-<table class="table">
+<table class="table table-hover">
    <thead>
       <tr style="text-align: left;">
         <th></th>

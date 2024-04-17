@@ -14,6 +14,7 @@
     <a href="/revues" class="btn btn-link">Revistas</a>
     <a href="/reseaux" class="btn btn-link">Redes</a>
 		<a href="/critiques" class="btn btn-link">Críticas de Arte</a>
+    <a href="/indexCorpus" class="btn btn-link">Index</a>
     <a href="/a-propos" class="btn btn-link">Sobre</a>
     <a href="https://resensibles.hypotheses.org/" class="btn btn-link">Blog</a>
   </section>

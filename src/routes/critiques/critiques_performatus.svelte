@@ -16,7 +16,7 @@
 
 
 <h1>Temas das Críticas de Arte Publicadas pela <a href="https://performatus.com.br/">Performatus</a>  até abril 2019</h1>
-<table class="table">
+<table class="table table-hover">
 	<thead>
       <tr style="text-align: left;">
          <th></th>
