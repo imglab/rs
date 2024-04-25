@@ -16860,7 +16860,7 @@
       <td></td>
       <td>2012-10-11</td>
       <td>2012-12-11</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -16910,7 +16910,7 @@
       <td><a href="#galeriaMartaTrabaDeArteLatinoAmericana">#galeriaMartaTrabaDeArteLatinoAmericana</a></td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -16980,7 +16980,7 @@
       <td><a href="#divisaoDeArtesPlasticas">#divisaoDeArtesPlasticas</a></td>
       <td>2013-03-08</td>
       <td>2013-04-19</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -17110,7 +17110,7 @@
       <td><a href="#galeriaDoInstitutoDeArtesDaUNICAMPGAIA">#galeriaDoInstitutoDeArtesDaUNICAMPGAIA</a></td>
       <td>2013-07-22</td>
       <td>2013-08-02</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -17270,7 +17270,7 @@
       <td><a href="#museuDeArteContemporaneaDeJatai">#museuDeArteContemporaneaDeJatai</a></td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -17280,7 +17280,7 @@
       <td><a href="#museuDeArteContemporaneaDeJatai">#museuDeArteContemporaneaDeJatai</a></td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
@@ -17590,7 +17590,7 @@
       <td><a href="#galeriaMartaTrabaDeArteLatinoAmericana">#galeriaMartaTrabaDeArteLatinoAmericana</a></td>
       <td>2014-12-04</td>
       <td>2014-12-07</td>
-      <td><a href="#arEmanuel Monteiro">#arEmanuel Monteiro</a>                                                                      </td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                                                      </td>
       <td>               </td>
     </tr>
     <tr>
