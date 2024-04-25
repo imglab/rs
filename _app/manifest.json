@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-d8efc299.js",
+    "file": "start-4bd84cb0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -87,7 +87,7 @@
     ]
   },
   "src/routes/critiques/index.svelte": {
-    "file": "pages/critiques/index.svelte-d43123da.js",
+    "file": "pages/critiques/index.svelte-b05e1e60.js",
     "src": "src/routes/critiques/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -96,7 +96,7 @@
     ]
   },
   "src/routes/critiques/critiques_arte_contexto.svelte": {
-    "file": "pages/critiques/critiques_arte_contexto.svelte-f4359d50.js",
+    "file": "pages/critiques/critiques_arte_contexto.svelte-65f56eed.js",
     "src": "src/routes/critiques/critiques_arte_contexto.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -105,7 +105,7 @@
     ]
   },
   "src/routes/critiques/critiques_performatus.svelte": {
-    "file": "pages/critiques/critiques_performatus.svelte-d99c4d27.js",
+    "file": "pages/critiques/critiques_performatus.svelte-681ae251.js",
     "src": "src/routes/critiques/critiques_performatus.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -114,7 +114,7 @@
     ]
   },
   "src/routes/critiques/critiques_ofermento.svelte": {
-    "file": "pages/critiques/critiques_ofermento.svelte-bf0ad455.js",
+    "file": "pages/critiques/critiques_ofermento.svelte-86878270.js",
     "src": "src/routes/critiques/critiques_ofermento.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
