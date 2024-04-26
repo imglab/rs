@@ -1517,7 +1517,7 @@
           <td>NON</td>
           <td>OUI</td>
           <td>NON</td>
-          <td>Art actuel, Politique</td>
+          <td>Art, Critique, Politique</td>
           <td>Livraisons</td>
           <td>NON</td>
           <td>Maira Palmeiro, Natália Quinderé</td>
