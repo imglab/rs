@@ -52,7 +52,7 @@
 </ul>
 
 <h2>Artistas-Tema - Revista Desvio - EIC</h2>
-<p>Rede unimodal dos 238 artistas-tema das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 238 artistas-tema das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Em verde, os(as) artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

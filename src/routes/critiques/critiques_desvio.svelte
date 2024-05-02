@@ -20,7 +20,7 @@
   <thead>
    <tr style="text-align: left;">
      <th></th>
-     <th>Autores</th>
+     <th>Autores(as)</th>
      <th>Críticas de Arte</th>
      <th>Artistas &#40;tema&#41;</th>
      <th>Artistas &#40;referenciados&#41;</th>

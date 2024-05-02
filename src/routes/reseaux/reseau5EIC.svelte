@@ -52,7 +52,7 @@
 </ul>
 
 <h2>Artistas-tema - o fermento - EIC</h2>
-<p>Rede unimodal dos 47 artistas-tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 47 artistas-tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Em verde, os artistas que foram identificados na busca da <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a>. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>
