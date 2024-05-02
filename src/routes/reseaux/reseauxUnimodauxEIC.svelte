@@ -24,9 +24,9 @@
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">
-			<p>Aqui você pode acessar uma segunda versão das redes unimodais formadas pelos artistas-tema de cada revista que mostra o resultado da pesquisa de seus nomes na <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a> - EIC. A ideia foi de estabecer um paralelo entre a identificação de artistas realizada por essas cinco publicações e esta importante referência digital, que realiza o trabalho de repertoriar atores que atuam ou atuaram para o desenvolvimento do mundo da arte brasileiro.</p>
-            <p>A cor verde dos nós representa que o artista foi identificado na busca da EIC, a cor amarela mostra os artistas que não foram localizados na enciclopédia.</p>
-            <p>Este é um resultado aproximativo, pois os dados da EIC evoluem com o tempo e informações complementares faltantes sobre os artistas podem vir a contribuir com a localização dos mesmos na base de dados da enciclopédia.</p>
+			<p>Aqui você pode acessar uma segunda versão das redes unimodais formadas pelos artistas-tema de cada revista que mostra o resultado da pesquisa de seus nomes na <a href="https://enciclopedia.itaucultural.org.br/">Enciclopédia Itaú Cultural</a> - EIC. A ideia foi de estabecer um paralelo entre a identificação de artistas realizada por essas cinco publicações e esta importante referência digital no Brasil, que realiza o trabalho de repertoriar atores(as) que atuam ou atuaram para o desenvolvimento do mundo da arte brasileiro.</p>
+            <p>A cor verde dos nós representa que o(a) artista foi identificado na busca da EIC, a cor amarela mostra os(as) artistas que não foram localizados na enciclopédia.</p>
+            <p>Este é um resultado aproximativo, pois informações faltantes sobre os(as) artistas podem dificultar a localização na base de dados da enciclopédia e os dados da EIC evoluem com o tempo.</p>
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">
