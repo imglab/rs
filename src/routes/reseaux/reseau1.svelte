@@ -42,7 +42,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseau1" class="btn btn-link">Artistas-Tema - eRevista Performatus</a>
@@ -50,7 +50,7 @@
 </ul>
 
 <h2>Artistas-Tema - eRevista Performatus</h2>
-<p>Rede unimodal dos 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 147 artistas-tema das críticas publicadas pela <a href="https://performatus.com.br/">eRevista Performatus</a> até abril de 2019. Última atualização: 02/2024</p>
 
 <div id="cy"/>
 

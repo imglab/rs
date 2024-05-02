@@ -41,7 +41,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseau2" class="btn btn-link">Artistas-Tema - Revista Desvio</a>

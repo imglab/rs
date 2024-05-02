@@ -41,7 +41,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referenciados - o fermento</a>
@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referenciados - o fermento</h2>
-<p>Rede unimodal dos 88 artistas-referenciados das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 88 artistas-referenciados das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

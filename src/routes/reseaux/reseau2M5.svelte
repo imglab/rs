@@ -48,7 +48,7 @@
 	</li>
 </ul>
 
-<h2>Autores e Artistas-Tema- o fermento</h2>
+<h2>Autores(as) e Artistas-Tema- o fermento</h2>
 <p>Rede bimodal dos(as) 47 Artistas-Tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019 com suas 3 autoras. Última atualização: 02/2024</p>
 <div id="cy"/>
 

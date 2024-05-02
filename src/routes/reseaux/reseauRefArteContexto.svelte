@@ -41,7 +41,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseauRefArteContexto" class="btn btn-link">Artistas-Referenciados - Arte ConTexto</a>

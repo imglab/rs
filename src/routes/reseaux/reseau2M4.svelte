@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Autores e Artistas-temas - Revista Desvio</title>
+	<title>Autores(as) e Artistas-temas - Revista Desvio</title>
 </svelte:head>
 
 <ul class="breadcrumb">

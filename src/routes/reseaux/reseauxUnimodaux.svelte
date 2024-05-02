@@ -10,14 +10,14 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
     <li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais Artistas-Tema</a>
 	</li>
 </ul>
 
 <p></p>
 <p></p>
 
-<h2>Redes Unimodais dos Artistas-Tema</h2>
+<h2>Redes Unimodais Artistas-Tema</h2>
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">

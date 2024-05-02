@@ -10,17 +10,17 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
     <li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais Artistas-Tema</a>
 	</li>
     <li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais dos Artistas-Tema EIC</a>
+		<a href="/reseaux/reseauxUnimodauxEIC" class="btn btn-link">Redes Unimodais Artistas-Tema EIC</a>
 	</li>
 </ul>
 
 <p></p>
 <p></p>
 
-<h2>Redes Unimodais dos Artistas-Tema EIC</h2>
+<h2>Redes Unimodais Artistas-Tema EIC</h2>
 <div class="container">
 	<div class="columns">
 		<div class="column col-6">
@@ -30,7 +30,7 @@
 		</div>
 		<div class="column col-1"></div>
 		<div class="column col-5">
-			<h4>Acesse as redes dos artistas-tema EIC</h4>
+			<h4>Acesse as redes artistas-tema EIC</h4>
 			<ul>
 				<li><a href="/reseaux/reseau4EIC" class="btn btn-link">Icônica</a></li>
 				<li><a href="/reseaux/reseau1EIC" class="btn btn-link">Revista Performatus</a></li>

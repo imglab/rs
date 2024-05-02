@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Autores e Artistas-temas - Arte ConTexto</title>
+	<title>Autores(as) e Artistas-temas - Arte ConTexto</title>
 </svelte:head>
 
 <ul class="breadcrumb">

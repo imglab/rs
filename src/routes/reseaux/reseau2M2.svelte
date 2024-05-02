@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Autores e Artistas-temas - eRevista Performatus</title>
+	<title>Autores(as) e Artistas-temas - eRevista Performatus</title>
 </svelte:head>
 
 <ul class="breadcrumb">

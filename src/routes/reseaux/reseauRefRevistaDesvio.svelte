@@ -41,7 +41,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais dos Artistas-Referenciados</a>
+		<a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Redes Unimodais Artistas-Referenciados</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseauRefIconica" class="btn btn-link">Artistas-Referenciados - Revista Desvio</a>
@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Referenciados - Revista Desvio</h2>
-<p>Rede unimodal dos 322 artistas-referenciados das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 322 artistas-referenciados das críticas publicadas pela <a href="https://web.archive.org/web/20230129220351/https://revistadesvio.com/">Revista Desvio</a> até abril de 2019. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

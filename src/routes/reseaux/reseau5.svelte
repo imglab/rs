@@ -41,7 +41,7 @@
 		<a href="/reseaux" class="btn btn-link">Redes</a>
 	</li>
 	<li class="breadcrumb-item">
-		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais dos Artistas-Tema</a>
+		<a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Redes Unimodais Artistas-Tema</a>
 	</li>
 	<li class="breadcrumb-item">
 		<a href="/reseaux/reseau5" class="btn btn-link">Artistas-Tema - o fermento</a>
@@ -49,7 +49,7 @@
 </ul>
 
 <h2>Artistas-Tema - o fermento</h2>
-<p>Rede unimodal dos 47 artistas-tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 02/2024</p>
+<p>Rede unimodal dos(as) 47 artistas-tema das críticas publicadas pela <a href="https://ofermentorevista.com.br/">o fermento</a> até abril de 2019. Última atualização: 02/2024</p>
 <div id="cy"/>
 
 <style>

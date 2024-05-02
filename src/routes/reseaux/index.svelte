@@ -14,13 +14,13 @@
 <p></p>
 <p></p>
 
-<h2>Redes dos Artistas-Tema</h2>
+<h2>Redes Artistas-Tema</h2>
 <ul>
 <li><a href="/reseaux/reseauxUnimodaux" class="btn btn-link">Unimodais</a></li>
 <li><a href="/reseaux/reseauxBimodaux" class="btn btn-link">Bimodais</a></li>
 </ul>
 
-<h2>Redes dos Artistas-Referenciados</h2>
+<h2>Redes Artistas-Referenciados</h2>
 <ul>
 <li><a href="/reseaux/reseauxUnimodauxArtistesRef" class="btn btn-link">Unimodais</a></li>
 </ul>
