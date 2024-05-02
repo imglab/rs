@@ -30,7 +30,7 @@
 </script>
 
 <svelte:head>
-	<title>Autores e Artistas-temas - o fermento</title>
+	<title>Autores(as) e Artistas-temas - o fermento</title>
 </svelte:head>
 
 <ul class="breadcrumb">

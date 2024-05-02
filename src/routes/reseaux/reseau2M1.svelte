@@ -48,7 +48,7 @@
 	</li>
 </ul>
 
-<h2>Autores e Artistas-Tema - Icônica</h2>
+<h2>Autores(as) e Artistas-Tema - Icônica</h2>
 <p>Rede bimodal dos(as) 143 artistas-tema das críticas publicadas pela <a href="https://www.iconica.com.br/site/">Icônica</a> até abril de 2019 com seus(suas) 5 autores(as). Última atualização: 02/2024</p>
 <div id="cy"/>
 
