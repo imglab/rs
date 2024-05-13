@@ -8302,7 +8302,7 @@
       <td></td>
       <td></td>
       <td><a href="#arSebastienChou">#arSebastienChou</a>                             </td>
-      <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>3</th>
@@ -8402,7 +8402,7 @@
       <td></td>
       <td></td>
       <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a>                            </td>
-      <td></td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>13</th>
@@ -8962,7 +8962,7 @@
       <td></td>
       <td></td>
       <td><a href="#arWalterCarvalho">#arWalterCarvalho</a> <a href="#arMarceloBraga">#arMarceloBraga</a>                            </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>69</th>
@@ -9186,13 +9186,13 @@
     </tr>
     <tr>
       <th>91</th>
-      <td><a id="#oeOsTrapalhoes">OS TRAPALHOES</a></td>
+      <td><a id="oeOsTrapalhoes">OS TRAPALHOES</a></td>
       <td></td>
       <td>Programa de Televisão</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>                             </td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>92</th>
@@ -9222,7 +9222,7 @@
       <td></td>
       <td></td>
       <td><a href="#arRaulSeixas">#arRaulSeixas</a>                             </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>95</th>
@@ -9286,13 +9286,13 @@
     </tr>
     <tr>
       <th>101</th>
-      <td><a id="#oeContranarciso">CONTRANARCISO</a></td>
+      <td><a id="oeContranarciso">CONTRANARCISO</a></td>
       <td>;Gêneros Literários</td>
       <td>Poema</td>
       <td></td>
       <td></td>
       <td><a href="#arPauloLeminski">#arPauloLeminski</a>                             </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>102</th>
@@ -9792,7 +9792,7 @@
       <td></td>
       <td></td>
       <td><a href="#arAlexandreONeill">#arAlexandreONeill</a>                             </td>
-      <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>152</th>
@@ -9892,7 +9892,7 @@
       <td>1660</td>
       <td>1662</td>
       <td><a href="#arJohannesVermeer">#arJohannesVermeer</a>                             </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>162</th>
@@ -10322,7 +10322,7 @@
       <td>1928</td>
       <td>1928</td>
       <td><a href="#arCarlosAndrade">#arCarlosAndrade</a>                             </td>
-      <td></td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>205</th>
@@ -11302,7 +11302,7 @@
       <td>1971</td>
       <td>1971</td>
       <td><a href="#arChantalAkerman">#arChantalAkerman</a>                             </td>
-      <td></td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>303</th>
@@ -13012,7 +13012,7 @@
       <td>2004</td>
       <td>2004</td>
       <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a>                             </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>474</th>
@@ -13082,7 +13082,7 @@
       <td>2005</td>
       <td>2005</td>
       <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a>                            </td>
-      <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>481</th>
@@ -13496,13 +13496,13 @@
     </tr>
     <tr>
       <th>522</th>
-      <td><a id="oeITurnOverThePicturesOfMyVoiceInMyHead”">“I TURN OVER THE PICTURES OF MY VOICE IN MY HEAD”</a></td>
+      <td><a id="oeITurnOverThePicturesOfMyVoiceInMyHead">“I TURN OVER THE PICTURES OF MY VOICE IN MY HEAD”</a></td>
       <td>Trabalho de Artes Visuais</td>
       <td>Videoarte</td>
       <td>2008</td>
       <td>2008</td>
       <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a>                            </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>523</th>
@@ -14131,8 +14131,8 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td>                             </td>
-      <td></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a>                             </td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>586</th>
@@ -14236,13 +14236,13 @@
     </tr>
     <tr>
       <th>596</th>
-      <td><a id="oeMalogramosSempreAoFalarDoQueAmamosPeformanceIII">MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (III)</a></td>
+      <td><a id="oeMalogramosSempreAoFalarDoQueAmamosIII">MALOGRAMOS SEMPRE AO FALAR DO QUE AMAMOS (III)</a></td>
       <td>;Livros</td>
       <td>Livro de Artista</td>
       <td>2011</td>
       <td>2011</td>
       <td><a href="#arVitorButkus">#arVitorButkus</a>                             </td>
-      <td></td>
+      <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
       <th>597</th>
@@ -15026,13 +15026,13 @@
     </tr>
     <tr>
       <th>675</th>
-      <td><a id="Nucas">NUCAS</a></td>
+      <td><a id="oeNucas">NUCAS</a></td>
       <td>Trabalho de Artes Visuais</td>
       <td>Técnica Mista</td>
       <td>2013</td>
       <td>2013</td>
       <td><a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#evComoMeTorneiInsensivel">#evComoMeTorneiInsensivel</a>                            </td>
-      <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>676</th>
@@ -17532,7 +17532,7 @@
       <td>2018</td>
       <td>2018</td>
       <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a>                            </td>
-      <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>926</th>
@@ -17612,7 +17612,7 @@
       <td>2018</td>
       <td></td>
       <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a>                            </td>
-      <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>934</th>
@@ -17726,13 +17726,13 @@
     </tr>
     <tr>
       <th>945</th>
-      <td><a id="#oeBandeira">BANDEIRA</a></td>
+      <td><a id="oeBandeira">BANDEIRA</a></td>
       <td>Trabalho de Artes Visuais</td>
       <td>Escultura</td>
       <td>2019</td>
       <td>2019</td>
       <td><a href="#arReginaPaula">#arReginaPaula</a> <a href="#evImpavidoColosso">#evImpavidoColosso</a>                            </td>
-      <td></td>
+      <td>Revista Desvio</td>
     </tr>
   </tbody>
 </table>
