@@ -19468,7 +19468,7 @@
       <th>0</th>
       <td><a id="uferstudios">UFERSTUDIOS</a></td>
       <td>Alemanha</td>
-      <td>None</td>
+      <td></td>
       <td>Berlin</td>
       <td>H92F+PX Berlim, Alemanha</td>
       <td>eRevista Performatus</td>
@@ -19477,7 +19477,7 @@
       <th>1</th>
       <td><a id="espacioPla">ESPACIO PLA</a></td>
       <td>Argentina</td>
-      <td>None</td>
+      <td></td>
       <td>Buenos Aires</td>
       <td>CH6G+74 Buenos Aires, Argentina</td>
       <td>Arte ConTexto</td>
@@ -19486,7 +19486,7 @@
       <th>2</th>
       <td><a id="museoDeArteLatinoamericanoDeBuenosAires"><a href="https://enciclopedia.itaucultural.org.br/instituicao280129/museo-de-arte-latinoamericano-de-buenos-aires-malba">MUSEO DE ARTE LATINOAMERICANO DE BUENOS AIRES</a></a></td>
       <td>Argentina</td>
-      <td>None</td>
+      <td></td>
       <td>Buenos Aires</td>
       <td>CHFW+4H Buenos Aires, Argentina</td>
       <td>Arte ConTexto</td>
@@ -19495,7 +19495,7 @@
       <th>3</th>
       <td><a id="teatroSarmiento">TEATRO SARMIENTO</a></td>
       <td>Argentina</td>
-      <td>None</td>
+      <td></td>
       <td>Buenos Aires</td>
       <td>CHCJ+79 Buenos Aires, Cidade Autônoma de Buenos Aires, Argentina</td>
       <td>Arte ConTexto</td>
@@ -19560,7 +19560,7 @@
       <td>Brasil</td>
       <td>CE</td>
       <td>Fortaleza</td>
-      <td>None</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -19785,7 +19785,7 @@
       <td>Brasil</td>
       <td>PA</td>
       <td>Belém</td>
-      <td>None</td>
+      <td></td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -19794,7 +19794,7 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Curitiba</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19803,7 +19803,7 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Curitiba</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19839,7 +19839,7 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19848,7 +19848,7 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19884,7 +19884,7 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19938,7 +19938,7 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Petrópolis</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -19947,7 +19947,7 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Petrópolis</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -20001,7 +20001,7 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Rio de Janeiro</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -20307,7 +20307,7 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Rio de Janeiro</td>
-      <td>None</td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -20352,7 +20352,7 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Novo Hamburgo</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -20361,7 +20361,7 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td>None</td>
+      <td></td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -20370,7 +20370,7 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td>None</td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -20469,7 +20469,7 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td>None</td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -20757,7 +20757,7 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td>None</td>
+      <td></td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -20766,7 +20766,7 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td>None</td>
+      <td></td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -20919,7 +20919,7 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -20937,7 +20937,7 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td>None</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -21000,14 +21000,14 @@
       <td>Brasil</td>
       <td>TO</td>
       <td>Palmas</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>171</th>
       <td><a id="centroCulturalEstacionMapocho">CENTRO CULTURAL ESTACION MAPOCHO</a></td>
       <td>Chile</td>
-      <td>None</td>
+      <td></td>
       <td>Santiago</td>
       <td>H89W+47 Santiago, Chile</td>
       <td>Arte ConTexto</td>
@@ -21016,7 +21016,7 @@
       <th>172</th>
       <td><a id="museuNacionalCentroDeArteReinaSofia">MUSEU NACIONAL CENTRO DE ARTE REINA SOFIA</a></td>
       <td>Espanha</td>
-      <td>None</td>
+      <td></td>
       <td>Madri</td>
       <td>C854+55 Madrid, Espanha</td>
       <td>Revista Desvio</td>
@@ -21054,7 +21054,7 @@
       <td>Estados Unidos</td>
       <td>Midwest</td>
       <td>Iowa</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -21178,7 +21178,7 @@
       <th>190</th>
       <td><a id="museeArcheologiqueHenriPrades">MUSEE ARCHEOLOGIQUE HENRI-PRADES</a></td>
       <td>França</td>
-      <td>None</td>
+      <td></td>
       <td>Lattes</td>
       <td>HW85+M9 Lattes, França</td>
       <td>Arte ConTexto</td>
@@ -21187,16 +21187,16 @@
       <th>191</th>
       <td><a id="siteArcheologiqueDeLattara">SITE ARCHEOLOGIQUE DE LATTARA</a></td>
       <td>França</td>
-      <td>None</td>
+      <td></td>
       <td>Lattes</td>
-      <td>None</td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>192</th>
       <td><a id="museuDeArteContemporaneaDeLyon"><a href="https://enciclopedia.itaucultural.org.br/instituicao17881/musee-d-art-contemporain-de-lyon">MUSEU DE ARTE CONTEMPORANEA DE LYON</a></a></td>
       <td>França</td>
-      <td>None</td>
+      <td></td>
       <td>Lyon</td>
       <td>QVM2+MW Lyon, França</td>
       <td>Revista Desvio</td>
@@ -21205,9 +21205,9 @@
       <th>193</th>
       <td><a id="fjukArtsCentre">FJUK ARTS CENTRE</a></td>
       <td>Islândia</td>
-      <td>None</td>
+      <td></td>
       <td>Húsavík</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -21252,7 +21252,7 @@
       <td>Itália</td>
       <td>Vêneto</td>
       <td>Veneza</td>
-      <td>None</td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -21268,25 +21268,25 @@
       <th>200</th>
       <td><a id="studioMarconi"><a href="http://enciclopedia.itaucultural.org.br/instituicao338820/studio-marconi-milao-italia">STUDIO MARCONI</a></a></td>
       <td>Itália</td>
-      <td>None</td>
+      <td></td>
       <td>Milano</td>
-      <td>None</td>
+      <td></td>
       <td>o fermento</td>
     </tr>
     <tr>
       <th>201</th>
       <td><a id="studioMorra">STUDIO MORRA</a></td>
       <td>Itália</td>
-      <td>None</td>
+      <td></td>
       <td>Nápoles</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>202</th>
       <td><a id="centroParaOsAssuntosDaArteEArquitectura">CENTRO PARA OS ASSUNTOS DA ARTE E ARQUITECTURA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Guimarães</td>
       <td>CPQ2+HG Guimarães, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21295,7 +21295,7 @@
       <th>203</th>
       <td><a id="centroParaOsAssuntosDaArteEDaArquitectura">CENTRO PARA OS ASSUNTOS DA ARTE E DA ARQUITECTURA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Guimarães</td>
       <td>CPQ2+HG Guimarães, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21304,7 +21304,7 @@
       <th>204</th>
       <td><a id="casaDoPinheiro">CASA DO PINHEIRO</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>592P+69 Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21313,7 +21313,7 @@
       <th>205</th>
       <td><a id="galeriaSputENik">GALERIA SPUT&NIK</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>596V+4V Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21322,7 +21322,7 @@
       <th>206</th>
       <td><a id="igrejaDeSantoIldefonso">IGREJA DE SANTO ILDEFONSO</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>49WV+F8 Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21331,7 +21331,7 @@
       <th>207</th>
       <td><a id="mausHabitos">MAUS HABITOS</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>49WV+MP Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21340,7 +21340,7 @@
       <th>208</th>
       <td><a id="nucleoDeExperimentacaoCoreografica">NUCLEO DE EXPERIMENTACAO COREOGRAFICA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>5926+86 Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21349,34 +21349,34 @@
       <th>209</th>
       <td><a id="pracaDaBatalha">PRACA DA BATALHA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>210</th>
       <td><a id="ruaDoAlmada">RUA DO ALMADA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>211</th>
       <td><a id="ruaDosClerigos">RUA DOS CLERIGOS</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>212</th>
       <td><a id="teatroDoCampoAlegre">TEATRO DO CAMPO ALEGRE</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>5926+76 Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21385,7 +21385,7 @@
       <th>213</th>
       <td><a id="teatroMunicipalRivoli">TEATRO MUNICIPAL RIVOLI</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
       <td>49XR+45 Porto, Portugal</td>
       <td>eRevista Performatus</td>
@@ -21394,16 +21394,16 @@
       <th>214</th>
       <td><a id="verdeRubroAssociacaoCulturalEArtistica">VERDE-RUBRO ASSOCIACAO CULTURAL E ARTISTICA</a></td>
       <td>Portugal</td>
-      <td>None</td>
+      <td></td>
       <td>Porto</td>
-      <td>None</td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>215</th>
       <td><a id="whitechapelGallery"><a href="https://enciclopedia.itaucultural.org.br/instituicao290701/whitechapel-art-gallery-londres-inglaterra">WHITECHAPEL GALLERY</a></a></td>
       <td>Reino Unido</td>
-      <td>None</td>
+      <td></td>
       <td>Londres</td>
       <td>GW8H+CX Londres, Reino Unido</td>
       <td>Arte ConTexto</td>
@@ -21412,7 +21412,7 @@
       <th>216</th>
       <td><a id="edificioNarkonfim">EDIFICIO NARKONFIM</a></td>
       <td>Rússia</td>
-      <td>None</td>
+      <td></td>
       <td>Moscou</td>
       <td>QH4J+VC Distrito administrativo central, Moscow, Rússia</td>
       <td>eRevista Performatus</td>
@@ -21421,16 +21421,16 @@
       <th>217</th>
       <td><a id="operaImperialRussa">OPERA IMPERIAL RUSSA</a></td>
       <td>Rússia</td>
-      <td>None</td>
-      <td>None</td>
-      <td>None</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>218</th>
       <td><a id="zilbermanGallery">ZILBERMAN GALLERY</a></td>
       <td>Turquia</td>
-      <td>None</td>
+      <td></td>
       <td>Istambul</td>
       <td>2XMG+2J Tomtom, Beyoğlu/Istanbul, Turquia</td>
       <td>eRevista Performatus</td>
@@ -21456,10 +21456,10 @@
     <tr>
       <th>221</th>
       <td><a id="outraLiteratura">OUTRA LITERATURA</a></td>
-      <td>None</td>
-      <td>None</td>
-      <td>None</td>
-      <td>None</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
