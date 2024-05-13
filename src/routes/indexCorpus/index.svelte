@@ -32,6 +32,7 @@
       <th></th>
       <th>Autor(a)</th>
       <th>Ocupação</th>
+      <th>Revistas</th>
     </tr>
   </thead>
   <tbody>
@@ -39,556 +40,667 @@
       <th>0</th>
       <td><a id="auAdeilmaCosta">Costa, Adeilma (Rio de Janeiro/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>1</th>
       <td><a id="auAlexandreCopes">Copês, Alexandre (São Gabriel/RS, 1988 - )</a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>2</th>
       <td><a id="auAnaBrito">Brito, Ana Carla de (Araputanga/MT)</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>3</th>
       <td><a id="auAnaHupe"><a href="https://enciclopedia.itaucultural.org.br/pessoa477151/ana-hupe">Hupe, Ana (Rio de Janeiro/RJ, 1983 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>4</th>
       <td><a id="auAnaJoaquim">Joaquim, Ana Cristina (São Paulo/SP)</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>5</th>
       <td><a id="auAnaMeireles">Anjos Meireles, Ana Renata dos (Brasil)</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>6</th>
       <td><a id="auAndreBezerra">Bezerra, André (Natal/RN, 1987 - )</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>7</th>
       <td><a id="auAndreLeal">Leal, André (São Paulo/SP, 1985 - )</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>8</th>
       <td><a id="auAndreMasseno"><a href="http://enciclopedia.itaucultural.org.br/pessoa224529/andre-masseno">Masseno, André (Rio de Janeiro/RJ, 1973 - )</a></a></td>
       <td>Bailarino(a); Ator/Atriz; Coreógrafo(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>9</th>
       <td><a id="auAndreNoble"><a href="https://enciclopedia.itaucultural.org.br/pessoa636153/andre-winn">Winter Noble, André (/RS, 1988 - )</a></a></td>
       <td>Artista Visual; Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>10</th>
       <td><a id="auAndreaMello">Mello, Andrea Maria</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>11</th>
       <td><a id="auArthurMoreau">Moreau, Arthur (São Paulo/SP, 1982 - )</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>12</th>
       <td><a id="auCaioRiscado"><a href="https://enciclopedia.itaucultural.org.br/pessoa269847/caio-riscado">Riscado, Caio (Niterói/RJ, 1988 - )</a></a></td>
       <td>Artista Visual; Diretor(a) de Teatro; Professor(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>13</th>
       <td><a id="auCamilaVieira">Vieira, Camila (Brasil, 1991 - )</a></td>
       <td>Arte-educador(a); Artista Visual; Curador(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>14</th>
       <td><a id="auCandeCosta">Costa, Candé (Rio de Janeiro/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>15</th>
       <td><a id="auCarinaSehn">Sehn, Carina (Estrela/RS, 1980 - )</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>16</th>
       <td><a id="auCarolinaGrippa">Bouvie Grippa, Carolina (, 1991 - )</a></td>
       <td>Historiador(a) da Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>17</th>
       <td><a id="auCarolinaLopes">Lopes, Carolina (São Gonçalo/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>18</th>
       <td><a id="auCaueAlves"><a href="https://enciclopedia.itaucultural.org.br/pessoa102145/caue-alves">Alves, Cauê (São Paulo/SP, 1977 - )</a></a></td>
       <td>Curador(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>19</th>
       <td><a id="auChrystineSilva">Silva, Chrystine (Natal/RN, 1988 - )</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>20</th>
       <td><a id="auClarisseTarran"><a href="https://enciclopedia.itaucultural.org.br/pessoa271974/clarisse-tarran">Tarran, Clarisse (Brasília/DF, 1968 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>21</th>
       <td><a id="auClaudiaSanz">Linhares Sanz, Cláudia (/RJ)</a></td>
       <td>Professor(a)</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>22</th>
       <td><a id="auConstancaBabo">Babo, Constança (Portugal)</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>23</th>
       <td><a id="auCristianaNogueira">Nogueira, Cristiana (Rio de Janeiro/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>24</th>
       <td><a id="auDaianaSchropel"><a href="https://enciclopedia.itaucultural.org.br/pessoa25023/daiana-schroepel">Schröpel, Daiana (Brasil)</a></a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>25</th>
       <td><a id="auDanielAlvarenga">Alvarenga, Daniel Levy de</a></td>
       <td>Pesquisador(a); Advogado(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>26</th>
       <td><a id="auDanielaCassinelli">Cassinelli, Daniela</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>27</th>
       <td><a id="auDanielaLabra"><a href="https://enciclopedia.itaucultural.org.br/pessoa364860/daniela-hochmann-labra">Labra, Daniela (Chile, 1974 - )</a></a></td>
       <td>Curador(a); Crítico(a) de Arte</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>28</th>
       <td><a id="auDaniloXavier">Moreira Xavier, Danilo (São Paulo/SP)</a></td>
       <td>Historiador(a) da Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>29</th>
       <td><a id="auDidianaPrata"><a href="https://enciclopedia.itaucultural.org.br/pessoa642600/didiana-prata">Prata, Didiana (São Paulo/SP)</a></a></td>
       <td>Professor(a); Designer</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>30</th>
       <td><a id="auDinahCesare"><a href="http://enciclopedia.itaucultural.org.br/pessoa562601/dinah-cesare">Cesare, Dinah</a></a></td>
       <td>Diretor(a) de Teatro; Ator/Atriz</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>31</th>
       <td><a id="auDioneVieira"><a href="https://enciclopedia.itaucultural.org.br/pessoa268777/dione-veiga-vieira">Veiga Vieira, Dione (Porto Alegre/RS, 1954 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>32</th>
       <td><a id="auEdithDerdyk"><a href="https://enciclopedia.itaucultural.org.br/pessoa214559/edith-derdyk">Derdyk, Edith (São Paulo/SP, 1955 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>33</th>
       <td><a id="auEmanuelMonteiro"><a href="https://enciclopedia.itaucultural.org.br/pessoa594763/emanuel-monteiro">Monteiro, Emanuel (Londrina/PR, 1988 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>34</th>
       <td><a id="auFabianaMoraes">Moraes, Fabiana de (Niterói/RJ, 1973 - )</a></td>
       <td>Curador(a); Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>35</th>
       <td><a id="auFelipeAmancio">Amancio, Felipe</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>36</th>
       <td><a id="auFernandaMelo">Oliveira Borges Melo, Fernanda e</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>37</th>
       <td><a id="auFernandoSantos">Freitas Santos, Fernando dos</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>38</th>
       <td><a id="auGabrielaManfredini">Manfredini, Gabriela</a></td>
       <td>Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>39</th>
       <td><a id="auGabrielaMotta"><a href="https://enciclopedia.itaucultural.org.br/pessoa485752/gabriela-motta">Kremer Motta, Gabriela (Pelotas/RS, 1975 - )</a></a></td>
       <td>Curador(a); Crítico(a) de Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>40</th>
       <td><a id="auGeanMoraes">Moraes, Gean B. de (Fortaleza/CE)</a></td>
       <td>Crítico(a) de Arte</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>41</th>
       <td><a id="auGrasieleSousa"><a href="https://enciclopedia.itaucultural.org.br/pessoa449841/grasiele-sousa">Sousa, Grasiele (São Bernardo do Campo/SP, 1978 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>42</th>
       <td><a id="auGustavoFontes">Rosa Fontes, Gustavo (Aracaju/SE, 1986 - )</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>43</th>
       <td><a id="auItaloRui">Rui, Ítalo</a></td>
       <td>Ator/Atriz</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>44</th>
       <td><a id="auJackSegbars">Segbars, Jack (Países Baixos, 1963 - )</a></td>
       <td>Crítico(a) de Arte; Curador(a); Escritor(a); Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>45</th>
       <td><a id="auJacquelineSiano"><a href="https://enciclopedia.itaucultural.org.br/pessoa554975/jacqueline-siano">Siano, Jacqueline</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>46</th>
       <td><a id="auJaquelineVasconcellos">Vasconcellos, Jaqueline (Salvador/BA, 1980 - )</a></td>
       <td>Artista Visual; Ator/Atriz</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>47</th>
       <td><a id="auJeffersonSkorupski">Skorupski, Jefferson (, 1989 - )</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>48</th>
       <td><a id="auJoaoOvidio">Ovidio, João Paulo (Rio de Janeiro/RJ)</a></td>
       <td>Curador(a); Crítico(a) de Arte; Editor(a); Pesquisador(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>49</th>
       <td><a id="auJonathonAustin">Austin, Jonathon</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>50</th>
       <td><a id="auJuliaDArienzo">P. S. D’Arienzo, Julia</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>51</th>
       <td><a id="auJuliaPelison">Pelison, Julia (Niterói/RJ, 1982 - )</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>52</th>
       <td><a id="auJulianaGontijo">Gontijo, Juliana (Rio de Janeiro/RJ, 1980 - )</a></td>
       <td>Curador(a); Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>53</th>
       <td><a id="auJulianaPinho">Pinho, Juliana</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>54</th>
       <td><a id="auJulianaSabatino">Sabatino, Juliana</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>55</th>
       <td><a id="auJulioMinervino"><a href="https://enciclopedia.itaucultural.org.br/pessoa10148/julio-minervino">Minervino, Júlio</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>56</th>
       <td><a id="auLauremCrossetti">Crossetti, Laurem (Itaqui/RS)</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>57</th>
       <td><a id="auLeonardoSilva">Mello Silva, Leonardo e</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>58</th>
       <td><a id="auLeticiaMoreno">Moreno, Letícia</a></td>
       <td>Pesquisador(a); Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>59</th>
       <td><a id="auLiziMenezes"><a href="https://enciclopedia.itaucultural.org.br/pessoa588805/lizi-menezes">Menezes, Lizi (, 1981 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>60</th>
       <td><a id="auLucianeGarcez">Ruschel Nascimento Garcez, Luciane (Caxias do Sul/RS)</a></td>
       <td>Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>61</th>
       <td><a id="auLudmillaFonseca">Fonseca, Ludimilla (/MG, 1989 - )</a></td>
       <td>Curador(a)</td>
+      <td>Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>62</th>
       <td><a id="auLuisaKiefer">Kiefer, Luísa (Porto alegre/RS, 1986 - )</a></td>
       <td>Curador(a); Crítico(a) de Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>63</th>
       <td><a id="auLuizBarbosa">Barbosa, Luiz Guilherme (Rio de Janeiro/RJ)</a></td>
       <td>Professor(a) de Escola</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>64</th>
       <td><a id="auMarcosBoas">Villas Boas, Marcos</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>65</th>
       <td><a id="auMariaLopes">Mello Lopes, Maria Fernanda de (Ourinhos/SP, 1988 - )</a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>66</th>
       <td><a id="auMarianaPar">Par, Mariana (Rio de Janeiro/RJ, 1992 - )</a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>67</th>
       <td><a id="auMarinaDubia">Dubia, Marina (São Paulo/SP, 1992 - )</a></td>
       <td>Artista Visual; Escritor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>68</th>
       <td><a id="auMatheusCosmo">Cosmo, Matheus (São Paulo/SP)</a></td>
       <td>Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>69</th>
       <td><a id="auMayaFernandes">Fernandes, Mayã (Brasília/DF)</a></td>
       <td>Pesquisador(a); Crítico(a) de Arte</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>70</th>
       <td><a id="auMayaraFernandes">Amaral Fernandes, Mayara</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>71</th>
       <td><a id="auMayraCortes">Lopes Cortes, Mayra Cristina (Rio de Janeiro/RJ)</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>72</th>
       <td><a id="auMayraRedin"><a href="http://enciclopedia.itaucultural.org.br/pessoa631639/mayra-martins-redin">Martins Redin, Mayra (Campinas/SP, 1982 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>73</th>
       <td><a id="auMirelePacheco">Oliveira Pacheco, Mirele de (Porto Alegre/RS, 1973 - )</a></td>
       <td>Artista Visual; Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>74</th>
       <td><a id="auMoacirAnjos"><a href="http://enciclopedia.itaucultural.org.br/pessoa106025/moacir-dos-anjos">Anjos, Moacir dos (Recife/PE, 1963 - )</a></a></td>
       <td>Curador(a); Crítico(a) de Arte</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>75</th>
       <td><a id="auNataliaQuindere">Quinderé, Natália (Fortaleza/CE, 1982 - )</a></td>
       <td>Historiador(a) da Arte; Curador(a); Crítico(a) de Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>76</th>
       <td><a id="auNathaliaLavigne"><a href="https://enciclopedia.itaucultural.org.br/pessoa483036/nathalia-lavigne">Lavigne, Nathalia (Rio de Janeiro/, 1982 - )</a></a></td>
       <td>Crítico(a) de Arte; Curador(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>77</th>
       <td><a id="auNathaliaMello">Mello, Nathália (Rio de Janeiro/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>78</th>
       <td><a id="auOmbelaAssumpcao">Assumpção, Ombela</a></td>
       <td>Pesquisador(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>79</th>
       <td><a id="auPaolaFabres"><a href="https://enciclopedia.itaucultural.org.br/pessoa634556/paola-fabres">Mayer Fabres, Paola (Porto Alegre/RS, 1989 - )</a></a></td>
       <td>Crítico(a) de Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>80</th>
       <td><a id="auPatriciaLattavo">Lattavo, Patricia (Rio de Janeiro/RJ, 1968 - )</a></td>
       <td>Historiador(a) da Arte</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>81</th>
       <td><a id="auPaulaLuersen">Luersen, Paula (Três de Maio/RS, 1988 - )</a></td>
       <td></td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>82</th>
       <td><a id="auHildaPaulo"><a href="https://enciclopedia.itaucultural.org.br/pessoa262130/mae-paulo">Paulo, Hilda de (Inhumas/GO, 1987 - )</a></a></td>
       <td>Historiador(a) da Arte; Artista Visual; Curador(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>83</th>
       <td><a id="auPedroAmbrosoli">Ambrosoli, Pedro (Niterói/RJ)</a></td>
       <td>Artista Visual</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>84</th>
       <td><a id="auPedroCarceceri">Carceceri, Pedro</a></td>
       <td>Curador(a); Crítico(a) de Arte; Diretor(a) de Filme; Escritor(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>85</th>
       <td><a id="auPedroCosta">Costa, Pedro</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>86</th>
       <td><a id="auPedroCupertino">Cupertino, Pedro (Brasil)</a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>87</th>
       <td><a id="auPioFigueiroa"><a href="https://enciclopedia.itaucultural.org.br/pessoa407887/pio-figueiroa">Figueiroa, Pio (Recife/PE, 1974 - )</a></a></td>
       <td>Artista Visual; Diretor(a) de Filme</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>88</th>
       <td><a id="auPriscilaOliveira">Medeiros Oliveira, Priscila de</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>89</th>
       <td><a id="auRaphaelFonseca">Fonseca, Raphael (Rio de Janeiro/RJ, 1988 - )</a></td>
       <td>Curador(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>90</th>
       <td><a id="auRenanMarcondes">Marcondes, Renan (São Bernardo do Campo/SP, 1991 - )</a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>91</th>
       <td><a id="auRenataGomes">Vellozo Gomes, Renata (Nova Iguaçu/RJ, 1979 - )</a></td>
       <td>Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>92</th>
       <td><a id="auRenataRequiao">Azevedo Requião, Renata (Pelotas/RS, 1960 - )</a></td>
       <td>Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>93</th>
       <td><a id="auRobertoRezende">Rezende, Roberto</a></td>
       <td>Ator/Atriz</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>94</th>
       <td><a id="auRonaldoEntler"><a href="https://enciclopedia.itaucultural.org.br/pessoa14246/ronaldo-entler">Entler, Ronaldo (São Paulo/SP, 1968 - )</a></a></td>
       <td>Professor(a); Crítico(a) de Arte</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>95</th>
       <td><a id="auRubensFernandes"><a href="https://enciclopedia.itaucultural.org.br/pessoa6356/rubens-fernandes-junior">Fernandes Junior, Rubens (Rio Claro/SP, 1949 - )</a></a></td>
       <td>Professor(a); Curador(a); Crítico(a) de Arte</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>96</th>
       <td><a id="auSandraMakowiecky"><a href="https://enciclopedia.itaucultural.org.br/pessoa256690/sandra-makowiecky-sales">Makowiecky, Sandra (Florianópolis/SC, 1957 - )</a></a></td>
       <td>Professor(a)</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>97</th>
       <td><a id="auSilvanaCoelho">Dias Coelho, Silvana</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>98</th>
       <td><a id="auSilviaLivi">Livi, Silvia (Pelotas/RS)</a></td>
       <td>Artista Visual</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>99</th>
       <td><a id="auSuianniMacedo">Cordeiro Macedo, Suianni (Brasil)</a></td>
       <td>Artista Visual; Curador(a)</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>100</th>
       <td><a id="auTalesFrey"><a href="http://enciclopedia.itaucultural.org.br/pessoa502314/tales-frey">Frey, Tales (Catanduva/SP, 1982 - )</a></a></td>
       <td>Artista Visual</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>101</th>
       <td><a id="auTalithaMotter"><a href="https://enciclopedia.itaucultural.org.br/pessoa595913/talitha-bueno-motter">Bueno Motter, Talitha (Porto Alegre/RS, 1986 - )</a></a></td>
       <td>Crítico(a) de Arte</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>102</th>
       <td><a id="auThainaVieira">Nunes Vieira, Thainá (Rio de Janeiro/RJ)</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>103</th>
       <td><a id="auThaisVasconcelos">Vasconcelos, Thaís</a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>104</th>
       <td><a id="auThalesValoura">Valoura, Thales</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>105</th>
       <td><a id="auThiagoFernandes">Spindola Motta Fernandes, Thiago (Rio de Janeiro/RJ)</a></td>
       <td>Pesquisador(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>106</th>
       <td><a id="auTonAlmeida">Almeida, Ton (Fortaleza/CE)</a></td>
       <td>Artista Visual; Produtor(a); Educador(a)</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>107</th>
       <td><a id="auValescaVeiga">Veiga, Valesca (Brasil)</a></td>
       <td>Historiador(a) da Arte; Artista Visual</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>108</th>
       <td><a id="auVanessaTangerini">Tangerini, Vanessa (Rio de Janeiro/RJ)</a></td>
       <td></td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>109</th>
       <td><a id="auVanjaPoty">Poty, Vanja (São Paulo/SP, 1986 - )</a></td>
       <td>Professor(a); Ator/Atriz</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>110</th>
       <td><a id="auVivianeMatesco"><a href="http://enciclopedia.itaucultural.org.br/pessoa12553/viviane-matesco">Matesco, Viviane</a></a></td>
       <td></td>
+      <td>eRevista Performatus</td>
     </tr>
   </tbody>
 </table>
@@ -15628,7 +15740,7 @@
       <th>0</th>
       <td><a id="evSerieBienalDeArquiteturaDeVeneza">SERIE BIENAL DE ARQUITETURA DE VENEZA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15650,7 +15762,7 @@
       <th>2</th>
       <td><a id="evSerieDocumentaDeKassel">SERIE DOCUMENTA DE KASSEL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td><a href="#arWilliamKentridge">#arWilliamKentridge</a>                                   </td>
@@ -15661,7 +15773,7 @@
       <th>3</th>
       <td><a id="evSerieWorldPressPhoto">SERIE WORLD PRESS PHOTO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15672,7 +15784,7 @@
       <th>4</th>
       <td><a id="evSerieFestivalDeCannes">SERIE FESTIVAL DE CANNES</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15683,7 +15795,7 @@
       <th>5</th>
       <td><a id="evSerieSalaoDeAbril">SERIE SALAO DE ABRIL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15694,7 +15806,7 @@
       <th>6</th>
       <td><a id="evSerieSemanaNacionalDeFotografia">SERIE SEMANA NACIONAL DE FOTOGRAFIA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td><a href="#arTiagoSantana">#arTiagoSantana</a>                                   </td>
@@ -15705,7 +15817,7 @@
       <th>7</th>
       <td><a id="evSerieFestivalDeTeatroDaAmazonia">SERIE FESTIVAL DE TEATRO DA AMAZONIA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15716,7 +15828,7 @@
       <th>8</th>
       <td><a id="evSeriePremioPipa">SERIE PREMIO PIPA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15727,7 +15839,7 @@
       <th>9</th>
       <td><a id="evSeriePremioEstimuloDeFotografia">SERIE PREMIO ESTIMULO DE FOTOGRAFIA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15738,7 +15850,7 @@
       <th>10</th>
       <td><a id="evSerieParatyemFoco">SERIE PARATY EM FOCO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15749,7 +15861,7 @@
       <th>11</th>
       <td><a id="evCentroCulturalDosArcos">EVENTO DO CENTRO CULTURAL DOS ARCOS</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td><a href="#arLarissaCamara">#arLarissaCamara</a> <a href="#arTalesFrey">#arTalesFrey</a>                                  </td>
@@ -15771,7 +15883,7 @@
       <th>13</th>
       <td><a id="evMesaACIL">MESA ACIL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -15782,7 +15894,7 @@
       <th>14</th>
       <td><a id="evSerieCircuitoRegionalDePerformanceBodeArte">SERIE CIRCUITO REGIONAL DE PERFORMANCE BODEARTE</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15793,7 +15905,7 @@
       <th>15</th>
       <td><a id="evSerieFestivalDaCancao">SERIE FESTIVAL DA CANCAO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15804,7 +15916,7 @@
       <th>16</th>
       <td><a id="evSerieBienalDeVeneza">SERIE BIENAL DE VENEZA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td><a href="#arChantalAkerman">#arChantalAkerman</a>                                   </td>
@@ -15815,7 +15927,7 @@
       <th>17</th>
       <td><a id="evSerieFestFotoPoa">SERIE FESTFOTOPOA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td></td>
       <td></td>
       <td>                                   </td>
@@ -15826,7 +15938,7 @@
       <th>18</th>
       <td><a id="evSalaoDe1855">SALAO DE 1855</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>1855-05-15</td>
       <td>1855-11-15</td>
       <td>                                   </td>
@@ -15837,7 +15949,7 @@
       <th>19</th>
       <td><a id="evPavillonDuRealisme">PAVILHAO DO REALISMO</a></td>
       <td>Individual</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>1855-06-28</td>
       <td>1855</td>
       <td><a href="#arGustaveCourbet">#arGustaveCourbet</a>                                   </td>
@@ -16112,7 +16224,7 @@
       <th>44</th>
       <td><a id="ev11DocumentaDeKassel"><a href="https://enciclopedia.itaucultural.org.br/evento341454/11-documenta">11ª DOCUMENTA DE KASSEL</a></a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2002-06-08</td>
       <td>2002-09-15</td>
       <td><a href="#arChantalAkerman">#arChantalAkerman</a>                                   </td>
@@ -16189,7 +16301,7 @@
       <th>51</th>
       <td><a id="ev52BienalDeVeneza">52ª BIENAL DE VENEZA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2007-06-10</td>
       <td>2007-11-21</td>
       <td><a href="#arSophieCalle">#arSophieCalle</a>                                   </td>
@@ -16211,7 +16323,7 @@
       <th>53</th>
       <td><a id="ev6BienalDoMercosul"><a href="https://enciclopedia.itaucultural.org.br/evento481386/6-bienal-de-artes-visuais-do-mercosul">6ª BIENAL DO MERCOSUL</a></a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2007-09-01</td>
       <td>2007-11-18</td>
       <td><a href="#arWilliamKentridge">#arWilliamKentridge</a> <a href="#arAnibalLopez">#arAnibalLopez</a>                                  </td>
@@ -16233,7 +16345,7 @@
       <th>55</th>
       <td><a id="evMola2007MostraLivreDeArtes"><a href="https://enciclopedia.itaucultural.org.br/evento646562/2-mola-mostra-livre-de-artes">MOLA 2007 – MOSTRA LIVRE DE ARTES</a></a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2007-10</td>
       <td>2007-10-25</td>
       <td><a href="#arLarissaCamara">#arLarissaCamara</a> <a href="#arTalesFrey">#arTalesFrey</a>                                  </td>
@@ -16288,7 +16400,7 @@
       <th>60</th>
       <td><a id="evFestivalAlmaDaRua">FESTIVAL ALMA DA RUA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2009-06-27</td>
       <td>2009-06-27</td>
       <td><a href="#arTalesFrey">#arTalesFrey</a>                                   </td>
@@ -16387,7 +16499,7 @@
       <th>69</th>
       <td><a id="evHasselbladAward2010">HASSELBLAD AWARD 2010</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2010</td>
       <td>2010</td>
       <td><a href="#arSophieCalle">#arSophieCalle</a>                                   </td>
@@ -16453,7 +16565,7 @@
       <th>75</th>
       <td><a id="evFestivalDeCannes2010">FESTIVAL DE CANNES 2010</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2010-05-12</td>
       <td>2010-05-23</td>
       <td><a href="#arOlivierAssayas">#arOlivierAssayas</a> <a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a>                                  </td>
@@ -16629,7 +16741,7 @@
       <th>91</th>
       <td><a id="ev34MostraInternacionalDeCinemaEmSaoPaulo"><a href="https://enciclopedia.itaucultural.org.br/evento642238/34-mostra-internacional-de-cinema-de-sao-paulo">34ª MOSTRA INTERNACIONAL DE CINEMA EM SAO PAULO</a></a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2010-10-22</td>
       <td>2010-11-04</td>
       <td><a href="#arOlivierAssayas">#arOlivierAssayas</a>                                   </td>
@@ -16651,7 +16763,7 @@
       <th>93</th>
       <td><a id="evWorldPressPhotoOfTheYear2011">WORLD PRESS PHOTO OF THE YEAR 2011</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2011</td>
       <td>2011</td>
       <td><a href="#arJodiBieber">#arJodiBieber</a>                                   </td>
@@ -16750,7 +16862,7 @@
       <th>102</th>
       <td><a id="ev7ParatyEmFocoFestivalInternacionalDeFotografia">7º PARATY EM FOCO - FESTIVAL INTERNACIONAL DE FOTOGRAFIA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2011-09-21</td>
       <td>2011-09-25</td>
       <td>                                   </td>
@@ -16761,7 +16873,7 @@
       <th>103</th>
       <td><a id="ev17FestivalInternacionalDeArteContemporaneaSescVideobrasil">17º FESTIVAL INTERNACIONAL DE ARTE CONTEMPORANEA SESC_VIDEOBRASIL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2011-09-30</td>
       <td>2012-01-29</td>
       <td>                                   </td>
@@ -16783,7 +16895,7 @@
       <th>105</th>
       <td><a id="ev2PremioQuestaoDeCritica">2º PREMIO QUESTAO DE CRITICA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012</td>
       <td>2012</td>
       <td><a href="#arVandreSilveira">#arVandreSilveira</a>                                   </td>
@@ -16794,7 +16906,7 @@
       <th>106</th>
       <td><a id="ev25PremioShellDeTeatro">25º PREMIO SHELL DE TEATRO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012</td>
       <td>2012</td>
       <td><a href="#arVandreSilveira">#arVandreSilveira</a>                                   </td>
@@ -16805,7 +16917,7 @@
       <th>107</th>
       <td><a id="evWorldPressPhotoOfTheYear2012">WORLD PRESS PHOTO OF THE YEAR 2012</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012</td>
       <td>2012</td>
       <td><a href="#arSamuelAranda">#arSamuelAranda</a>                                   </td>
@@ -16893,7 +17005,7 @@
       <th>115</th>
       <td><a id="evFestivalDeCannes2012">FESTIVAL DE CANNES 2012</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012-05-16</td>
       <td>2010-05-27</td>
       <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a>                                   </td>
@@ -16915,7 +17027,7 @@
       <th>117</th>
       <td><a id="ev13DocumentaDeKassel">13ª DOCUMENTA DE KASSEL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012-06-09</td>
       <td>2012-09-16</td>
       <td><a href="#arAnibalLopez">#arAnibalLopez</a>                                   </td>
@@ -16981,7 +17093,7 @@
       <th>123</th>
       <td><a id="ev31SalaoArtePara"><a href="https://enciclopedia.itaucultural.org.br/evento618618/arte-para-2012">31° SALAO ARTE PARA</a></a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012-10-11</td>
       <td>2012-12-11</td>
       <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a>                                   </td>
@@ -17025,7 +17137,7 @@
       <th>127</th>
       <td><a id="evVeniceInternationalPerformanceArtWeek">VENICE INTERNATIONAL PERFORMANCE ART WEEK</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2012-12-08</td>
       <td>2012-12-15</td>
       <td><a href="#arYokoLennon">#arYokoLennon</a> <a href="#arJillOrr">#arJillOrr</a> <a href="#arHermannNitsch">#arHermannNitsch</a> <a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#arJanFabre">#arJanFabre</a> <a href="#arValieExport">#arValieExport</a> <a href="#arJosephRavens">#arJosephRavens</a> <a href="#arMarcusSantos">#arMarcusSantos</a>                            </td>
@@ -17047,7 +17159,7 @@
       <th>129</th>
       <td><a id="evVIIIEncuentro">VIII ENCUENTRO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2013-01-12</td>
       <td>2013-01-19</td>
       <td>                                   </td>
@@ -17091,7 +17203,7 @@
       <th>133</th>
       <td><a id="evFestivalDeFotografiaDeTiradentes2013">FESTIVAL DE FOTOGRAFIA DE TIRADENTES 2013</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2013-03-06</td>
       <td>2013-03-10</td>
       <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a>                                   </td>
@@ -17322,7 +17434,7 @@
       <th>154</th>
       <td><a id="ev13IstanbulBiennial">13TH ISTANBUL BIENNIAL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2013-09-14</td>
       <td>2013-10-20</td>
       <td>                                   </td>
@@ -17388,7 +17500,7 @@
       <th>160</th>
       <td><a id="evMusicaEEcologiaSonoraCemRuidos">MUSICA E ECOLOGIA SONORA_CEM RUIDOS</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2013-11-12</td>
       <td>2013-11-15</td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -17468,8 +17580,8 @@
       <td><a href="#centralGaleria #institutoHildaHilstCasaDoSol">#centralGaleria #institutoHildaHilstCasaDoSol</a></td>
       <td>2014-03</td>
       <td>2014-05</td>
-      <td><a href="#arManuelVason">#arManuelVason</a> <a href="#arColetivoES3">#arColetivoES3</a> <a href="#arChrystineSilva">#arChrystineSilva</a> <a href="#arAnaHupe">#arAnaHupe</a> <a href="#arLoopB">#arLoopB</a> <a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#arSolCasal">#arSolCasal</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arThiagoSoares">#arThiagoSoares</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arRenanMarcondes">#arRenanMarcondes</a> <a href="#arShima">#arShima</a> <a href="#arNathaliaMello">#arNathaliaMello</a> <a href="#arFelipeCidade">#arFelipeCidade</a> <a href="#arNathaliaCoutinho">#arNathaliaCoutinho</a> <a href="#arLuizaPrado">#arLuizaPrado</a> <a href="#arDanielToledo">#arDanielToledo</a> <a href="#arAnaMontenegro">#arAnaMontenegro</a> <a href="#arMaurizioMancioli">#arMaurizioMancioli</a> <a href="#arContratempoColetivo">#arContratempoColetivo</a> <a href="#arVivianita">#arVivianita</a> <a href="#arRubianeMaia">#arRubianeMaia</a> <a href="#arPauloVega">#arPauloVega</a> <a href="#arSolangeBonfil">#arSolangeBonfil</a> <a href="#arElenBraga">#arElenBraga</a> <a href="#arMairaValente">#arMairaValente</a> <a href="#arTiagoCadete">#arTiagoCadete</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arLucioAgra">#arLucioAgra</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#arFernandoRibeiro">#arFernandoRibeiro</a> <a href="#arMercedesTorres">#arMercedesTorres</a> <a href="#arEstebanFaroles">#arEstebanFaroles</a> <a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arTalesFrey">#arTalesFrey</a></td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
+      <td><a href="#arManuelVason">#arManuelVason</a> <a href="#arColetivoES3">#arColetivoES3</a> <a href="#arChrystineSilva">#arChrystineSilva</a> <a href="#arAnaHupe">#arAnaHupe</a> <a href="#arLoopB">#arLoopB</a> <a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#arSolCasal">#arSolCasal</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arThiagoSoares">#arThiagoSoares</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arRenanMarcondes">#arRenanMarcondes</a> <a href="#arShima">#arShima</a> <a href="#arNathaliaMello">#arNathaliaMello</a> <a href="#arFelipeCidade">#arFelipeCidade</a> <a href="#arNathaliaCoutinho">#arNathaliaCoutinho</a> <a href="#arLuizaPrado">#arLuizaPrado</a> <a href="#arDanielToledo">#arDanielToledo</a> <a href="#arAnaMontenegro">#arAnaMontenegro</a> <a href="#arMaurizioMancioli">#arMaurizioMancioli</a> <a href="#arContratempoColetivo">#arContratempoColetivo</a> <a href="#arVivianita">#arVivianita</a> <a href="#arRubianeMaia">#arRubianeMaia</a> <a href="#arPauloVega">#arPauloVega</a> <a href="#arSolangeBonfil">#arSolangeBonfil</a> <a href="#arElenBraga">#arElenBraga</a> <a href="#arMairaValente">#arMairaValente</a> <a href="#arTiagoCadete">#arTiagoCadete</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arLucioAgra">#arLucioAgra</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#arFernandoRibeiro">#arFernandoRibeiro</a> <a href="#arMercedesTorres">#arMercedesTorres</a> <a href="#arEstebanFaroles">#arEstebanFaroles</a> <a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTalesFrey">#arTalesFrey</a></td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17491,7 +17603,7 @@
       <td>2014-03-27</td>
       <td>2014-05-03</td>
       <td>                                   </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17509,7 +17621,7 @@
       <th>171</th>
       <td><a id="evVerticeBrasil">VERTICE BRASIL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2014-04-06</td>
       <td>2014-04-13</td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -17575,7 +17687,7 @@
       <th>177</th>
       <td><a id="ev14BienalDeArquiteturaDeVeneza">14ª BIENAL DE ARQUITETURA DE VENEZA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2014-06-06</td>
       <td>2014-11-23</td>
       <td>                                   </td>
@@ -17663,7 +17775,7 @@
       <th>185</th>
       <td><a id="evCirculacaoDeLuxo">CIRCULACAO DE LUXO (LONDRINA)</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2014-09</td>
       <td>2014-09</td>
       <td><a href="#arCiaEstabuloDeLuxo">#arCiaEstabuloDeLuxo</a> <a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                  </td>
@@ -17674,7 +17786,7 @@
       <th>186</th>
       <td><a id="evChacaraComSelvaticos">CHACARA COM SELVATICOS</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2014-09</td>
       <td>2014-09</td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -17689,7 +17801,7 @@
       <td>2014-09-06</td>
       <td>2014-09-23</td>
       <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arMarceloGarcia">#arMarceloGarcia</a> <a href="#arFabiaFuzeti">#arFabiaFuzeti</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a>                                </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17751,7 +17863,7 @@
       <th>193</th>
       <td><a id="evFestivalPerobaRosa">FESTIVAL PEROBA-ROSA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2014-11</td>
       <td>2014-11</td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -17806,7 +17918,7 @@
       <th>198</th>
       <td><a id="evFeverestival">FEVERESTIVAL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-01-31</td>
       <td>2015-02-13</td>
       <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a>                                   </td>
@@ -17828,7 +17940,7 @@
       <th>200</th>
       <td><a id="evVFestivalDeFotografiaDeTiradentes">V FESTIVAL DE FOTOGRAFIA DE TIRADENTES</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-03-18</td>
       <td>2015-03-22</td>
       <td><a href="#arCyroAlmeida">#arCyroAlmeida</a>                                   </td>
@@ -17850,7 +17962,7 @@
       <th>202</th>
       <td><a id="evUnCertainRegard2015">UN CERTAIN REGARD 2015</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-05</td>
       <td>2015-05</td>
       <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a>                                   </td>
@@ -17872,7 +17984,7 @@
       <th>204</th>
       <td><a id="evFestivalDeCannes2015">FESTIVAL DE CANNES 2015</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-05-13</td>
       <td>2015-05-24</td>
       <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a>                                   </td>
@@ -17887,7 +17999,7 @@
       <td>2015-06-20</td>
       <td>2015-08-09</td>
       <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a>                                   </td>
-      <td><a href="#coPauloMata">#coPauloMata</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
+      <td><a href="#coHildaPaulo">#coHildaPaulo</a> <a href="#coTalesFrey">#coTalesFrey</a>      </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17916,7 +18028,7 @@
       <th>208</th>
       <td><a id="ev18BienalDeCerveira">18ª BIENAL DE CERVEIRA</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-07-18</td>
       <td>2015-09-19</td>
       <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a>                                   </td>
@@ -17938,7 +18050,7 @@
       <th>210</th>
       <td><a id="ev21SalaoAnapolinoDeArtes">21º SALAO ANAPOLINO DE ARTES</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-07-30</td>
       <td>2015-09-18</td>
       <td><a href="#arLaraOvidio">#arLaraOvidio</a>                                   </td>
@@ -17971,7 +18083,7 @@
       <th>213</th>
       <td><a id="ev2FestivalConcreto">2º FESTIVAL CONCRETO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-11</td>
       <td>2015-11</td>
       <td><a href="#arWendelMedeiros">#arWendelMedeiros</a>                                   </td>
@@ -17982,7 +18094,7 @@
       <th>214</th>
       <td><a id="evMostraSESCCaririDeCulturas2015">MOSTRA SESC CARIRI DE CULTURAS 2015</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-11-13</td>
       <td>2015-11-17</td>
       <td><a href="#arWendelMedeiros">#arWendelMedeiros</a>                                   </td>
@@ -17993,7 +18105,7 @@
       <th>215</th>
       <td><a id="ev5ManifestaFestivalDasArtes">5º MANIFESTA! FESTIVAL DAS ARTES</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2015-12-12</td>
       <td>2015-12-12</td>
       <td><a href="#arWendelMedeiros">#arWendelMedeiros</a>                                   </td>
@@ -18092,7 +18204,7 @@
       <th>224</th>
       <td><a id="evForumAWID2016">FORUM AWID 2016 – FORUM INTERNACIONAL ATIVISTA PELA DEFESA DOS DIREITOS DAS MULHERES E JUSTICA SOCIAL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2016-09-08</td>
       <td>2016-09-11</td>
       <td><a href="#arMarianaAndrade">#arMarianaAndrade</a>                                   </td>
@@ -18136,7 +18248,7 @@
       <th>228</th>
       <td><a id="evExposicaoCONTER2016">EXPOSICAO CONTER 2016</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2016-11-05</td>
       <td>2017-02-18</td>
       <td><a href="#arWendelMedeiros">#arWendelMedeiros</a>                                   </td>
@@ -18183,7 +18295,7 @@
       <td><a href="#galeriaSputENik">#galeriaSputENik</a></td>
       <td>2016-12-03</td>
       <td>2017-01-21</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arTalesFrey">#arTalesFrey</a>                                  </td>
+      <td><a href="#arHildaPaulo">#arHildaPaulo</a> <a href="#arTalesFrey">#arTalesFrey</a>                                  </td>
       <td><a href="#coSusanaRodrigues">#coSusanaRodrigues</a>       </td>
       <td>eRevista Performatus</td>
     </tr>
@@ -18246,7 +18358,7 @@
       <th>238</th>
       <td><a id="ev14DocumentaDeKassel">14ª DOCUMENTA DE KASSEL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2017-04-08</td>
       <td>2017-09-17</td>
       <td>                                   </td>
@@ -18323,7 +18435,7 @@
       <th>245</th>
       <td><a id="ev68oSalaoDeAbrilSequestrado">68º SALAO DE ABRIL – SEQUESTRADO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2017-09-28</td>
       <td>2017-10-30</td>
       <td>                                   </td>
@@ -18400,7 +18512,7 @@
       <th>252</th>
       <td><a id="evPremioPipa2018">PREMIO PIPA 2018</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018</td>
       <td>2018</td>
       <td>                                   </td>
@@ -18444,7 +18556,7 @@
       <th>256</th>
       <td><a id="evOscar2018">OSCAR 2018</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018-03-04</td>
       <td>2018-03-04</td>
       <td><a href="#arWillemDafoe">#arWillemDafoe</a>                                   </td>
@@ -18543,7 +18655,7 @@
       <th>265</th>
       <td><a id="evETudoVerdade23oFestivalInternacionalDeDocumentarios">E TUDO VERDADE: 23º FESTIVAL INTERNACIONAL DE DOCUMENTARIOS</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018-04-12</td>
       <td>2018-04-22</td>
       <td><a href="#arLuizBolognesi">#arLuizBolognesi</a>                                   </td>
@@ -18598,7 +18710,7 @@
       <th>270</th>
       <td><a id="evFestivalDeCannes2018">FESTIVAL DE CANNES 2018</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018-05-08</td>
       <td>2018-05-19</td>
       <td><a href="#arSpikeLee">#arSpikeLee</a>                                   </td>
@@ -19082,7 +19194,7 @@
       <th>314</th>
       <td><a id="ev20FestivalDoRio">20º FESTIVAL DO RIO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018-11-01</td>
       <td>2018-11-11</td>
       <td><a href="#arJulianSchnabel">#arJulianSchnabel</a>                                   </td>
@@ -19104,7 +19216,7 @@
       <th>316</th>
       <td><a id="evAdornoPolitico">ADORNO POLITICO</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2018-11-15</td>
       <td>2019-01-20</td>
       <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a>                                   </td>
@@ -19324,7 +19436,7 @@
       <th>336</th>
       <td><a id="ev16BienalDeIstambul">16ª BIENAL DE ISTAMBUL</a></td>
       <td>Coletivo</td>
-      <td><a href=""></a></td>
+      <td></td>
       <td>2019-09-14</td>
       <td>2019-11-10</td>
       <td>                                   </td>
