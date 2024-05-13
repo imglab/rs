@@ -8281,7 +8281,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arLeticiaLampert">#arLeticiaLampert</a> <a href="None">None</a></td>
+      <td><a href="#arLeticiaLampert">#arLeticiaLampert</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8291,7 +8291,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8301,7 +8301,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8311,7 +8311,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8321,7 +8321,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8331,7 +8331,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8341,7 +8341,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8351,7 +8351,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8361,7 +8361,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8371,7 +8371,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8381,7 +8381,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8391,7 +8391,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8401,7 +8401,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> <a href="None">None</a></td>
+      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8411,7 +8411,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#evHelioOiticicaRhodislandia">#evHelioOiticicaRhodislandia</a> <a href="None">None</a></td>
+      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#evHelioOiticicaRhodislandia">#evHelioOiticicaRhodislandia</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8421,7 +8421,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="None">None</a></td>
+      <td><a href="#arHelioOiticica">#arHelioOiticica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8431,7 +8431,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evInOrbit">#evInOrbit</a> <a href="None">None</a></td>
+      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evInOrbit">#evInOrbit</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8441,7 +8441,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLygiaClark">#arLygiaClark</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arLygiaClark">#arLygiaClark</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>eRevista Performatus; Revista Desvio; o fermento</td>
     </tr>
     <tr>
@@ -8451,7 +8451,7 @@
       <td>Desenho</td>
       <td></td>
       <td></td>
-      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8461,7 +8461,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arLygiaPape">#arLygiaPape</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arLygiaPape">#arLygiaPape</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8471,7 +8471,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arIoleFreitas">#arIoleFreitas</a> <a href="#evPapelDeAco">#evPapelDeAco</a> <a href="None">None</a></td>
+      <td><a href="#arIoleFreitas">#arIoleFreitas</a> <a href="#evPapelDeAco">#evPapelDeAco</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8481,7 +8481,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> <a href="None">None</a></td>
+      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8491,7 +8491,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> <a href="None">None</a></td>
+      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8501,7 +8501,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> <a href="None">None</a></td>
+      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8511,7 +8511,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> <a href="None">None</a></td>
+      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evCaminhoDaPedra">#evCaminhoDaPedra</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8521,7 +8521,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> <a href="None">None</a></td>
+      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8531,7 +8531,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> <a href="None">None</a></td>
+      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> </td>
       <td>Icônica; o fermento</td>
     </tr>
     <tr>
@@ -8541,7 +8541,7 @@
       <td>Técnica Mista</td>
       <td></td>
       <td></td>
-      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> <a href="None">None</a></td>
+      <td><a href="#arAthosBulcao">#arAthosBulcao</a> <a href="#ev100AnosDeAthosBulcao">#ev100AnosDeAthosBulcao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8551,7 +8551,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8561,7 +8561,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8571,7 +8571,7 @@
       <td>Videoarte</td>
       <td></td>
       <td></td>
-      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8581,7 +8581,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8591,7 +8591,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arSebastienChou">#arSebastienChou</a> <a href="None">None</a></td>
+      <td><a href="#arSebastienChou">#arSebastienChou</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8601,7 +8601,7 @@
       <td>Fotografia</td>
       <td></td>
       <td>2011</td>
-      <td><a href="#arMartaPenner">#arMartaPenner</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arMartaPenner">#arMartaPenner</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8611,7 +8611,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8621,7 +8621,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8631,7 +8631,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arIrinaIonesco">#arIrinaIonesco</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo">#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo</a> <a href="#evEspelhoDeLuzESombraEspacoSesc">#evEspelhoDeLuzESombraEspacoSesc</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalBrasilia">#evEspelhoDeLuzESombraCaixaCulturalBrasilia</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSalvador">#evEspelhoDeLuzESombraCaixaCulturalSalvador</a> <a href="None">None</a></td>
+      <td><a href="#arIrinaIonesco">#arIrinaIonesco</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo">#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo</a> <a href="#evEspelhoDeLuzESombraEspacoSesc">#evEspelhoDeLuzESombraEspacoSesc</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalBrasilia">#evEspelhoDeLuzESombraCaixaCulturalBrasilia</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSalvador">#evEspelhoDeLuzESombraCaixaCulturalSalvador</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8641,7 +8641,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8651,7 +8651,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8661,7 +8661,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8671,7 +8671,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8681,7 +8681,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8691,7 +8691,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8701,7 +8701,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8711,7 +8711,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8721,7 +8721,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8731,7 +8731,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arAletaValente">#arAletaValente</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arAletaValente">#arAletaValente</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8741,7 +8741,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8751,7 +8751,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8761,7 +8761,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> <a href="None">None</a></td>
+      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8771,7 +8771,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> <a href="None">None</a></td>
+      <td><a href="#arMaureenBisilliat">#arMaureenBisilliat</a> <a href="#evMaureenBisilliatFotografias">#evMaureenBisilliatFotografias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8781,7 +8781,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arRubyAnemic">#arRubyAnemic</a> <a href="None">None</a></td>
+      <td><a href="#arRubyAnemic">#arRubyAnemic</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8791,7 +8791,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8801,7 +8801,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8811,7 +8811,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8821,7 +8821,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8831,7 +8831,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8841,7 +8841,7 @@
       <td>Desenho</td>
       <td></td>
       <td></td>
-      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioPaiva">#arClaudioPaiva</a> <a href="#evClaudioPaivaOColecionadorDeLinhas">#evClaudioPaivaOColecionadorDeLinhas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8851,7 +8851,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arHomero">#arHomero</a> <a href="None">None</a></td>
+      <td><a href="#arHomero">#arHomero</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8861,7 +8861,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arHomero">#arHomero</a> <a href="None">None</a></td>
+      <td><a href="#arHomero">#arHomero</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8871,7 +8871,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> <a href="None">None</a></td>
+      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> </td>
       <td>Icônica; o fermento</td>
     </tr>
     <tr>
@@ -8881,7 +8881,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> <a href="None">None</a></td>
+      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8891,7 +8891,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> <a href="None">None</a></td>
+      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8901,7 +8901,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arKarinaRampazzo">#arKarinaRampazzo</a> <a href="None">None</a></td>
+      <td><a href="#arKarinaRampazzo">#arKarinaRampazzo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -8911,7 +8911,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8921,7 +8921,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arErasmoCarlo">#arErasmoCarlo</a> <a href="None">None</a></td>
+      <td><a href="#arErasmoCarlo">#arErasmoCarlo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -8931,7 +8931,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arZeGarcia">#arZeGarcia</a> <a href="#evTorto">#evTorto</a> <a href="None">None</a></td>
+      <td><a href="#arZeGarcia">#arZeGarcia</a> <a href="#evTorto">#evTorto</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8941,7 +8941,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8951,7 +8951,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -8961,7 +8961,7 @@
       <td>Curta-metragem</td>
       <td></td>
       <td></td>
-      <td><a href="#arWalterCarvalho">#arWalterCarvalho</a> <a href="#arMarceloBraga">#arMarceloBraga</a> <a href="None">None</a></td>
+      <td><a href="#arWalterCarvalho">#arWalterCarvalho</a> <a href="#arMarceloBraga">#arMarceloBraga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -8971,7 +8971,7 @@
       <td>Curta-metragem</td>
       <td></td>
       <td></td>
-      <td><a href="#arRenatoMangolin">#arRenatoMangolin</a> <a href="#arMarceloBraga">#arMarceloBraga</a> <a href="None">None</a></td>
+      <td><a href="#arRenatoMangolin">#arRenatoMangolin</a> <a href="#arMarceloBraga">#arMarceloBraga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -8981,7 +8981,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -8991,7 +8991,7 @@
       <td>Intervenção;Fotografia;Livro de Artista</td>
       <td></td>
       <td></td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9001,7 +9001,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9011,7 +9011,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arYvesKlein">#arYvesKlein</a> <a href="None">None</a></td>
+      <td><a href="#arYvesKlein">#arYvesKlein</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9021,7 +9021,7 @@
       <td>Performance;Dança</td>
       <td></td>
       <td></td>
-      <td><a href="#arFernandoBelfiore">#arFernandoBelfiore</a> <a href="#evFestivalContemporaneodeDanca">#evFestivalContemporaneodeDanca</a> <a href="None">None</a></td>
+      <td><a href="#arFernandoBelfiore">#arFernandoBelfiore</a> <a href="#evFestivalContemporaneodeDanca">#evFestivalContemporaneodeDanca</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9031,7 +9031,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arLolaArias">#arLolaArias</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arLolaArias">#arLolaArias</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9041,7 +9041,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arSantiagoGobernori">#arSantiagoGobernori</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arSantiagoGobernori">#arSantiagoGobernori</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9051,7 +9051,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arJoseMuscari">#arJoseMuscari</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arJoseMuscari">#arJoseMuscari</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9061,7 +9061,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arGustavoTarrio">#arGustavoTarrio</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoTarrio">#arGustavoTarrio</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9071,7 +9071,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arMarianaChaud">#arMarianaChaud</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaChaud">#arMarianaChaud</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9081,7 +9081,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arEdgardoCozarinski">#arEdgardoCozarinski</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arEdgardoCozarinski">#arEdgardoCozarinski</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9091,7 +9091,7 @@
       <td>Dança</td>
       <td></td>
       <td></td>
-      <td><a href="#arMartaSoares">#arMartaSoares</a> <a href="None">None</a></td>
+      <td><a href="#arMartaSoares">#arMartaSoares</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9101,7 +9101,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arCarlosAndrade">#arCarlosAndrade</a> <a href="None">None</a></td>
+      <td><a href="#arCarlosAndrade">#arCarlosAndrade</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9111,7 +9111,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arGrupoTecelagem">#arGrupoTecelagem</a> <a href="#arGuimaraesRosa">#arGuimaraesRosa</a> <a href="#arThiagoRodrigues">#arThiagoRodrigues</a> <a href="#arCelsoFranca">#arCelsoFranca</a> <a href="#arPauloWilliams">#arPauloWilliams</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> <a href="None">None</a></td>
+      <td><a href="#arGrupoTecelagem">#arGrupoTecelagem</a> <a href="#arGuimaraesRosa">#arGuimaraesRosa</a> <a href="#arThiagoRodrigues">#arThiagoRodrigues</a> <a href="#arCelsoFranca">#arCelsoFranca</a> <a href="#arPauloWilliams">#arPauloWilliams</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9121,7 +9121,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arArtePelaArte">#arArtePelaArte</a> <a href="#arMartaMarti">#arMartaMarti</a> <a href="#arTiagoOliveira">#arTiagoOliveira</a> <a href="#arMarceloOliveira">#arMarceloOliveira</a> <a href="#arSidneyFernandes">#arSidneyFernandes</a> <a href="#arMagdaCarvalho">#arMagdaCarvalho</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> <a href="None">None</a></td>
+      <td><a href="#arArtePelaArte">#arArtePelaArte</a> <a href="#arMartaMarti">#arMartaMarti</a> <a href="#arTiagoOliveira">#arTiagoOliveira</a> <a href="#arMarceloOliveira">#arMarceloOliveira</a> <a href="#arSidneyFernandes">#arSidneyFernandes</a> <a href="#arMagdaCarvalho">#arMagdaCarvalho</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9131,7 +9131,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> <a href="None">None</a></td>
+      <td><a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9141,7 +9141,7 @@
       <td>Dança</td>
       <td></td>
       <td></td>
-      <td><a href="#arSergiuMatis">#arSergiuMatis</a> <a href="None">None</a></td>
+      <td><a href="#arSergiuMatis">#arSergiuMatis</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9151,7 +9151,7 @@
       <td>Música;Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arThiagoGomes">#arThiagoGomes</a> <a href="#arCadosSanchez">#arCadosSanchez</a> <a href="#condominioCultural">#condominioCultural</a> <a href="#salaCirurgica">#salaCirurgica</a> <a href="None">None</a></td>
+      <td><a href="#arThiagoGomes">#arThiagoGomes</a> <a href="#arCadosSanchez">#arCadosSanchez</a> <a href="#condominioCultural">#condominioCultural</a> <a href="#salaCirurgica">#salaCirurgica</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9161,7 +9161,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arCiroZorzoli">#arCiroZorzoli</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arCiroZorzoli">#arCiroZorzoli</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9171,7 +9171,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arManuelVason">#arManuelVason</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arManuelVason">#arManuelVason</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9181,7 +9181,7 @@
       <td>Arte Postal</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9191,7 +9191,7 @@
       <td>Programa de Televisão</td>
       <td></td>
       <td></td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9201,7 +9201,7 @@
       <td>Ação</td>
       <td></td>
       <td></td>
-      <td><a href="#arOpovoempe">#arOpovoempe</a> <a href="None">None</a></td>
+      <td><a href="#arOpovoempe">#arOpovoempe</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9211,7 +9211,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arZecaPagodinho">#arZecaPagodinho</a> <a href="#arArlindoCruz">#arArlindoCruz</a> <a href="None">None</a></td>
+      <td><a href="#arZecaPagodinho">#arZecaPagodinho</a> <a href="#arArlindoCruz">#arArlindoCruz</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9221,7 +9221,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arRaulSeixas">#arRaulSeixas</a> <a href="None">None</a></td>
+      <td><a href="#arRaulSeixas">#arRaulSeixas</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9231,7 +9231,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arRaisaTorterola">#arRaisaTorterola</a> <a href="#arJoiceRossato">#arJoiceRossato</a> <a href="#arMarciusAndrade">#arMarciusAndrade</a> <a href="#arKineseColetivoDeCriacaoCultural">#arKineseColetivoDeCriacaoCultural</a> <a href="None">None</a></td>
+      <td><a href="#arRaisaTorterola">#arRaisaTorterola</a> <a href="#arJoiceRossato">#arJoiceRossato</a> <a href="#arMarciusAndrade">#arMarciusAndrade</a> <a href="#arKineseColetivoDeCriacaoCultural">#arKineseColetivoDeCriacaoCultural</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9241,7 +9241,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arPeggyLee">#arPeggyLee</a> <a href="None">None</a></td>
+      <td><a href="#arPeggyLee">#arPeggyLee</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9251,7 +9251,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> <a href="None">None</a></td>
+      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9261,7 +9261,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arNucleoCaboclinhas">#arNucleoCaboclinhas</a> <a href="#arAnaMachado">#arAnaMachado</a> <a href="#arEduSilva">#arEduSilva</a> <a href="#arGeniCavalcante">#arGeniCavalcante</a> <a href="#arGiulianaCerchiari">#arGiulianaCerchiari</a> <a href="#arLucianaSilveira">#arLucianaSilveira</a> <a href="#arMariaBatalha">#arMariaBatalha</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> <a href="None">None</a></td>
+      <td><a href="#arNucleoCaboclinhas">#arNucleoCaboclinhas</a> <a href="#arAnaMachado">#arAnaMachado</a> <a href="#arEduSilva">#arEduSilva</a> <a href="#arGeniCavalcante">#arGeniCavalcante</a> <a href="#arGiulianaCerchiari">#arGiulianaCerchiari</a> <a href="#arLucianaSilveira">#arLucianaSilveira</a> <a href="#arMariaBatalha">#arMariaBatalha</a> <a href="#ev11FestivalDeTeatroDaAmazonia">#ev11FestivalDeTeatroDaAmazonia</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9271,7 +9271,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arBobWolfenson">#arBobWolfenson</a> <a href="#evApreensoes">#evApreensoes</a> <a href="None">None</a></td>
+      <td><a href="#arBobWolfenson">#arBobWolfenson</a> <a href="#evApreensoes">#evApreensoes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9281,7 +9281,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9291,7 +9291,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloLeminski">#arPauloLeminski</a> <a href="None">None</a></td>
+      <td><a href="#arPauloLeminski">#arPauloLeminski</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9301,7 +9301,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9311,7 +9311,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9321,7 +9321,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9331,7 +9331,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9341,7 +9341,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9351,7 +9351,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9361,7 +9361,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9371,7 +9371,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9381,7 +9381,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9391,7 +9391,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9401,7 +9401,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arRonaldoMacedo">#arRonaldoMacedo</a> <a href="#evFissaoTectonica">#evFissaoTectonica</a> <a href="None">None</a></td>
+      <td><a href="#arRonaldoMacedo">#arRonaldoMacedo</a> <a href="#evFissaoTectonica">#evFissaoTectonica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9411,7 +9411,7 @@
       <td>Técnica Mista</td>
       <td></td>
       <td></td>
-      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> <a href="None">None</a></td>
+      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9421,7 +9421,7 @@
       <td>Técnica Mista</td>
       <td></td>
       <td></td>
-      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> <a href="None">None</a></td>
+      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9431,7 +9431,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> <a href="None">None</a></td>
+      <td><a href="#arFredericoFilippi">#arFredericoFilippi</a> <a href="#evCobraCriada">#evCobraCriada</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -9441,7 +9441,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9451,7 +9451,7 @@
       <td>Fotografia;Ação</td>
       <td></td>
       <td></td>
-      <td><a href="#arFabianoRodrigues">#arFabianoRodrigues</a> <a href="#pinacotecaDoEstadoDeSaoPaulo">#pinacotecaDoEstadoDeSaoPaulo</a> <a href="#centroCulturalEstacionMapocho">#centroCulturalEstacionMapocho</a> <a href="#museoDeArteLatinoamericanoDeBuenosAires">#museoDeArteLatinoamericanoDeBuenosAires</a> <a href="None">None</a></td>
+      <td><a href="#arFabianoRodrigues">#arFabianoRodrigues</a> <a href="#pinacotecaDoEstadoDeSaoPaulo">#pinacotecaDoEstadoDeSaoPaulo</a> <a href="#centroCulturalEstacionMapocho">#centroCulturalEstacionMapocho</a> <a href="#museoDeArteLatinoamericanoDeBuenosAires">#museoDeArteLatinoamericanoDeBuenosAires</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9461,7 +9461,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arRafaelSanzio">#arRafaelSanzio</a> <a href="None">None</a></td>
+      <td><a href="#arRafaelSanzio">#arRafaelSanzio</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9471,7 +9471,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arAnaFariaEOsQueijinhosFrescos">#arAnaFariaEOsQueijinhosFrescos</a> <a href="None">None</a></td>
+      <td><a href="#arAnaFariaEOsQueijinhosFrescos">#arAnaFariaEOsQueijinhosFrescos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9481,7 +9481,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9491,7 +9491,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9501,7 +9501,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9511,7 +9511,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="None">None</a></td>
+      <td><a href="#arCiaExcessos">#arCiaExcessos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9521,7 +9521,7 @@
       <td>Curta-metragem</td>
       <td></td>
       <td></td>
-      <td><a href="#arPauloMeira">#arPauloMeira</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMeira">#arPauloMeira</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9531,7 +9531,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> <a href="None">None</a></td>
+      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9541,7 +9541,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> <a href="None">None</a></td>
+      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9551,7 +9551,7 @@
       <td>Música</td>
       <td></td>
       <td></td>
-      <td><a href="#arArnaldoAntunes">#arArnaldoAntunes</a> <a href="None">None</a></td>
+      <td><a href="#arArnaldoAntunes">#arArnaldoAntunes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9561,7 +9561,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arRaquelStolf">#arRaquelStolf</a> <a href="None">None</a></td>
+      <td><a href="#arRaquelStolf">#arRaquelStolf</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9571,7 +9571,7 @@
       <td>Ação</td>
       <td></td>
       <td></td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9581,7 +9581,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arIsisGasparini">#arIsisGasparini</a> <a href="None">None</a></td>
+      <td><a href="#arIsisGasparini">#arIsisGasparini</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9591,7 +9591,7 @@
       <td>Peça</td>
       <td></td>
       <td></td>
-      <td><a href="#arGrupoXIXDeTeatro">#arGrupoXIXDeTeatro</a> <a href="None">None</a></td>
+      <td><a href="#arGrupoXIXDeTeatro">#arGrupoXIXDeTeatro</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9601,7 +9601,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arMichelozzoAmbrosi">#arMichelozzoAmbrosi</a> <a href="None">None</a></td>
+      <td><a href="#arMichelozzoAmbrosi">#arMichelozzoAmbrosi</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9611,7 +9611,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9621,7 +9621,7 @@
       <td>Performance</td>
       <td></td>
       <td></td>
-      <td><a href="#arWagnerSchwartz">#arWagnerSchwartz</a> <a href="#ev35PanoramaDaArteBrasileira">#ev35PanoramaDaArteBrasileira</a> <a href="None">None</a></td>
+      <td><a href="#arWagnerSchwartz">#arWagnerSchwartz</a> <a href="#ev35PanoramaDaArteBrasileira">#ev35PanoramaDaArteBrasileira</a> </td>
       <td>eRevista Performatus; Revista Desvio</td>
     </tr>
     <tr>
@@ -9631,7 +9631,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arMarianaVilanova">#arMarianaVilanova</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaVilanova">#arMarianaVilanova</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9641,7 +9641,7 @@
       <td>Desenho</td>
       <td></td>
       <td></td>
-      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> <a href="None">None</a></td>
+      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9651,7 +9651,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> <a href="None">None</a></td>
+      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9661,7 +9661,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> <a href="None">None</a></td>
+      <td><a href="#arAdiliaLopes">#arAdiliaLopes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9671,7 +9671,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9681,7 +9681,7 @@
       <td>Cordel</td>
       <td></td>
       <td></td>
-      <td><a href="#arColetivoXicaManicongo">#arColetivoXicaManicongo</a> <a href="#arMatheusaPassareli">#arMatheusaPassareli</a> <a href="#arTertulianaLustosa">#arTertulianaLustosa</a> <a href="#arLidiOliveira">#arLidiOliveira</a> <a href="#arWesclaVasconcelos">#arWesclaVasconcelos</a> <a href="#outraLiteratura">#outraLiteratura</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoXicaManicongo">#arColetivoXicaManicongo</a> <a href="#arMatheusaPassareli">#arMatheusaPassareli</a> <a href="#arTertulianaLustosa">#arTertulianaLustosa</a> <a href="#arLidiOliveira">#arLidiOliveira</a> <a href="#arWesclaVasconcelos">#arWesclaVasconcelos</a> <a href="#outraLiteratura">#outraLiteratura</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9691,7 +9691,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arMarianaMorais">#arMarianaMorais</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaMorais">#arMarianaMorais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9701,7 +9701,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9711,7 +9711,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arMillenaLizia">#arMillenaLizia</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> <a href="None">None</a></td>
+      <td><a href="#arMillenaLizia">#arMillenaLizia</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9721,7 +9721,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arEmiliaSilberstein">#arEmiliaSilberstein</a> <a href="None">None</a></td>
+      <td><a href="#arEmiliaSilberstein">#arEmiliaSilberstein</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9731,7 +9731,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arHansPeterFeldmann">#arHansPeterFeldmann</a> <a href="None">None</a></td>
+      <td><a href="#arHansPeterFeldmann">#arHansPeterFeldmann</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9741,7 +9741,7 @@
       <td>Instalação</td>
       <td></td>
       <td></td>
-      <td><a href="#arAdriannaEu">#arAdriannaEu</a> <a href="#ev2aTrioBienal">#ev2aTrioBienal</a> <a href="None">None</a></td>
+      <td><a href="#arAdriannaEu">#arAdriannaEu</a> <a href="#ev2aTrioBienal">#ev2aTrioBienal</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9751,7 +9751,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arMauroRestiffe">#arMauroRestiffe</a> <a href="#evObra">#evObra</a> <a href="None">None</a></td>
+      <td><a href="#arMauroRestiffe">#arMauroRestiffe</a> <a href="#evObra">#evObra</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9761,7 +9761,7 @@
       <td>Impressão</td>
       <td></td>
       <td></td>
-      <td><a href="#arNelsonFaedrich">#arNelsonFaedrich</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arNelsonFaedrich">#arNelsonFaedrich</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9771,7 +9771,7 @@
       <td>Pintura</td>
       <td></td>
       <td></td>
-      <td><a href="#arNorbertKox">#arNorbertKox</a> <a href="#arThomasThompson">#arThomasThompson</a> <a href="None">None</a></td>
+      <td><a href="#arNorbertKox">#arNorbertKox</a> <a href="#arThomasThompson">#arThomasThompson</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9781,7 +9781,7 @@
       <td>ND</td>
       <td></td>
       <td></td>
-      <td><a href="#arAdriannaEu">#arAdriannaEu</a> <a href="None">None</a></td>
+      <td><a href="#arAdriannaEu">#arAdriannaEu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9791,7 +9791,7 @@
       <td>Poema</td>
       <td></td>
       <td></td>
-      <td><a href="#arAlexandreONeill">#arAlexandreONeill</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreONeill">#arAlexandreONeill</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9801,7 +9801,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arLeoCaobelli">#arLeoCaobelli</a> <a href="None">None</a></td>
+      <td><a href="#arLeoCaobelli">#arLeoCaobelli</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9811,7 +9811,7 @@
       <td>Escultura</td>
       <td></td>
       <td></td>
-      <td><a href="#arJuliaBrandao">#arJuliaBrandao</a> <a href="None">None</a></td>
+      <td><a href="#arJuliaBrandao">#arJuliaBrandao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9821,7 +9821,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arGuilhermeAlbuquerque">#arGuilhermeAlbuquerque</a> <a href="None">None</a></td>
+      <td><a href="#arGuilhermeAlbuquerque">#arGuilhermeAlbuquerque</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9831,7 +9831,7 @@
       <td>Fotografia</td>
       <td></td>
       <td></td>
-      <td><a href="#arAugustSander">#arAugustSander</a> <a href="#ev30BienalDeSaoPaulo">#ev30BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arAugustSander">#arAugustSander</a> <a href="#ev30BienalDeSaoPaulo">#ev30BienalDeSaoPaulo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9841,7 +9841,7 @@
       <td>Filme Colorido</td>
       <td></td>
       <td></td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9851,7 +9851,7 @@
       <td>Pintura</td>
       <td>1483</td>
       <td>1483</td>
-      <td><a href="#arSandroBotticelli">#arSandroBotticelli</a> <a href="None">None</a></td>
+      <td><a href="#arSandroBotticelli">#arSandroBotticelli</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9861,7 +9861,7 @@
       <td>Escultura</td>
       <td>1498</td>
       <td>1499</td>
-      <td><a href="#arMichelangeloSimoni">#arMichelangeloSimoni</a> <a href="None">None</a></td>
+      <td><a href="#arMichelangeloSimoni">#arMichelangeloSimoni</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9871,7 +9871,7 @@
       <td>Pintura</td>
       <td>1656</td>
       <td>1656</td>
-      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> <a href="None">None</a></td>
+      <td><a href="#arDiegoVelazquez">#arDiegoVelazquez</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9881,7 +9881,7 @@
       <td>Pintura</td>
       <td>1657</td>
       <td>1658</td>
-      <td><a href="#arJohannesVermeer">#arJohannesVermeer</a> <a href="None">None</a></td>
+      <td><a href="#arJohannesVermeer">#arJohannesVermeer</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9891,7 +9891,7 @@
       <td>Pintura</td>
       <td>1660</td>
       <td>1662</td>
-      <td><a href="#arJohannesVermeer">#arJohannesVermeer</a> <a href="None">None</a></td>
+      <td><a href="#arJohannesVermeer">#arJohannesVermeer</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9901,7 +9901,7 @@
       <td>Filme Preto & Branco</td>
       <td>1663</td>
       <td>1663</td>
-      <td><a href="#arJoaquimPedro">#arJoaquimPedro</a> <a href="None">None</a></td>
+      <td><a href="#arJoaquimPedro">#arJoaquimPedro</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -9911,7 +9911,7 @@
       <td>Pintura</td>
       <td>1739</td>
       <td>1739</td>
-      <td><a href="#arJeanBaptisteSimeonChardin">#arJeanBaptisteSimeonChardin</a> <a href="None">None</a></td>
+      <td><a href="#arJeanBaptisteSimeonChardin">#arJeanBaptisteSimeonChardin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9921,7 +9921,7 @@
       <td>Pintura</td>
       <td>1798</td>
       <td>1798</td>
-      <td><a href="#arWilliamTurner">#arWilliamTurner</a> <a href="None">None</a></td>
+      <td><a href="#arWilliamTurner">#arWilliamTurner</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9931,7 +9931,7 @@
       <td>Romance</td>
       <td>1809</td>
       <td>1809</td>
-      <td><a href="#arGoethe">#arGoethe</a> <a href="None">None</a></td>
+      <td><a href="#arGoethe">#arGoethe</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -9941,7 +9941,7 @@
       <td>Conto de Fadas</td>
       <td>1812</td>
       <td>1812</td>
-      <td><a href="#arIrmaosGrimm">#arIrmaosGrimm</a> <a href="None">None</a></td>
+      <td><a href="#arIrmaosGrimm">#arIrmaosGrimm</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9951,7 +9951,7 @@
       <td>Pintura</td>
       <td>1823</td>
       <td>1824</td>
-      <td><a href="#arFerdinandDelacroix">#arFerdinandDelacroix</a> <a href="None">None</a></td>
+      <td><a href="#arFerdinandDelacroix">#arFerdinandDelacroix</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9961,7 +9961,7 @@
       <td>Pintura</td>
       <td>1842</td>
       <td>1842</td>
-      <td><a href="#arWilliamTurner">#arWilliamTurner</a> <a href="None">None</a></td>
+      <td><a href="#arWilliamTurner">#arWilliamTurner</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9971,7 +9971,7 @@
       <td>Pintura</td>
       <td>1843</td>
       <td>1843</td>
-      <td><a href="#arWilliamTurner">#arWilliamTurner</a> <a href="None">None</a></td>
+      <td><a href="#arWilliamTurner">#arWilliamTurner</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -9981,7 +9981,7 @@
       <td>Pintura</td>
       <td>1860</td>
       <td>1860</td>
-      <td><a href="#arVictorLima">#arVictorLima</a> <a href="None">None</a></td>
+      <td><a href="#arVictorLima">#arVictorLima</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -9991,7 +9991,7 @@
       <td>Pintura</td>
       <td>1863</td>
       <td>1863</td>
-      <td><a href="#arEdouardManet">#arEdouardManet</a> <a href="None">None</a></td>
+      <td><a href="#arEdouardManet">#arEdouardManet</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10001,7 +10001,7 @@
       <td>Pintura</td>
       <td>1863</td>
       <td>1863</td>
-      <td><a href="#arEdouardManet">#arEdouardManet</a> <a href="None">None</a></td>
+      <td><a href="#arEdouardManet">#arEdouardManet</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10011,7 +10011,7 @@
       <td>Pintura</td>
       <td>1866</td>
       <td>1866</td>
-      <td><a href="#arGustaveCourbet">#arGustaveCourbet</a> <a href="None">None</a></td>
+      <td><a href="#arGustaveCourbet">#arGustaveCourbet</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10021,7 +10021,7 @@
       <td>Pintura</td>
       <td>1867</td>
       <td>1867</td>
-      <td><a href="#arEdouardManet">#arEdouardManet</a> <a href="None">None</a></td>
+      <td><a href="#arEdouardManet">#arEdouardManet</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10031,7 +10031,7 @@
       <td>Pintura</td>
       <td>1870</td>
       <td>1875</td>
-      <td><a href="#arManet">#arManet</a> <a href="None">None</a></td>
+      <td><a href="#arManet">#arManet</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10041,7 +10041,7 @@
       <td>Romance</td>
       <td>1871</td>
       <td>1871</td>
-      <td><a href="#arLewisCarroll">#arLewisCarroll</a> <a href="None">None</a></td>
+      <td><a href="#arLewisCarroll">#arLewisCarroll</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10051,7 +10051,7 @@
       <td>Poema em Prosa</td>
       <td>1874</td>
       <td>1874</td>
-      <td><a href="#arGustaveFlaubert">#arGustaveFlaubert</a> <a href="None">None</a></td>
+      <td><a href="#arGustaveFlaubert">#arGustaveFlaubert</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10061,7 +10061,7 @@
       <td>Música</td>
       <td>1877</td>
       <td>1877</td>
-      <td><a href="#arPyotrTchaikovsky">#arPyotrTchaikovsky</a> <a href="None">None</a></td>
+      <td><a href="#arPyotrTchaikovsky">#arPyotrTchaikovsky</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10071,7 +10071,7 @@
       <td>Dança</td>
       <td>1877</td>
       <td>1877</td>
-      <td><a href="#arMariusPetipa">#arMariusPetipa</a> <a href="None">None</a></td>
+      <td><a href="#arMariusPetipa">#arMariusPetipa</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10081,7 +10081,7 @@
       <td>Pintura</td>
       <td>1886</td>
       <td>1886</td>
-      <td><a href="#arJohnMillais">#arJohnMillais</a> <a href="None">None</a></td>
+      <td><a href="#arJohnMillais">#arJohnMillais</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10091,7 +10091,7 @@
       <td>Novela</td>
       <td>1886</td>
       <td>1886</td>
-      <td><a href="#arRobertStevenson">#arRobertStevenson</a> <a href="None">None</a></td>
+      <td><a href="#arRobertStevenson">#arRobertStevenson</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10101,7 +10101,7 @@
       <td>Pintura</td>
       <td>1893</td>
       <td>1893</td>
-      <td><a href="#arJoseAlmeida">#arJoseAlmeida</a> <a href="None">None</a></td>
+      <td><a href="#arJoseAlmeida">#arJoseAlmeida</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10111,7 +10111,7 @@
       <td>Pintura</td>
       <td>1893</td>
       <td>1893</td>
-      <td><a href="#arPedroMello">#arPedroMello</a> <a href="None">None</a></td>
+      <td><a href="#arPedroMello">#arPedroMello</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10121,7 +10121,7 @@
       <td>Filme Preto & Branco</td>
       <td>1896</td>
       <td>1896</td>
-      <td><a href="#arIrmaosLumiere">#arIrmaosLumiere</a> <a href="None">None</a></td>
+      <td><a href="#arIrmaosLumiere">#arIrmaosLumiere</a> </td>
       <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
@@ -10131,7 +10131,7 @@
       <td>Filme Colorido</td>
       <td>1898</td>
       <td>1898</td>
-      <td><a href="#arStevenLisberger">#arStevenLisberger</a> <a href="None">None</a></td>
+      <td><a href="#arStevenLisberger">#arStevenLisberger</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10141,7 +10141,7 @@
       <td>Pintura</td>
       <td>1907</td>
       <td>1907</td>
-      <td><a href="#arPabloPicasso">#arPabloPicasso</a> <a href="None">None</a></td>
+      <td><a href="#arPabloPicasso">#arPabloPicasso</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10151,7 +10151,7 @@
       <td>Dança</td>
       <td>1907</td>
       <td>1907</td>
-      <td><a href="#arMichelFokine">#arMichelFokine</a> <a href="#arAnnaPavlova">#arAnnaPavlova</a> <a href="None">None</a></td>
+      <td><a href="#arMichelFokine">#arMichelFokine</a> <a href="#arAnnaPavlova">#arAnnaPavlova</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10161,7 +10161,7 @@
       <td>Dança</td>
       <td>1910</td>
       <td>1910</td>
-      <td><a href="#arMichelFokine">#arMichelFokine</a> <a href="None">None</a></td>
+      <td><a href="#arMichelFokine">#arMichelFokine</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10171,7 +10171,7 @@
       <td>Pintura</td>
       <td>1911</td>
       <td>1911</td>
-      <td><a href="#arGeorgesBraque">#arGeorgesBraque</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arGeorgesBraque">#arGeorgesBraque</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10181,7 +10181,7 @@
       <td>Técnica Mista</td>
       <td>1915</td>
       <td>1923</td>
-      <td><a href="#arHenriDuchamp">#arHenriDuchamp</a> <a href="None">None</a></td>
+      <td><a href="#arHenriDuchamp">#arHenriDuchamp</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10191,7 +10191,7 @@
       <td>Filme Preto & Branco</td>
       <td>1915</td>
       <td>1915</td>
-      <td><a href="#arDavidGriffith">#arDavidGriffith</a> <a href="None">None</a></td>
+      <td><a href="#arDavidGriffith">#arDavidGriffith</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10201,7 +10201,7 @@
       <td>Pintura</td>
       <td>1915</td>
       <td>1916</td>
-      <td><a href="#arAnitaMalfatti">#arAnitaMalfatti</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arAnitaMalfatti">#arAnitaMalfatti</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10211,7 +10211,7 @@
       <td>Escultura</td>
       <td>1917</td>
       <td>1917</td>
-      <td><a href="#arElsaFreytagLoringhoven">#arElsaFreytagLoringhoven</a> <a href="None">None</a></td>
+      <td><a href="#arElsaFreytagLoringhoven">#arElsaFreytagLoringhoven</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10221,7 +10221,7 @@
       <td>Pintura</td>
       <td>1919</td>
       <td>1919</td>
-      <td><a href="#arSuzanneValadon">#arSuzanneValadon</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanneValadon">#arSuzanneValadon</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10231,7 +10231,7 @@
       <td>Pintura</td>
       <td>1920</td>
       <td>1936</td>
-      <td><a href="#arHenriqueBernadelli">#arHenriqueBernadelli</a> <a href="None">None</a></td>
+      <td><a href="#arHenriqueBernadelli">#arHenriqueBernadelli</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10241,7 +10241,7 @@
       <td>Pintura</td>
       <td>1923</td>
       <td>1923</td>
-      <td><a href="#arPabloPicasso">#arPabloPicasso</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arPabloPicasso">#arPabloPicasso</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10251,7 +10251,7 @@
       <td>Pintura</td>
       <td>1924</td>
       <td>1924</td>
-      <td><a href="#arLasarSegall">#arLasarSegall</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arLasarSegall">#arLasarSegall</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10261,7 +10261,7 @@
       <td>Pintura</td>
       <td>1925</td>
       <td>1925</td>
-      <td><a href="#arTarsilaAmaral">#arTarsilaAmaral</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arTarsilaAmaral">#arTarsilaAmaral</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10271,7 +10271,7 @@
       <td>Pintura</td>
       <td>1925</td>
       <td>1925</td>
-      <td><a href="#arVicenteMonteiro">#arVicenteMonteiro</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arVicenteMonteiro">#arVicenteMonteiro</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10281,7 +10281,7 @@
       <td>Pintura</td>
       <td>1926</td>
       <td>1926</td>
-      <td><a href="#arArmandoReveron">#arArmandoReveron</a> <a href="None">None</a></td>
+      <td><a href="#arArmandoReveron">#arArmandoReveron</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10291,7 +10291,7 @@
       <td>Pintura</td>
       <td>1926</td>
       <td>1926</td>
-      <td><a href="#arRobertDelaunay">#arRobertDelaunay</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arRobertDelaunay">#arRobertDelaunay</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10301,7 +10301,7 @@
       <td>Pintura</td>
       <td>1928</td>
       <td>1928</td>
-      <td><a href="#arArmandoReveron">#arArmandoReveron</a> <a href="None">None</a></td>
+      <td><a href="#arArmandoReveron">#arArmandoReveron</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10311,7 +10311,7 @@
       <td>Romance</td>
       <td>1928</td>
       <td>1928</td>
-      <td><a href="#arAndreBreton">#arAndreBreton</a> <a href="None">None</a></td>
+      <td><a href="#arAndreBreton">#arAndreBreton</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10321,7 +10321,7 @@
       <td>Poema</td>
       <td>1928</td>
       <td>1928</td>
-      <td><a href="#arCarlosAndrade">#arCarlosAndrade</a> <a href="None">None</a></td>
+      <td><a href="#arCarlosAndrade">#arCarlosAndrade</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10331,7 +10331,7 @@
       <td>Fotografia</td>
       <td>1929</td>
       <td>1929</td>
-      <td><a href="#arWalkerEvans">#arWalkerEvans</a> <a href="None">None</a></td>
+      <td><a href="#arWalkerEvans">#arWalkerEvans</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10341,7 +10341,7 @@
       <td>Fotografia</td>
       <td>1929</td>
       <td>1929</td>
-      <td><a href="#arWalkerEvans">#arWalkerEvans</a> <a href="None">None</a></td>
+      <td><a href="#arWalkerEvans">#arWalkerEvans</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10351,7 +10351,7 @@
       <td>Filme Preto & Branco</td>
       <td>1929</td>
       <td>1929</td>
-      <td><a href="#arLuisBunuel">#arLuisBunuel</a> <a href="None">None</a></td>
+      <td><a href="#arLuisBunuel">#arLuisBunuel</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10361,7 +10361,7 @@
       <td>Pintura</td>
       <td>1930</td>
       <td>1930</td>
-      <td><a href="#arPaulKlee">#arPaulKlee</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arPaulKlee">#arPaulKlee</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10371,7 +10371,7 @@
       <td>Pintura</td>
       <td>1930</td>
       <td>1930</td>
-      <td><a href="#arPedroFigari">#arPedroFigari</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arPedroFigari">#arPedroFigari</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10381,7 +10381,7 @@
       <td>Técnica Mista</td>
       <td>1930</td>
       <td>1930</td>
-      <td><a href="#arJoaquinGarcia">#arJoaquinGarcia</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arJoaquinGarcia">#arJoaquinGarcia</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10391,7 +10391,7 @@
       <td>Pintura</td>
       <td>1931</td>
       <td>1931</td>
-      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10401,7 +10401,7 @@
       <td>Fotografia</td>
       <td>1932</td>
       <td>1932</td>
-      <td><a href="#arWalkerEvans">#arWalkerEvans</a> <a href="None">None</a></td>
+      <td><a href="#arWalkerEvans">#arWalkerEvans</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10411,7 +10411,7 @@
       <td>Pintura</td>
       <td>1932</td>
       <td>1932</td>
-      <td><a href="#arFridaKahlo">#arFridaKahlo</a> <a href="None">None</a></td>
+      <td><a href="#arFridaKahlo">#arFridaKahlo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10421,7 +10421,7 @@
       <td>Poema</td>
       <td>1932</td>
       <td>1932</td>
-      <td><a href="#arFernandoPessoa">#arFernandoPessoa</a> <a href="None">None</a></td>
+      <td><a href="#arFernandoPessoa">#arFernandoPessoa</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10431,7 +10431,7 @@
       <td>Fotografia</td>
       <td>1933</td>
       <td>1933</td>
-      <td><a href="#arWalkerEvans">#arWalkerEvans</a> <a href="None">None</a></td>
+      <td><a href="#arWalkerEvans">#arWalkerEvans</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10441,7 +10441,7 @@
       <td>Pintura</td>
       <td>1933</td>
       <td>1933</td>
-      <td><a href="#arArmandoReveron">#arArmandoReveron</a> <a href="None">None</a></td>
+      <td><a href="#arArmandoReveron">#arArmandoReveron</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10451,7 +10451,7 @@
       <td>Pintura</td>
       <td>1934</td>
       <td>1934</td>
-      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> <a href="None">None</a></td>
+      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10461,7 +10461,7 @@
       <td>Pintura</td>
       <td>1934</td>
       <td>1934</td>
-      <td><a href="#arCandidoPortinari">#arCandidoPortinari</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arCandidoPortinari">#arCandidoPortinari</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10471,7 +10471,7 @@
       <td>Pintura</td>
       <td>1935</td>
       <td>1935</td>
-      <td><a href="#arCarlosPrado">#arCarlosPrado</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arCarlosPrado">#arCarlosPrado</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10481,7 +10481,7 @@
       <td>Escultura</td>
       <td>1937</td>
       <td>1937</td>
-      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> <a href="None">None</a></td>
+      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10491,7 +10491,7 @@
       <td>Filme Colorido;Filme Animado;Filme Infantil</td>
       <td>1937</td>
       <td>1937</td>
-      <td><a href="#arWaltDisneyAnimationStudios">#arWaltDisneyAnimationStudios</a> <a href="None">None</a></td>
+      <td><a href="#arWaltDisneyAnimationStudios">#arWaltDisneyAnimationStudios</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10501,7 +10501,7 @@
       <td>Pintura</td>
       <td>1939</td>
       <td>1939</td>
-      <td><a href="#arLuisTrias">#arLuisTrias</a> <a href="None">None</a></td>
+      <td><a href="#arLuisTrias">#arLuisTrias</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10511,7 +10511,7 @@
       <td>Pintura</td>
       <td>1940</td>
       <td>1940</td>
-      <td><a href="#arGuignard">#arGuignard</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arGuignard">#arGuignard</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10521,7 +10521,7 @@
       <td>Música</td>
       <td>1941</td>
       <td>1941</td>
-      <td><a href="#arOlivierMessiaen">#arOlivierMessiaen</a> <a href="None">None</a></td>
+      <td><a href="#arOlivierMessiaen">#arOlivierMessiaen</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10531,7 +10531,7 @@
       <td>Romance</td>
       <td>1942</td>
       <td>1942</td>
-      <td><a href="#arAlbertCamus">#arAlbertCamus</a> <a href="None">None</a></td>
+      <td><a href="#arAlbertCamus">#arAlbertCamus</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10541,7 +10541,7 @@
       <td>Pintura</td>
       <td>1944</td>
       <td>1944</td>
-      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> <a href="None">None</a></td>
+      <td><a href="#arSalvadorDomenech">#arSalvadorDomenech</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10551,7 +10551,7 @@
       <td>Pintura</td>
       <td>1946</td>
       <td>1946</td>
-      <td><a href="#arFernandLeger">#arFernandLeger</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arFernandLeger">#arFernandLeger</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10561,7 +10561,7 @@
       <td>Escultura</td>
       <td>1946</td>
       <td>1946</td>
-      <td><a href="#arMariaMartins">#arMariaMartins</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> <a href="None">None</a></td>
+      <td><a href="#arMariaMartins">#arMariaMartins</a> <a href="#evAlucinacoesParciais">#evAlucinacoesParciais</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10571,7 +10571,7 @@
       <td>Pintura</td>
       <td>1947</td>
       <td>1947</td>
-      <td><a href="#arBenitoCastaneda">#arBenitoCastaneda</a> <a href="None">None</a></td>
+      <td><a href="#arBenitoCastaneda">#arBenitoCastaneda</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10581,7 +10581,7 @@
       <td>Peça</td>
       <td>1949</td>
       <td>1949</td>
-      <td><a href="#arGeorgesBernanos">#arGeorgesBernanos</a> <a href="None">None</a></td>
+      <td><a href="#arGeorgesBernanos">#arGeorgesBernanos</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10591,7 +10591,7 @@
       <td>Música</td>
       <td>1949</td>
       <td>1949</td>
-      <td><a href="#arJuleStyne">#arJuleStyne</a> <a href="#arLeoRobin">#arLeoRobin</a> <a href="None">None</a></td>
+      <td><a href="#arJuleStyne">#arJuleStyne</a> <a href="#arLeoRobin">#arLeoRobin</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10601,7 +10601,7 @@
       <td>Fotografia</td>
       <td>1950</td>
       <td>1950</td>
-      <td><a href="#arRobertDoisneau">#arRobertDoisneau</a> <a href="#evARenaultDeDoisneau">#evARenaultDeDoisneau</a> <a href="None">None</a></td>
+      <td><a href="#arRobertDoisneau">#arRobertDoisneau</a> <a href="#evARenaultDeDoisneau">#evARenaultDeDoisneau</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10611,7 +10611,7 @@
       <td>Música</td>
       <td>1952</td>
       <td>1952</td>
-      <td><a href="#arJohnCage">#arJohnCage</a> <a href="None">None</a></td>
+      <td><a href="#arJohnCage">#arJohnCage</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10621,7 +10621,7 @@
       <td>Romance</td>
       <td>1953</td>
       <td>1953</td>
-      <td><a href="#arRayBradbury">#arRayBradbury</a> <a href="None">None</a></td>
+      <td><a href="#arRayBradbury">#arRayBradbury</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10631,7 +10631,7 @@
       <td>Fotografia</td>
       <td>1953</td>
       <td>1953</td>
-      <td><a href="#arRobertDoisneau">#arRobertDoisneau</a> <a href="None">None</a></td>
+      <td><a href="#arRobertDoisneau">#arRobertDoisneau</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10641,7 +10641,7 @@
       <td>Filme Colorido</td>
       <td>1953</td>
       <td>1953</td>
-      <td><a href="#arNormaMortenson">#arNormaMortenson</a> <a href="None">None</a></td>
+      <td><a href="#arNormaMortenson">#arNormaMortenson</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10651,7 +10651,7 @@
       <td>Fotografia</td>
       <td>1954</td>
       <td>1954</td>
-      <td><a href="#arFanHo">#arFanHo</a> <a href="None">None</a></td>
+      <td><a href="#arFanHo">#arFanHo</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10661,7 +10661,7 @@
       <td>Pintura;Escultura</td>
       <td>1954</td>
       <td>1964</td>
-      <td><a href="#arRobertRauschenberg">#arRobertRauschenberg</a> <a href="None">None</a></td>
+      <td><a href="#arRobertRauschenberg">#arRobertRauschenberg</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10671,7 +10671,7 @@
       <td>Escultura</td>
       <td>1954</td>
       <td>1954</td>
-      <td><a href="#arVictorBrecheret">#arVictorBrecheret</a> <a href="None">None</a></td>
+      <td><a href="#arVictorBrecheret">#arVictorBrecheret</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10681,7 +10681,7 @@
       <td>Romance</td>
       <td>1955</td>
       <td>1955</td>
-      <td><a href="#arVladimirNabokov">#arVladimirNabokov</a> <a href="None">None</a></td>
+      <td><a href="#arVladimirNabokov">#arVladimirNabokov</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10691,7 +10691,7 @@
       <td>Filme Colorido</td>
       <td>1955</td>
       <td>1955</td>
-      <td><a href="#arBillyWilder">#arBillyWilder</a> <a href="#arNormaMortenson">#arNormaMortenson</a> <a href="None">None</a></td>
+      <td><a href="#arBillyWilder">#arBillyWilder</a> <a href="#arNormaMortenson">#arNormaMortenson</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10701,7 +10701,7 @@
       <td>Romance</td>
       <td>1956</td>
       <td>1956</td>
-      <td><a href="#arGuimaraesRosa">#arGuimaraesRosa</a> <a href="None">None</a></td>
+      <td><a href="#arGuimaraesRosa">#arGuimaraesRosa</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10711,7 +10711,7 @@
       <td>Filme Preto & Branco</td>
       <td>1957</td>
       <td>1957</td>
-      <td><a href="#arErnstBergman">#arErnstBergman</a> <a href="None">None</a></td>
+      <td><a href="#arErnstBergman">#arErnstBergman</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10721,7 +10721,7 @@
       <td>Fotolivro</td>
       <td>1958</td>
       <td>1958</td>
-      <td><a href="#arRobertFrank">#arRobertFrank</a> <a href="#perRobertDelpire">#perRobertDelpire</a> <a href="None">None</a></td>
+      <td><a href="#arRobertFrank">#arRobertFrank</a> <a href="#perRobertDelpire">#perRobertDelpire</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10731,7 +10731,7 @@
       <td>Técnica Mista</td>
       <td>1959</td>
       <td>1959</td>
-      <td><a href="#arWillysCastro">#arWillysCastro</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arWillysCastro">#arWillysCastro</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10741,7 +10741,7 @@
       <td>Performance;Fotografia</td>
       <td>1960</td>
       <td>1960</td>
-      <td><a href="#arYvesKlein">#arYvesKlein</a> <a href="None">None</a></td>
+      <td><a href="#arYvesKlein">#arYvesKlein</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10751,7 +10751,7 @@
       <td>Drama</td>
       <td>1960</td>
       <td>1960</td>
-      <td><a href="#arNelsonRodrigues">#arNelsonRodrigues</a> <a href="None">None</a></td>
+      <td><a href="#arNelsonRodrigues">#arNelsonRodrigues</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10761,7 +10761,7 @@
       <td>Fotografia</td>
       <td>1960</td>
       <td>1960</td>
-      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> <a href="None">None</a></td>
+      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10771,7 +10771,7 @@
       <td>Instalação</td>
       <td>1961</td>
       <td>1961</td>
-      <td><a href="#arYvesKlein">#arYvesKlein</a> <a href="None">None</a></td>
+      <td><a href="#arYvesKlein">#arYvesKlein</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10781,7 +10781,7 @@
       <td>Disco</td>
       <td>1961</td>
       <td>1961</td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10791,7 +10791,7 @@
       <td>Filme Preto & Branco</td>
       <td>1962</td>
       <td>1962</td>
-      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> <a href="None">None</a></td>
+      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10801,7 +10801,7 @@
       <td>Filme Preto & Branco</td>
       <td>1962</td>
       <td>1962</td>
-      <td><a href="#arChrisMarker">#arChrisMarker</a> <a href="None">None</a></td>
+      <td><a href="#arChrisMarker">#arChrisMarker</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10811,7 +10811,7 @@
       <td>Ação</td>
       <td>1963</td>
       <td>1963</td>
-      <td><a href="#arLygiaClark">#arLygiaClark</a> <a href="None">None</a></td>
+      <td><a href="#arLygiaClark">#arLygiaClark</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10821,7 +10821,7 @@
       <td>Música</td>
       <td>1963</td>
       <td>1963</td>
-      <td><a href="#arLesleyGoldstein">#arLesleyGoldstein</a> <a href="None">None</a></td>
+      <td><a href="#arLesleyGoldstein">#arLesleyGoldstein</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10831,7 +10831,7 @@
       <td>Curta-metragem</td>
       <td>1963</td>
       <td>1963</td>
-      <td><a href="#arFanHo">#arFanHo</a> <a href="None">None</a></td>
+      <td><a href="#arFanHo">#arFanHo</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10841,7 +10841,7 @@
       <td>Performance</td>
       <td>1964</td>
       <td>1964</td>
-      <td><a href="#arYokoLennon">#arYokoLennon</a> <a href="None">None</a></td>
+      <td><a href="#arYokoLennon">#arYokoLennon</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10851,7 +10851,7 @@
       <td>Pintura</td>
       <td>1964</td>
       <td>1964</td>
-      <td><a href="#arElzaSouza">#arElzaSouza</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arElzaSouza">#arElzaSouza</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10861,7 +10861,7 @@
       <td>Pintura</td>
       <td>1964</td>
       <td>1964</td>
-      <td><a href="#arSamuelSzpigel">#arSamuelSzpigel</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> <a href="None">None</a></td>
+      <td><a href="#arSamuelSzpigel">#arSamuelSzpigel</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10871,7 +10871,7 @@
       <td>Fotografia</td>
       <td>1965</td>
       <td>1965</td>
-      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> <a href="None">None</a></td>
+      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10881,7 +10881,7 @@
       <td>Instalação</td>
       <td>1965</td>
       <td>1965</td>
-      <td><a href="#arJosephKosuth">#arJosephKosuth</a> <a href="None">None</a></td>
+      <td><a href="#arJosephKosuth">#arJosephKosuth</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10891,7 +10891,7 @@
       <td>Pintura</td>
       <td>1965</td>
       <td>1965</td>
-      <td><a href="#arFrancisSouza">#arFrancisSouza</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arFrancisSouza">#arFrancisSouza</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10901,7 +10901,7 @@
       <td>Pintura</td>
       <td>1965</td>
       <td>1965</td>
-      <td><a href="#arAntonioDias">#arAntonioDias</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioDias">#arAntonioDias</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10911,7 +10911,7 @@
       <td>Filme Colorido</td>
       <td>1966</td>
       <td>1966</td>
-      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> <a href="None">None</a></td>
+      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10921,7 +10921,7 @@
       <td>Videoarte</td>
       <td>1966</td>
       <td>1966</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10931,7 +10931,7 @@
       <td>Filme Colorido</td>
       <td>1966</td>
       <td>1966</td>
-      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> <a href="None">None</a></td>
+      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -10941,7 +10941,7 @@
       <td>Pintura</td>
       <td>1966</td>
       <td>1966</td>
-      <td><a href="#arRubensGerchman">#arRubensGerchman</a> <a href="None">None</a></td>
+      <td><a href="#arRubensGerchman">#arRubensGerchman</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10951,7 +10951,7 @@
       <td>Música</td>
       <td>1966</td>
       <td>1966</td>
-      <td><a href="#arDomenicoModugno">#arDomenicoModugno</a> <a href="#arGigliolaCinquetti">#arGigliolaCinquetti</a> <a href="None">None</a></td>
+      <td><a href="#arDomenicoModugno">#arDomenicoModugno</a> <a href="#arGigliolaCinquetti">#arGigliolaCinquetti</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -10961,7 +10961,7 @@
       <td>Filme Preto & Branco</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arGlauberRocha">#arGlauberRocha</a> <a href="None">None</a></td>
+      <td><a href="#arGlauberRocha">#arGlauberRocha</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -10971,7 +10971,7 @@
       <td>Poema</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arNicolasGuillen">#arNicolasGuillen</a> <a href="None">None</a></td>
+      <td><a href="#arNicolasGuillen">#arNicolasGuillen</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -10981,7 +10981,7 @@
       <td>Pintura</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arAntonioDias">#arAntonioDias</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioDias">#arAntonioDias</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -10991,7 +10991,7 @@
       <td>Videoarte</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11001,7 +11001,7 @@
       <td>Fotografia</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arMichaelRuetz">#arMichaelRuetz</a> <a href="#ev1968TemposIncomodos">#ev1968TemposIncomodos</a> <a href="None">None</a></td>
+      <td><a href="#arMichaelRuetz">#arMichaelRuetz</a> <a href="#ev1968TemposIncomodos">#ev1968TemposIncomodos</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11011,7 +11011,7 @@
       <td>Instalação</td>
       <td>1967</td>
       <td>1967</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11021,7 +11021,7 @@
       <td>Escultura</td>
       <td>1967</td>
       <td>2005</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11031,7 +11031,7 @@
       <td>Videoarte</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11041,7 +11041,7 @@
       <td>Filme Colorido</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arPasqualeCampanile">#arPasqualeCampanile</a> <a href="#arCatherineSpaak">#arCatherineSpaak</a> <a href="#cinemaEsperanto">#cinemaEsperanto</a> <a href="None">None</a></td>
+      <td><a href="#arPasqualeCampanile">#arPasqualeCampanile</a> <a href="#arCatherineSpaak">#arCatherineSpaak</a> <a href="#cinemaEsperanto">#cinemaEsperanto</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11051,7 +11051,7 @@
       <td>Pintura</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="None">None</a></td>
+      <td><a href="#arHelioOiticica">#arHelioOiticica</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11061,7 +11061,7 @@
       <td>Videoarte</td>
       <td>1968</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11071,7 +11071,7 @@
       <td>ND</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arAntonioDias">#arAntonioDias</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioDias">#arAntonioDias</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11081,7 +11081,7 @@
       <td>Videoarte</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11091,7 +11091,7 @@
       <td>Filme Colorido</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arStanleyKubrick">#arStanleyKubrick</a> <a href="None">None</a></td>
+      <td><a href="#arStanleyKubrick">#arStanleyKubrick</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11101,7 +11101,7 @@
       <td>Pintura</td>
       <td>1968</td>
       <td>1968</td>
-      <td><a href="#arTeresinhaSoares">#arTeresinhaSoares</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arTeresinhaSoares">#arTeresinhaSoares</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11111,7 +11111,7 @@
       <td>Escultura</td>
       <td>1969</td>
       <td>1969</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11121,7 +11121,7 @@
       <td>Intervenção</td>
       <td>1969</td>
       <td>1970</td>
-      <td><a href="#arArturBarrio">#arArturBarrio</a> <a href="#parqueMunicipalAmericoRenneGiannetti">#parqueMunicipalAmericoRenneGiannetti</a> <a href="None">None</a></td>
+      <td><a href="#arArturBarrio">#arArturBarrio</a> <a href="#parqueMunicipalAmericoRenneGiannetti">#parqueMunicipalAmericoRenneGiannetti</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -11131,7 +11131,7 @@
       <td>Filme Colorido</td>
       <td>1969</td>
       <td>1969</td>
-      <td><a href="#arDinoRisi">#arDinoRisi</a> <a href="#arNinoManfredi">#arNinoManfredi</a> <a href="#cinemaEsperanto">#cinemaEsperanto</a> <a href="None">None</a></td>
+      <td><a href="#arDinoRisi">#arDinoRisi</a> <a href="#arNinoManfredi">#arNinoManfredi</a> <a href="#cinemaEsperanto">#cinemaEsperanto</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11141,7 +11141,7 @@
       <td>Fotografia</td>
       <td>1969</td>
       <td></td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11151,7 +11151,7 @@
       <td>Videoarte</td>
       <td>1969</td>
       <td>1969</td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11161,7 +11161,7 @@
       <td>Instalação</td>
       <td>1970</td>
       <td>1975</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11171,7 +11171,7 @@
       <td>Fotografia</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11181,7 +11181,7 @@
       <td>Filme Colorido</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> <a href="None">None</a></td>
+      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11191,7 +11191,7 @@
       <td>Desenho</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arClemenciaLucena">#arClemenciaLucena</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arClemenciaLucena">#arClemenciaLucena</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11201,7 +11201,7 @@
       <td>Intervenção</td>
       <td>1970</td>
       <td>1976</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11211,7 +11211,7 @@
       <td>Música</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arChicoBuarque">#arChicoBuarque</a> <a href="None">None</a></td>
+      <td><a href="#arChicoBuarque">#arChicoBuarque</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11221,7 +11221,7 @@
       <td>Intervenção</td>
       <td>1970</td>
       <td>1976</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11231,7 +11231,7 @@
       <td>Videoarte</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11241,7 +11241,7 @@
       <td>Videoarte</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11251,7 +11251,7 @@
       <td>Videoarte</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11261,7 +11261,7 @@
       <td>Videoarte</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11271,7 +11271,7 @@
       <td>Fotografia</td>
       <td>1970</td>
       <td></td>
-      <td><a href="#arHansEijkelboom">#arHansEijkelboom</a> <a href="#ev30BienalDeSaoPaulo">#ev30BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arHansEijkelboom">#arHansEijkelboom</a> <a href="#ev30BienalDeSaoPaulo">#ev30BienalDeSaoPaulo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11281,7 +11281,7 @@
       <td>Performance</td>
       <td>1970</td>
       <td>1970</td>
-      <td><a href="#arAntonioManuel">#arAntonioManuel</a> <a href="#ev19oSalaoNacionalDeArteModerna">#ev19oSalaoNacionalDeArteModerna</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioManuel">#arAntonioManuel</a> <a href="#ev19oSalaoNacionalDeArteModerna">#ev19oSalaoNacionalDeArteModerna</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11291,7 +11291,7 @@
       <td>Instalação</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="#ev11BienalDeSaoPaulo">#ev11BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="#ev11BienalDeSaoPaulo">#ev11BienalDeSaoPaulo</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11301,7 +11301,7 @@
       <td>Curta-metragem</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11311,7 +11311,7 @@
       <td>Videoarte</td>
       <td>1971</td>
       <td>1974</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11321,7 +11321,7 @@
       <td>Intervenção</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11331,7 +11331,7 @@
       <td>Videoarte</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11341,7 +11341,7 @@
       <td>Filme Colorido</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arHellmuthCostard">#arHellmuthCostard</a> <a href="None">None</a></td>
+      <td><a href="#arHellmuthCostard">#arHellmuthCostard</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11351,7 +11351,7 @@
       <td>Filme Colorido</td>
       <td>1971</td>
       <td>1971</td>
-      <td><a href="#arStanleyKubrick">#arStanleyKubrick</a> <a href="None">None</a></td>
+      <td><a href="#arStanleyKubrick">#arStanleyKubrick</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11361,7 +11361,7 @@
       <td>Videoarte</td>
       <td>1972</td>
       <td>1972</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11371,7 +11371,7 @@
       <td>Curta-metragem</td>
       <td>1972</td>
       <td>1972</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11381,7 +11381,7 @@
       <td>Impressão</td>
       <td>1972</td>
       <td>1972</td>
-      <td><a href="#arNormanRockwell">#arNormanRockwell</a> <a href="#evNormanRockwellBehindTheCamera">#evNormanRockwellBehindTheCamera</a> <a href="None">None</a></td>
+      <td><a href="#arNormanRockwell">#arNormanRockwell</a> <a href="#evNormanRockwellBehindTheCamera">#evNormanRockwellBehindTheCamera</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11391,7 +11391,7 @@
       <td>Fotografia</td>
       <td>1972</td>
       <td>1972</td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11401,7 +11401,7 @@
       <td>Fotografia</td>
       <td>1972</td>
       <td>1972</td>
-      <td><a href="#arAnaMendieta">#arAnaMendieta</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arAnaMendieta">#arAnaMendieta</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11411,7 +11411,7 @@
       <td>Performance</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arIvensMachado">#arIvensMachado</a> <a href="None">None</a></td>
+      <td><a href="#arIvensMachado">#arIvensMachado</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11421,7 +11421,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11431,7 +11431,7 @@
       <td>Filme Colorido</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arMichaelCrichton">#arMichaelCrichton</a> <a href="None">None</a></td>
+      <td><a href="#arMichaelCrichton">#arMichaelCrichton</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11441,7 +11441,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11451,7 +11451,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11461,7 +11461,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11471,7 +11471,7 @@
       <td>Fotografia</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arLilianaPorter">#arLilianaPorter</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arLilianaPorter">#arLilianaPorter</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11481,7 +11481,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1973</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11491,7 +11491,7 @@
       <td>Videoarte</td>
       <td>1973</td>
       <td>1974</td>
-      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#arNevilleDAlmeida">#arNevilleDAlmeida</a> <a href="#arLuizGonzaga">#arLuizGonzaga</a> <a href="None">None</a></td>
+      <td><a href="#arHelioOiticica">#arHelioOiticica</a> <a href="#arNevilleDAlmeida">#arNevilleDAlmeida</a> <a href="#arLuizGonzaga">#arLuizGonzaga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11501,7 +11501,7 @@
       <td>Videoarte</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11511,7 +11511,7 @@
       <td>Pintura</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arAntoniodias">#arAntoniodias</a> <a href="None">None</a></td>
+      <td><a href="#arAntoniodias">#arAntoniodias</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11521,7 +11521,7 @@
       <td>Videoarte</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11531,7 +11531,7 @@
       <td>Técnica Mista</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arAnaMaiolino">#arAnaMaiolino</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arAnaMaiolino">#arAnaMaiolino</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11541,7 +11541,7 @@
       <td>Filme Colorido</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arJohnConey">#arJohnConey</a> <a href="None">None</a></td>
+      <td><a href="#arJohnConey">#arJohnConey</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11551,7 +11551,7 @@
       <td>Fotografia</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arHannahWilke">#arHannahWilke</a> <a href="None">None</a></td>
+      <td><a href="#arHannahWilke">#arHannahWilke</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11561,7 +11561,7 @@
       <td>Performance</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#studioMorra">#studioMorra</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#studioMorra">#studioMorra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11571,7 +11571,7 @@
       <td>Filme Preto & Branco</td>
       <td>1974</td>
       <td>1974</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11581,7 +11581,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11591,7 +11591,7 @@
       <td>Pintura</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11601,7 +11601,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11611,7 +11611,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11621,7 +11621,7 @@
       <td>Filme Colorido</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11631,7 +11631,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11641,7 +11641,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11651,7 +11651,7 @@
       <td>Intervenção</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arAdamPurple">#arAdamPurple</a> <a href="None">None</a></td>
+      <td><a href="#arAdamPurple">#arAdamPurple</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -11661,7 +11661,7 @@
       <td>Música</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arTheCure">#arTheCure</a> <a href="None">None</a></td>
+      <td><a href="#arTheCure">#arTheCure</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11671,7 +11671,7 @@
       <td>ND</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arPauloLeminski">#arPauloLeminski</a> <a href="None">None</a></td>
+      <td><a href="#arPauloLeminski">#arPauloLeminski</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11681,7 +11681,7 @@
       <td>Videoarte</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arLeticiaParente">#arLeticiaParente</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arLeticiaParente">#arLeticiaParente</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11691,7 +11691,7 @@
       <td>Música</td>
       <td>1975</td>
       <td>1975</td>
-      <td><a href="#arMiltonNascimento">#arMiltonNascimento</a> <a href="#arRonaldoBastos">#arRonaldoBastos</a> <a href="None">None</a></td>
+      <td><a href="#arMiltonNascimento">#arMiltonNascimento</a> <a href="#arRonaldoBastos">#arRonaldoBastos</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11701,7 +11701,7 @@
       <td>Projeção</td>
       <td>1975</td>
       <td>2018</td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11711,7 +11711,7 @@
       <td>Fotografia</td>
       <td>1976</td>
       <td>1976</td>
-      <td><a href="#arAnnaMaiolino">#arAnnaMaiolino</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arAnnaMaiolino">#arAnnaMaiolino</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11721,7 +11721,7 @@
       <td>Fotografia</td>
       <td>1976</td>
       <td>1976</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11731,7 +11731,7 @@
       <td>Filme Preto & Branco</td>
       <td>1976</td>
       <td>1976</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11741,7 +11741,7 @@
       <td>Performance</td>
       <td>1976</td>
       <td>1976</td>
-      <td><a href="#arAnaMendieta">#arAnaMendieta</a> <a href="#oldMansCreek">#oldMansCreek</a> <a href="None">None</a></td>
+      <td><a href="#arAnaMendieta">#arAnaMendieta</a> <a href="#oldMansCreek">#oldMansCreek</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11751,7 +11751,7 @@
       <td>Pintura</td>
       <td>1976</td>
       <td>1976</td>
-      <td><a href="#arJoseSilva">#arJoseSilva</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> <a href="None">None</a></td>
+      <td><a href="#arJoseSilva">#arJoseSilva</a> <a href="#evAcervoEmTransformacaoTateNoMASP">#evAcervoEmTransformacaoTateNoMASP</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11761,7 +11761,7 @@
       <td>ND</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11771,7 +11771,7 @@
       <td>Videoarte</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11781,7 +11781,7 @@
       <td>Filme Colorido</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arWoodyAllen">#arWoodyAllen</a> <a href="None">None</a></td>
+      <td><a href="#arWoodyAllen">#arWoodyAllen</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11791,7 +11791,7 @@
       <td>Performance</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#arFrankLaysiepen">#arFrankLaysiepen</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#arFrankLaysiepen">#arFrankLaysiepen</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -11801,7 +11801,7 @@
       <td>Filme Colorido</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arLuisBunuel">#arLuisBunuel</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> <a href="None">None</a></td>
+      <td><a href="#arLuisBunuel">#arLuisBunuel</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11811,7 +11811,7 @@
       <td>Filme Colorido</td>
       <td>1977</td>
       <td>1977</td>
-      <td><a href="#arGeorgeLucas">#arGeorgeLucas</a> <a href="None">None</a></td>
+      <td><a href="#arGeorgeLucas">#arGeorgeLucas</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11821,7 +11821,7 @@
       <td>Performance;Videoarte;Poema</td>
       <td>1978</td>
       <td>1978</td>
-      <td><a href="#arVictoriaCruz">#arVictoriaCruz</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arVictoriaCruz">#arVictoriaCruz</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11831,7 +11831,7 @@
       <td>Fotografia</td>
       <td>1978</td>
       <td>1981</td>
-      <td><a href="#arAnaJimenez">#arAnaJimenez</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arAnaJimenez">#arAnaJimenez</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11841,7 +11841,7 @@
       <td>Fotografia</td>
       <td>1978</td>
       <td>1978</td>
-      <td><a href="#arClaudiaAndujar">#arClaudiaAndujar</a> <a href="#evGeracao00">#evGeracao00</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaAndujar">#arClaudiaAndujar</a> <a href="#evGeracao00">#evGeracao00</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11851,7 +11851,7 @@
       <td>Literatura de Viagem</td>
       <td>1978</td>
       <td>1978</td>
-      <td><a href="#arAlbertCamus">#arAlbertCamus</a> <a href="None">None</a></td>
+      <td><a href="#arAlbertCamus">#arAlbertCamus</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11861,7 +11861,7 @@
       <td>Videoarte</td>
       <td>1978</td>
       <td>1978</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11871,7 +11871,7 @@
       <td>Videoarte</td>
       <td>1978</td>
       <td>1978</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11881,7 +11881,7 @@
       <td>Videoarte</td>
       <td>1979</td>
       <td>1979</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11891,7 +11891,7 @@
       <td>Filme Colorido;Filme Preto & Branco</td>
       <td>1979</td>
       <td>1979</td>
-      <td><a href="#arMarcelloTassara">#arMarcelloTassara</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelloTassara">#arMarcelloTassara</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11901,7 +11901,7 @@
       <td>Fotografia;Performance</td>
       <td>1979</td>
       <td>1979</td>
-      <td><a href="#arCeleidaTostes">#arCeleidaTostes</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arCeleidaTostes">#arCeleidaTostes</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11911,7 +11911,7 @@
       <td>Fotografia</td>
       <td>1979</td>
       <td>1981</td>
-      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11921,7 +11921,7 @@
       <td>Instalação</td>
       <td>1980</td>
       <td>1980</td>
-      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> <a href="None">None</a></td>
+      <td><a href="#arLuizAlphonsus">#arLuizAlphonsus</a> <a href="#evCartografiaPoetica">#evCartografiaPoetica</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11931,7 +11931,7 @@
       <td>Curta-metragem</td>
       <td>1980</td>
       <td>1980</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11941,7 +11941,7 @@
       <td>Impressão</td>
       <td>1980</td>
       <td>1980</td>
-      <td><a href="#arNelsonFaedrich">#arNelsonFaedrich</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arNelsonFaedrich">#arNelsonFaedrich</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -11951,7 +11951,7 @@
       <td>Performance</td>
       <td>1981</td>
       <td>1987</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11961,7 +11961,7 @@
       <td>Instalação</td>
       <td>1981</td>
       <td>2018</td>
-      <td><a href="#arGustavoMonzon">#arGustavoMonzon</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoMonzon">#arGustavoMonzon</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -11971,7 +11971,7 @@
       <td>Filme Colorido</td>
       <td>1981</td>
       <td>1981</td>
-      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> <a href="None">None</a></td>
+      <td><a href="#arMichelangeloAntonioni">#arMichelangeloAntonioni</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -11981,7 +11981,7 @@
       <td>Fotografia</td>
       <td>1982</td>
       <td>1982</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -11991,7 +11991,7 @@
       <td>Fotografia</td>
       <td>1982</td>
       <td>1982</td>
-      <td><a href="#arMarisBustamante">#arMarisBustamante</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arMarisBustamante">#arMarisBustamante</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12001,7 +12001,7 @@
       <td>Filme Colorido</td>
       <td>1982</td>
       <td>1982</td>
-      <td><a href="#arRidleyScott">#arRidleyScott</a> <a href="None">None</a></td>
+      <td><a href="#arRidleyScott">#arRidleyScott</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12011,7 +12011,7 @@
       <td>Filme Colorido</td>
       <td>1982</td>
       <td>1982</td>
-      <td><a href="#arSlavaTsukerman">#arSlavaTsukerman</a> <a href="None">None</a></td>
+      <td><a href="#arSlavaTsukerman">#arSlavaTsukerman</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12021,7 +12021,7 @@
       <td>Filme Colorido</td>
       <td>1982</td>
       <td>1982</td>
-      <td><a href="#arFrancisCoppola">#arFrancisCoppola</a> <a href="None">None</a></td>
+      <td><a href="#arFrancisCoppola">#arFrancisCoppola</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12031,7 +12031,7 @@
       <td>Filme Colorido</td>
       <td>1983</td>
       <td>1983</td>
-      <td><a href="#arJoeAlves">#arJoeAlves</a> <a href="None">None</a></td>
+      <td><a href="#arJoeAlves">#arJoeAlves</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12041,7 +12041,7 @@
       <td>Performance</td>
       <td>1983</td>
       <td>1983</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12051,7 +12051,7 @@
       <td>Videoarte</td>
       <td>1983</td>
       <td>1983</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12061,7 +12061,7 @@
       <td>Instalação</td>
       <td>1983</td>
       <td>1989</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12071,7 +12071,7 @@
       <td>Performance</td>
       <td>1984</td>
       <td>1984</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12081,7 +12081,7 @@
       <td>Filme Colorido</td>
       <td>1984</td>
       <td>1984</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12091,7 +12091,7 @@
       <td>Desenho;Impressão</td>
       <td>1984</td>
       <td>2018</td>
-      <td><a href="#arPauloAndrade">#arPauloAndrade</a> <a href="#evOEternoRetornoDesenhosGravurasEImpressoes">#evOEternoRetornoDesenhosGravurasEImpressoes</a> <a href="None">None</a></td>
+      <td><a href="#arPauloAndrade">#arPauloAndrade</a> <a href="#evOEternoRetornoDesenhosGravurasEImpressoes">#evOEternoRetornoDesenhosGravurasEImpressoes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12101,7 +12101,7 @@
       <td>Fotografia</td>
       <td>1986</td>
       <td>1986</td>
-      <td><a href="#arNanGoldin">#arNanGoldin</a> <a href="None">None</a></td>
+      <td><a href="#arNanGoldin">#arNanGoldin</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12111,7 +12111,7 @@
       <td>Videoarte</td>
       <td>1986</td>
       <td>1986</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12121,7 +12121,7 @@
       <td>Videoarte</td>
       <td>1986</td>
       <td>1986</td>
-      <td><a href="#arSilviaGruner">#arSilviaGruner</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> <a href="None">None</a></td>
+      <td><a href="#arSilviaGruner">#arSilviaGruner</a> <a href="#evMulheresRadicaisArteLatinoAmericana19601985">#evMulheresRadicaisArteLatinoAmericana19601985</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12131,7 +12131,7 @@
       <td>Filme Colorido;Filme Preto & Branco</td>
       <td>1987</td>
       <td>1987</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12141,7 +12141,7 @@
       <td>Peça</td>
       <td>1987</td>
       <td>1987</td>
-      <td><a href="#arJeffStetson">#arJeffStetson</a> <a href="None">None</a></td>
+      <td><a href="#arJeffStetson">#arJeffStetson</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12151,7 +12151,7 @@
       <td>Videoarte</td>
       <td>1987</td>
       <td>1987</td>
-      <td><a href="#arRafaelFranca">#arRafaelFranca</a> <a href="None">None</a></td>
+      <td><a href="#arRafaelFranca">#arRafaelFranca</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12161,7 +12161,7 @@
       <td>Escultura</td>
       <td>1987</td>
       <td>1987</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12171,7 +12171,7 @@
       <td>Performance</td>
       <td>1987</td>
       <td>1987</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12181,7 +12181,7 @@
       <td>Filme Colorido;Filme Preto & Branco</td>
       <td>1989</td>
       <td>1989</td>
-      <td><a href="#arPeterCohen">#arPeterCohen</a> <a href="None">None</a></td>
+      <td><a href="#arPeterCohen">#arPeterCohen</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12191,7 +12191,7 @@
       <td>Pintura</td>
       <td>1989</td>
       <td>1989</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12201,7 +12201,7 @@
       <td>Filme Colorido</td>
       <td>1989</td>
       <td>1989</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12211,7 +12211,7 @@
       <td>Videoarte</td>
       <td>1989</td>
       <td>1989</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12221,7 +12221,7 @@
       <td>Série de TV</td>
       <td>1990</td>
       <td>2010</td>
-      <td><a href="#arJuanCampanella">#arJuanCampanella</a> <a href="None">None</a></td>
+      <td><a href="#arJuanCampanella">#arJuanCampanella</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12231,7 +12231,7 @@
       <td>Videoarte</td>
       <td>1990</td>
       <td>1993</td>
-      <td><a href="#arHannahWilke">#arHannahWilke</a> <a href="#arDonaldGoddard">#arDonaldGoddard</a> <a href="None">None</a></td>
+      <td><a href="#arHannahWilke">#arHannahWilke</a> <a href="#arDonaldGoddard">#arDonaldGoddard</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12241,7 +12241,7 @@
       <td>Música</td>
       <td>1991</td>
       <td>1991</td>
-      <td><a href="#arArvoPart">#arArvoPart</a> <a href="None">None</a></td>
+      <td><a href="#arArvoPart">#arArvoPart</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12251,7 +12251,7 @@
       <td>Filme Colorido</td>
       <td>1991</td>
       <td>1991</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12261,7 +12261,7 @@
       <td>Fotografia</td>
       <td>1992</td>
       <td>1993</td>
-      <td><a href="#arHannahWilke">#arHannahWilke</a> <a href="#arDonaldGoddard">#arDonaldGoddard</a> <a href="None">None</a></td>
+      <td><a href="#arHannahWilke">#arHannahWilke</a> <a href="#arDonaldGoddard">#arDonaldGoddard</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12271,7 +12271,7 @@
       <td>Fotografia</td>
       <td>1992</td>
       <td>2006</td>
-      <td><a href="#arTiagoSantana">#arTiagoSantana</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantana">#arTiagoSantana</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12281,7 +12281,7 @@
       <td>Técnica Mista</td>
       <td>1992</td>
       <td>1992</td>
-      <td><a href="#arLeonilson">#arLeonilson</a> <a href="None">None</a></td>
+      <td><a href="#arLeonilson">#arLeonilson</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12291,7 +12291,7 @@
       <td>Filme Colorido</td>
       <td>1992</td>
       <td>1992</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12301,7 +12301,7 @@
       <td>Instalação</td>
       <td>1992</td>
       <td>1992</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12311,7 +12311,7 @@
       <td>Pintura</td>
       <td>1992</td>
       <td>1992</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12321,7 +12321,7 @@
       <td>Pintura</td>
       <td>1992</td>
       <td>1992</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12331,7 +12331,7 @@
       <td>Curta-metragem</td>
       <td>1993</td>
       <td>1993</td>
-      <td><a href="#arJeanGodard">#arJeanGodard</a> <a href="#arArvoPart">#arArvoPart</a> <a href="#ev29BienalDeSaoPaulo">#ev29BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arJeanGodard">#arJeanGodard</a> <a href="#arArvoPart">#arArvoPart</a> <a href="#ev29BienalDeSaoPaulo">#ev29BienalDeSaoPaulo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12341,7 +12341,7 @@
       <td>Desenho</td>
       <td>1993</td>
       <td>1994</td>
-      <td><a href="#arPaulaTrope">#arPaulaTrope</a> <a href="None">None</a></td>
+      <td><a href="#arPaulaTrope">#arPaulaTrope</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12351,7 +12351,7 @@
       <td>Fotografia</td>
       <td>1994</td>
       <td>1994</td>
-      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12361,7 +12361,7 @@
       <td>ND</td>
       <td>1994</td>
       <td>2001</td>
-      <td><a href="#arBrigidaBaltar">#arBrigidaBaltar</a> <a href="None">None</a></td>
+      <td><a href="#arBrigidaBaltar">#arBrigidaBaltar</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12371,7 +12371,7 @@
       <td>Performance</td>
       <td>1994</td>
       <td>1994</td>
-      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="None">None</a></td>
+      <td><a href="#arSukranMoral">#arSukranMoral</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12381,7 +12381,7 @@
       <td>Dança</td>
       <td>1994</td>
       <td>1994</td>
-      <td><a href="#arBillJones">#arBillJones</a> <a href="None">None</a></td>
+      <td><a href="#arBillJones">#arBillJones</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12391,7 +12391,7 @@
       <td>Instalação</td>
       <td>1994</td>
       <td>2015</td>
-      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> <a href="None">None</a></td>
+      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12401,7 +12401,7 @@
       <td>Filme Colorido;Filme Animado;Filme Infantil</td>
       <td>1994</td>
       <td>1994</td>
-      <td><a href="#arWaltDisneyAnimationStudios">#arWaltDisneyAnimationStudios</a> <a href="None">None</a></td>
+      <td><a href="#arWaltDisneyAnimationStudios">#arWaltDisneyAnimationStudios</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12411,7 +12411,7 @@
       <td>Instalação</td>
       <td>1994</td>
       <td></td>
-      <td><a href="#arElidaTessler">#arElidaTessler</a> <a href="None">None</a></td>
+      <td><a href="#arElidaTessler">#arElidaTessler</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12421,7 +12421,7 @@
       <td>ND</td>
       <td>1995</td>
       <td>1995</td>
-      <td><a href="#arRichardSerra">#arRichardSerra</a> <a href="None">None</a></td>
+      <td><a href="#arRichardSerra">#arRichardSerra</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12431,7 +12431,7 @@
       <td>Filme Colorido</td>
       <td>1995</td>
       <td>1995</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12441,7 +12441,7 @@
       <td>Fotografia</td>
       <td>1995</td>
       <td>1995</td>
-      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="None">None</a></td>
+      <td><a href="#arSukranMoral">#arSukranMoral</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12451,7 +12451,7 @@
       <td>Filme Colorido</td>
       <td>1996</td>
       <td>1996</td>
-      <td><a href="#arRolandEmmerich">#arRolandEmmerich</a> <a href="None">None</a></td>
+      <td><a href="#arRolandEmmerich">#arRolandEmmerich</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12461,7 +12461,7 @@
       <td>Bordado</td>
       <td>1996</td>
       <td>1996</td>
-      <td><a href="#arRosanaPalazyan">#arRosanaPalazyan</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arRosanaPalazyan">#arRosanaPalazyan</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12471,7 +12471,7 @@
       <td>Técnica Mista</td>
       <td>1997</td>
       <td>1997</td>
-      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> <a href="None">None</a></td>
+      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12481,7 +12481,7 @@
       <td>Videoarte</td>
       <td>1997</td>
       <td>1997</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12491,7 +12491,7 @@
       <td>Instalação</td>
       <td>1997</td>
       <td>1997</td>
-      <td><a href="#arLouiseBourgeois">#arLouiseBourgeois</a> <a href="None">None</a></td>
+      <td><a href="#arLouiseBourgeois">#arLouiseBourgeois</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12501,7 +12501,7 @@
       <td>Fotolivro</td>
       <td>1998</td>
       <td>1998</td>
-      <td><a href="#arNanGoldin">#arNanGoldin</a> <a href="None">None</a></td>
+      <td><a href="#arNanGoldin">#arNanGoldin</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12511,7 +12511,7 @@
       <td>Videoclipe</td>
       <td>1998</td>
       <td>1998</td>
-      <td><a href="#arGeorgeMichael">#arGeorgeMichael</a> <a href="None">None</a></td>
+      <td><a href="#arGeorgeMichael">#arGeorgeMichael</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12521,7 +12521,7 @@
       <td>Pintura</td>
       <td>1998</td>
       <td>1998</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12531,7 +12531,7 @@
       <td>Filme Colorido</td>
       <td>1999</td>
       <td>1999</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12541,7 +12541,7 @@
       <td>Filme Colorido</td>
       <td>1999</td>
       <td>1999</td>
-      <td><a href="#arJoaoSalles">#arJoaoSalles</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoSalles">#arJoaoSalles</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12551,7 +12551,7 @@
       <td>Filme Colorido</td>
       <td>1999</td>
       <td>1999</td>
-      <td><a href="#arLanaWachowski">#arLanaWachowski</a> <a href="None">None</a></td>
+      <td><a href="#arLanaWachowski">#arLanaWachowski</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12561,7 +12561,7 @@
       <td>Instalação</td>
       <td>1999</td>
       <td>1999</td>
-      <td><a href="#arAnaTavares">#arAnaTavares</a> <a href="None">None</a></td>
+      <td><a href="#arAnaTavares">#arAnaTavares</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12571,7 +12571,7 @@
       <td>Curta-metragem</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arMarceloGarcia">#arMarceloGarcia</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arMarceloGarcia">#arMarceloGarcia</a> <a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12581,7 +12581,7 @@
       <td>Fotografia</td>
       <td>2000</td>
       <td>2014</td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> </td>
       <td>Icônica; Arte ConTexto</td>
     </tr>
     <tr>
@@ -12591,7 +12591,7 @@
       <td>ND</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12601,7 +12601,7 @@
       <td>Body art</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12611,7 +12611,7 @@
       <td>Fotolivro</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arCorinneDay">#arCorinneDay</a> <a href="None">None</a></td>
+      <td><a href="#arCorinneDay">#arCorinneDay</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12621,7 +12621,7 @@
       <td>Intervenção</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev33BienalDeSaoPaulo">#ev33BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev33BienalDeSaoPaulo">#ev33BienalDeSaoPaulo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12631,7 +12631,7 @@
       <td>Fotolivro</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> <a href="None">None</a></td>
+      <td><a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12641,7 +12641,7 @@
       <td>Performance;Instalação</td>
       <td>2000</td>
       <td>2003</td>
-      <td><a href="#arMarciaOliveira">#arMarciaOliveira</a> <a href="None">None</a></td>
+      <td><a href="#arMarciaOliveira">#arMarciaOliveira</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12651,7 +12651,7 @@
       <td>Pintura</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12671,7 +12671,7 @@
       <td>Videoarte</td>
       <td>2000</td>
       <td>2000</td>
-      <td><a href="#arSigalitLandau">#arSigalitLandau</a> <a href="None">None</a></td>
+      <td><a href="#arSigalitLandau">#arSigalitLandau</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12681,7 +12681,7 @@
       <td>Livro de Artista</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#perPatriciaLacerda">#perPatriciaLacerda</a> <a href="#perLuizHorta">#perLuizHorta</a> <a href="#perEduardoMotta">#perEduardoMotta</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#perPatriciaLacerda">#perPatriciaLacerda</a> <a href="#perLuizHorta">#perLuizHorta</a> <a href="#perEduardoMotta">#perEduardoMotta</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12691,7 +12691,7 @@
       <td>Filme Colorido</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12701,7 +12701,7 @@
       <td>Instalação</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12711,7 +12711,7 @@
       <td>ND</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12721,7 +12721,7 @@
       <td>Performance</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arMarciaOliveira">#arMarciaOliveira</a> <a href="None">None</a></td>
+      <td><a href="#arMarciaOliveira">#arMarciaOliveira</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12731,7 +12731,7 @@
       <td>Videoarte</td>
       <td>2001</td>
       <td>2001</td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12741,7 +12741,7 @@
       <td>Fotografia</td>
       <td>2001</td>
       <td>2003</td>
-      <td><a href="#arGalOppido">#arGalOppido</a> <a href="None">None</a></td>
+      <td><a href="#arGalOppido">#arGalOppido</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12751,7 +12751,7 @@
       <td>Ação</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> <a href="None">None</a></td>
+      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12761,7 +12761,7 @@
       <td>Escultura</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arIranSanto">#arIranSanto</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> <a href="None">None</a></td>
+      <td><a href="#arIranSanto">#arIranSanto</a> <a href="#evConstrucoesSensiveis">#evConstrucoesSensiveis</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12771,7 +12771,7 @@
       <td>Videoarte;Performance</td>
       <td>2002</td>
       <td>2011</td>
-      <td><a href="#arJulianaNotari">#arJulianaNotari</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arJulianaNotari">#arJulianaNotari</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12781,7 +12781,7 @@
       <td>Videoarte;Intervenção</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> <a href="None">None</a></td>
+      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12791,7 +12791,7 @@
       <td>Videoarte</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arZinebSedira">#arZinebSedira</a> <a href="None">None</a></td>
+      <td><a href="#arZinebSedira">#arZinebSedira</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12801,7 +12801,7 @@
       <td>Peça</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arAnaliaCouceyro">#arAnaliaCouceyro</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arAnaliaCouceyro">#arAnaliaCouceyro</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12811,7 +12811,7 @@
       <td>Impressão</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12821,7 +12821,7 @@
       <td>Filme Colorido</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arKarimAinouz">#arKarimAinouz</a> <a href="None">None</a></td>
+      <td><a href="#arKarimAinouz">#arKarimAinouz</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12831,7 +12831,7 @@
       <td>Peça</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arBeatrizCatani">#arBeatrizCatani</a> <a href="#arMarianoPensotti">#arMarianoPensotti</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arBeatrizCatani">#arBeatrizCatani</a> <a href="#arMarianoPensotti">#arMarianoPensotti</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12841,7 +12841,7 @@
       <td>Peça</td>
       <td>2002</td>
       <td>2002</td>
-      <td><a href="#arLucianoSuardi">#arLucianoSuardi</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arLucianoSuardi">#arLucianoSuardi</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12851,7 +12851,7 @@
       <td>Filme Colorido</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arDelphineCamolli">#arDelphineCamolli</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo">#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo</a> <a href="#evEspelhoDeLuzESombraEspacoSesc">#evEspelhoDeLuzESombraEspacoSesc</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalBrasilia">#evEspelhoDeLuzESombraCaixaCulturalBrasilia</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSalvador">#evEspelhoDeLuzESombraCaixaCulturalSalvador</a> <a href="None">None</a></td>
+      <td><a href="#arDelphineCamolli">#arDelphineCamolli</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo">#evEspelhoDeLuzESombraCaixaCulturalSaoPaulo</a> <a href="#evEspelhoDeLuzESombraEspacoSesc">#evEspelhoDeLuzESombraEspacoSesc</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalBrasilia">#evEspelhoDeLuzESombraCaixaCulturalBrasilia</a> <a href="#evEspelhoDeLuzESombraCaixaCulturalSalvador">#evEspelhoDeLuzESombraCaixaCulturalSalvador</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12861,7 +12861,7 @@
       <td>Videoarte</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12871,7 +12871,7 @@
       <td>Filme Colorido</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arLarsTrier">#arLarsTrier</a> <a href="None">None</a></td>
+      <td><a href="#arLarsTrier">#arLarsTrier</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -12881,7 +12881,7 @@
       <td>Peça</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arViviTellas">#arViviTellas</a> <a href="None">None</a></td>
+      <td><a href="#arViviTellas">#arViviTellas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12891,7 +12891,7 @@
       <td>Peça</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arDanielVeronese">#arDanielVeronese</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arDanielVeronese">#arDanielVeronese</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12901,7 +12901,7 @@
       <td>Intervenção</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="None">None</a></td>
+      <td><a href="#arAnibalLopez">#arAnibalLopez</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -12911,7 +12911,7 @@
       <td>Peça</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arMarianaObersztern">#arMarianaObersztern</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaObersztern">#arMarianaObersztern</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12921,7 +12921,7 @@
       <td>Performance</td>
       <td>2003</td>
       <td>2008</td>
-      <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a> <a href="None">None</a></td>
+      <td><a href="#arFernandaMagalhaes">#arFernandaMagalhaes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12931,7 +12931,7 @@
       <td>Instalação</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> <a href="None">None</a></td>
+      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -12941,7 +12941,7 @@
       <td>Intervenção</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> <a href="None">None</a></td>
+      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12951,7 +12951,7 @@
       <td>Peça</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arStefanKaegi">#arStefanKaegi</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arStefanKaegi">#arStefanKaegi</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12961,7 +12961,7 @@
       <td>Performance</td>
       <td>2003</td>
       <td>2003</td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12971,7 +12971,7 @@
       <td>Animação</td>
       <td>2003</td>
       <td></td>
-      <td><a href="#arMateoAmaral">#arMateoAmaral</a> <a href="#evSimplificarElPantano">#evSimplificarElPantano</a> <a href="None">None</a></td>
+      <td><a href="#arMateoAmaral">#arMateoAmaral</a> <a href="#evSimplificarElPantano">#evSimplificarElPantano</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -12981,7 +12981,7 @@
       <td>Fotografia</td>
       <td>2004</td>
       <td>2004</td>
-      <td><a href="#arSukranMoral">#arSukranMoral</a> <a href="None">None</a></td>
+      <td><a href="#arSukranMoral">#arSukranMoral</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -12991,7 +12991,7 @@
       <td>Fotografia</td>
       <td>2004</td>
       <td></td>
-      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13001,7 +13001,7 @@
       <td>Peça</td>
       <td>2004</td>
       <td>2004</td>
-      <td><a href="#arJavierDaulte">#arJavierDaulte</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> <a href="None">None</a></td>
+      <td><a href="#arJavierDaulte">#arJavierDaulte</a> <a href="#evCicloBiodramaSobreLaVidaDeLasPersonas">#evCicloBiodramaSobreLaVidaDeLasPersonas</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13011,7 +13011,7 @@
       <td>Performance</td>
       <td>2004</td>
       <td>2004</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13021,7 +13021,7 @@
       <td>Performance</td>
       <td>2004</td>
       <td>2004</td>
-      <td><a href="None">None</a></td>
+      <td></td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13031,7 +13031,7 @@
       <td>Novela</td>
       <td>2004</td>
       <td>2004</td>
-      <td><a href="#arGregoireBouillier">#arGregoireBouillier</a> <a href="None">None</a></td>
+      <td><a href="#arGregoireBouillier">#arGregoireBouillier</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13041,7 +13041,7 @@
       <td>Ação</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13051,7 +13051,7 @@
       <td>Série de TV</td>
       <td>2005</td>
       <td>2014</td>
-      <td><a href="#arAaronMcGruder">#arAaronMcGruder</a> <a href="None">None</a></td>
+      <td><a href="#arAaronMcGruder">#arAaronMcGruder</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13061,7 +13061,7 @@
       <td>Videoarte</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arFabiaFuzeti">#arFabiaFuzeti</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arFabiaFuzeti">#arFabiaFuzeti</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13071,7 +13071,7 @@
       <td>Escultura</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13081,7 +13081,7 @@
       <td>Fotografia</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13091,7 +13091,7 @@
       <td>Filme Colorido</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arMarceloGomes">#arMarceloGomes</a> <a href="None">None</a></td>
+      <td><a href="#arMarceloGomes">#arMarceloGomes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13101,7 +13101,7 @@
       <td>Instalação</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13111,7 +13111,7 @@
       <td>Filme Colorido</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arMatthewBarney">#arMatthewBarney</a> <a href="None">None</a></td>
+      <td><a href="#arMatthewBarney">#arMatthewBarney</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13121,7 +13121,7 @@
       <td>Videoarte;Performance</td>
       <td>2005</td>
       <td>2005</td>
-      <td><a href="#arAdriannaEu">#arAdriannaEu</a> <a href="None">None</a></td>
+      <td><a href="#arAdriannaEu">#arAdriannaEu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13131,7 +13131,7 @@
       <td>Fotografia</td>
       <td>2005</td>
       <td>2012</td>
-      <td><a href="#arClaudioEdinger">#arClaudioEdinger</a> <a href="#museuDaImagemEDoSom">#museuDaImagemEDoSom</a> <a href="None">None</a></td>
+      <td><a href="#arClaudioEdinger">#arClaudioEdinger</a> <a href="#museuDaImagemEDoSom">#museuDaImagemEDoSom</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13141,7 +13141,7 @@
       <td>Filme Colorido</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arDouglasGordon">#arDouglasGordon</a> <a href="#arPhilippeParreno">#arPhilippeParreno</a> <a href="#arMogwai">#arMogwai</a> <a href="None">None</a></td>
+      <td><a href="#arDouglasGordon">#arDouglasGordon</a> <a href="#arPhilippeParreno">#arPhilippeParreno</a> <a href="#arMogwai">#arMogwai</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13151,7 +13151,7 @@
       <td>Filme Colorido</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arKarimAinouz">#arKarimAinouz</a> <a href="None">None</a></td>
+      <td><a href="#arKarimAinouz">#arKarimAinouz</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13161,7 +13161,7 @@
       <td>Fotografia</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arGustavoGermano">#arGustavoGermano</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoGermano">#arGustavoGermano</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13171,7 +13171,7 @@
       <td>Filme Colorido</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arRonHoward">#arRonHoward</a> <a href="None">None</a></td>
+      <td><a href="#arRonHoward">#arRonHoward</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13181,7 +13181,7 @@
       <td>Videoarte</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13191,7 +13191,7 @@
       <td>Fotografia</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13201,7 +13201,7 @@
       <td>Videoarte;Intervenção</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arFrente3DeFevereiro">#arFrente3DeFevereiro</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arFrente3DeFevereiro">#arFrente3DeFevereiro</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13211,7 +13211,7 @@
       <td>Performance</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCristineAgape">#arCristineAgape</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arHugusFelix">#arHugusFelix</a> <a href="#centroCulturalBancoDoBrasilRJ">#centroCulturalBancoDoBrasilRJ</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCristineAgape">#arCristineAgape</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arHugusFelix">#arHugusFelix</a> <a href="#centroCulturalBancoDoBrasilRJ">#centroCulturalBancoDoBrasilRJ</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13221,7 +13221,7 @@
       <td>Filme Colorido</td>
       <td>2006</td>
       <td>2006</td>
-      <td><a href="#arHowardHall">#arHowardHall</a> <a href="None">None</a></td>
+      <td><a href="#arHowardHall">#arHowardHall</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13231,7 +13231,7 @@
       <td>Videoarte</td>
       <td>2006</td>
       <td>2008</td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13241,7 +13241,7 @@
       <td>Filme Preto & Branco</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arJoaoSalles">#arJoaoSalles</a> <a href="#perSantiagoMerlo">#perSantiagoMerlo</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoSalles">#arJoaoSalles</a> <a href="#perSantiagoMerlo">#perSantiagoMerlo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13251,7 +13251,7 @@
       <td>Filme Colorido</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arAdolfZika">#arAdolfZika</a> <a href="#arJanSaudek">#arJanSaudek</a> <a href="#arKajaSaudek">#arKajaSaudek</a> <a href="#arSaraSaudkova">#arSaraSaudkova</a> <a href="None">None</a></td>
+      <td><a href="#arAdolfZika">#arAdolfZika</a> <a href="#arJanSaudek">#arJanSaudek</a> <a href="#arKajaSaudek">#arKajaSaudek</a> <a href="#arSaraSaudkova">#arSaraSaudkova</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13261,7 +13261,7 @@
       <td>Videoarte</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13271,7 +13271,7 @@
       <td>Filme Colorido</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arFrancisLawrence">#arFrancisLawrence</a> <a href="None">None</a></td>
+      <td><a href="#arFrancisLawrence">#arFrancisLawrence</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13281,7 +13281,7 @@
       <td>Filme Colorido</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arMoniqueGardenberg">#arMoniqueGardenberg</a> <a href="None">None</a></td>
+      <td><a href="#arMoniqueGardenberg">#arMoniqueGardenberg</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13291,7 +13291,7 @@
       <td>Videoarte</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13301,7 +13301,7 @@
       <td>Fotografia</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arWolfgangTillmans">#arWolfgangTillmans</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> <a href="None">None</a></td>
+      <td><a href="#arWolfgangTillmans">#arWolfgangTillmans</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13311,7 +13311,7 @@
       <td>Videoarte</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13321,7 +13321,7 @@
       <td>Filme Colorido</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arJosePadilha">#arJosePadilha</a> <a href="None">None</a></td>
+      <td><a href="#arJosePadilha">#arJosePadilha</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13331,7 +13331,7 @@
       <td>Performance</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13341,7 +13341,7 @@
       <td>Técnica Mista;Pintura</td>
       <td>2007</td>
       <td>2011</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13351,7 +13351,7 @@
       <td>Performance</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCristineAgape">#arCristineAgape</a> <a href="#arLarissaCamara">#arLarissaCamara</a> <a href="#arLeandroBaumgratz">#arLeandroBaumgratz</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evMola2007MostraLivreDeArtes">#evMola2007MostraLivreDeArtes</a> <a href="#evCentroCulturalDosArcos">#evCentroCulturalDosArcos</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCristineAgape">#arCristineAgape</a> <a href="#arLarissaCamara">#arLarissaCamara</a> <a href="#arLeandroBaumgratz">#arLeandroBaumgratz</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evMola2007MostraLivreDeArtes">#evMola2007MostraLivreDeArtes</a> <a href="#evCentroCulturalDosArcos">#evCentroCulturalDosArcos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13361,7 +13361,7 @@
       <td>Fotolivro</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arNanGoldin">#arNanGoldin</a> <a href="None">None</a></td>
+      <td><a href="#arNanGoldin">#arNanGoldin</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13371,7 +13371,7 @@
       <td>Intervenção;Escultura</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev6BienalDoMercosul">#ev6BienalDoMercosul</a> <a href="None">None</a></td>
+      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev6BienalDoMercosul">#ev6BienalDoMercosul</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13381,7 +13381,7 @@
       <td>Instalação</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arWalmorCorrea">#arWalmorCorrea</a> <a href="#evMementoMori">#evMementoMori</a> <a href="None">None</a></td>
+      <td><a href="#arWalmorCorrea">#arWalmorCorrea</a> <a href="#evMementoMori">#evMementoMori</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13391,7 +13391,7 @@
       <td>Filme Colorido</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arJulianSchnabel">#arJulianSchnabel</a> <a href="None">None</a></td>
+      <td><a href="#arJulianSchnabel">#arJulianSchnabel</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13401,7 +13401,7 @@
       <td>Videoarte</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13411,7 +13411,7 @@
       <td>Performance</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13421,7 +13421,7 @@
       <td>Videoarte</td>
       <td>2007</td>
       <td>2007</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13431,7 +13431,7 @@
       <td>Filme Colorido</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arPhilippeGarrel">#arPhilippeGarrel</a> <a href="#arLouisGarrel">#arLouisGarrel</a> <a href="#arLauraSmet">#arLauraSmet</a> <a href="None">None</a></td>
+      <td><a href="#arPhilippeGarrel">#arPhilippeGarrel</a> <a href="#arLouisGarrel">#arLouisGarrel</a> <a href="#arLauraSmet">#arLauraSmet</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13441,7 +13441,7 @@
       <td>Performance</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13451,7 +13451,7 @@
       <td>Filme Colorido</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arJamesGray">#arJamesGray</a> <a href="#arJoaquinPhoenix">#arJoaquinPhoenix</a> <a href="None">None</a></td>
+      <td><a href="#arJamesGray">#arJamesGray</a> <a href="#arJoaquinPhoenix">#arJoaquinPhoenix</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13461,7 +13461,7 @@
       <td>Filme Colorido;Filme Preto & Branco</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arMariaMenis">#arMariaMenis</a> <a href="None">None</a></td>
+      <td><a href="#arMariaMenis">#arMariaMenis</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13471,7 +13471,7 @@
       <td>Videoarte</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> <a href="None">None</a></td>
+      <td><a href="#arCaoGuimaraes">#arCaoGuimaraes</a> <a href="#evVerEUmaFabula">#evVerEUmaFabula</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13481,7 +13481,7 @@
       <td>Performance</td>
       <td>2008</td>
       <td></td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13491,7 +13491,7 @@
       <td>Desenho</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arRogerioLivi">#arRogerioLivi</a> <a href="#evMicrovariacoesSobreUmTema">#evMicrovariacoesSobreUmTema</a> <a href="None">None</a></td>
+      <td><a href="#arRogerioLivi">#arRogerioLivi</a> <a href="#evMicrovariacoesSobreUmTema">#evMicrovariacoesSobreUmTema</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13501,7 +13501,7 @@
       <td>Videoarte</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13511,7 +13511,7 @@
       <td>Filme Colorido</td>
       <td>2008</td>
       <td>2008</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="#arMillaJovovich">#arMillaJovovich</a> <a href="#arLetiziaBattaglia">#arLetiziaBattaglia</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> <a href="#arMillaJovovich">#arMillaJovovich</a> <a href="#arLetiziaBattaglia">#arLetiziaBattaglia</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13521,7 +13521,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13531,7 +13531,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13541,7 +13541,7 @@
       <td>Videoarte;Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13551,7 +13551,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evFestivalAlmaDaRua">#evFestivalAlmaDaRua</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evFestivalAlmaDaRua">#evFestivalAlmaDaRua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13561,7 +13561,7 @@
       <td>Filme Colorido</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arKarimAinouz">#arKarimAinouz</a> <a href="#arMarceloGomes">#arMarceloGomes</a> <a href="None">None</a></td>
+      <td><a href="#arKarimAinouz">#arKarimAinouz</a> <a href="#arMarceloGomes">#arMarceloGomes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13571,7 +13571,7 @@
       <td>Música</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMadonnaCiccone">#arMadonnaCiccone</a> <a href="None">None</a></td>
+      <td><a href="#arMadonnaCiccone">#arMadonnaCiccone</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13581,7 +13581,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13591,7 +13591,7 @@
       <td>Filme Colorido</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arJamesCameron">#arJamesCameron</a> <a href="None">None</a></td>
+      <td><a href="#arJamesCameron">#arJamesCameron</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13601,7 +13601,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13611,7 +13611,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13621,7 +13621,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13631,7 +13631,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13641,7 +13641,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13651,7 +13651,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13661,7 +13661,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13671,7 +13671,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13681,7 +13681,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#ruaDosClerigos">#ruaDosClerigos</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#ruaDosClerigos">#ruaDosClerigos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13691,7 +13691,7 @@
       <td>Arte Digital</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arEduardoMontelli">#arEduardoMontelli</a> <a href="None">None</a></td>
+      <td><a href="#arEduardoMontelli">#arEduardoMontelli</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13701,7 +13701,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arAlexandreSevero">#arAlexandreSevero</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSevero">#arAlexandreSevero</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13711,7 +13711,7 @@
       <td>Instalação</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13721,7 +13721,7 @@
       <td>Instalação;Fotografia</td>
       <td>2009</td>
       <td>2010</td>
-      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perJuquinha">#perJuquinha</a> <a href="#perRafael">#perRafael</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perJuquinha">#perJuquinha</a> <a href="#perRafael">#perRafael</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13731,7 +13731,7 @@
       <td>Escultura</td>
       <td>2009</td>
       <td>2011</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13741,7 +13741,7 @@
       <td>Pintura</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13751,7 +13751,7 @@
       <td>Filme Colorido</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arJuanCampanella">#arJuanCampanella</a> <a href="#arRicardoDarin">#arRicardoDarin</a> <a href="None">None</a></td>
+      <td><a href="#arJuanCampanella">#arJuanCampanella</a> <a href="#arRicardoDarin">#arRicardoDarin</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13761,7 +13761,7 @@
       <td>Dança</td>
       <td>2009</td>
       <td>2012</td>
-      <td><a href="#arWagnerSchwartz">#arWagnerSchwartz</a> <a href="None">None</a></td>
+      <td><a href="#arWagnerSchwartz">#arWagnerSchwartz</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13771,7 +13771,7 @@
       <td>Curta-metragem</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13781,7 +13781,7 @@
       <td>Peça</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> <a href="None">None</a></td>
+      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13791,7 +13791,7 @@
       <td>Pintura</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13801,7 +13801,7 @@
       <td>Videoarte;Instalação</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13811,7 +13811,7 @@
       <td>Escultura</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arArissanaPataxo">#arArissanaPataxo</a> <a href="None">None</a></td>
+      <td><a href="#arArissanaPataxo">#arArissanaPataxo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13821,7 +13821,7 @@
       <td>Intervenção</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> <a href="None">None</a></td>
+      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13831,7 +13831,7 @@
       <td>Videoarte</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arCiaExcessos">#arCiaExcessos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13841,7 +13841,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13851,7 +13851,7 @@
       <td>Performance</td>
       <td>2009</td>
       <td></td>
-      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13861,7 +13861,7 @@
       <td>Filme Colorido</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arMarianoCohn">#arMarianoCohn</a> <a href="#arGastonDuprat">#arGastonDuprat</a> <a href="None">None</a></td>
+      <td><a href="#arMarianoCohn">#arMarianoCohn</a> <a href="#arGastonDuprat">#arGastonDuprat</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13871,7 +13871,7 @@
       <td>Fotografia</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> <a href="None">None</a></td>
+      <td><a href="#arWaleriaBezerra">#arWaleriaBezerra</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13881,7 +13881,7 @@
       <td>Filme Colorido</td>
       <td>2009</td>
       <td>2009</td>
-      <td><a href="#arGustavoMoura">#arGustavoMoura</a> <a href="#arCildoMeireles">#arCildoMeireles</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoMoura">#arGustavoMoura</a> <a href="#arCildoMeireles">#arCildoMeireles</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13891,7 +13891,7 @@
       <td>Pintura</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13901,7 +13901,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13911,7 +13911,7 @@
       <td>Livro de Artista</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arJeanBenoitLallemant">#arJeanBenoitLallemant</a> <a href="None">None</a></td>
+      <td><a href="#arJeanBenoitLallemant">#arJeanBenoitLallemant</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -13921,7 +13921,7 @@
       <td>Série de TV</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arOlivierAssayas">#arOlivierAssayas</a> <a href="#arBrianEno">#arBrianEno</a> <a href="#arNewOrder">#arNewOrder</a> <a href="#arWire">#arWire</a> <a href="#arTheFeelies">#arTheFeelies</a> <a href="#arChicoBuarque">#arChicoBuarque</a> <a href="#arPabloMilanes">#arPabloMilanes</a> <a href="#ev34MostraInternacionalDeCinemaEmSaoPaulo">#ev34MostraInternacionalDeCinemaEmSaoPaulo</a> <a href="#evFestivalDeCannes2010">#evFestivalDeCannes2010</a> <a href="None">None</a></td>
+      <td><a href="#arOlivierAssayas">#arOlivierAssayas</a> <a href="#arBrianEno">#arBrianEno</a> <a href="#arNewOrder">#arNewOrder</a> <a href="#arWire">#arWire</a> <a href="#arTheFeelies">#arTheFeelies</a> <a href="#arChicoBuarque">#arChicoBuarque</a> <a href="#arPabloMilanes">#arPabloMilanes</a> <a href="#ev34MostraInternacionalDeCinemaEmSaoPaulo">#ev34MostraInternacionalDeCinemaEmSaoPaulo</a> <a href="#evFestivalDeCannes2010">#evFestivalDeCannes2010</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13931,7 +13931,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13941,7 +13941,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13951,7 +13951,7 @@
       <td>Fotografia;Intervenção</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> <a href="None">None</a></td>
+      <td><a href="#arCiaDeFoto">#arCiaDeFoto</a> <a href="#arPioFigueiroa">#arPioFigueiroa</a> <a href="#arRafaelJacinto">#arRafaelJacinto</a> <a href="#arJoaoKehl">#arJoaoKehl</a> <a href="#arCarolLopes">#arCarolLopes</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -13961,7 +13961,7 @@
       <td>Técnica Mista</td>
       <td>2010</td>
       <td></td>
-      <td><a href="#arJanainaLandini">#arJanainaLandini</a> <a href="#evAquiAgora">#evAquiAgora</a> <a href="None">None</a></td>
+      <td><a href="#arJanainaLandini">#arJanainaLandini</a> <a href="#evAquiAgora">#evAquiAgora</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -13971,7 +13971,7 @@
       <td>Videoarte</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arYonamine">#arYonamine</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arYonamine">#arYonamine</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -13981,7 +13981,7 @@
       <td>Dança</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arMicheleMoura">#arMicheleMoura</a> <a href="None">None</a></td>
+      <td><a href="#arMicheleMoura">#arMicheleMoura</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -13991,7 +13991,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14001,7 +14001,7 @@
       <td>Impressão</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arJonathasAndrade">#arJonathasAndrade</a> <a href="#ev29BienalDeSaoPaulo">#ev29BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arJonathasAndrade">#arJonathasAndrade</a> <a href="#ev29BienalDeSaoPaulo">#ev29BienalDeSaoPaulo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14011,7 +14011,7 @@
       <td>Arte Sonora</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arMartaPenner">#arMartaPenner</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arMartaPenner">#arMartaPenner</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14021,7 +14021,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2012</td>
-      <td><a href="#arCyroAlmeida">#arCyroAlmeida</a> <a href="#evDandara">#evDandara</a> <a href="None">None</a></td>
+      <td><a href="#arCyroAlmeida">#arCyroAlmeida</a> <a href="#evDandara">#evDandara</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14031,7 +14031,7 @@
       <td>Escultura</td>
       <td>2010</td>
       <td>2011</td>
-      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> <a href="None">None</a></td>
+      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14041,7 +14041,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14051,7 +14051,7 @@
       <td>Filme Colorido</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arJosePadilha">#arJosePadilha</a> <a href="None">None</a></td>
+      <td><a href="#arJosePadilha">#arJosePadilha</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14061,7 +14061,7 @@
       <td>Filme Colorido</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2010">#evFestivalDeCannes2010</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2010">#evFestivalDeCannes2010</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14071,7 +14071,7 @@
       <td>Pintura</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14081,7 +14081,7 @@
       <td>Fotografia</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arJodiBieber">#arJodiBieber</a> <a href="#evWorldPressPhotoOfTheYear2011">#evWorldPressPhotoOfTheYear2011</a> <a href="None">None</a></td>
+      <td><a href="#arJodiBieber">#arJodiBieber</a> <a href="#evWorldPressPhotoOfTheYear2011">#evWorldPressPhotoOfTheYear2011</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14091,7 +14091,7 @@
       <td>Filme Colorido</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arAbbasKiarostami">#arAbbasKiarostami</a> <a href="None">None</a></td>
+      <td><a href="#arAbbasKiarostami">#arAbbasKiarostami</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14101,7 +14101,7 @@
       <td>Escultura</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> <a href="None">None</a></td>
+      <td><a href="#arIsmaelMonticelli">#arIsmaelMonticelli</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14111,7 +14111,7 @@
       <td>Filme Colorido</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arTimBurton">#arTimBurton</a> <a href="None">None</a></td>
+      <td><a href="#arTimBurton">#arTimBurton</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14121,7 +14121,7 @@
       <td>Escultura</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perRafael">#perRafael</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perRafael">#perRafael</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14131,7 +14131,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> <a href="None">None</a></td>
+      <td><a href="#arRicardoMarinelli">#arRicardoMarinelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14141,7 +14141,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arJoanaLleys">#arJoanaLleys</a> <a href="#arLiziMenezes">#arLiziMenezes</a> <a href="#arPaulaGuedes">#arPaulaGuedes</a> <a href="#arLiviaNovaes">#arLiviaNovaes</a> <a href="#arSuianniMacedo">#arSuianniMacedo</a> <a href="#ruaDoAlmada">#ruaDoAlmada</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arBereniceIsabel">#arBereniceIsabel</a> <a href="#arJoanaLleys">#arJoanaLleys</a> <a href="#arLiziMenezes">#arLiziMenezes</a> <a href="#arPaulaGuedes">#arPaulaGuedes</a> <a href="#arLiviaNovaes">#arLiviaNovaes</a> <a href="#arSuianniMacedo">#arSuianniMacedo</a> <a href="#ruaDoAlmada">#ruaDoAlmada</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14151,7 +14151,7 @@
       <td>Performance;Intervenção;Livro de Artista</td>
       <td>2010</td>
       <td>2011</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#hospitalPsiquiatricoSaoPedro">#hospitalPsiquiatricoSaoPedro</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#hospitalPsiquiatricoSaoPedro">#hospitalPsiquiatricoSaoPedro</a> </td>
       <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14161,7 +14161,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#galeriaDeArteDoDMAE">#galeriaDeArteDoDMAE</a> <a href="#galeriaDeArteEPesquisaUFES">#galeriaDeArteEPesquisaUFES</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#galeriaDeArteDoDMAE">#galeriaDeArteDoDMAE</a> <a href="#galeriaDeArteEPesquisaUFES">#galeriaDeArteEPesquisaUFES</a> </td>
       <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14171,7 +14171,7 @@
       <td>Intervenção</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#hospitalPsiquiatricoSaoPedro">#hospitalPsiquiatricoSaoPedro</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="#hospitalPsiquiatricoSaoPedro">#hospitalPsiquiatricoSaoPedro</a> </td>
       <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14181,7 +14181,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14191,7 +14191,7 @@
       <td>Performance</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#evMarinaAbramovicTheArtistIsPresent">#evMarinaAbramovicTheArtistIsPresent</a> <a href="None">None</a></td>
+      <td><a href="#arMarinaAbramovic">#arMarinaAbramovic</a> <a href="#evMarinaAbramovicTheArtistIsPresent">#evMarinaAbramovicTheArtistIsPresent</a> </td>
       <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14201,7 +14201,7 @@
       <td>Videoarte</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14211,7 +14211,7 @@
       <td>Videoarte</td>
       <td>2010</td>
       <td>2010</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#igrejaDeSantoIldefonso">#igrejaDeSantoIldefonso</a> <a href="#pracaDaBatalha">#pracaDaBatalha</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#igrejaDeSantoIldefonso">#igrejaDeSantoIldefonso</a> <a href="#pracaDaBatalha">#pracaDaBatalha</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14221,7 +14221,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14231,7 +14231,7 @@
       <td>Série de TV</td>
       <td>2011</td>
       <td></td>
-      <td><a href="#arCharlieBrooker">#arCharlieBrooker</a> <a href="None">None</a></td>
+      <td><a href="#arCharlieBrooker">#arCharlieBrooker</a> </td>
       <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
@@ -14241,7 +14241,7 @@
       <td>Livro de Artista</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> </td>
       <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14251,7 +14251,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arLeticiaBertagna">#arLeticiaBertagna</a> <a href="#condominioGeraldoSantana">#condominioGeraldoSantana</a> <a href="#galeriaDoGoetheInstitutDePortoAlegre">#galeriaDoGoetheInstitutDePortoAlegre</a> <a href="None">None</a></td>
+      <td><a href="#arLeticiaBertagna">#arLeticiaBertagna</a> <a href="#condominioGeraldoSantana">#condominioGeraldoSantana</a> <a href="#galeriaDoGoetheInstitutDePortoAlegre">#galeriaDoGoetheInstitutDePortoAlegre</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14261,7 +14261,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14271,7 +14271,7 @@
       <td>Filme Colorido;Filme Animado</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arStevenSpielberg">#arStevenSpielberg</a> <a href="None">None</a></td>
+      <td><a href="#arStevenSpielberg">#arStevenSpielberg</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14281,7 +14281,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14291,7 +14291,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14301,7 +14301,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14311,7 +14311,7 @@
       <td>Dança</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcelaLevi">#arMarcelaLevi</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaLevi">#arMarcelaLevi</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14321,7 +14321,7 @@
       <td>Videoarte</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> <a href="None">None</a></td>
+      <td><a href="#arValieExport">#arValieExport</a> <a href="#evDespairEMetanoiaSukranMoralValieExport">#evDespairEMetanoiaSukranMoralValieExport</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14331,7 +14331,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arSamuelAranda">#arSamuelAranda</a> <a href="#evWorldPressPhotoOfTheYear2012">#evWorldPressPhotoOfTheYear2012</a> <a href="None">None</a></td>
+      <td><a href="#arSamuelAranda">#arSamuelAranda</a> <a href="#evWorldPressPhotoOfTheYear2012">#evWorldPressPhotoOfTheYear2012</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14341,7 +14341,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14351,7 +14351,7 @@
       <td>Peça</td>
       <td>2011</td>
       <td>2019</td>
-      <td><a href="#arCiaEnvieZada">#arCiaEnvieZada</a> <a href="#arRodrigoPinho">#arRodrigoPinho</a> <a href="#arHelgaNemeckzy">#arHelgaNemeckzy</a> <a href="#arFernandaSal">#arFernandaSal</a> <a href="#arAdeZanardini">#arAdeZanardini</a> <a href="#arSamanthaGilbert">#arSamanthaGilbert</a> <a href="#arJeanBodin">#arJeanBodin</a> <a href="#arFabricioMoser">#arFabricioMoser</a> <a href="#arVivianeOliveira">#arVivianeOliveira</a> <a href="#arTatoTeixeira">#arTatoTeixeira</a> <a href="#arAdrianoPetermann">#arAdrianoPetermann</a> <a href="#arHelenMiranda">#arHelenMiranda</a> <a href="#arPretaMarques">#arPretaMarques</a> <a href="#arQuatrilha">#arQuatrilha</a> <a href="#arRaphaelCassou">#arRaphaelCassou</a> <a href="#arZeOliva">#arZeOliva</a> <a href="#escadariaSelaron">#escadariaSelaron</a> <a href="#aquedutoDaCarioca">#aquedutoDaCarioca</a> <a href="None">None</a></td>
+      <td><a href="#arCiaEnvieZada">#arCiaEnvieZada</a> <a href="#arRodrigoPinho">#arRodrigoPinho</a> <a href="#arHelgaNemeckzy">#arHelgaNemeckzy</a> <a href="#arFernandaSal">#arFernandaSal</a> <a href="#arAdeZanardini">#arAdeZanardini</a> <a href="#arSamanthaGilbert">#arSamanthaGilbert</a> <a href="#arJeanBodin">#arJeanBodin</a> <a href="#arFabricioMoser">#arFabricioMoser</a> <a href="#arVivianeOliveira">#arVivianeOliveira</a> <a href="#arTatoTeixeira">#arTatoTeixeira</a> <a href="#arAdrianoPetermann">#arAdrianoPetermann</a> <a href="#arHelenMiranda">#arHelenMiranda</a> <a href="#arPretaMarques">#arPretaMarques</a> <a href="#arQuatrilha">#arQuatrilha</a> <a href="#arRaphaelCassou">#arRaphaelCassou</a> <a href="#arZeOliva">#arZeOliva</a> <a href="#escadariaSelaron">#escadariaSelaron</a> <a href="#aquedutoDaCarioca">#aquedutoDaCarioca</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14361,7 +14361,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evPerformanceArteBrasil">#evPerformanceArteBrasil</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evPerformanceArteBrasil">#evPerformanceArteBrasil</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14371,7 +14371,7 @@
       <td>Filme Colorido</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14381,7 +14381,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14391,7 +14391,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoMusa">#arJoaoMusa</a> <a href="#evJoaoLuizMusa24X36EVilaPrudente">#evJoaoLuizMusa24X36EVilaPrudente</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14401,7 +14401,7 @@
       <td>Curta-metragem</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arAntonioDaSilva">#arAntonioDaSilva</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioDaSilva">#arAntonioDaSilva</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14411,7 +14411,7 @@
       <td>Filme Colorido</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arAsgharFarhadi">#arAsgharFarhadi</a> <a href="None">None</a></td>
+      <td><a href="#arAsgharFarhadi">#arAsgharFarhadi</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14421,7 +14421,7 @@
       <td>Videoarte</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#arGrasieleSousa">#arGrasieleSousa</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14431,7 +14431,7 @@
       <td>Dança</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="None">None</a></td>
+      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> </td>
       <td>eRevista Performatus; o fermento</td>
     </tr>
     <tr>
@@ -14441,7 +14441,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14451,7 +14451,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14461,7 +14461,7 @@
       <td>Performance;Fotografia;Videoarte</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14471,7 +14471,7 @@
       <td>Intervenção</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arAntonioBueno">#arAntonioBueno</a> <a href="#atelierJabutipe">#atelierJabutipe</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioBueno">#arAntonioBueno</a> <a href="#atelierJabutipe">#atelierJabutipe</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14481,7 +14481,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14491,7 +14491,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14501,7 +14501,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arFanHo">#arFanHo</a> <a href="None">None</a></td>
+      <td><a href="#arFanHo">#arFanHo</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14511,7 +14511,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14521,7 +14521,7 @@
       <td>Arte Postal</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14531,7 +14531,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14541,7 +14541,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14551,7 +14551,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14561,7 +14561,7 @@
       <td>Filme Colorido</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMartinScorsese">#arMartinScorsese</a> <a href="None">None</a></td>
+      <td><a href="#arMartinScorsese">#arMartinScorsese</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14571,7 +14571,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td></td>
-      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="None">None</a></td>
+      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14581,7 +14581,7 @@
       <td>Videoarte</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arRodrigoBraga">#arRodrigoBraga</a> <a href="None">None</a></td>
+      <td><a href="#arRodrigoBraga">#arRodrigoBraga</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14591,7 +14591,7 @@
       <td>Fotolivro</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arTiagoSantana">#arTiagoSantana</a> <a href="#perRobertDelpire">#perRobertDelpire</a> <a href="#perEduardoManet">#perEduardoManet</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantana">#arTiagoSantana</a> <a href="#perRobertDelpire">#perRobertDelpire</a> <a href="#perEduardoManet">#perEduardoManet</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14601,7 +14601,7 @@
       <td>Fotografia</td>
       <td>2011</td>
       <td>2014</td>
-      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="None">None</a></td>
+      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14611,7 +14611,7 @@
       <td>Projeção;Escultura</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arYonamine">#arYonamine</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arYonamine">#arYonamine</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14621,7 +14621,7 @@
       <td>Performance</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14631,7 +14631,7 @@
       <td>Escultura</td>
       <td>2011</td>
       <td>2011</td>
-      <td><a href="#arAntonioOba">#arAntonioOba</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arAntonioOba">#arAntonioOba</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14641,7 +14641,7 @@
       <td>Técnica Mista;Fotografia</td>
       <td>2012</td>
       <td>2014</td>
-      <td><a href="#arSamySfoggia">#arSamySfoggia</a> <a href="None">None</a></td>
+      <td><a href="#arSamySfoggia">#arSamySfoggia</a> </td>
       <td>Icônica; Arte ConTexto</td>
     </tr>
     <tr>
@@ -14651,7 +14651,7 @@
       <td>Filme Colorido</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arPaulAnderson">#arPaulAnderson</a> <a href="#arJoaquinPhoenix">#arJoaquinPhoenix</a> <a href="#arPhilipHoffman">#arPhilipHoffman</a> <a href="None">None</a></td>
+      <td><a href="#arPaulAnderson">#arPaulAnderson</a> <a href="#arJoaquinPhoenix">#arJoaquinPhoenix</a> <a href="#arPhilipHoffman">#arPhilipHoffman</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14661,7 +14661,7 @@
       <td>Desenho</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMarcosFioravante">#arMarcosFioravante</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosFioravante">#arMarcosFioravante</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14671,7 +14671,7 @@
       <td>Desenho</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMarcosFioravante">#arMarcosFioravante</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosFioravante">#arMarcosFioravante</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14681,7 +14681,7 @@
       <td>Filme Colorido</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2012">#evFestivalDeCannes2012</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2012">#evFestivalDeCannes2012</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14691,7 +14691,7 @@
       <td>Curta-metragem</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2012">#evFestivalDeCannes2012</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2012">#evFestivalDeCannes2012</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14701,7 +14701,7 @@
       <td>Ação</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14711,7 +14711,7 @@
       <td>Fotolivro</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> <a href="#orgCosacENaify">#orgCosacENaify</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaJaguaribe">#arClaudiaJaguaribe</a> <a href="#orgCosacENaify">#orgCosacENaify</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14721,7 +14721,7 @@
       <td>Peça</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arOpovoempe">#arOpovoempe</a> <a href="None">None</a></td>
+      <td><a href="#arOpovoempe">#arOpovoempe</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14731,7 +14731,7 @@
       <td>Peça</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arOpovoempe">#arOpovoempe</a> <a href="None">None</a></td>
+      <td><a href="#arOpovoempe">#arOpovoempe</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -14741,7 +14741,7 @@
       <td>Fotolivro</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> <a href="None">None</a></td>
+      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14751,7 +14751,7 @@
       <td>Fotografia</td>
       <td>2012</td>
       <td></td>
-      <td><a href="#arAnaLira">#arAnaLira</a> <a href="#ev31BienalDeSaoPaulo">#ev31BienalDeSaoPaulo</a> <a href="None">None</a></td>
+      <td><a href="#arAnaLira">#arAnaLira</a> <a href="#ev31BienalDeSaoPaulo">#ev31BienalDeSaoPaulo</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -14761,7 +14761,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14771,7 +14771,7 @@
       <td>Instalação</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14781,7 +14781,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -14791,7 +14791,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arLuisSantos">#arLuisSantos</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#mausHabitos">#mausHabitos</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arLuisSantos">#arLuisSantos</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#mausHabitos">#mausHabitos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14801,7 +14801,7 @@
       <td>Peça</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMarceloBraga">#arMarceloBraga</a> <a href="#arWalterCarvalho">#arWalterCarvalho</a> <a href="#arMichelGroisman">#arMichelGroisman</a> <a href="#arRenatoMangolin">#arRenatoMangolin</a> <a href="#arSimoneSpoladore">#arSimoneSpoladore</a> <a href="#arLauraSamy">#arLauraSamy</a> <a href="#arDomenicoLancellotti">#arDomenicoLancellotti</a> <a href="None">None</a></td>
+      <td><a href="#arMarceloBraga">#arMarceloBraga</a> <a href="#arWalterCarvalho">#arWalterCarvalho</a> <a href="#arMichelGroisman">#arMichelGroisman</a> <a href="#arRenatoMangolin">#arRenatoMangolin</a> <a href="#arSimoneSpoladore">#arSimoneSpoladore</a> <a href="#arLauraSamy">#arLauraSamy</a> <a href="#arDomenicoLancellotti">#arDomenicoLancellotti</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14811,7 +14811,7 @@
       <td>Fotografia</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arGustavoGermano">#arGustavoGermano</a> <a href="#evAusenciasBrasil">#evAusenciasBrasil</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoGermano">#arGustavoGermano</a> <a href="#evAusenciasBrasil">#evAusenciasBrasil</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14821,7 +14821,7 @@
       <td>Intervenção</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> <a href="None">None</a></td>
+      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14831,7 +14831,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev13DocumentaDeKassel">#ev13DocumentaDeKassel</a> <a href="None">None</a></td>
+      <td><a href="#arAnibalLopez">#arAnibalLopez</a> <a href="#ev13DocumentaDeKassel">#ev13DocumentaDeKassel</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14841,7 +14841,7 @@
       <td>Impressão</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arPabloMeijueiro">#arPabloMeijueiro</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arPabloMeijueiro">#arPabloMeijueiro</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14851,7 +14851,7 @@
       <td>Dança</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="None">None</a></td>
+      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14861,7 +14861,7 @@
       <td>Ação</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arJanicePiero">#arJanicePiero</a> <a href="#casaAmarela">#casaAmarela</a> <a href="None">None</a></td>
+      <td><a href="#arJanicePiero">#arJanicePiero</a> <a href="#casaAmarela">#casaAmarela</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14871,7 +14871,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arJorgeQuintela">#arJorgeQuintela</a> <a href="#arDianaSa">#arDianaSa</a> <a href="#arSaraPereira">#arSaraPereira</a> <a href="#arSofiaMargarida">#arSofiaMargarida</a> <a href="#arTeresaAlpendurada">#arTeresaAlpendurada</a> <a href="#arPedroBastos">#arPedroBastos</a> <a href="#nucleoDeExperimentacaoCoreografica">#nucleoDeExperimentacaoCoreografica</a> <a href="None">None</a></td>
+      <td><a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arJorgeQuintela">#arJorgeQuintela</a> <a href="#arDianaSa">#arDianaSa</a> <a href="#arSaraPereira">#arSaraPereira</a> <a href="#arSofiaMargarida">#arSofiaMargarida</a> <a href="#arTeresaAlpendurada">#arTeresaAlpendurada</a> <a href="#arPedroBastos">#arPedroBastos</a> <a href="#nucleoDeExperimentacaoCoreografica">#nucleoDeExperimentacaoCoreografica</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14881,7 +14881,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arEmilyNowell">#arEmilyNowell</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arRosaSaunders">#arRosaSaunders</a> <a href="#arJulietteDumas">#arJulietteDumas</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="#arEmilyNowell">#arEmilyNowell</a> <a href="#arPauloMata">#arPauloMata</a> <a href="#arRosaSaunders">#arRosaSaunders</a> <a href="#arJulietteDumas">#arJulietteDumas</a> <a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14891,7 +14891,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2013</td>
-      <td><a href="#arPauloMeira">#arPauloMeira</a> <a href="#arMoacirLago">#arMoacirLago</a> <a href="#arLucianaQueiroga">#arLucianaQueiroga</a> <a href="#arTiagoAndrade">#arTiagoAndrade</a> <a href="#arFranciscoBaccaro">#arFranciscoBaccaro</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMeira">#arPauloMeira</a> <a href="#arMoacirLago">#arMoacirLago</a> <a href="#arLucianaQueiroga">#arLucianaQueiroga</a> <a href="#arTiagoAndrade">#arTiagoAndrade</a> <a href="#arFranciscoBaccaro">#arFranciscoBaccaro</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14901,7 +14901,7 @@
       <td>Peça</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arCelinaFonseca">#arCelinaFonseca</a> <a href="#arVandreSilveira">#arVandreSilveira</a> <a href="None">None</a></td>
+      <td><a href="#arCelinaFonseca">#arCelinaFonseca</a> <a href="#arVandreSilveira">#arVandreSilveira</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14911,7 +14911,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14921,7 +14921,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMarcusSantos">#arMarcusSantos</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusSantos">#arMarcusSantos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14931,7 +14931,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2016</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14941,7 +14941,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a> <a href="None">None</a></td>
+      <td><a href="#arSnezanaGolubovic">#arSnezanaGolubovic</a> <a href="#evRapidPulseInternationalPerformanceArtFestival">#evRapidPulseInternationalPerformanceArtFestival</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -14951,7 +14951,7 @@
       <td>Fotografia</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arSilviaGiordani">#arSilviaGiordani</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arSilviaGiordani">#arSilviaGiordani</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14961,7 +14961,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> <a href="None">None</a></td>
+      <td><a href="#arChantalAkerman">#arChantalAkerman</a> <a href="#evChantalAkermanTempoExpandido">#evChantalAkermanTempoExpandido</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -14971,7 +14971,7 @@
       <td>Instalação</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> <a href="None">None</a></td>
+      <td><a href="#arRosanaPaulino">#arRosanaPaulino</a> <a href="#evRosanaPaulinoACosturaDaMemoriaPinacoteca">#evRosanaPaulinoACosturaDaMemoriaPinacoteca</a> <a href="#evRosanaPaulinoACosturaDaMemoriaMAR">#evRosanaPaulinoACosturaDaMemoriaMAR</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -14981,7 +14981,7 @@
       <td>Videoarte</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -14991,7 +14991,7 @@
       <td>Performance;Instalação</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15001,7 +15001,7 @@
       <td>Performance</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> <a href="None">None</a></td>
+      <td><a href="#arPatriciaCorrea">#arPatriciaCorrea</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15011,7 +15011,7 @@
       <td>Arte Digital</td>
       <td>2012</td>
       <td>2012</td>
-      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> <a href="None">None</a></td>
+      <td><a href="#arOpavivara">#arOpavivara</a> <a href="#pracaTiradentes">#pracaTiradentes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15021,7 +15021,7 @@
       <td>Fotografia</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15031,7 +15031,7 @@
       <td>Técnica Mista</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#evComoMeTorneiInsensivel">#evComoMeTorneiInsensivel</a> <a href="None">None</a></td>
+      <td><a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#evComoMeTorneiInsensivel">#evComoMeTorneiInsensivel</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15041,7 +15041,7 @@
       <td>Videoarte</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15051,7 +15051,7 @@
       <td>Fotografia</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="#arManoelLima">#arManoelLima</a> <a href="#tse-tungLivroVermelho">#tse-tungLivroVermelho</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="#arManoelLima">#arManoelLima</a> <a href="#tse-tungLivroVermelho">#tse-tungLivroVermelho</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15061,7 +15061,7 @@
       <td>Videoarte</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15071,7 +15071,7 @@
       <td>Desenho</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15081,7 +15081,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15091,7 +15091,7 @@
       <td>Escultura</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15101,7 +15101,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arKaderAttia">#arKaderAttia</a> <a href="None">None</a></td>
+      <td><a href="#arKaderAttia">#arKaderAttia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15111,7 +15111,7 @@
       <td>Videoarte</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arVitorButkus">#arVitorButkus</a> <a href="None">None</a></td>
+      <td><a href="#arVitorButkus">#arVitorButkus</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15121,7 +15121,7 @@
       <td>Performance</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15131,7 +15131,7 @@
       <td>Performance;Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arFabioLopes">#arFabioLopes</a> <a href="#arAntonioDaSilva">#arAntonioDaSilva</a> <a href="#arPauloBras">#arPauloBras</a> <a href="#nucleoDeExperimentacaoCoreografica">#nucleoDeExperimentacaoCoreografica</a> <a href="None">None</a></td>
+      <td><a href="#arFabioLopes">#arFabioLopes</a> <a href="#arAntonioDaSilva">#arAntonioDaSilva</a> <a href="#arPauloBras">#arPauloBras</a> <a href="#nucleoDeExperimentacaoCoreografica">#nucleoDeExperimentacaoCoreografica</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15141,7 +15141,7 @@
       <td>Série de TV</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15151,7 +15151,7 @@
       <td>Técnica Mista</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> <a href="None">None</a></td>
+      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15161,7 +15161,7 @@
       <td>Técnica Mista</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> <a href="None">None</a></td>
+      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15171,7 +15171,7 @@
       <td>Filme Colorido</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15181,7 +15181,7 @@
       <td>Escultura</td>
       <td>2013</td>
       <td>2018</td>
-      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> <a href="None">None</a></td>
+      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15191,7 +15191,7 @@
       <td>Pintura</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15201,7 +15201,7 @@
       <td>Performance</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> <a href="None">None</a></td>
+      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15211,7 +15211,7 @@
       <td>Performance</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#evComoMeTorneiInsensivel">#evComoMeTorneiInsensivel</a> <a href="None">None</a></td>
+      <td><a href="#arJorgeSoledar">#arJorgeSoledar</a> <a href="#evComoMeTorneiInsensivel">#evComoMeTorneiInsensivel</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15221,7 +15221,7 @@
       <td>Livro de Artista</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="#oeNadja">#oeNadja</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="#oeNadja">#oeNadja</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15231,7 +15231,7 @@
       <td>Livro de Artista</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMayraRedin">#arMayraRedin</a> <a href="None">None</a></td>
+      <td><a href="#arMayraRedin">#arMayraRedin</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15241,7 +15241,7 @@
       <td>Desenho</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15251,7 +15251,7 @@
       <td>Videoarte</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arDelioJasse">#arDelioJasse</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15261,7 +15261,7 @@
       <td>Filme Colorido</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSangilLee">#arSangilLee</a> <a href="None">None</a></td>
+      <td><a href="#arSangilLee">#arSangilLee</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15271,7 +15271,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arDioneVieira">#arDioneVieira</a> <a href="#salaFernandoCorona">#salaFernandoCorona</a> <a href="None">None</a></td>
+      <td><a href="#arDioneVieira">#arDioneVieira</a> <a href="#salaFernandoCorona">#salaFernandoCorona</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15281,7 +15281,7 @@
       <td>Pintura</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arBiaLeite">#arBiaLeite</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arBiaLeite">#arBiaLeite</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15291,7 +15291,7 @@
       <td>Pintura</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arBiaLeite">#arBiaLeite</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> <a href="None">None</a></td>
+      <td><a href="#arBiaLeite">#arBiaLeite</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraFarol</a> <a href="#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola">#evQueermuseuCartografiasDaDiferencaNaArteBrasileiraEscola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15301,7 +15301,7 @@
       <td>Fotolivro</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> <a href="None">None</a></td>
+      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15311,7 +15311,7 @@
       <td>Performance;Videoarte</td>
       <td>2013</td>
       <td></td>
-      <td><a href="#arSarahSunde">#arSarahSunde</a> <a href="None">None</a></td>
+      <td><a href="#arSarahSunde">#arSarahSunde</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15321,7 +15321,7 @@
       <td>Dança</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arTucaPinheiro">#arTucaPinheiro</a> <a href="#arRosaHercules">#arRosaHercules</a> <a href="#arAdrianaBanana">#arAdrianaBanana</a> <a href="#arLeonardoPavanello">#arLeonardoPavanello</a> <a href="#arKikoKlaus">#arKikoKlaus</a> <a href="#arCarolineSilas">#arCarolineSilas</a> <a href="#arCarolineSilas">#arCarolineSilas</a> <a href="#arDenizardDennis">#arDenizardDennis</a> <a href="#evForumInternacionalDeDancaTerritorioMinas">#evForumInternacionalDeDancaTerritorioMinas</a> <a href="None">None</a></td>
+      <td><a href="#arTucaPinheiro">#arTucaPinheiro</a> <a href="#arRosaHercules">#arRosaHercules</a> <a href="#arAdrianaBanana">#arAdrianaBanana</a> <a href="#arLeonardoPavanello">#arLeonardoPavanello</a> <a href="#arKikoKlaus">#arKikoKlaus</a> <a href="#arCarolineSilas">#arCarolineSilas</a> <a href="#arCarolineSilas">#arCarolineSilas</a> <a href="#arDenizardDennis">#arDenizardDennis</a> <a href="#evForumInternacionalDeDancaTerritorioMinas">#evForumInternacionalDeDancaTerritorioMinas</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15331,7 +15331,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arCarlitoCarvalhosa">#arCarlitoCarvalhosa</a> <a href="#evSalaDeEspera">#evSalaDeEspera</a> <a href="None">None</a></td>
+      <td><a href="#arCarlitoCarvalhosa">#arCarlitoCarvalhosa</a> <a href="#evSalaDeEspera">#evSalaDeEspera</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15341,7 +15341,7 @@
       <td>Filme Colorido</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> <a href="None">None</a></td>
+      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15351,7 +15351,7 @@
       <td>Desenho</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evOlhosDagua">#evOlhosDagua</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15361,7 +15361,7 @@
       <td>Escultura</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arGugaFerraz">#arGugaFerraz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arGugaFerraz">#arGugaFerraz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15371,7 +15371,7 @@
       <td>Fotolivro</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> <a href="None">None</a></td>
+      <td><a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15381,7 +15381,7 @@
       <td>Livro de Artista</td>
       <td>2013</td>
       <td>2014</td>
-      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a> <a href="None">None</a></td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15391,7 +15391,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arHubertDuprat">#arHubertDuprat</a> <a href="None">None</a></td>
+      <td><a href="#arHubertDuprat">#arHubertDuprat</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15401,7 +15401,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arColetivoVoPixaPelada">#arColetivoVoPixaPelada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoVoPixaPelada">#arColetivoVoPixaPelada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15411,7 +15411,7 @@
       <td>Performance</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arPedroBastos">#arPedroBastos</a> <a href="#verdeRubroAssociacaoCulturalEArtistica">#verdeRubroAssociacaoCulturalEArtistica</a> <a href="None">None</a></td>
+      <td><a href="#arTaniaDinis">#arTaniaDinis</a> <a href="#arPedroBastos">#arPedroBastos</a> <a href="#verdeRubroAssociacaoCulturalEArtistica">#verdeRubroAssociacaoCulturalEArtistica</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15421,7 +15421,7 @@
       <td>Dança</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMarceloEvelin">#arMarceloEvelin</a> <a href="#arDemolicionInc">#arDemolicionInc</a> <a href="None">None</a></td>
+      <td><a href="#arMarceloEvelin">#arMarceloEvelin</a> <a href="#arDemolicionInc">#arDemolicionInc</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15431,7 +15431,7 @@
       <td>ND</td>
       <td>2013</td>
       <td></td>
-      <td><a href="#arLiviaMoura">#arLiviaMoura</a> <a href="#evInterfluxosColapsoComoPerspectiva">#evInterfluxosColapsoComoPerspectiva</a> <a href="None">None</a></td>
+      <td><a href="#arLiviaMoura">#arLiviaMoura</a> <a href="#evInterfluxosColapsoComoPerspectiva">#evInterfluxosColapsoComoPerspectiva</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15441,7 +15441,7 @@
       <td>Dança</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMarceloEvelin">#arMarceloEvelin</a> <a href="#arDemolicionInc">#arDemolicionInc</a> <a href="None">None</a></td>
+      <td><a href="#arMarceloEvelin">#arMarceloEvelin</a> <a href="#arDemolicionInc">#arDemolicionInc</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15451,7 +15451,7 @@
       <td>Fotografia</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15461,7 +15461,7 @@
       <td>Dança</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arSergiuMatis">#arSergiuMatis</a> <a href="None">None</a></td>
+      <td><a href="#arSergiuMatis">#arSergiuMatis</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15471,7 +15471,7 @@
       <td>ND</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15481,7 +15481,7 @@
       <td>ND</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15491,7 +15491,7 @@
       <td>Instalação</td>
       <td>2013</td>
       <td>2017</td>
-      <td><a href="#arLauraBelem">#arLauraBelem</a> <a href="#espacoCulturalPortoSeguro">#espacoCulturalPortoSeguro</a> <a href="None">None</a></td>
+      <td><a href="#arLauraBelem">#arLauraBelem</a> <a href="#espacoCulturalPortoSeguro">#espacoCulturalPortoSeguro</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15501,7 +15501,7 @@
       <td>Fotografia</td>
       <td>2013</td>
       <td>2013</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> <a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15511,7 +15511,7 @@
       <td>Fotolivro</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arFanHo">#arFanHo</a> <a href="None">None</a></td>
+      <td><a href="#arFanHo">#arFanHo</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15521,7 +15521,7 @@
       <td>Escultura</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> </td>
       <td>eRevista Performatus; o fermento</td>
     </tr>
     <tr>
@@ -15531,7 +15531,7 @@
       <td>Escultura</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> <a href="None">None</a></td>
+      <td><a href="#arAtonioMourao">#arAtonioMourao</a> <a href="#evTungaORigorDaDistracao">#evTungaORigorDaDistracao</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -15541,7 +15541,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> <a href="None">None</a></td>
+      <td><a href="#arGermanLorca">#arGermanLorca</a> <a href="#evTravessias">#evTravessias</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15551,7 +15551,7 @@
       <td>Videoarte</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arRivaneNeuenschwander">#arRivaneNeuenschwander</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> <a href="None">None</a></td>
+      <td><a href="#arRivaneNeuenschwander">#arRivaneNeuenschwander</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielCarpintaria</a> <a href="#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria">#evEsseObscuroObjetoDoDesejoFortesDAloiaEGabrielGaleria</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15561,7 +15561,7 @@
       <td>Fotolivro</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arAnaLira">#arAnaLira</a> <a href="#perMarceloPedroso">#perMarceloPedroso</a> <a href="#perFelipePeres">#perFelipePeres</a> <a href="#perEduardoQueiroga">#perEduardoQueiroga</a> <a href="None">None</a></td>
+      <td><a href="#arAnaLira">#arAnaLira</a> <a href="#perMarceloPedroso">#perMarceloPedroso</a> <a href="#perFelipePeres">#perFelipePeres</a> <a href="#perEduardoQueiroga">#perEduardoQueiroga</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15571,7 +15571,7 @@
       <td>Fotografia;Performance</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arClaudiaTavares">#arClaudiaTavares</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaTavares">#arClaudiaTavares</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15581,7 +15581,7 @@
       <td>Filme Colorido</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arWimWenders">#arWimWenders</a> <a href="#arJulianoSalgado">#arJulianoSalgado</a> <a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> <a href="None">None</a></td>
+      <td><a href="#arWimWenders">#arWimWenders</a> <a href="#arJulianoSalgado">#arJulianoSalgado</a> <a href="#arSebastiaoSalgado">#arSebastiaoSalgado</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15591,7 +15591,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arLiviaAquino">#arLiviaAquino</a> <a href="None">None</a></td>
+      <td><a href="#arLiviaAquino">#arLiviaAquino</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15601,7 +15601,7 @@
       <td>Pintura</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15611,7 +15611,7 @@
       <td>Escultura</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15621,7 +15621,7 @@
       <td>Peça</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> <a href="None">None</a></td>
+      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15631,7 +15631,7 @@
       <td>Videoarte</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arMarianaFlorindo">#arMarianaFlorindo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaFlorindo">#arMarianaFlorindo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15641,7 +15641,7 @@
       <td>Pintura</td>
       <td>2014</td>
       <td>2018</td>
-      <td><a href="#arPotiraMaia">#arPotiraMaia</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arPotiraMaia">#arPotiraMaia</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15651,7 +15651,7 @@
       <td>Intervenção</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arWendelMedeiros">#arWendelMedeiros</a> <a href="#arColetivoAparecidosPoliticos">#arColetivoAparecidosPoliticos</a> <a href="None">None</a></td>
+      <td><a href="#arWendelMedeiros">#arWendelMedeiros</a> <a href="#arColetivoAparecidosPoliticos">#arColetivoAparecidosPoliticos</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15661,7 +15661,7 @@
       <td>Escultura</td>
       <td>2014</td>
       <td></td>
-      <td><a href="#arAdriannaEu">#arAdriannaEu</a> <a href="None">None</a></td>
+      <td><a href="#arAdriannaEu">#arAdriannaEu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15671,7 +15671,7 @@
       <td>ND</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15681,7 +15681,7 @@
       <td>Livro de Artista</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a> <a href="None">None</a></td>
+      <td><a href="#arEmanuelMonteiro">#arEmanuelMonteiro</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15691,7 +15691,7 @@
       <td>Técnica Mista;Desenho</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arSamySfoggia">#arSamySfoggia</a> <a href="None">None</a></td>
+      <td><a href="#arSamySfoggia">#arSamySfoggia</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15701,7 +15701,7 @@
       <td>Fotografia;Body art</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15711,7 +15711,7 @@
       <td>Instalação</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="#evFeiraDeCiencias">#evFeiraDeCiencias</a> <a href="None">None</a></td>
+      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="#evFeiraDeCiencias">#evFeiraDeCiencias</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15721,7 +15721,7 @@
       <td>Técnica Mista</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> <a href="None">None</a></td>
+      <td><a href="#arMauraGrimaldi">#arMauraGrimaldi</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15731,7 +15731,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15741,7 +15741,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15751,7 +15751,7 @@
       <td>Videoarte</td>
       <td>2014</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15761,7 +15761,7 @@
       <td>Videoarte;Performance</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> <a href="#rocinha">#rocinha</a> <a href="#palacioGustavoCapanema">#palacioGustavoCapanema</a> <a href="#escolaDeArtesVisuaisDoParqueLage">#escolaDeArtesVisuaisDoParqueLage</a> <a href="None">None</a></td>
+      <td><a href="#arRonaldDuarte">#arRonaldDuarte</a> <a href="#rocinha">#rocinha</a> <a href="#palacioGustavoCapanema">#palacioGustavoCapanema</a> <a href="#escolaDeArtesVisuaisDoParqueLage">#escolaDeArtesVisuaisDoParqueLage</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15771,7 +15771,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="#evFeiraDeCiencias">#evFeiraDeCiencias</a> <a href="None">None</a></td>
+      <td><a href="#arRomyPocztaruk">#arRomyPocztaruk</a> <a href="#evFeiraDeCiencias">#evFeiraDeCiencias</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15781,7 +15781,7 @@
       <td>Ação</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> <a href="None">None</a></td>
+      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15791,7 +15791,7 @@
       <td>Performance</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arJanicePiero">#arJanicePiero</a> <a href="#arLoopB">#arLoopB</a> <a href="#arSamuelMalbon">#arSamuelMalbon</a> <a href="#casaAmarela">#casaAmarela</a> <a href="None">None</a></td>
+      <td><a href="#arJanicePiero">#arJanicePiero</a> <a href="#arLoopB">#arLoopB</a> <a href="#arSamuelMalbon">#arSamuelMalbon</a> <a href="#casaAmarela">#casaAmarela</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15801,7 +15801,7 @@
       <td>Performance</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evPerfor5Quando">#evPerfor5Quando</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evPerfor5Quando">#evPerfor5Quando</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15811,7 +15811,7 @@
       <td>Peça</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arCiaEstabuloDeLuxo">#arCiaEstabuloDeLuxo</a> <a href="None">None</a></td>
+      <td><a href="#arCiaEstabuloDeLuxo">#arCiaEstabuloDeLuxo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15821,7 +15821,7 @@
       <td>Fotografia</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15831,7 +15831,7 @@
       <td>Arte Digital</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arLeticiaBertagna">#arLeticiaBertagna</a> <a href="None">None</a></td>
+      <td><a href="#arLeticiaBertagna">#arLeticiaBertagna</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15841,7 +15841,7 @@
       <td>Performance</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="#evPriscillaDavanzoLugaresDaEscrita">#evPriscillaDavanzoLugaresDaEscrita</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15851,7 +15851,7 @@
       <td>Instalação</td>
       <td>2014</td>
       <td>2014</td>
-      <td><a href="#arMarkDion">#arMarkDion</a> <a href="None">None</a></td>
+      <td><a href="#arMarkDion">#arMarkDion</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15861,7 +15861,7 @@
       <td>Fotolivro</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arAdelaideIvanova">#arAdelaideIvanova</a> <a href="None">None</a></td>
+      <td><a href="#arAdelaideIvanova">#arAdelaideIvanova</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15871,7 +15871,7 @@
       <td>Escultura</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arIvanGrilo">#arIvanGrilo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arIvanGrilo">#arIvanGrilo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15881,7 +15881,7 @@
       <td>Videoarte</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arCiaExcessos">#arCiaExcessos</a> <a href="#arTalesFrey">#arTalesFrey</a> <a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15891,7 +15891,7 @@
       <td>Instalação;Fotografia;Performance</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arLaraOvidio">#arLaraOvidio</a> <a href="#evVIPremioDiarioContemporaneoDeFotografia">#evVIPremioDiarioContemporaneoDeFotografia</a> <a href="None">None</a></td>
+      <td><a href="#arLaraOvidio">#arLaraOvidio</a> <a href="#evVIPremioDiarioContemporaneoDeFotografia">#evVIPremioDiarioContemporaneoDeFotografia</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15901,7 +15901,7 @@
       <td>Body art</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arPauloMata">#arPauloMata</a> <a href="None">None</a></td>
+      <td><a href="#arPauloMata">#arPauloMata</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -15911,7 +15911,7 @@
       <td>Fotografia</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arGustavoGermano">#arGustavoGermano</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoGermano">#arGustavoGermano</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15921,7 +15921,7 @@
       <td>Filme Colorido</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arLaurieAnderson">#arLaurieAnderson</a> <a href="None">None</a></td>
+      <td><a href="#arLaurieAnderson">#arLaurieAnderson</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15931,7 +15931,7 @@
       <td>Projeção;Intervenção</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15941,7 +15941,7 @@
       <td>ND</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15951,7 +15951,7 @@
       <td>Técnica Mista</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arMarianaAndrade">#arMarianaAndrade</a> <a href="#evForumAWID2016">#evForumAWID2016</a> <a href="None">None</a></td>
+      <td><a href="#arMarianaAndrade">#arMarianaAndrade</a> <a href="#evForumAWID2016">#evForumAWID2016</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -15961,7 +15961,7 @@
       <td>Escultura</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arElidaTessler">#arElidaTessler</a> <a href="None">None</a></td>
+      <td><a href="#arElidaTessler">#arElidaTessler</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -15971,7 +15971,7 @@
       <td>ND</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15981,7 +15981,7 @@
       <td>Performance</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -15991,7 +15991,7 @@
       <td>Instalação</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16001,7 +16001,7 @@
       <td>Videoarte</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evAguaAr">#evAguaAr</a> <a href="None">None</a></td>
+      <td><a href="#arSuzanaQueiroga">#arSuzanaQueiroga</a> <a href="#evAguaAr">#evAguaAr</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16011,7 +16011,7 @@
       <td>Performance</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arLiziMenezes">#arLiziMenezes</a> <a href="#evPrimeiroFestivalFeministaDoPorto">#evPrimeiroFestivalFeministaDoPorto</a> <a href="None">None</a></td>
+      <td><a href="#arLiziMenezes">#arLiziMenezes</a> <a href="#evPrimeiroFestivalFeministaDoPorto">#evPrimeiroFestivalFeministaDoPorto</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16021,7 +16021,7 @@
       <td>Epístola</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> <a href="None">None</a></td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16031,7 +16031,7 @@
       <td>Epístola</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> <a href="None">None</a></td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16041,7 +16041,7 @@
       <td>Escultura;Desenho</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16051,7 +16051,7 @@
       <td>Videoarte</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16061,7 +16061,7 @@
       <td>Livro de Artista;Instalação</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> <a href="None">None</a></td>
+      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16071,7 +16071,7 @@
       <td>Instalação</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arSaraGoldschmied">#arSaraGoldschmied</a> <a href="#arEleonoraChiari">#arEleonoraChiari</a> <a href="#museion">#museion</a> <a href="None">None</a></td>
+      <td><a href="#arSaraGoldschmied">#arSaraGoldschmied</a> <a href="#arEleonoraChiari">#arEleonoraChiari</a> <a href="#museion">#museion</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16081,7 +16081,7 @@
       <td>Livro de Artista</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arSamySfoggia">#arSamySfoggia</a> <a href="None">None</a></td>
+      <td><a href="#arSamySfoggia">#arSamySfoggia</a> </td>
       <td>Icônica; Arte ConTexto</td>
     </tr>
     <tr>
@@ -16091,7 +16091,7 @@
       <td>Filme Colorido</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2015">#evFestivalDeCannes2015</a> <a href="#evUnCertainRegard2015">#evUnCertainRegard2015</a> <a href="None">None</a></td>
+      <td><a href="#arApichatpongWeerasethakul">#arApichatpongWeerasethakul</a> <a href="#evFestivalDeCannes2015">#evFestivalDeCannes2015</a> <a href="#evUnCertainRegard2015">#evUnCertainRegard2015</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -16101,7 +16101,7 @@
       <td>Fotografia</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arColetivoSeusPutos">#arColetivoSeusPutos</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoSeusPutos">#arColetivoSeusPutos</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16111,7 +16111,7 @@
       <td>Fotolivro</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> <a href="None">None</a></td>
+      <td><a href="#arGilvanBarreto">#arGilvanBarreto</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -16121,7 +16121,7 @@
       <td>Ação;Livro de Artista</td>
       <td>2015</td>
       <td>2016</td>
-      <td><a href="#arMartaMasiero">#arMartaMasiero</a> <a href="None">None</a></td>
+      <td><a href="#arMartaMasiero">#arMartaMasiero</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16131,7 +16131,7 @@
       <td>Pintura</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16141,7 +16141,7 @@
       <td>Escultura</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16151,7 +16151,7 @@
       <td>Escultura;Desenho</td>
       <td>2015</td>
       <td>2015</td>
-      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16161,7 +16161,7 @@
       <td>Técnica Mista;Fotografia</td>
       <td>2015</td>
       <td>2016</td>
-      <td><a href="#arSamySfoggia">#arSamySfoggia</a> <a href="None">None</a></td>
+      <td><a href="#arSamySfoggia">#arSamySfoggia</a> </td>
       <td>Icônica; Arte ConTexto</td>
     </tr>
     <tr>
@@ -16171,7 +16171,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arIvanGrilo">#arIvanGrilo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arIvanGrilo">#arIvanGrilo</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16181,7 +16181,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arFrederikDuerinck">#arFrederikDuerinck</a> <a href="#arMarleineWerf">#arMarleineWerf</a> <a href="#evFILEAArteEletronicaNaEpocaDisruptiva">#evFILEAArteEletronicaNaEpocaDisruptiva</a> <a href="None">None</a></td>
+      <td><a href="#arFrederikDuerinck">#arFrederikDuerinck</a> <a href="#arMarleineWerf">#arMarleineWerf</a> <a href="#evFILEAArteEletronicaNaEpocaDisruptiva">#evFILEAArteEletronicaNaEpocaDisruptiva</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16191,7 +16191,7 @@
       <td>Video clip</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arNastioMosquito">#arNastioMosquito</a> <a href="#exExAfrica">#exExAfrica</a> <a href="None">None</a></td>
+      <td><a href="#arNastioMosquito">#arNastioMosquito</a> <a href="#exExAfrica">#exExAfrica</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16201,7 +16201,7 @@
       <td>Técnica Mista</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoFileDePeixe">#arColetivoFileDePeixe</a> <a href="#evBalancete">#evBalancete</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16211,7 +16211,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16221,7 +16221,7 @@
       <td>Filme Colorido</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> <a href="None">None</a></td>
+      <td><a href="#arAlejandroJodorowsky">#arAlejandroJodorowsky</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16231,7 +16231,7 @@
       <td>Dança</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcusAbranches">#arMarcusAbranches</a> <a href="None">None</a></td>
+      <td><a href="#arMarcusAbranches">#arMarcusAbranches</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16241,7 +16241,7 @@
       <td>Técnica Mista;Impressão</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arIrisHelena">#arIrisHelena</a> <a href="None">None</a></td>
+      <td><a href="#arIrisHelena">#arIrisHelena</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16251,7 +16251,7 @@
       <td>Técnica Mista</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arIrisHelena">#arIrisHelena</a> <a href="None">None</a></td>
+      <td><a href="#arIrisHelena">#arIrisHelena</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16261,7 +16261,7 @@
       <td>Técnica Mista</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arIrisHelena">#arIrisHelena</a> <a href="None">None</a></td>
+      <td><a href="#arIrisHelena">#arIrisHelena</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16271,7 +16271,7 @@
       <td>Performance</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arTalesFrey">#arTalesFrey</a> <a href="None">None</a></td>
+      <td><a href="#arTalesFrey">#arTalesFrey</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16281,7 +16281,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arColetivoSeusPutos">#arColetivoSeusPutos</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arColetivoSeusPutos">#arColetivoSeusPutos</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16291,7 +16291,7 @@
       <td>Técnica Mista;Desenho;Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arGugaFerraz">#arGugaFerraz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arGugaFerraz">#arGugaFerraz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16301,7 +16301,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16311,7 +16311,7 @@
       <td>Técnica Mista</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arThiagoOrtiz">#arThiagoOrtiz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arThiagoOrtiz">#arThiagoOrtiz</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16321,7 +16321,7 @@
       <td>Performance</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arLucioAgra">#arLucioAgra</a> <a href="#arOtavioDonasci">#arOtavioDonasci</a> <a href="#evOQueNaoEPerformance">#evOQueNaoEPerformance</a> <a href="None">None</a></td>
+      <td><a href="#arLucioAgra">#arLucioAgra</a> <a href="#arOtavioDonasci">#arOtavioDonasci</a> <a href="#evOQueNaoEPerformance">#evOQueNaoEPerformance</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16331,7 +16331,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16341,7 +16341,7 @@
       <td>Instalação;Performance</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAlineFurtado">#arAlineFurtado</a> <a href="#ev67oSalaoDeAbril">#ev67oSalaoDeAbril</a> <a href="None">None</a></td>
+      <td><a href="#arAlineFurtado">#arAlineFurtado</a> <a href="#ev67oSalaoDeAbril">#ev67oSalaoDeAbril</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16351,7 +16351,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16361,7 +16361,7 @@
       <td>Videoarte</td>
       <td>2016</td>
       <td>2017</td>
-      <td><a href="#arMassiveIllegalArts">#arMassiveIllegalArts</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMassiveIllegalArts">#arMassiveIllegalArts</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16371,7 +16371,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arGustavoGermano">#arGustavoGermano</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoGermano">#arGustavoGermano</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16381,7 +16381,7 @@
       <td>Performance</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arOutroLuiz">#arOutroLuiz</a> <a href="#evConvergencias2016">#evConvergencias2016</a> <a href="None">None</a></td>
+      <td><a href="#arOutroLuiz">#arOutroLuiz</a> <a href="#evConvergencias2016">#evConvergencias2016</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16391,7 +16391,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arCamillaBraga">#arCamillaBraga</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arCamillaBraga">#arCamillaBraga</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16401,7 +16401,7 @@
       <td>Videoarte</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arGradaKilomba">#arGradaKilomba</a> <a href="None">None</a></td>
+      <td><a href="#arGradaKilomba">#arGradaKilomba</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16411,7 +16411,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arDanielMurgel">#arDanielMurgel</a> <a href="#arLeandroBarboza">#arLeandroBarboza</a> <a href="#arAtelierSanitario">#arAtelierSanitario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16421,7 +16421,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16431,7 +16431,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16441,7 +16441,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16451,7 +16451,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16461,7 +16461,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2018</td>
-      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16471,7 +16471,7 @@
       <td>Desenho</td>
       <td>2016</td>
       <td>2020</td>
-      <td><a href="#arDeniseAlvesRodrigues">#arDeniseAlvesRodrigues</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arDeniseAlvesRodrigues">#arDeniseAlvesRodrigues</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16481,7 +16481,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16491,7 +16491,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16501,7 +16501,7 @@
       <td>Pintura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16511,7 +16511,7 @@
       <td>Série de TV</td>
       <td>2016</td>
       <td></td>
-      <td><a href="#arJonathanNolan">#arJonathanNolan</a> <a href="#arLisaJoy">#arLisaJoy</a> <a href="#arAnthonyHopkins">#arAnthonyHopkins</a> <a href="#arEdHarris">#arEdHarris</a> <a href="#arRodrigoSantoro">#arRodrigoSantoro</a> <a href="#orgHBO">#orgHBO</a> <a href="None">None</a></td>
+      <td><a href="#arJonathanNolan">#arJonathanNolan</a> <a href="#arLisaJoy">#arLisaJoy</a> <a href="#arAnthonyHopkins">#arAnthonyHopkins</a> <a href="#arEdHarris">#arEdHarris</a> <a href="#arRodrigoSantoro">#arRodrigoSantoro</a> <a href="#orgHBO">#orgHBO</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -16521,7 +16521,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> <a href="None">None</a></td>
+      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -16531,7 +16531,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2018</td>
-      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16541,7 +16541,7 @@
       <td>Impressão;Escultura</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arFabioMorais">#arFabioMorais</a> <a href="#evEscritexpografica">#evEscritexpografica</a> <a href="None">None</a></td>
+      <td><a href="#arFabioMorais">#arFabioMorais</a> <a href="#evEscritexpografica">#evEscritexpografica</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16551,7 +16551,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> <a href="None">None</a></td>
+      <td><a href="#arVicenteMello">#arVicenteMello</a> <a href="#evMonolux">#evMonolux</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -16561,7 +16561,7 @@
       <td>Epístola</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> <a href="None">None</a></td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16571,7 +16571,7 @@
       <td>Epístola</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> <a href="None">None</a></td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16581,7 +16581,7 @@
       <td>Dança</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMuovereCiaDeDancaContemporanea">#arMuovereCiaDeDancaContemporanea</a> <a href="#arJussaraMiranda">#arJussaraMiranda</a> <a href="#institutoLing">#institutoLing</a> <a href="None">None</a></td>
+      <td><a href="#arMuovereCiaDeDancaContemporanea">#arMuovereCiaDeDancaContemporanea</a> <a href="#arJussaraMiranda">#arJussaraMiranda</a> <a href="#institutoLing">#institutoLing</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16591,7 +16591,7 @@
       <td>Instalação;Site Specific</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arRodrigoBraga">#arRodrigoBraga</a> <a href="#museeDArtModerneDeParis">#museeDArtModerneDeParis</a> <a href="#palaisDeTokyo">#palaisDeTokyo</a> <a href="None">None</a></td>
+      <td><a href="#arRodrigoBraga">#arRodrigoBraga</a> <a href="#museeDArtModerneDeParis">#museeDArtModerneDeParis</a> <a href="#palaisDeTokyo">#palaisDeTokyo</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -16601,7 +16601,7 @@
       <td>Performance</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evRuidoGestoAcaoEPerformance">#evRuidoGestoAcaoEPerformance</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evRuidoGestoAcaoEPerformance">#evRuidoGestoAcaoEPerformance</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16611,7 +16611,7 @@
       <td>Ação;Intervenção</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> <a href="None">None</a></td>
+      <td><a href="#arTeresaSiewerdt">#arTeresaSiewerdt</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16621,7 +16621,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16631,7 +16631,7 @@
       <td>Impressão</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arFabioMorais">#arFabioMorais</a> <a href="#evEscritexpografica">#evEscritexpografica</a> <a href="None">None</a></td>
+      <td><a href="#arFabioMorais">#arFabioMorais</a> <a href="#evEscritexpografica">#evEscritexpografica</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16641,7 +16641,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16651,7 +16651,7 @@
       <td>Escultura</td>
       <td>2016</td>
       <td>2018</td>
-      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arNoaraQuintana">#arNoaraQuintana</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -16661,7 +16661,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16671,7 +16671,7 @@
       <td>Fotografia</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arCyroAlmeida">#arCyroAlmeida</a> <a href="#arMestreSantos">#arMestreSantos</a> <a href="None">None</a></td>
+      <td><a href="#arCyroAlmeida">#arCyroAlmeida</a> <a href="#arMestreSantos">#arMestreSantos</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -16681,7 +16681,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16691,7 +16691,7 @@
       <td>Instalação;Intervenção</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perAlineMendes">#perAlineMendes</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> <a href="None">None</a></td>
+      <td><a href="#arAlexandreSequeira">#arAlexandreSequeira</a> <a href="#perAlineMendes">#perAlineMendes</a> <a href="#evMeuMundoTeu">#evMeuMundoTeu</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16701,7 +16701,7 @@
       <td>Técnica Mista</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16711,7 +16711,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16721,7 +16721,7 @@
       <td>Instalação</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16731,7 +16731,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16741,7 +16741,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16751,7 +16751,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16761,7 +16761,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16771,7 +16771,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16781,7 +16781,7 @@
       <td>ND</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16791,7 +16791,7 @@
       <td>Fotolivro</td>
       <td>2016</td>
       <td>2016</td>
-      <td><a href="#arFabricioArriaga">#arFabricioArriaga</a> <a href="None">None</a></td>
+      <td><a href="#arFabricioArriaga">#arFabricioArriaga</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -16801,7 +16801,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arFabioLopes">#arFabioLopes</a> <a href="None">None</a></td>
+      <td><a href="#arFabioLopes">#arFabioLopes</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16811,7 +16811,7 @@
       <td>Pintura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> <a href="None">None</a></td>
+      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16821,7 +16821,7 @@
       <td>Videoarte</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> <a href="None">None</a></td>
+      <td><a href="#arMonicaDeMiranda">#arMonicaDeMiranda</a> <a href="#evDaquiPraFrenteArteContemporaneaEmAngola">#evDaquiPraFrenteArteContemporaneaEmAngola</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16831,7 +16831,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arAnguezomoBikoro">#arAnguezomoBikoro</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arAnguezomoBikoro">#arAnguezomoBikoro</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16841,7 +16841,7 @@
       <td>Videoarte;Dança</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arCarolineFaria">#arCarolineFaria</a> <a href="None">None</a></td>
+      <td><a href="#arCarolineFaria">#arCarolineFaria</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16851,7 +16851,7 @@
       <td>Pintura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> <a href="None">None</a></td>
+      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16861,7 +16861,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arEvamariaSchaller">#arEvamariaSchaller</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arEvamariaSchaller">#arEvamariaSchaller</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16871,7 +16871,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arRafaelMenova">#arRafaelMenova</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arRafaelMenova">#arRafaelMenova</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16881,7 +16881,7 @@
       <td>Técnica Mista</td>
       <td>2017</td>
       <td></td>
-      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> <a href="None">None</a></td>
+      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16891,7 +16891,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arGutaGalli">#arGutaGalli</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arGutaGalli">#arGutaGalli</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16901,7 +16901,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arPashias">#arPashias</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arPashias">#arPashias</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16911,7 +16911,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16921,7 +16921,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arIlyaPusenkoff">#arIlyaPusenkoff</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arIlyaPusenkoff">#arIlyaPusenkoff</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16931,7 +16931,7 @@
       <td>Instalação;Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arFyodorAndreevich">#arFyodorAndreevich</a> <a href="#arAtelierMarkoBrajovic">#arAtelierMarkoBrajovic</a> <a href="#arGutaGalli">#arGutaGalli</a> <a href="#arEvamariaSchaller">#arEvamariaSchaller</a> <a href="#arAnguezomoBikoro">#arAnguezomoBikoro</a> <a href="#arJamieHadley">#arJamieHadley</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arPashias">#arPashias</a> <a href="#arRafaelMenova">#arRafaelMenova</a> <a href="#arArtoLindsay">#arArtoLindsay</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arFyodorAndreevich">#arFyodorAndreevich</a> <a href="#arAtelierMarkoBrajovic">#arAtelierMarkoBrajovic</a> <a href="#arGutaGalli">#arGutaGalli</a> <a href="#arEvamariaSchaller">#arEvamariaSchaller</a> <a href="#arAnguezomoBikoro">#arAnguezomoBikoro</a> <a href="#arJamieHadley">#arJamieHadley</a> <a href="#arClarissaSacchelli">#arClarissaSacchelli</a> <a href="#arPashias">#arPashias</a> <a href="#arRafaelMenova">#arRafaelMenova</a> <a href="#arArtoLindsay">#arArtoLindsay</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16941,7 +16941,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arJamieHadley">#arJamieHadley</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arJamieHadley">#arJamieHadley</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16951,7 +16951,7 @@
       <td>Escultura;Bandeira</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arEmmanuelNassar">#arEmmanuelNassar</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arEmmanuelNassar">#arEmmanuelNassar</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16961,7 +16961,7 @@
       <td>Escultura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arSilviaSchiavone">#arSilviaSchiavone</a> <a href="#evExposicaoDoIPEGAEncontroDeEstudantesDeGraduacoesEmArtesDoEstadoDoRioDeJaneiro">#evExposicaoDoIPEGAEncontroDeEstudantesDeGraduacoesEmArtesDoEstadoDoRioDeJaneiro</a> <a href="None">None</a></td>
+      <td><a href="#arSilviaSchiavone">#arSilviaSchiavone</a> <a href="#evExposicaoDoIPEGAEncontroDeEstudantesDeGraduacoesEmArtesDoEstadoDoRioDeJaneiro">#evExposicaoDoIPEGAEncontroDeEstudantesDeGraduacoesEmArtesDoEstadoDoRioDeJaneiro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16971,7 +16971,7 @@
       <td>Dança</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arLiaRodrigues">#arLiaRodrigues</a> <a href="#teatroDoCampoAlegre">#teatroDoCampoAlegre</a> <a href="None">None</a></td>
+      <td><a href="#arLiaRodrigues">#arLiaRodrigues</a> <a href="#teatroDoCampoAlegre">#teatroDoCampoAlegre</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -16981,7 +16981,7 @@
       <td>Filme Colorido</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arWillemDafoe">#arWillemDafoe</a> <a href="None">None</a></td>
+      <td><a href="#arWillemDafoe">#arWillemDafoe</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -16991,7 +16991,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arFyodorAndreevich">#arFyodorAndreevich</a> <a href="#arArtoLindsay">#arArtoLindsay</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> <a href="None">None</a></td>
+      <td><a href="#arFyodorAndreevich">#arFyodorAndreevich</a> <a href="#arArtoLindsay">#arArtoLindsay</a> <a href="#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo">#evCarrosselPerformaticoDeFyodorDeCabecaParaBaixo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17001,7 +17001,7 @@
       <td>Pintura</td>
       <td>2017</td>
       <td></td>
-      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> <a href="None">None</a></td>
+      <td><a href="#arAliceLara">#arAliceLara</a> <a href="#evTransbordaBrasiliaPremioDeArteContemporanea2018">#evTransbordaBrasiliaPremioDeArteContemporanea2018</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17011,7 +17011,7 @@
       <td>Performance</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evDesCompostos">#evDesCompostos</a> <a href="None">None</a></td>
+      <td><a href="#arClaudiaPaim">#arClaudiaPaim</a> <a href="#evDesCompostos">#evDesCompostos</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17021,7 +17021,7 @@
       <td>Técnica Mista</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> <a href="None">None</a></td>
+      <td><a href="#arMarcosAmaro">#arMarcosAmaro</a> <a href="#evSobrevoo">#evSobrevoo</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17031,7 +17031,7 @@
       <td>ND</td>
       <td>2017</td>
       <td>2018</td>
-      <td><a href="#arDeniseAlvesRodrigues">#arDeniseAlvesRodrigues</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arDeniseAlvesRodrigues">#arDeniseAlvesRodrigues</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17041,7 +17041,7 @@
       <td>Videoarte</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arNelsonAlmeida">#arNelsonAlmeida</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arNelsonAlmeida">#arNelsonAlmeida</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17051,7 +17051,7 @@
       <td>Videoarte</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arCeciliaCipriano">#arCeciliaCipriano</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arCeciliaCipriano">#arCeciliaCipriano</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17061,7 +17061,7 @@
       <td>Escultura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arAnaHortides">#arAnaHortides</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17071,7 +17071,7 @@
       <td>Escultura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> <a href="None">None</a></td>
+      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -17081,7 +17081,7 @@
       <td>Epístola</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> <a href="None">None</a></td>
+      <td><a href="#arAndreNoble">#arAndreNoble</a> <a href="#arRenataRequiao">#arRenataRequiao</a> <a href="#arAndreanRenand">#arAndreanRenand</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17091,7 +17091,7 @@
       <td>Técnica Mista;Fotografia;Escultura</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> <a href="None">None</a></td>
+      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17101,7 +17101,7 @@
       <td>Técnica Mista;Fotografia</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> <a href="None">None</a></td>
+      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17111,7 +17111,7 @@
       <td>Técnica Mista;Fotografia</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> <a href="None">None</a></td>
+      <td><a href="#arMariaSantos">#arMariaSantos</a> <a href="#evProPosicoes">#evProPosicoes</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17121,7 +17121,7 @@
       <td>Videoarte</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arJessicaKloosterman">#arJessicaKloosterman</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arJessicaKloosterman">#arJessicaKloosterman</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17131,7 +17131,7 @@
       <td>Videoarte</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> <a href="None">None</a></td>
+      <td><a href="#arJoselyCarvalho">#arJoselyCarvalho</a> <a href="#evDiarioDeCheirosTetoDeVidro">#evDiarioDeCheirosTetoDeVidro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17141,7 +17141,7 @@
       <td>Impressão</td>
       <td>2017</td>
       <td>2018</td>
-      <td><a href="#arPhilippeValentim">#arPhilippeValentim</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arPhilippeValentim">#arPhilippeValentim</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17151,7 +17151,7 @@
       <td>Filme Colorido</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arRubenOstlund">#arRubenOstlund</a> <a href="#arClaesBang">#arClaesBang</a> <a href="None">None</a></td>
+      <td><a href="#arRubenOstlund">#arRubenOstlund</a> <a href="#arClaesBang">#arClaesBang</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17161,7 +17161,7 @@
       <td>Escultura;Desenho</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arEmiliaEstrada">#arEmiliaEstrada</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17171,7 +17171,7 @@
       <td>Instalação</td>
       <td>2017</td>
       <td>2017</td>
-      <td><a href="#arChristinMarczinzik">#arChristinMarczinzik</a> <a href="#arThiNguyen">#arThiNguyen</a> <a href="#evFILEAArteEletronicaNaEpocaDisruptiva">#evFILEAArteEletronicaNaEpocaDisruptiva</a> <a href="None">None</a></td>
+      <td><a href="#arChristinMarczinzik">#arChristinMarczinzik</a> <a href="#arThiNguyen">#arThiNguyen</a> <a href="#evFILEAArteEletronicaNaEpocaDisruptiva">#evFILEAArteEletronicaNaEpocaDisruptiva</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17181,7 +17181,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17191,7 +17191,7 @@
       <td>Técnica Mista</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arAliceFerraro">#arAliceFerraro</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arAliceFerraro">#arAliceFerraro</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17201,7 +17201,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arGustavoSperidiao">#arGustavoSperidiao</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17211,7 +17211,7 @@
       <td>ND</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arBeatrizLohana">#arBeatrizLohana</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arBeatrizLohana">#arBeatrizLohana</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17221,7 +17221,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDenilsonBaniwa">#arDenilsonBaniwa</a> <a href="#evReAntropofagia">#evReAntropofagia</a> <a href="None">None</a></td>
+      <td><a href="#arDenilsonBaniwa">#arDenilsonBaniwa</a> <a href="#evReAntropofagia">#evReAntropofagia</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17231,7 +17231,7 @@
       <td>Projeção</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arBarbaraSzanieck">#arBarbaraSzanieck</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arBarbaraSzanieck">#arBarbaraSzanieck</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17241,7 +17241,7 @@
       <td>Poema</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arTertulianaLustosa">#arTertulianaLustosa</a> <a href="#outraLiteratura">#outraLiteratura</a> <a href="None">None</a></td>
+      <td><a href="#arTertulianaLustosa">#arTertulianaLustosa</a> <a href="#outraLiteratura">#outraLiteratura</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17251,7 +17251,7 @@
       <td>Performance</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> <a href="None">None</a></td>
+      <td><a href="#arPriscillaDavanzo">#arPriscillaDavanzo</a> </td>
       <td>eRevista Performatus</td>
     </tr>
     <tr>
@@ -17261,7 +17261,7 @@
       <td>Filme Colorido</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMoniqueGardenberg">#arMoniqueGardenberg</a> <a href="#arZecaBaleiro">#arZecaBaleiro</a> <a href="#arErasmoCarlos">#arErasmoCarlos</a> <a href="#arSeuJorge">#arSeuJorge</a> <a href="#arJaloo">#arJaloo</a> <a href="#arHumbertoCarrao">#arHumbertoCarrao</a> <a href="#arMaluGalli">#arMaluGalli</a> <a href="#arHermilaGuedes">#arHermilaGuedes</a> <a href="#arJuliaKonrad">#arJuliaKonrad</a> <a href="#arMarjorieEstiano">#arMarjorieEstiano</a> <a href="#arPedroFarkas">#arPedroFarkas</a> <a href="#arJulioAndrade">#arJulioAndrade</a> <a href="#arLeeTaylor">#arLeeTaylor</a> <a href="None">None</a></td>
+      <td><a href="#arMoniqueGardenberg">#arMoniqueGardenberg</a> <a href="#arZecaBaleiro">#arZecaBaleiro</a> <a href="#arErasmoCarlos">#arErasmoCarlos</a> <a href="#arSeuJorge">#arSeuJorge</a> <a href="#arJaloo">#arJaloo</a> <a href="#arHumbertoCarrao">#arHumbertoCarrao</a> <a href="#arMaluGalli">#arMaluGalli</a> <a href="#arHermilaGuedes">#arHermilaGuedes</a> <a href="#arJuliaKonrad">#arJuliaKonrad</a> <a href="#arMarjorieEstiano">#arMarjorieEstiano</a> <a href="#arPedroFarkas">#arPedroFarkas</a> <a href="#arJulioAndrade">#arJulioAndrade</a> <a href="#arLeeTaylor">#arLeeTaylor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17271,7 +17271,7 @@
       <td>Filme Colorido</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="#evFestivalDeCannes2018">#evFestivalDeCannes2018</a> <a href="None">None</a></td>
+      <td><a href="#arSpikeLee">#arSpikeLee</a> <a href="#evFestivalDeCannes2018">#evFestivalDeCannes2018</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17281,7 +17281,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMaxwellAlexandre">#arMaxwellAlexandre</a> <a href="#evHistoriasAfroAtlânticas">#evHistoriasAfroAtlânticas</a> <a href="None">None</a></td>
+      <td><a href="#arMaxwellAlexandre">#arMaxwellAlexandre</a> <a href="#evHistoriasAfroAtlânticas">#evHistoriasAfroAtlânticas</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17291,7 +17291,7 @@
       <td>Filme Colorido</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arLuizBolognesi">#arLuizBolognesi</a> <a href="#perPerperaSurui">#perPerperaSurui</a> <a href="#perKabena">#perKabena</a> <a href="#evETudoVerdade23oFestivalInternacionalDeDocumentarios">#evETudoVerdade23oFestivalInternacionalDeDocumentarios</a> <a href="None">None</a></td>
+      <td><a href="#arLuizBolognesi">#arLuizBolognesi</a> <a href="#perPerperaSurui">#perPerperaSurui</a> <a href="#perKabena">#perKabena</a> <a href="#evETudoVerdade23oFestivalInternacionalDeDocumentarios">#evETudoVerdade23oFestivalInternacionalDeDocumentarios</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17301,7 +17301,7 @@
       <td>Fotografia</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arJoaoMedeiros">#arJoaoMedeiros</a> <a href="None">None</a></td>
+      <td><a href="#arJoaoMedeiros">#arJoaoMedeiros</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17311,7 +17311,7 @@
       <td>Video clip</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arChildishGambino">#arChildishGambino</a> <a href="#arSZA">#arSZA</a> <a href="None">None</a></td>
+      <td><a href="#arChildishGambino">#arChildishGambino</a> <a href="#arSZA">#arSZA</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17321,7 +17321,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> <a href="None">None</a></td>
+      <td><a href="#arVictorArruda">#arVictorArruda</a> <a href="#evArrudaVictor">#evArrudaVictor</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17331,7 +17331,7 @@
       <td>Filme Colorido</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDavidSlade">#arDavidSlade</a> <a href="#arCharlieBrooker">#arCharlieBrooker</a> <a href="None">None</a></td>
+      <td><a href="#arDavidSlade">#arDavidSlade</a> <a href="#arCharlieBrooker">#arCharlieBrooker</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17341,7 +17341,7 @@
       <td>Fotolivro</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arRogerioAssis">#arRogerioAssis</a> <a href="#arCiroGirard">#arCiroGirard</a> <a href="#orgIPSISGraficaEEditora">#orgIPSISGraficaEEditora</a> <a href="#orgOrigemEditoraELivraria">#orgOrigemEditoraELivraria</a> <a href="None">None</a></td>
+      <td><a href="#arRogerioAssis">#arRogerioAssis</a> <a href="#arCiroGirard">#arCiroGirard</a> <a href="#orgIPSISGraficaEEditora">#orgIPSISGraficaEEditora</a> <a href="#orgOrigemEditoraELivraria">#orgOrigemEditoraELivraria</a> </td>
       <td>Icônica</td>
     </tr>
     <tr>
@@ -17351,7 +17351,7 @@
       <td>Fotografia</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> <a href="None">None</a></td>
+      <td><a href="#arTiagoSantAna">#arTiagoSantAna</a> <a href="#evBaixaDosSapateiros">#evBaixaDosSapateiros</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -17361,7 +17361,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arZeGarcia">#arZeGarcia</a> <a href="#evTorto">#evTorto</a> <a href="None">None</a></td>
+      <td><a href="#arZeGarcia">#arZeGarcia</a> <a href="#evTorto">#evTorto</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -17371,7 +17371,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> <a href="None">None</a></td>
+      <td><a href="#arLuizZerbini">#arLuizZerbini</a> <a href="#evLuizZerbini">#evLuizZerbini</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -17381,7 +17381,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arFabianaFaleiros">#arFabianaFaleiros</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> <a href="None">None</a></td>
+      <td><a href="#arFabianaFaleiros">#arFabianaFaleiros</a> <a href="#evIminenciaDeTragedia">#evIminenciaDeTragedia</a> </td>
       <td>Arte ConTexto</td>
     </tr>
     <tr>
@@ -17391,7 +17391,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17401,7 +17401,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17411,7 +17411,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17421,7 +17421,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td></td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17431,7 +17431,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17441,7 +17441,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17451,7 +17451,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17461,7 +17461,7 @@
       <td>Colagem;Impressão</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17471,7 +17471,7 @@
       <td>Videoarte</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17481,7 +17481,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arRafaelSki">#arRafaelSki</a> <a href="#evTerTodosOsOlhosDoMundoMenosOsSeus">#evTerTodosOsOlhosDoMundoMenosOsSeus</a> <a href="None">None</a></td>
+      <td><a href="#arRafaelSki">#arRafaelSki</a> <a href="#evTerTodosOsOlhosDoMundoMenosOsSeus">#evTerTodosOsOlhosDoMundoMenosOsSeus</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17491,7 +17491,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17501,7 +17501,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17511,7 +17511,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17521,7 +17521,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17531,7 +17531,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> <a href="None">None</a></td>
+      <td><a href="#arDerlon">#arDerlon</a> <a href="#evOReinadoDaLua">#evOReinadoDaLua</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17541,7 +17541,7 @@
       <td>Peça</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> <a href="None">None</a></td>
+      <td><a href="#arNoisDeTeatro">#arNoisDeTeatro</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17551,7 +17551,7 @@
       <td>Videoarte;Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> <a href="None">None</a></td>
+      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17561,7 +17561,7 @@
       <td>Técnica Mista</td>
       <td>2018</td>
       <td></td>
-      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> <a href="None">None</a></td>
+      <td><a href="#arJessicaMein">#arJessicaMein</a> <a href="#evJessicaMein">#evJessicaMein</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17571,7 +17571,7 @@
       <td>Técnica Mista</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arCarineCaz">#arCarineCaz</a> <a href="#arIsabelleCesario">#arIsabelleCesario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arCarineCaz">#arCarineCaz</a> <a href="#arIsabelleCesario">#arIsabelleCesario</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17581,7 +17581,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17591,7 +17591,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> <a href="None">None</a></td>
+      <td><a href="#arIgorVidor">#arIgorVidor</a> <a href="#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes">#evHeroisNuncaCelebramViloesHeroisApenasCelebramViloes</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17601,7 +17601,7 @@
       <td>Videoarte;Performance</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arNicoleCosta">#arNicoleCosta</a> <a href="#arJuliaBrandao">#arJuliaBrandao</a> <a href="None">None</a></td>
+      <td><a href="#arNicoleCosta">#arNicoleCosta</a> <a href="#arJuliaBrandao">#arJuliaBrandao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17611,7 +17611,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td></td>
-      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> <a href="None">None</a></td>
+      <td><a href="#arMarcelaCantuaria">#arMarcelaCantuaria</a> <a href="#evJunhoDe20135AnosDepois">#evJunhoDe20135AnosDepois</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17621,7 +17621,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> <a href="None">None</a></td>
+      <td><a href="#arMatheusPitta">#arMatheusPitta</a> <a href="#evAI550AnosAindaNaoTerminouDeAcabar">#evAI550AnosAindaNaoTerminouDeAcabar</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17631,7 +17631,7 @@
       <td>Escultura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arIsmaelDavid">#arIsmaelDavid</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> <a href="None">None</a></td>
+      <td><a href="#arIsmaelDavid">#arIsmaelDavid</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17641,7 +17641,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17651,7 +17651,7 @@
       <td>Bordado;Costura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arRandolphoLamonier">#arRandolphoLamonier</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arRandolphoLamonier">#arRandolphoLamonier</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17661,7 +17661,7 @@
       <td>Instalação</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arVirginiaMedeiros">#arVirginiaMedeiros</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> <a href="None">None</a></td>
+      <td><a href="#arVirginiaMedeiros">#arVirginiaMedeiros</a> <a href="#evArteDemocraciaUtopiaQuemNaoLutaTaMorto">#evArteDemocraciaUtopiaQuemNaoLutaTaMorto</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17671,7 +17671,7 @@
       <td>Pintura</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> <a href="None">None</a></td>
+      <td><a href="#arDanielLannes">#arDanielLannes</a> <a href="#evDenticao">#evDenticao</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17681,7 +17681,7 @@
       <td>Meme;Cartaz</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arGladson">#arGladson</a> <a href="None">None</a></td>
+      <td><a href="#arGladson">#arGladson</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17691,7 +17691,7 @@
       <td>Dança</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arTauanaMacedo">#arTauanaMacedo</a> <a href="#ev2aQuantaMostraLBT">#ev2aQuantaMostraLBT</a> <a href="None">None</a></td>
+      <td><a href="#arTauanaMacedo">#arTauanaMacedo</a> <a href="#ev2aQuantaMostraLBT">#ev2aQuantaMostraLBT</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17701,7 +17701,7 @@
       <td>Intervenção</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arMillenaLizia">#arMillenaLizia</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> <a href="None">None</a></td>
+      <td><a href="#arMillenaLizia">#arMillenaLizia</a> <a href="#evManifestoAfrofuturista">#evManifestoAfrofuturista</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17711,7 +17711,7 @@
       <td>Filme Colorido</td>
       <td>2018</td>
       <td>2018</td>
-      <td><a href="#arJulianSchnabel">#arJulianSchnabel</a> <a href="#arWillemDafoe">#arWillemDafoe</a> <a href="#arBenoitDelhomme">#arBenoitDelhomme</a> <a href="#ev20FestivalDoRio">#ev20FestivalDoRio</a> <a href="None">None</a></td>
+      <td><a href="#arJulianSchnabel">#arJulianSchnabel</a> <a href="#arWillemDafoe">#arWillemDafoe</a> <a href="#arBenoitDelhomme">#arBenoitDelhomme</a> <a href="#ev20FestivalDoRio">#ev20FestivalDoRio</a> </td>
       <td>Revista Desvio</td>
     </tr>
     <tr>
@@ -17721,7 +17721,7 @@
       <td>Instalação</td>
       <td>2019</td>
       <td>2019</td>
-      <td><a href="#arJanainaLandini">#arJanainaLandini</a> <a href="#evAquiAgora">#evAquiAgora</a> <a href="None">None</a></td>
+      <td><a href="#arJanainaLandini">#arJanainaLandini</a> <a href="#evAquiAgora">#evAquiAgora</a> </td>
       <td>o fermento</td>
     </tr>
     <tr>
@@ -17731,7 +17731,7 @@
       <td>Escultura</td>
       <td>2019</td>
       <td>2019</td>
-      <td><a href="#arReginaPaula">#arReginaPaula</a> <a href="#evImpavidoColosso">#evImpavidoColosso</a> <a href="None">None</a></td>
+      <td><a href="#arReginaPaula">#arReginaPaula</a> <a href="#evImpavidoColosso">#evImpavidoColosso</a> </td>
       <td>Revista Desvio</td>
     </tr>
   </tbody>
