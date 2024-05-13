@@ -19460,6 +19460,7 @@
       <th>Estado/Região</th>
       <th>Cidade</th>
       <th>plusCode</th>
+      <th>Revistas (que mencionam diretamente o lugar)</th>
     </tr>
   </thead>
   <tbody>
@@ -19467,33 +19468,37 @@
       <th>0</th>
       <td><a id="uferstudios">UFERSTUDIOS</a></td>
       <td>Alemanha</td>
-      <td></td>
+      <td>None</td>
       <td>Berlin</td>
       <td>H92F+PX Berlim, Alemanha</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>1</th>
       <td><a id="espacioPla">ESPACIO PLA</a></td>
       <td>Argentina</td>
-      <td></td>
+      <td>None</td>
       <td>Buenos Aires</td>
       <td>CH6G+74 Buenos Aires, Argentina</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>2</th>
       <td><a id="museoDeArteLatinoamericanoDeBuenosAires"><a href="https://enciclopedia.itaucultural.org.br/instituicao280129/museo-de-arte-latinoamericano-de-buenos-aires-malba">MUSEO DE ARTE LATINOAMERICANO DE BUENOS AIRES</a></a></td>
       <td>Argentina</td>
-      <td></td>
+      <td>None</td>
       <td>Buenos Aires</td>
       <td>CHFW+4H Buenos Aires, Argentina</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>3</th>
       <td><a id="teatroSarmiento">TEATRO SARMIENTO</a></td>
       <td>Argentina</td>
-      <td></td>
+      <td>None</td>
       <td>Buenos Aires</td>
       <td>CHCJ+79 Buenos Aires, Cidade Autônoma de Buenos Aires, Argentina</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>4</th>
@@ -19502,6 +19507,7 @@
       <td>AM</td>
       <td>Manaus</td>
       <td>VX9G+VJ Centro, Manaus - AM, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>5</th>
@@ -19510,6 +19516,7 @@
       <td>AM</td>
       <td>Manaus</td>
       <td>VX6M+G3 Centro, Manaus - AM, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>6</th>
@@ -19518,6 +19525,7 @@
       <td>BA</td>
       <td>Salvador</td>
       <td>2FCM+4W Centro, Salvador - Bahia, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>7</th>
@@ -19526,6 +19534,7 @@
       <td>BA</td>
       <td>Salvador</td>
       <td>2F8H+WP Comercio, Salvador - BA, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>8</th>
@@ -19534,6 +19543,7 @@
       <td>CE</td>
       <td>Fortaleza</td>
       <td>7F88+WW Centro, Fortaleza - CE, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>9</th>
@@ -19542,6 +19552,7 @@
       <td>CE</td>
       <td>Fortaleza</td>
       <td>7FGH+XV Centro, Fortaleza - CE, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>10</th>
@@ -19549,6 +19560,7 @@
       <td>Brasil</td>
       <td>CE</td>
       <td>Fortaleza</td>
+      <td>None</td>
       <td></td>
     </tr>
     <tr>
@@ -19558,6 +19570,7 @@
       <td>CE</td>
       <td>Fortaleza</td>
       <td>7FPQ+HH Fortaleza - Zone 1, Fortaleza - CE, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>12</th>
@@ -19566,6 +19579,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>6439+8W Brasília, DF, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>13</th>
@@ -19574,6 +19588,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>54W8+F9 Asa Sul, Brasília - DF, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>14</th>
@@ -19582,6 +19597,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>55P6+GM Asa Sul, Brasília - DF, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>15</th>
@@ -19590,6 +19606,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>55M4+P4 Asa Sul, Brasília - DF, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>16</th>
@@ -19598,6 +19615,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>53PV+XJ Brasília, DF, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>17</th>
@@ -19606,6 +19624,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>53PV+XJ Brasília, DF, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>18</th>
@@ -19614,6 +19633,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>54VJ+QC Brasília, DF, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>19</th>
@@ -19622,6 +19642,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>643C+3P Brasília, DF, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>20</th>
@@ -19630,6 +19651,7 @@
       <td>DF</td>
       <td>Brasília</td>
       <td>54V2+CJ Asa Sul, Brasília - DF, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>21</th>
@@ -19638,6 +19660,7 @@
       <td>ES</td>
       <td>Vitória</td>
       <td>MMJ5+76 Vitória, ES, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>22</th>
@@ -19646,6 +19669,7 @@
       <td>ES</td>
       <td>Vitória</td>
       <td>PPJ2+V9 Goiabeiras, Vitória - ES, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>23</th>
@@ -19654,6 +19678,7 @@
       <td>ES</td>
       <td>Vitória</td>
       <td>PP57+5G Vitória, ES, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>24</th>
@@ -19662,6 +19687,7 @@
       <td>GO</td>
       <td>Jataí</td>
       <td>479M+X3 Centro, Jataí - GO, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>25</th>
@@ -19670,6 +19696,7 @@
       <td>MG</td>
       <td>Belo Horizonte</td>
       <td>33GH+F7 Belo Horizonte, MG, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>26</th>
@@ -19678,6 +19705,7 @@
       <td>MG</td>
       <td>Belo Horizonte</td>
       <td>3396+6C Funcionários, Belo Horizonte - MG, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>27</th>
@@ -19686,6 +19714,7 @@
       <td>MG</td>
       <td>Belo Horizonte</td>
       <td>33F8+PH Centro, Belo Horizonte - MG, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>28</th>
@@ -19694,6 +19723,7 @@
       <td>MG</td>
       <td>Belo Horizonte</td>
       <td>33F8+PH Centro, Belo Horizonte - MG, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>29</th>
@@ -19702,6 +19732,7 @@
       <td>MG</td>
       <td>Belo Horizonte</td>
       <td>33G8+C9 Centro, Belo Horizonte - MG, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>30</th>
@@ -19710,6 +19741,7 @@
       <td>MG</td>
       <td>Brumadinho</td>
       <td>VQCM+QW Brumadinho, MG, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>31</th>
@@ -19718,6 +19750,7 @@
       <td>MG</td>
       <td>Brumadinho</td>
       <td>VQCM+QW Brumadinho, MG, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>32</th>
@@ -19726,6 +19759,7 @@
       <td>MG</td>
       <td>Brumadinho</td>
       <td>VQCM+QW Brumadinho, MG, Brasil</td>
+      <td>Icônica; o fermento</td>
     </tr>
     <tr>
       <th>33</th>
@@ -19734,6 +19768,7 @@
       <td>MG</td>
       <td>Juiz de Fora</td>
       <td>6MR3+QG Centro, Juiz de Fora - MG, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>34</th>
@@ -19742,6 +19777,7 @@
       <td>MG</td>
       <td>Tiradentes</td>
       <td>VRRF+63 Tiradentes, Minas Gerais, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>35</th>
@@ -19749,7 +19785,8 @@
       <td>Brasil</td>
       <td>PA</td>
       <td>Belém</td>
-      <td></td>
+      <td>None</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>36</th>
@@ -19757,7 +19794,8 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Curitiba</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>37</th>
@@ -19765,7 +19803,8 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Curitiba</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>38</th>
@@ -19774,6 +19813,7 @@
       <td>PR</td>
       <td>Curitiba</td>
       <td>HPQM+X4 Centro Cívico, Curitiba - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>39</th>
@@ -19782,6 +19822,7 @@
       <td>PR</td>
       <td>Curitiba</td>
       <td>JPC9+92 Taboão, Curitiba - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>40</th>
@@ -19790,6 +19831,7 @@
       <td>PR</td>
       <td>Curitiba</td>
       <td>JP38+6H Pilarzinho, Curitiba - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>41</th>
@@ -19797,7 +19839,8 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>42</th>
@@ -19805,7 +19848,8 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>43</th>
@@ -19814,6 +19858,7 @@
       <td>PR</td>
       <td>Londrina</td>
       <td>MRQM+MG Centro, Londrina - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>44</th>
@@ -19822,6 +19867,7 @@
       <td>PR</td>
       <td>Londrina</td>
       <td>MRQR+MP Centro, Londrina - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>45</th>
@@ -19830,6 +19876,7 @@
       <td>PR</td>
       <td>Londrina</td>
       <td>MRQM+MG Centro, Londrina - PR, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>46</th>
@@ -19837,7 +19884,8 @@
       <td>Brasil</td>
       <td>PR</td>
       <td>Londrina</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>47</th>
@@ -19846,6 +19894,7 @@
       <td>PR</td>
       <td>Londrina</td>
       <td>MRRR+46 Centro, Londrina - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>48</th>
@@ -19854,6 +19903,7 @@
       <td>PR</td>
       <td>Londrina</td>
       <td>MQGX+8V Campus Universitário, Londrina - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>49</th>
@@ -19862,6 +19912,7 @@
       <td>PR</td>
       <td>Maringá</td>
       <td>H3W6+42 Zona 7, Maringá - PR, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>50</th>
@@ -19870,6 +19921,7 @@
       <td>RJ</td>
       <td>Niterói</td>
       <td>3VWM+Q8 Icaraí, Niterói - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>51</th>
@@ -19878,6 +19930,7 @@
       <td>RJ</td>
       <td>Niterói</td>
       <td>3VRF+VM Niterói, RJ, Brasil</td>
+      <td>eRevista Performatus; Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>52</th>
@@ -19885,7 +19938,8 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Petrópolis</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>53</th>
@@ -19893,7 +19947,8 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Petrópolis</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>54</th>
@@ -19902,6 +19957,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RV8+HC Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>55</th>
@@ -19910,6 +19966,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>4R27+GP Saúde, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>56</th>
@@ -19918,6 +19975,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QGC+JV Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>57</th>
@@ -19926,6 +19984,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RPC+Q2 Rio de Janeiro, RJ, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>58</th>
@@ -19934,6 +19993,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RM6+7P Copacabana, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>59</th>
@@ -19941,7 +20001,8 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Rio de Janeiro</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>60</th>
@@ -19950,6 +20011,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RQF+4C Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>61</th>
@@ -19958,6 +20020,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RR9+W4 Botafogo, Rio de Janeiro - RJ, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>62</th>
@@ -19966,6 +20029,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RXF+QJ Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>63</th>
@@ -19974,6 +20038,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3Q5W+X9 Cosme Velho, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>64</th>
@@ -19982,6 +20047,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q9R+8C Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>65</th>
@@ -19990,6 +20056,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RXF+J9 Rio de Janeiro, RJ, Brasil</td>
+      <td>eRevista Performatus; Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>66</th>
@@ -19998,6 +20065,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RXF+HP Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>67</th>
@@ -20006,6 +20074,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3R9F+XC Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>68</th>
@@ -20014,6 +20083,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RV8+JM Rio de Janeiro, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>69</th>
@@ -20022,6 +20092,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RMC+V8 Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>70</th>
@@ -20030,6 +20101,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QRQ+P8 Rio de Janeiro, RJ, Brasil</td>
+      <td>Arte ConTexto; Revista Desvio</td>
     </tr>
     <tr>
       <th>71</th>
@@ -20038,6 +20110,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RRC+H2 Rio de Janeiro, RJ, Brasil</td>
+      <td>Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>72</th>
@@ -20046,6 +20119,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RG7+P2 Rio de Janeiro, RJ, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>73</th>
@@ -20054,6 +20128,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QHG+PV Rio de Janeiro, RJ, Brasil</td>
+      <td>Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>74</th>
@@ -20062,6 +20137,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RX7+PC Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>75</th>
@@ -20070,6 +20146,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RHF+7H Glória, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>76</th>
@@ -20078,6 +20155,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RH7+J6 Rio de Janeiro, RJ, Brasil</td>
+      <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
       <th>77</th>
@@ -20086,6 +20164,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QMF+W9 Jardim Botânico, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>78</th>
@@ -20094,6 +20173,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q96+86 Gávea, Rio de Janeiro - RJ, Brasil</td>
+      <td>Arte ConTexto; Revista Desvio</td>
     </tr>
     <tr>
       <th>79</th>
@@ -20102,6 +20182,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QMF+3X Jardim Botânico, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>80</th>
@@ -20110,6 +20191,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RHC+M5 Glória, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>81</th>
@@ -20118,6 +20200,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q9Q+F3 Ipanema, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>82</th>
@@ -20126,6 +20209,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q8F+62 Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>83</th>
@@ -20134,6 +20218,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3J84+J8 Curicica, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>84</th>
@@ -20142,6 +20227,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RFF+MG Catete, Rio de Janeiro - RJ, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>85</th>
@@ -20150,6 +20236,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>4R39+86 Rio de Janeiro, RJ, Brasil</td>
+      <td>Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>86</th>
@@ -20158,6 +20245,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RPH+F7 Rio de Janeiro, RJ, Brasil</td>
+      <td>Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>87</th>
@@ -20166,6 +20254,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RRF+FP Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>88</th>
@@ -20174,6 +20263,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RC9+G3 Catete, Rio de Janeiro - RJ, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>89</th>
@@ -20182,6 +20272,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RWG+H8 Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>90</th>
@@ -20190,6 +20281,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RRG+FG Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>Arte ConTexto; Revista Desvio</td>
     </tr>
     <tr>
       <th>91</th>
@@ -20198,6 +20290,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>3RV8+9Q Centro, Rio de Janeiro - RJ, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>92</th>
@@ -20206,6 +20299,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q8C+5V Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>93</th>
@@ -20213,7 +20307,8 @@
       <td>Brasil</td>
       <td>RJ</td>
       <td>Rio de Janeiro</td>
-      <td></td>
+      <td>None</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>94</th>
@@ -20222,6 +20317,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QFC+WC Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>95</th>
@@ -20230,6 +20326,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2Q9Q+5F Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>96</th>
@@ -20238,6 +20335,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2QHG+GQ Rio de Janeiro, RJ, Brasil</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>97</th>
@@ -20246,6 +20344,7 @@
       <td>RJ</td>
       <td>Rio de Janeiro</td>
       <td>2RM9+WM Copacabana, Rio de Janeiro - RJ, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>98</th>
@@ -20253,7 +20352,8 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Novo Hamburgo</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>99</th>
@@ -20261,7 +20361,8 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td></td>
+      <td>None</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>100</th>
@@ -20269,7 +20370,8 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td></td>
+      <td>None</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>101</th>
@@ -20278,6 +20380,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ2H+89 Menino Deus, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>102</th>
@@ -20286,6 +20389,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQCG+8Q Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>103</th>
@@ -20294,6 +20398,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQC9+FV Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto; Revista Desvio</td>
     </tr>
     <tr>
       <th>104</th>
@@ -20302,6 +20407,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ6J+2X Farroupilha</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>105</th>
@@ -20310,6 +20416,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>WQC3+VQ Cristal, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>106</th>
@@ -20318,6 +20425,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQCV+VR Porto Alegre, RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>107</th>
@@ -20326,6 +20434,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQCV+VC Independência, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>108</th>
@@ -20334,6 +20443,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XRG3+VR Auxiliadora, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>109</th>
@@ -20342,6 +20452,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ86+VP Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>110</th>
@@ -20350,6 +20461,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ98+F8 Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>111</th>
@@ -20357,7 +20469,8 @@
       <td>Brasil</td>
       <td>RS</td>
       <td>Porto Alegre</td>
-      <td></td>
+      <td>None</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>112</th>
@@ -20366,6 +20479,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>WRQ6+RM Porto Alegre, RS, Brasil</td>
+      <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
       <th>113</th>
@@ -20374,6 +20488,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQCG+8Q Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>114</th>
@@ -20382,6 +20497,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XR8F+7M Três Figueiras, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>115</th>
@@ -20390,6 +20506,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQC9+FJ Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>116</th>
@@ -20398,6 +20515,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ98+M5 Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>117</th>
@@ -20406,6 +20524,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQC9+97 Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>118</th>
@@ -20414,6 +20533,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ86+R8 Centro Histórico, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>119</th>
@@ -20422,6 +20542,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>VPQV+4P Porto Alegre, RS, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>120</th>
@@ -20430,6 +20551,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQCG+8Q Porto Alegre, RS, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>121</th>
@@ -20438,6 +20560,7 @@
       <td>RS</td>
       <td>Porto Alegre</td>
       <td>XQ5H+M5 Cidade Baixa, Porto Alegre - RS, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>122</th>
@@ -20446,6 +20569,7 @@
       <td>RS</td>
       <td>Rio Grande</td>
       <td>WRJQ+Q9 Rio Grande - Carreiros, Rio Grande - RS, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>123</th>
@@ -20454,6 +20578,7 @@
       <td>SP</td>
       <td>Campinas</td>
       <td>5WMH+9C Cidade Universitária, Campinas - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>124</th>
@@ -20462,6 +20587,7 @@
       <td>SP</td>
       <td>Campinas</td>
       <td>6X3G+XC Parque Xangrilá, Campinas - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>125</th>
@@ -20470,6 +20596,7 @@
       <td>SP</td>
       <td>Santos</td>
       <td>2MFQ+P8 Aparecida, Santos - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>126</th>
@@ -20478,6 +20605,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F928+7R Centro Histórico de São Paulo, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>127</th>
@@ -20486,6 +20614,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F7CX+8C Vila Romana, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>128</th>
@@ -20494,6 +20623,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F73W+RX São Paulo, SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>129</th>
@@ -20502,6 +20632,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F943+5P Vila Buarque, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>130</th>
@@ -20510,6 +20641,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8PW+H6 Cerqueira César</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>131</th>
@@ -20518,6 +20650,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C9H5+HW São Paulo, SP, Brasil</td>
+      <td>Arte ConTexto; o fermento</td>
     </tr>
     <tr>
       <th>132</th>
@@ -20526,6 +20659,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8XC+GM Sumaré, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>133</th>
@@ -20534,6 +20668,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F83X+HH Vila Buarque, São Paulo - SP, Brasil</td>
+      <td>Icônica; eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
       <th>134</th>
@@ -20542,6 +20677,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F87X+XP Campos Elíseos, São Paulo - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>135</th>
@@ -20550,6 +20686,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F863+CX Perdizes, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>136</th>
@@ -20558,6 +20695,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8MP+P9 Jardins, São Paulo - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>137</th>
@@ -20566,6 +20704,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8V7+G5 Alto de Pinheiros, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>138</th>
@@ -20574,6 +20713,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F994+C4 Campos Elíseos</td>
+      <td>Icônica; Arte ConTexto</td>
     </tr>
     <tr>
       <th>139</th>
@@ -20582,6 +20722,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8PF+3F Jardim America, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>140</th>
@@ -20590,6 +20731,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8W4+4W Vila Madalena, São Paulo - SP, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>141</th>
@@ -20598,6 +20740,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F8FP+77 Barra Funda, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus; Arte ConTexto</td>
     </tr>
     <tr>
       <th>142</th>
@@ -20606,6 +20749,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8PW+J5 Bela Vista, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>143</th>
@@ -20613,7 +20757,8 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td></td>
+      <td>None</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>144</th>
@@ -20621,7 +20766,8 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td></td>
+      <td>None</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>145</th>
@@ -20630,6 +20776,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F932+MF Vila Buarque, São Paulo - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>146</th>
@@ -20638,6 +20785,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C7HV+FX Butantã, São Paulo - SP, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>147</th>
@@ -20646,6 +20794,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8CF+VV Jardim Europa, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>148</th>
@@ -20654,6 +20803,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F87X+VP Campos Elíseos, São Paulo - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>149</th>
@@ -20662,6 +20812,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F8FP+77 Barra Funda</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>150</th>
@@ -20670,6 +20821,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8V5+R7 Pinheiros, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>151</th>
@@ -20678,6 +20830,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8WP+33 Higienópolis, São Paulo - SP, Brasil</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>152</th>
@@ -20686,6 +20839,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8F6+5M Jardim Paulistano, São Paulo - SP, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>153</th>
@@ -20694,6 +20848,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8Q4+M4 Pinheiros, São Paulo - SP, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>154</th>
@@ -20702,6 +20857,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C9H3+QH Bela Vista, São Paulo - SP, Brasil</td>
+      <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
       <th>155</th>
@@ -20710,6 +20866,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8GF+XG Jardim Europa, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>156</th>
@@ -20718,6 +20875,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F84P+4R Higienópolis, São Paulo - SP, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>157</th>
@@ -20726,6 +20884,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C86X+CJ Vila Mariana, São Paulo - SP, Brasil</td>
+      <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
       <th>158</th>
@@ -20734,6 +20893,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8QV+CJ Bela Vista, São Paulo - SP, Brasil</td>
+      <td>Icônica; eRevista Performatus; Revista Desvio</td>
     </tr>
     <tr>
       <th>159</th>
@@ -20742,6 +20902,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C86V+VP São Paulo, SP, Brasil</td>
+      <td>Icônica; eRevista Performatus; Revista Desvio</td>
     </tr>
     <tr>
       <th>160</th>
@@ -20750,6 +20911,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C87V+7V Moema, São Paulo - SP, Brasil</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>161</th>
@@ -20757,7 +20919,8 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>162</th>
@@ -20766,6 +20929,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C86W+QF São Paulo, SP, Brasil</td>
+      <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
       <th>163</th>
@@ -20773,6 +20937,7 @@
       <td>Brasil</td>
       <td>SP</td>
       <td>São Paulo</td>
+      <td>None</td>
       <td></td>
     </tr>
     <tr>
@@ -20782,6 +20947,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F988+7C Luz, São Paulo - SP, Brasil</td>
+      <td>Icônica; Arte ConTexto; Revista Desvio; o fermento</td>
     </tr>
     <tr>
       <th>165</th>
@@ -20790,6 +20956,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F863+CX Perdizes, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>166</th>
@@ -20798,6 +20965,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>FC48+75 Belenzinho, São Paulo - SP, Brasil</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>167</th>
@@ -20806,6 +20974,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F83X+HX Vila Buarque, São Paulo - SP, Brasil</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>168</th>
@@ -20814,6 +20983,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>F8F8+HM Barra Funda, São Paulo - SP, Brasil</td>
+      <td></td>
     </tr>
     <tr>
       <th>169</th>
@@ -20822,6 +20992,7 @@
       <td>SP</td>
       <td>São Paulo</td>
       <td>C8MJ+8G São Paulo, SP, Brasil</td>
+      <td>Icônica; o fermento</td>
     </tr>
     <tr>
       <th>170</th>
@@ -20829,23 +21000,26 @@
       <td>Brasil</td>
       <td>TO</td>
       <td>Palmas</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>171</th>
       <td><a id="centroCulturalEstacionMapocho">CENTRO CULTURAL ESTACION MAPOCHO</a></td>
       <td>Chile</td>
-      <td></td>
+      <td>None</td>
       <td>Santiago</td>
       <td>H89W+47 Santiago, Chile</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>172</th>
       <td><a id="museuNacionalCentroDeArteReinaSofia">MUSEU NACIONAL CENTRO DE ARTE REINA SOFIA</a></td>
       <td>Espanha</td>
-      <td></td>
+      <td>None</td>
       <td>Madri</td>
       <td>C854+55 Madrid, Espanha</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>173</th>
@@ -20854,6 +21028,7 @@
       <td>Illinois</td>
       <td>Chicago</td>
       <td>R8JX+43 Chicago, Illinois, EUA</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>174</th>
@@ -20862,6 +21037,7 @@
       <td>Illinois</td>
       <td>Chicago</td>
       <td>V82R+6W Chicago, Illinois, EUA</td>
+      <td></td>
     </tr>
     <tr>
       <th>175</th>
@@ -20870,6 +21046,7 @@
       <td>Massachusetts</td>
       <td>Stockbridge</td>
       <td>7MQ7+5M Stockbridge, Massachusetts, Estados Unidos</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>176</th>
@@ -20877,7 +21054,8 @@
       <td>Estados Unidos</td>
       <td>Midwest</td>
       <td>Iowa</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>177</th>
@@ -20886,6 +21064,7 @@
       <td>NY</td>
       <td>Nova Iorque</td>
       <td>Q2MM+4V Nova Iorque, Nova York, EUA</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>178</th>
@@ -20894,6 +21073,7 @@
       <td>NY</td>
       <td>Nova Iorque</td>
       <td>P2H5+59 Nova Iorque, Nova York, EUA</td>
+      <td></td>
     </tr>
     <tr>
       <th>179</th>
@@ -20902,6 +21082,7 @@
       <td>NY</td>
       <td>Nova Iorque</td>
       <td>Q26C+HX Nova Iorque, Nova York, EUA</td>
+      <td>Icônica; eRevista Performatus</td>
     </tr>
     <tr>
       <th>180</th>
@@ -20910,6 +21091,7 @@
       <td>Nova Iorque</td>
       <td>Nova Iorque</td>
       <td>M2CP+FG Nova Iorque, New York, Estados Unidos</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>181</th>
@@ -20918,6 +21100,7 @@
       <td>Nova Iorque</td>
       <td>Nova Iorque</td>
       <td>Q2MR+5C Nova Iorque, New York, Estados Unidos</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>182</th>
@@ -20926,6 +21109,7 @@
       <td>Nova Iorque</td>
       <td>Nova Iorque</td>
       <td>Q2HP+QP Nova Iorque, New York, Estados Unidos</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>183</th>
@@ -20934,6 +21118,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>V962+7V Paris, França</td>
+      <td>Icônica; Revista Desvio</td>
     </tr>
     <tr>
       <th>184</th>
@@ -20942,6 +21127,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>V934+JP Paris, França</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>185</th>
@@ -20950,6 +21136,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>R8WP+FV Paris, França</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>186</th>
@@ -20958,6 +21145,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>R9W9+W2 Paris, França</td>
+      <td>Icônica</td>
     </tr>
     <tr>
       <th>187</th>
@@ -20966,6 +21154,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>V86Q+63 Paris, França</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>188</th>
@@ -20974,6 +21163,7 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>V77X+P4 Paris, França</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>189</th>
@@ -20982,38 +21172,43 @@
       <td>Ilha de França</td>
       <td>Paris</td>
       <td>V77W+RM Paris, França</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>190</th>
       <td><a id="museeArcheologiqueHenriPrades">MUSEE ARCHEOLOGIQUE HENRI-PRADES</a></td>
       <td>França</td>
-      <td></td>
+      <td>None</td>
       <td>Lattes</td>
       <td>HW85+M9 Lattes, França</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>191</th>
       <td><a id="siteArcheologiqueDeLattara">SITE ARCHEOLOGIQUE DE LATTARA</a></td>
       <td>França</td>
-      <td></td>
+      <td>None</td>
       <td>Lattes</td>
-      <td></td>
+      <td>None</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>192</th>
       <td><a id="museuDeArteContemporaneaDeLyon"><a href="https://enciclopedia.itaucultural.org.br/instituicao17881/musee-d-art-contemporain-de-lyon">MUSEU DE ARTE CONTEMPORANEA DE LYON</a></a></td>
       <td>França</td>
-      <td></td>
+      <td>None</td>
       <td>Lyon</td>
       <td>QVM2+MW Lyon, França</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>193</th>
       <td><a id="fjukArtsCentre">FJUK ARTS CENTRE</a></td>
       <td>Islândia</td>
-      <td></td>
+      <td>None</td>
       <td>Húsavík</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>194</th>
@@ -21022,6 +21217,7 @@
       <td>Bozen</td>
       <td>Bolzano</td>
       <td>F8WX+W9 Bolzano, South Tyrol, Itália</td>
+      <td>Revista Desvio</td>
     </tr>
     <tr>
       <th>195</th>
@@ -21030,6 +21226,7 @@
       <td>Vêneto</td>
       <td>Veneza</td>
       <td>C8MX+WX Venise, Italie</td>
+      <td></td>
     </tr>
     <tr>
       <th>196</th>
@@ -21038,6 +21235,7 @@
       <td>Vêneto</td>
       <td>Veneza</td>
       <td>C9H5+G6 Veneza, Metropolitan City of Venice, Itália</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>197</th>
@@ -21046,6 +21244,7 @@
       <td>Vêneto</td>
       <td>Veneza</td>
       <td>C8PH+3R Veneza, Metropolitan City of Venice, Itália</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>198</th>
@@ -21053,7 +21252,8 @@
       <td>Itália</td>
       <td>Vêneto</td>
       <td>Veneza</td>
-      <td></td>
+      <td>None</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>199</th>
@@ -21062,158 +21262,178 @@
       <td>Vêneto</td>
       <td>Veneza</td>
       <td>C9H5+6G Venise, Italie</td>
+      <td></td>
     </tr>
     <tr>
       <th>200</th>
       <td><a id="studioMarconi"><a href="http://enciclopedia.itaucultural.org.br/instituicao338820/studio-marconi-milao-italia">STUDIO MARCONI</a></a></td>
       <td>Itália</td>
-      <td></td>
+      <td>None</td>
       <td>Milano</td>
-      <td></td>
+      <td>None</td>
+      <td>o fermento</td>
     </tr>
     <tr>
       <th>201</th>
       <td><a id="studioMorra">STUDIO MORRA</a></td>
       <td>Itália</td>
-      <td></td>
+      <td>None</td>
       <td>Nápoles</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>202</th>
       <td><a id="centroParaOsAssuntosDaArteEArquitectura">CENTRO PARA OS ASSUNTOS DA ARTE E ARQUITECTURA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Guimarães</td>
       <td>CPQ2+HG Guimarães, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>203</th>
       <td><a id="centroParaOsAssuntosDaArteEDaArquitectura">CENTRO PARA OS ASSUNTOS DA ARTE E DA ARQUITECTURA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Guimarães</td>
       <td>CPQ2+HG Guimarães, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>204</th>
       <td><a id="casaDoPinheiro">CASA DO PINHEIRO</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>592P+69 Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>205</th>
       <td><a id="galeriaSputENik">GALERIA SPUT&NIK</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>596V+4V Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>206</th>
       <td><a id="igrejaDeSantoIldefonso">IGREJA DE SANTO ILDEFONSO</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>49WV+F8 Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>207</th>
       <td><a id="mausHabitos">MAUS HABITOS</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>49WV+MP Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>208</th>
       <td><a id="nucleoDeExperimentacaoCoreografica">NUCLEO DE EXPERIMENTACAO COREOGRAFICA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>5926+86 Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>209</th>
       <td><a id="pracaDaBatalha">PRACA DA BATALHA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>210</th>
       <td><a id="ruaDoAlmada">RUA DO ALMADA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>211</th>
       <td><a id="ruaDosClerigos">RUA DOS CLERIGOS</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>212</th>
       <td><a id="teatroDoCampoAlegre">TEATRO DO CAMPO ALEGRE</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>5926+76 Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>213</th>
       <td><a id="teatroMunicipalRivoli">TEATRO MUNICIPAL RIVOLI</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
       <td>49XR+45 Porto, Portugal</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>214</th>
       <td><a id="verdeRubroAssociacaoCulturalEArtistica">VERDE-RUBRO ASSOCIACAO CULTURAL E ARTISTICA</a></td>
       <td>Portugal</td>
-      <td></td>
+      <td>None</td>
       <td>Porto</td>
-      <td></td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>215</th>
       <td><a id="whitechapelGallery"><a href="https://enciclopedia.itaucultural.org.br/instituicao290701/whitechapel-art-gallery-londres-inglaterra">WHITECHAPEL GALLERY</a></a></td>
       <td>Reino Unido</td>
-      <td></td>
+      <td>None</td>
       <td>Londres</td>
       <td>GW8H+CX Londres, Reino Unido</td>
+      <td>Arte ConTexto</td>
     </tr>
     <tr>
       <th>216</th>
       <td><a id="edificioNarkonfim">EDIFICIO NARKONFIM</a></td>
       <td>Rússia</td>
-      <td></td>
+      <td>None</td>
       <td>Moscou</td>
       <td>QH4J+VC Distrito administrativo central, Moscow, Rússia</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>217</th>
       <td><a id="operaImperialRussa">OPERA IMPERIAL RUSSA</a></td>
       <td>Rússia</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>None</td>
+      <td>None</td>
+      <td>None</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>218</th>
       <td><a id="zilbermanGallery">ZILBERMAN GALLERY</a></td>
       <td>Turquia</td>
-      <td></td>
+      <td>None</td>
       <td>Istambul</td>
       <td>2XMG+2J Tomtom, Beyoğlu/Istanbul, Turquia</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>219</th>
@@ -21222,6 +21442,7 @@
       <td>Departamento de Montevideo</td>
       <td>Montevideo</td>
       <td>4QVV+5C Montevidéu, Montevideo Department, Uruguai</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>220</th>
@@ -21230,13 +21451,15 @@
       <td>Departamento de Montevideo</td>
       <td>Montevideo</td>
       <td>4QRV+3M Montevidéu, Montevideo Department, Uruguai</td>
+      <td>eRevista Performatus</td>
     </tr>
     <tr>
       <th>221</th>
       <td><a id="outraLiteratura">OUTRA LITERATURA</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>None</td>
+      <td>None</td>
+      <td>None</td>
+      <td>None</td>
       <td></td>
     </tr>
   </tbody>
