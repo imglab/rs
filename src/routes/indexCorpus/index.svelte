@@ -7156,7 +7156,7 @@
 
 <br>
 <br>
-<h3><a id="coletivosIndex">Tabela dos 77 coletivos de artistas do corpus</a></h3>
+<h3><a id="coletivosIndex">Tabela dos 76 coletivos de artistas do corpus</a></h3>
 <a href="#topPage"><i class="icon icon-upward"/></a>
 <table class="table table-hover">
   <thead>
